@@ -1,0 +1,19 @@
+{
+  "year": 2014,
+  "paper_id": "2014-english-one",
+  "title": "2014年考研英语（一）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2014-english-one/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2014-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802014%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:37.768917+00:00",
+  "html": {
+    "path": "images/exam_bank/2014.html",
+    "sha256": "e05a766919cb44d4dbeddf14ed31136ded062456e1d694df36ea5424ffdb5ea5",
+    "bytes": 222851
+  },
+  "pdf": {
+    "path": "images/exam_bank/2014.pdf",
+    "sha256": "a4b7c987e93939bb2c12c48ce0030b1f5150ba92644da86ad5eccae7d8a82a04",
+    "bytes": 190229
+  }
+}

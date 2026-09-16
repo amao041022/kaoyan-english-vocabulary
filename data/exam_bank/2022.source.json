@@ -1,0 +1,19 @@
+{
+  "year": 2022,
+  "paper_id": "2022-english-one",
+  "title": "2022年考研英语（一）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2022-english-one/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2022-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802022%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:39.240503+00:00",
+  "html": {
+    "path": "images/exam_bank/2022.html",
+    "sha256": "0a1a032c8b193a8cb18069ac3363bda5d8be1c144243197ad2cdf5f88a57d0e9",
+    "bytes": 227534
+  },
+  "pdf": {
+    "path": "images/exam_bank/2022.pdf",
+    "sha256": "151b8158ecb85588df70955d29f36ef784be146f86dbc40dc4b6519d68d76338",
+    "bytes": 221113
+  }
+}

@@ -1,0 +1,2321 @@
+{
+  "schema_version": 1,
+  "year": 2017,
+  "title": "2017年考研英语（一）",
+  "source_url": "https://english-exam.lazynote.cn/kaoyan/paper/2017-english-one/",
+  "pdf": "images/exam_bank/2017.pdf",
+  "pdf_page_count": 12,
+  "sections": {
+    "cloze": 85,
+    "text1": 33,
+    "text2": 31,
+    "text3": 32,
+    "text4": 33,
+    "new_type": 8,
+    "translation": 7,
+    "writing_a": 1,
+    "writing_b": 1
+  },
+  "records": [
+    {
+      "id": "2017:cloze:directions:directions-section1:1",
+      "section": "cloze",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section1",
+      "text": "Directions: Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2017:cloze:passage:p-section1-1:2",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section1-1",
+      "text": "Could a hug a day keep the doctor away? The answer may be a resounding \"yes!\" __1__ helping you feel close and __2__ to people you care about, it turns out that hugs can bring a __3__ of health benefits to your body and mind. Believe it or not, a warm embrace might even help you __4__ getting sick this winter.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2017:cloze:passage:p-section1-2:3",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section1-2",
+      "text": "In a recent study __5__ over 400 healthy adults, researchers from Carnegie Mellon University in Pennsylvania examined the effects of perceived social support and the receipt of hugs __6__ the participants' susceptibility to developing the common cold after being __7__ to the virus. People who perceived greater social support were less likely to come __8__ with a cold, and the researchers __9__ that the stress-reducing effects of hugging __10__ about 32 percent of that beneficial effect. __11__ among those who got a cold, the ones who felt greater social support and received more frequent hugs had less severe __12__ .",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:passage:p-section1-3:4",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section1-3",
+      "text": "\"Hugging protects people who are under stress from the __13__ risk for colds that's usually __14__ with stress,\" notes Sheldon Cohen, a professor of psychology at Carnegie. Hugging \"is a marker of intimacy and helps __15__ the feeling that others are there to help __16__ difficulty.\"",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:passage:p-section1-4:5",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section1-4",
+      "text": "Some experts __17__ the stress-reducing, health-related benefits of hugging to the release of oxytocin, often called \"the bonding hormone\" __18__ it promotes attachment in relationships, including that between mothers and their newborn babies. Oxytocin is made primarily in the central lower part of the brain, and some of it is released into the bloodstream. But some of it __19__ in the brain, where it __20__ mood, behavior and physiology.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-1:6",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 A 选项",
+      "anchor": "qp-1",
+      "text": "Unlike",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-1:7",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 B 选项",
+      "anchor": "qp-1",
+      "text": "Besides",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-1:8",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 C 选项",
+      "anchor": "qp-1",
+      "text": "Despite",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-1:9",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 D 选项",
+      "anchor": "qp-1",
+      "text": "Throughout",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-2:10",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 A 选项",
+      "anchor": "qp-2",
+      "text": "connected",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-2:11",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 B 选项",
+      "anchor": "qp-2",
+      "text": "restricted",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-2:12",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 C 选项",
+      "anchor": "qp-2",
+      "text": "equal",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-2:13",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 D 选项",
+      "anchor": "qp-2",
+      "text": "inferior",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-3:14",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 A 选项",
+      "anchor": "qp-3",
+      "text": "choice",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-3:15",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 B 选项",
+      "anchor": "qp-3",
+      "text": "view",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-3:16",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 C 选项",
+      "anchor": "qp-3",
+      "text": "lesson",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-3:17",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 D 选项",
+      "anchor": "qp-3",
+      "text": "host",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-4:18",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 A 选项",
+      "anchor": "qp-4",
+      "text": "recall",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-4:19",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 B 选项",
+      "anchor": "qp-4",
+      "text": "forget",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-4:20",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 C 选项",
+      "anchor": "qp-4",
+      "text": "avoid",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-4:21",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 D 选项",
+      "anchor": "qp-4",
+      "text": "keep",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-5:22",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 A 选项",
+      "anchor": "qp-5",
+      "text": "collecting",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-5:23",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 B 选项",
+      "anchor": "qp-5",
+      "text": "involving",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-5:24",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 C 选项",
+      "anchor": "qp-5",
+      "text": "guiding",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-5:25",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 D 选项",
+      "anchor": "qp-5",
+      "text": "affecting",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-6:26",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 A 选项",
+      "anchor": "qp-6",
+      "text": "of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-6:27",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 B 选项",
+      "anchor": "qp-6",
+      "text": "in",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-6:28",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 C 选项",
+      "anchor": "qp-6",
+      "text": "at",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-6:29",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 D 选项",
+      "anchor": "qp-6",
+      "text": "on",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-7:30",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 A 选项",
+      "anchor": "qp-7",
+      "text": "devoted",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-7:31",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 B 选项",
+      "anchor": "qp-7",
+      "text": "exposed",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-7:32",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 C 选项",
+      "anchor": "qp-7",
+      "text": "lost",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-7:33",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 D 选项",
+      "anchor": "qp-7",
+      "text": "attracted",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-8:34",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 A 选项",
+      "anchor": "qp-8",
+      "text": "across",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-8:35",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 B 选项",
+      "anchor": "qp-8",
+      "text": "along",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-8:36",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 C 选项",
+      "anchor": "qp-8",
+      "text": "down",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-8:37",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 D 选项",
+      "anchor": "qp-8",
+      "text": "out",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-9:38",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 A 选项",
+      "anchor": "qp-9",
+      "text": "calculated",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-9:39",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 B 选项",
+      "anchor": "qp-9",
+      "text": "denied",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-9:40",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 C 选项",
+      "anchor": "qp-9",
+      "text": "doubted",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-9:41",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 D 选项",
+      "anchor": "qp-9",
+      "text": "imagined",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-10:42",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 A 选项",
+      "anchor": "qp-10",
+      "text": "served",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-10:43",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 B 选项",
+      "anchor": "qp-10",
+      "text": "required",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-10:44",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 C 选项",
+      "anchor": "qp-10",
+      "text": "restored",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-10:45",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 D 选项",
+      "anchor": "qp-10",
+      "text": "explained",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-11:46",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 A 选项",
+      "anchor": "qp-11",
+      "text": "Even",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-11:47",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 B 选项",
+      "anchor": "qp-11",
+      "text": "Still",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-11:48",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 C 选项",
+      "anchor": "qp-11",
+      "text": "Rather",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-11:49",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 D 选项",
+      "anchor": "qp-11",
+      "text": "Thus",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-12:50",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 A 选项",
+      "anchor": "qp-12",
+      "text": "defeats",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-12:51",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 B 选项",
+      "anchor": "qp-12",
+      "text": "symptoms",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-12:52",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 C 选项",
+      "anchor": "qp-12",
+      "text": "tests",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-12:53",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 D 选项",
+      "anchor": "qp-12",
+      "text": "errors",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-13:54",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 A 选项",
+      "anchor": "qp-13",
+      "text": "minimized",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-13:55",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 B 选项",
+      "anchor": "qp-13",
+      "text": "highlighted",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-13:56",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 C 选项",
+      "anchor": "qp-13",
+      "text": "controlled",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-13:57",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 D 选项",
+      "anchor": "qp-13",
+      "text": "increased",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-14:58",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 A 选项",
+      "anchor": "qp-14",
+      "text": "equipped",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-14:59",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 B 选项",
+      "anchor": "qp-14",
+      "text": "associated",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-14:60",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 C 选项",
+      "anchor": "qp-14",
+      "text": "presented",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-14:61",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 D 选项",
+      "anchor": "qp-14",
+      "text": "compared",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-15:62",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 A 选项",
+      "anchor": "qp-15",
+      "text": "assess",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-15:63",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 B 选项",
+      "anchor": "qp-15",
+      "text": "moderate",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-15:64",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 C 选项",
+      "anchor": "qp-15",
+      "text": "generate",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-15:65",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 D 选项",
+      "anchor": "qp-15",
+      "text": "record",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-16:66",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 A 选项",
+      "anchor": "qp-16",
+      "text": "in the face of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-16:67",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 B 选项",
+      "anchor": "qp-16",
+      "text": "in the form of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-16:68",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 C 选项",
+      "anchor": "qp-16",
+      "text": "in the way of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-16:69",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 D 选项",
+      "anchor": "qp-16",
+      "text": "in the name of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-17:70",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 A 选项",
+      "anchor": "qp-17",
+      "text": "transfer",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-17:71",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 B 选项",
+      "anchor": "qp-17",
+      "text": "commit",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-17:72",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 C 选项",
+      "anchor": "qp-17",
+      "text": "attribute",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-17:73",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 D 选项",
+      "anchor": "qp-17",
+      "text": "return",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-18:74",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 A 选项",
+      "anchor": "qp-18",
+      "text": "because",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-18:75",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 B 选项",
+      "anchor": "qp-18",
+      "text": "unless",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-18:76",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 C 选项",
+      "anchor": "qp-18",
+      "text": "though",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-18:77",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 D 选项",
+      "anchor": "qp-18",
+      "text": "until",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-19:78",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 A 选项",
+      "anchor": "qp-19",
+      "text": "emerges",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-19:79",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 B 选项",
+      "anchor": "qp-19",
+      "text": "vanishes",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-19:80",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 C 选项",
+      "anchor": "qp-19",
+      "text": "remains",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-19:81",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 D 选项",
+      "anchor": "qp-19",
+      "text": "decreases",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-20:82",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 A 选项",
+      "anchor": "qp-20",
+      "text": "experiences",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-20:83",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 B 选项",
+      "anchor": "qp-20",
+      "text": "combines",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-20:84",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 C 选项",
+      "anchor": "qp-20",
+      "text": "justifies",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:cloze:option:qp-20:85",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 D 选项",
+      "anchor": "qp-20",
+      "text": "influences",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text1:directions:directions-section2-part-a-1:86",
+      "section": "text1",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-a-1",
+      "text": "Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "id": "2017:text1:passage:p-section2-part-a-1-1:87",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-1-1",
+      "text": "First two hours, now three hours – this is how far in advance authorities are recommending people show up to catch a domestic flight, at least at some major U.S. airports with increasingly massive security lines.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2017:text1:passage:p-section2-part-a-1-2:88",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-1-2",
+      "text": "Americans are willing to tolerate time-consuming security procedures in return for increased safety. The crash of EgyptAir Flight 804, which terrorists may have downed over the Mediterranean Sea, provides another tragic reminder of why. But demanding too much of air travelers or providing too little security in return undermines public support for the process. And it should: Wasted time is a drag on Americans' economic and private lives, not to mention infuriating.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2017:text1:passage:p-section2-part-a-1-3:89",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-1-3",
+      "text": "Last year, the Transportation Security Administration (TSA) found in a secret check that undercover investigators were able to sneak weapons – both fake and real – past airport security nearly every time they tried. Enhanced security measures since then, combined with a rise in airline travel due to the improving economy and low oil prices, have resulted in long waits at major airports such as Chicago's O'Hare International. It is not yet clear how much more effective airline security has become – but the lines are obvious.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2017:text1:passage:p-section2-part-a-1-4:90",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-1-4",
+      "text": "Part of the issue is that the government did not anticipate the steep increase in airline travel, so the TSA is now rushing to get new screeners on the line. Part of the issue is that airports have only so much room for screening lanes. Another factor may be that more people are trying to overpack their carry-on bags to avoid checked-baggage fees, though the airlines strongly dispute this.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2017:text1:passage:p-section2-part-a-1-5:91",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-1-5",
+      "text": "There is one step the TSA could take that would not require remodeling airports or rushing to hire: Enroll more people in the PreCheck program. PreCheck is supposed to be a win-win for travelers and the TSA. Passengers who pass a background check are eligible to use expedited screening lanes. This allows the TSA to focus on travelers who are higher risk, saving time for everyone involved. The TSA wants to enroll 25 million people in PreCheck.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2017:text1:passage:p-section2-part-a-1-6:92",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-1-6",
+      "text": "It has not gotten anywhere close to that, and one big reason is sticker shock: Passengers must pay $85 every five years to process their background checks. Since the beginning, this price tag has been PreCheck's fatal flaw. Upcoming reforms might bring the price to a more reasonable level. But Congress should look into doing so directly, by helping to finance PreCheck enrollment or to cut costs in other ways.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2017:text1:passage:p-section2-part-a-1-7:93",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-1-7",
+      "text": "The TSA cannot continue diverting resources into underused PreCheck lanes while most of the traveling public suffers in unnecessary lines. It is long past time to make the program work.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2017:text1:question:qp-21:94",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 21 题题干",
+      "anchor": "qp-21",
+      "text": "The crash of EgyptAir Flight 804 is mentioned to____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2017:text1:option:qp-21:95",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 A 选项",
+      "anchor": "qp-21",
+      "text": "explain American's tolerance of current security checks.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2017:text1:option:qp-21:96",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 B 选项",
+      "anchor": "qp-21",
+      "text": "stress the urgency to strengthen security worldwide.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2017:text1:option:qp-21:97",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 C 选项",
+      "anchor": "qp-21",
+      "text": "highlight the necessity of upgrading major U.S. airports.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2017:text1:option:qp-21:98",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 D 选项",
+      "anchor": "qp-21",
+      "text": "emphasize the importance of privacy protection.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2017:text1:question:qp-22:99",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 22 题题干",
+      "anchor": "qp-22",
+      "text": "Which of the following contributes to long waits at major airports?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2017:text1:option:qp-22:100",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 A 选项",
+      "anchor": "qp-22",
+      "text": "New restrictions on carry-on bags.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text1:option:qp-22:101",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 B 选项",
+      "anchor": "qp-22",
+      "text": "The declining efficiency of the TSA.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text1:option:qp-22:102",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 C 选项",
+      "anchor": "qp-22",
+      "text": "An increase in the number of travelers.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2017:text1:option:qp-22:103",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 D 选项",
+      "anchor": "qp-22",
+      "text": "Frequent unexpected secret checks.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text1:question:qp-23:104",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 23 题题干",
+      "anchor": "qp-23",
+      "text": "The word \"expedited\" (Line 4, Para. 5) is closest in meaning to____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2017:text1:option:qp-23:105",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 A 选项",
+      "anchor": "qp-23",
+      "text": "quieter.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text1:option:qp-23:106",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 B 选项",
+      "anchor": "qp-23",
+      "text": "cheaper.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text1:option:qp-23:107",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 C 选项",
+      "anchor": "qp-23",
+      "text": "wider.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text1:option:qp-23:108",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 D 选项",
+      "anchor": "qp-23",
+      "text": "faster.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text1:question:qp-24:109",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 24 题题干",
+      "anchor": "qp-24",
+      "text": "One problem with the PreCheck program is____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2017:text1:option:qp-24:110",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 A 选项",
+      "anchor": "qp-24",
+      "text": "a dramatic reduction of its scale.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text1:option:qp-24:111",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 B 选项",
+      "anchor": "qp-24",
+      "text": "its wrongly-directed implementation.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2017:text1:option:qp-24:112",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 C 选项",
+      "anchor": "qp-24",
+      "text": "the government's reluctance to back it.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2017:text1:option:qp-24:113",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 D 选项",
+      "anchor": "qp-24",
+      "text": "an unreasonable price for enrollment.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2017:text1:question:qp-25:114",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 25 题题干",
+      "anchor": "qp-25",
+      "text": "Which of the following would be the best title for the text?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2017:text1:option:qp-25:115",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 A 选项",
+      "anchor": "qp-25",
+      "text": "Less Screening for More Safety",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text1:option:qp-25:116",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 B 选项",
+      "anchor": "qp-25",
+      "text": "PreCheck – a Belated Solution",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text1:option:qp-25:117",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 C 选项",
+      "anchor": "qp-25",
+      "text": "Getting Stuck in Security Lines",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text1:option:qp-25:118",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 D 选项",
+      "anchor": "qp-25",
+      "text": "Underused PreCheck Lanes",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text2:passage:p-section2-part-a-2-1:119",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-2-1",
+      "text": "\"The ancient Hawaiians were astronomers,\" wrote Queen Liliuokalani, Hawaii's last reigning monarch, in 1897. Star watchers were among the most esteemed members of Hawaiian society. Sadly, all is not well with astronomy in Hawaii today. Protests have erupted over construction of the Thirty Meter Telescope (TMT), a giant observatory that promises to revolutionize humanity's view of the cosmos.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2017:text2:passage:p-section2-part-a-2-2:120",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-2-2",
+      "text": "At issue is the TMT's planned location on Mauna Kea, a dormant volcano worshiped by some Hawaiians as the piko, that connects the Hawaiian Islands to the heavens. But Mauna Kea is also home to some of the world's most powerful telescopes. Resting in the Pacific Ocean, Mauna Kea's peak rises above the bulk of our planet's dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2017:text2:passage:p-section2-part-a-2-3:121",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-2-3",
+      "text": "Opposition to telescopes on Mauna Kea is nothing new. A small but vocal group of Hawaiians and environmentalists have long viewed their presence as disrespect for sacred land and a painful reminder of the occupation of what was once a sovereign nation.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2017:text2:passage:p-section2-part-a-2-4:122",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-2-4",
+      "text": "Some blame for the current controversy belongs to astronomers. In their eagerness to build bigger telescopes, they forgot that science is not the only way of understanding the world. They did not always prioritize the protection of Mauna Kea's fragile ecosystems or its holiness to the island's inhabitants. Hawaiian culture is not a relic of the past; it is a living culture undergoing a renaissance today.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2017:text2:passage:p-section2-part-a-2-5:123",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-2-5",
+      "text": "Yet science has a cultural history, too, with roots going back to the dawn of civilization. The same curiosity to find what lies beyond the horizon that first brought early Polynesians to Hawaii's shores inspires astronomers today to explore the heavens. Calls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality that astronomy and Hawaiian culture both seek to answer big questions about who we are, where we come from and where we are going. Perhaps that is why we explore the starry skies, as if answering a primal calling to know ourselves and our true ancestral homes.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2017:text2:passage:p-section2-part-a-2-6:124",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-2-6",
+      "text": "The astronomy community is making compromises to change its use of Mauna Kea. The TMT site was chosen to minimize the telescope's visibility around the island and to avoid archaeological and environmental impact. To limit the number of telescopes on Mauna Kea, old ones will be removed at the end of their lifetimes and their sites returned to a natural state. There is no reason why everyone cannot be welcomed on Mauna Kea to embrace their cultural heritage and to study the stars.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:question:qp-26:125",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 26 题题干",
+      "anchor": "qp-26",
+      "text": "Queen Liliuokalani's remark in Paragraph 1 indicates____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-26:126",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 A 选项",
+      "anchor": "qp-26",
+      "text": "her conservative view on the historical role of astronomy.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-26:127",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 B 选项",
+      "anchor": "qp-26",
+      "text": "the importance of astronomy in ancient Hawaiian society.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-26:128",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 C 选项",
+      "anchor": "qp-26",
+      "text": "the regrettable decline of astronomy in ancient times.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-26:129",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 D 选项",
+      "anchor": "qp-26",
+      "text": "her appreciation of star watchers' feats in her time.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:question:qp-27:130",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 27 题题干",
+      "anchor": "qp-27",
+      "text": "Mauna Kea is deemed as an ideal astronomical site due to____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-27:131",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 A 选项",
+      "anchor": "qp-27",
+      "text": "its geographical features.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text2:option:qp-27:132",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 B 选项",
+      "anchor": "qp-27",
+      "text": "its protective surroundings.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text2:option:qp-27:133",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 C 选项",
+      "anchor": "qp-27",
+      "text": "its religious implications.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text2:option:qp-27:134",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 D 选项",
+      "anchor": "qp-27",
+      "text": "its existing infrastructure.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text2:question:qp-28:135",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 28 题题干",
+      "anchor": "qp-28",
+      "text": "The construction of the TMT is opposed by some locals partly because____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-28:136",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 A 选项",
+      "anchor": "qp-28",
+      "text": "it may risk ruining their intellectual life.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-28:137",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 B 选项",
+      "anchor": "qp-28",
+      "text": "it reminds them of a humiliating history.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-28:138",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 C 选项",
+      "anchor": "qp-28",
+      "text": "their culture will lose a chance of revival.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-28:139",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 D 选项",
+      "anchor": "qp-28",
+      "text": "they fear losing control of Mauna Kea.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text2:question:qp-29:140",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 29 题题干",
+      "anchor": "qp-29",
+      "text": "It can be inferred from Paragraph 5 that progress in today's astronomy____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-29:141",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 A 选项",
+      "anchor": "qp-29",
+      "text": "is fulfilling the dreams of ancient Hawaiians.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-29:142",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 B 选项",
+      "anchor": "qp-29",
+      "text": "helps spread Hawaiian culture across the world.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-29:143",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 C 选项",
+      "anchor": "qp-29",
+      "text": "may uncover the origin of Hawaiian culture.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-29:144",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 D 选项",
+      "anchor": "qp-29",
+      "text": "will eventually soften Hawaiians' hostility.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:question:qp-30:145",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 30 题题干",
+      "anchor": "qp-30",
+      "text": "The author's attitude toward choosing Mauna Kea as the TMT site is one of____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text2:option:qp-30:146",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 A 选项",
+      "anchor": "qp-30",
+      "text": "severe criticism.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text2:option:qp-30:147",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 B 选项",
+      "anchor": "qp-30",
+      "text": "passive acceptance.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text2:option:qp-30:148",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 C 选项",
+      "anchor": "qp-30",
+      "text": "slight hesitancy.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text2:option:qp-30:149",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 D 选项",
+      "anchor": "qp-30",
+      "text": "full approval.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text3:passage:p-section2-part-a-3-1:150",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-3-1",
+      "text": "Robert F. Kennedy once said that a country's GDP measures \"everything except that which makes life worthwhile.\" With Britain voting to leave the European Union, and GDP already predicted to slow as a result, it is now a timely moment to assess what he was referring to.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2017:text3:passage:p-section2-part-a-3-2:151",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-3-2",
+      "text": "The question of GDP and its usefulness has annoyed policymakers for over half a century. Many argue that it is a flawed concept. It measures things that do not matter and misses things that do. By most recent measures, the UK's GDP has been the envy of the Western world, with record low unemployment and high growth figures. If everything was going so well, then why did over 17 million people vote for Brexit, despite the warnings about what it could do to their country's economic prospects?",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2017:text3:passage:p-section2-part-a-3-3:152",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-3-3",
+      "text": "A recent annual study of countries and their ability to convert growth into well-being sheds some light on that question. Across the 163 countries measured, the UK is one of the poorest performers in ensuring that economic growth is translated into meaningful improvements for its citizens. Rather than just focusing on GDP, over 40 different sets of criteria from health, education and civil society engagement have been measured to get a more rounded assessment of how countries are performing.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2017:text3:passage:p-section2-part-a-3-4:153",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-3-4",
+      "text": "While all of these countries face their own challenges, there are a number of consistent themes. Yes, there has been a budding economic recovery since the 2008 global crash, but in key indicators in areas such as health and education, major economies have continued to decline. Yet this isn't the case with all countries. Some relatively poor European countries have seen huge improvements across measures including civil society, income equality and the environment.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2017:text3:passage:p-section2-part-a-3-5:154",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-3-5",
+      "text": "This is a lesson that rich countries can learn: When GDP is no longer regarded as the sole measure of a country's success, the world looks very different.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2017:text3:passage:p-section2-part-a-3-6:155",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-3-6",
+      "text": "So, what Kennedy was referring to was that while GDP has been the most common method for measuring the economic activity of nations, as a measure, it is no longer enough. It does not include important factors such as environmental quality or education outcomes – all things that contribute to a person's sense of well-being.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2017:text3:passage:p-section2-part-a-3-7:156",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-3-7",
+      "text": "The sharp hit to growth predicted around the world and in the UK could lead to a decline in the everyday services we depend on for our well-being and for growth. But policymakers who refocus efforts on improving well-being rather than simply worrying about GDP figures could avoid the forecasted doom and may even see progress.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2017:text3:question:qp-31:157",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 31 题题干",
+      "anchor": "qp-31",
+      "text": "Robert F. Kennedy is cited because he____",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text3:option:qp-31:158",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 A 选项",
+      "anchor": "qp-31",
+      "text": "praised the UK for its GDP.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text3:option:qp-31:159",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 B 选项",
+      "anchor": "qp-31",
+      "text": "identified GDP with happiness.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text3:option:qp-31:160",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 C 选项",
+      "anchor": "qp-31",
+      "text": "misinterpreted the role of GDP.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text3:option:qp-31:161",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 D 选项",
+      "anchor": "qp-31",
+      "text": "had a low opinion of GDP.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text3:question:qp-32:162",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 32 题题干",
+      "anchor": "qp-32",
+      "text": "It can be inferred from Paragraph 2 that____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2017:text3:option:qp-32:163",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 A 选项",
+      "anchor": "qp-32",
+      "text": "the UK is reluctant to remold its economic pattern.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2017:text3:option:qp-32:164",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 B 选项",
+      "anchor": "qp-32",
+      "text": "GDP as the measure of success is widely defied in the UK.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2017:text3:option:qp-32:165",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 C 选项",
+      "anchor": "qp-32",
+      "text": "the UK will contribute less to the world economy.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2017:text3:option:qp-32:166",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 D 选项",
+      "anchor": "qp-32",
+      "text": "policymakers in the UK are paying less attention to GDP.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2017:text3:question:qp-33:167",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 33 题题干",
+      "anchor": "qp-33",
+      "text": "Which of the following is true about the recent annual study?",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2017:text3:option:qp-33:168",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 A 选项",
+      "anchor": "qp-33",
+      "text": "It is sponsored by 163 countries.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text3:option:qp-33:169",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 B 选项",
+      "anchor": "qp-33",
+      "text": "It excludes GDP as an indicator.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text3:option:qp-33:170",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 C 选项",
+      "anchor": "qp-33",
+      "text": "Its criteria are questionable.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text3:option:qp-33:171",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 D 选项",
+      "anchor": "qp-33",
+      "text": "Its results are enlightening.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text3:question:qp-34:172",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 34 题题干",
+      "anchor": "qp-34",
+      "text": "In the last two paragraphs, the author suggests that____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text3:option:qp-34:173",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 A 选项",
+      "anchor": "qp-34",
+      "text": "the UK is preparing for an economic boom.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text3:option:qp-34:174",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 B 选项",
+      "anchor": "qp-34",
+      "text": "high GDP foreshadows an economic decline.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text3:option:qp-34:175",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 C 选项",
+      "anchor": "qp-34",
+      "text": "it is essential to consider factors beyond GDP.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text3:option:qp-34:176",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 D 选项",
+      "anchor": "qp-34",
+      "text": "it requires caution to handle economic issues.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text3:question:qp-35:177",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 35 题题干",
+      "anchor": "qp-35",
+      "text": "Which of the following is the best title for the text?",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text3:option:qp-35:178",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 A 选项",
+      "anchor": "qp-35",
+      "text": "High GDP But Inadequate Well-being, a UK Lesson",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text3:option:qp-35:179",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 B 选项",
+      "anchor": "qp-35",
+      "text": "GDP Figures, a Window on Global Economic Health",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text3:option:qp-35:180",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 C 选项",
+      "anchor": "qp-35",
+      "text": "Robert F. Kennedy, a Terminator of GDP",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text3:option:qp-35:181",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 D 选项",
+      "anchor": "qp-35",
+      "text": "Brexit, the UK's Gateway to Well-being",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text4:passage:p-section2-part-a-4-1:182",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-4-1",
+      "text": "In a rare unanimous ruling, the US Supreme Court has overturned the corruption conviction of a former Virginia governor, Robert McDonnell. But it did so while holding its nose at the ethics of his conduct, which included accepting gifts such as a Rolex watch and a Ferrari automobile from a company seeking access to government.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text4:passage:p-section2-part-a-4-2:183",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-4-2",
+      "text": "The high court's decision said the judge in Mr. McDonnell's trial failed to tell a jury that it must look only at his \"official acts,\" or the former governor's decisions on \"specific\" and \"unsettled\" issues related to his duties.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text4:passage:p-section2-part-a-4-3:184",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-4-3",
+      "text": "Merely helping a gift-giver gain access to other officials, unless done with clear intent to pressure those officials, is not corruption, the justices found.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text4:passage:p-section2-part-a-4-4:185",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-4-4",
+      "text": "The court did suggest that accepting favors in return for opening doors is \"distasteful\" and \"nasty.\" But under anti-bribery laws, proof must be made of concrete benefits, such as approval of a contract or regulation. Simply arranging a meeting, making a phone call, or hosting an event is not an \"official act\".",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text4:passage:p-section2-part-a-4-5:186",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-4-5",
+      "text": "The court's ruling is legally sound in defining a kind of favoritism that is not criminal. Elected leaders must be allowed to help supporters deal with bureaucratic problems without fear of prosecution for bribery. \"The basic compact underlying representative government,\" wrote Chief Justice John Roberts for the court, \"assumes that public officials will hear from their constituents and act on their concerns.\"",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text4:passage:p-section2-part-a-4-6:187",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-4-6",
+      "text": "But the ruling reinforces the need for citizens and their elected representatives, not the courts, to ensure equality of access to government. Officials must not be allowed to play favorites in providing information or in arranging meetings simply because an individual or group provides a campaign donation or a personal gift. This type of integrity requires well-enforced laws in government transparency, such as records of official meetings, rules on lobbying, and information about each elected leader's source of wealth.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text4:passage:p-section2-part-a-4-7:188",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-4-7",
+      "text": "Favoritism in official access can fan public perceptions of corruption. But it is not always corruption. Rather officials must avoid double standards, or different types of access for average people and the wealthy. If connections can be bought, a basic premise of democratic society – that all are equal in treatment by government – is undermined. Good governance rests on an understanding of the inherent worth of each individual.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text4:passage:p-section2-part-a-4-8:189",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 8 段",
+      "anchor": "p-section2-part-a-4-8",
+      "text": "The court's ruling is a step forward in the struggle against both corruption and official favoritism.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2017:text4:question:qp-36:190",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 36 题题干",
+      "anchor": "qp-36",
+      "text": "The underlined sentence (Para. 1) most probably shows that the court____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:option:qp-36:191",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 A 选项",
+      "anchor": "qp-36",
+      "text": "avoided defining the extent of McDonnell's duties.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:option:qp-36:192",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 B 选项",
+      "anchor": "qp-36",
+      "text": "made no compromise in convicting McDonnell.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:option:qp-36:193",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 C 选项",
+      "anchor": "qp-36",
+      "text": "was contemptuous of McDonnell's conduct.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:option:qp-36:194",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 D 选项",
+      "anchor": "qp-36",
+      "text": "refused to comment on McDonnell's ethics.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:question:qp-37:195",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 37 题题干",
+      "anchor": "qp-37",
+      "text": "According to Paragraph 4, an official act is deemed corruptive only if it involves____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:option:qp-37:196",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 A 选项",
+      "anchor": "qp-37",
+      "text": "leaking secrets intentionally.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text4:option:qp-37:197",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 B 选项",
+      "anchor": "qp-37",
+      "text": "sizable gains in the form of gifts.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text4:option:qp-37:198",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 C 选项",
+      "anchor": "qp-37",
+      "text": "concrete returns for gift-givers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text4:option:qp-37:199",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 D 选项",
+      "anchor": "qp-37",
+      "text": "breaking contracts officially.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text4:question:qp-38:200",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 38 题题干",
+      "anchor": "qp-38",
+      "text": "The court's ruling is based on the assumption that public officials are____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:option:qp-38:201",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 A 选项",
+      "anchor": "qp-38",
+      "text": "justified in addressing the needs of their constituents.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:option:qp-38:202",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 B 选项",
+      "anchor": "qp-38",
+      "text": "qualified to deal independently with bureaucratic issues.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:option:qp-38:203",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 C 选项",
+      "anchor": "qp-38",
+      "text": "allowed to focus on the concerns of their supporters.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:option:qp-38:204",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 D 选项",
+      "anchor": "qp-38",
+      "text": "exempt from conviction on the charge of favoritism.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:question:qp-39:205",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 39 题题干",
+      "anchor": "qp-39",
+      "text": "Well-enforced laws in government transparency are needed to____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:option:qp-39:206",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 A 选项",
+      "anchor": "qp-39",
+      "text": "awaken the conscience of officials.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text4:option:qp-39:207",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 B 选项",
+      "anchor": "qp-39",
+      "text": "guarantee fair play in official access.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:option:qp-39:208",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 C 选项",
+      "anchor": "qp-39",
+      "text": "allow for certain kinds of lobbying.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text4:option:qp-39:209",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 D 选项",
+      "anchor": "qp-39",
+      "text": "inspire hopes in average people.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text4:question:qp-40:210",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 40 题题干",
+      "anchor": "qp-40",
+      "text": "The author's attitude toward the court's ruling is____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:text4:option:qp-40:211",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 A 选项",
+      "anchor": "qp-40",
+      "text": "sarcastic.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text4:option:qp-40:212",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 B 选项",
+      "anchor": "qp-40",
+      "text": "tolerant.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text4:option:qp-40:213",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 C 选项",
+      "anchor": "qp-40",
+      "text": "skeptical.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:text4:option:qp-40:214",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 D 选项",
+      "anchor": "qp-40",
+      "text": "supportive.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2017:new_type:directions:directions-section2-part-b:215",
+      "section": "new_type",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-b",
+      "text": "Directions: The following paragraphs are given in a wrong order. For questions 41 -45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A-G and filling them into the numbered boxes. Paragraphs B and D have been correctly placed. Mark your answers on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:new_type:paragraph_option:p-section2-part-b-1:216",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 A",
+      "anchor": "p-section2-part-b-1",
+      "text": "[ A ]The first published sketch, \"A Dinner at Poplar Walk\" brought tears to Dickens's eyes when he discovered it in the pages of The Monthly Magazine. From then on his sketches, which appeared under the pen name \"Boz\" in The Evening Chronicle, earned him a modest reputation.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:new_type:paragraph_option:p-section2-part-b-2:217",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 B",
+      "anchor": "p-section2-part-b-2",
+      "text": "[ B ]The runaway success of The Pickwick Papers, as it is generally known today, secured Dickens's fame. There were Pickwick coats and Pickwick cigars, and the plump, spectacled hero, Samuel Pickwick, became a national figure.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:new_type:paragraph_option:p-section2-part-b-3:218",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 C",
+      "anchor": "p-section2-part-b-3",
+      "text": "[ C ]Soon after Sketches by Boz appeared, a publishing firm approached Dickens to write a story in monthly installments, as a backdrop for a series of woodcuts by the then-famous artist Robert Seymour, who had originated the idea for the story. With characteristic confidence, Dickens successfully insisted that Seymour's pictures illustrate his own story instead. After the first installment, Dickens wrote to the artist and asked him to correct a drawing Dickens felt was not faithful enough to his prose. Seymour made the change, went into his backyard, and expressed his displeasure by committing suicide. Dickens and his publishers simply pressed on with a new artist. The comic novel, The Posthumous Papers of the Pickwick Club, appeared serially in 1836 and 1837 and was first published in book form in 1837.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2017:new_type:paragraph_option:p-section2-part-b-4:219",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 D",
+      "anchor": "p-section2-part-b-4",
+      "text": "[ D ]Charles Dickens is probably the best-known and, to many people, the greatest English novelist of the 19th century. A moralist, satirist, and social reformer, Dickens crafted complex plots and striking characters that capture the panorama of English society.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2017:new_type:paragraph_option:p-section2-part-b-5:220",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 E",
+      "anchor": "p-section2-part-b-5",
+      "text": "[ E ]Soon after his father's release from prison, Dickens got a better job as errand boy in law offices. He taught himself shorthand to get an even better job later as a court stenographer and as a reporter in Parliament. At the same time, Dickens, who had a reporter's eye for transcribing the life around him, especially anything comic or odd, submitted short sketches to obscure magazines.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2017:new_type:paragraph_option:p-section2-part-b-6:221",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 F",
+      "anchor": "p-section2-part-b-6",
+      "text": "[ F ]Dickens was born in Portsmouth, on England's southern coast. His father was a clerk in the British Navy pay office – a respectable position, but with little social status. His paternal grandparents, a steward and a housekeeper, possessed even less status, having been servants, and Dickens later concealed their background. Dickens's mother supposedly came from a more respectable family. Yet two years before Dickens's birth, his mother's father was caught stealing and fled to Europe, never to return. The family's increasing poverty forced Dickens out of school at age 12 to work in Warren's Blacking Warehouse, a shoe-polish factory, where the other working boys mocked him as \"the young gentleman.\" His father was then imprisoned for debt. The humiliations of his father's imprisonment and his labor in the blacking factory formed Dickens's greatest wound and became his deepest secret. He could not confide them even to his wife, although they provide the unacknowledged foundation of his fiction.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2017:new_type:paragraph_option:p-section2-part-b-7:222",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 G",
+      "anchor": "p-section2-part-b-7",
+      "text": "[ G ]After Pickwick, Dickens plunged into a bleaker world. In Oliver Twist, he traces an orphan's progress from the workhouse to the criminal slums of London. Nicholas Nickleby, his next novel, combines the darkness of Oliver Twist with the sunlight of Pickwick. The popularity of these novels consolidated Dickens as a nationally and internationally celebrated man of letters.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2017:translation:directions:directions-section2-part-c:223",
+      "section": "translation",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-c",
+      "text": "Directions: Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. ( 10 points)",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2017:translation:passage:p-section2-part-c-1:224",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-c-1",
+      "text": "The growth of the use of English as the world's primary language for international communication has obviously been continuing for several decades. (46)But even as the number of English speakers expands further there are signs that the global predominance of the language may fade within the foreseeable future.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2017:translation:passage:p-section2-part-c-2:225",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-c-2",
+      "text": "Complex international, economic, technological and cultural changes could start to diminish the leading position of English as the language of the world market, and UK interests which enjoy advantage from the breadth of English usage would consequently face new pressures. Those realistic possibilities are highlighted in the study presented by David Graddol. (47)His analysis should therefore end any self-contentedness among those who may believe that the global position of English is so stable that the young generations of the United Kingdom do not need additional language capabilities.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2017:translation:passage:p-section2-part-c-3:226",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-c-3",
+      "text": "David Graddol concludes that monoglot English graduates face a bleak economic future as qualified multilingual youngsters from other countries are proving to have a competitive advantage over their British counterparts in global companies and organisations. Alongside that, (48)many countries are introducing English into the primary-school curriculum but British schoolchildren and students do not appear to be gaining greater encouragement to achieve fluency in other languages.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2017:translation:passage:p-section2-part-c-4:227",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-c-4",
+      "text": "If left to themselves, such trends will diminish the relative strength of the English language in international education markets as the demand for educational resources in languages, such as Spanish, Arabic or Mandarin grows and international business process outsourcing in other languages such as Japanese, French and German, spreads.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2017:translation:passage:p-section2-part-c-5:228",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-c-5",
+      "text": "(49)The changes identified by David Graddol all present clear and major challenges to the UK's providers of English language teaching to people of other countries and to broader education business sectors. The English language teaching sector directly earns nearly ￡1.3 billion for the UK in invisible exports and our other education related exports earn up to ￡10 billion a year more. As the international education market expands, the recent slowdown in the numbers of international students studying in the main English-speaking countries is likely to continue, especially if there are no effective strategic policies to prevent such slippage.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2017:translation:passage:p-section2-part-c-6:229",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-c-6",
+      "text": "The anticipation of possible shifts in demand provided by this study is significant: (50)It gives a basis to all organisations which seek to promote the learning and use of English, a basis for planning to meet the possibilities of what could be a very different operating environment. That is a necessary and practical approach. In this as in much else, those who wish to influence the future must prepare for it.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2017:writing_a:writing:directions-section3-part-a:230",
+      "section": "writing_a",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-a",
+      "text": "51.Directions: You are to write an email to James Cook, a newly-arrived Australian professor, recommending some tourist attractions in your city. Please give reasons for your recommendation. You should write neatly on the ANSWER SHEET. Do not sign your own name at the end of the email. Use “Li Ming” instead. Do not write the address. (10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2017:writing_b:writing:directions-section3-part-b:231",
+      "section": "writing_b",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-b",
+      "text": "52.Directions: Write an essay of 160-200 words based on the following pictures. In your essay, you should 1）describe the pictures briefly, 2）interpret the meaning, and 3）give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "pdf_pages": [
+        11
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "section": "writing_b",
+      "url": "https://img-paper.lazynote.cn/2025/08/08/auTgMdFJ.jpg",
+      "source_description": "这是一幅由左右两部分组成的漫画",
+      "description_is_exam_text": false,
+      "path": "images/exam_bank/2017-figure-1.jpg",
+      "sha256": "24004d0cafcfbfd517e890cddc0ce0b28223e297cdf626643b9167f3bec8e589"
+    }
+  ],
+  "quality_note": "第三方整理版。已检查9个题型模块、完形20题选项、阅读20题题干选项及PDF可读性；未逐字人工校对。来源PDF缺作文配图，配图已单独保存并补入本地整卷页。新题型不重排、不填答案。原句自动切分，入生词库前结合原段核对。"
+}

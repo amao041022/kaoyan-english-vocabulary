@@ -1,0 +1,2367 @@
+{
+  "schema_version": 1,
+  "year": 2021,
+  "title": "2021年考研英语（一）",
+  "source_url": "https://english-exam.lazynote.cn/kaoyan/paper/2021-english-one/",
+  "pdf": "images/exam_bank/2021.pdf",
+  "pdf_page_count": 13,
+  "sections": {
+    "cloze": 86,
+    "text1": 30,
+    "text2": 33,
+    "text3": 31,
+    "text4": 31,
+    "new_type": 20,
+    "translation": 4,
+    "writing_a": 1,
+    "writing_b": 1
+  },
+  "records": [
+    {
+      "id": "2021:cloze:directions:directions-section1:1",
+      "section": "cloze",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section1",
+      "text": "Directions: Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2021:cloze:passage:p-section1-1:2",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section1-1",
+      "text": "Fluid intelligence is the type of intelligence that has to do with short-term memory and the ability to think quickly, logically, and abstractly in order to solve new problems. It __1__ in young adulthood, levels out for a period of time, and then __2__ starts to slowly decline as we age. But __3__ aging is inevitable, scientists are finding out that certain changes in brain function may not be.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2021:cloze:passage:p-section1-2:3",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section1-2",
+      "text": "One study found that muscle loss and the __4__ of body fat around the abdomen are associated with a decline in fluid intelligence. This suggests the __5__ that lifestyle factors might help prevent or __6__ this type of decline.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:passage:p-section1-3:4",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section1-3",
+      "text": "The researchers looked at data that __7__ measurements of lean muscle and abdominal fat from more than 4,000 middle- to older-aged men and women and __8__ that data to reported changes in fluid intelligence over a six-year period. They found that middle-aged people __9__ higher measures of abdominal fat __10__ worse on measures of fluid intelligence as the years __11__ .",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:passage:p-section1-4:5",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section1-4",
+      "text": "For women, the association may be __12__ to changes in immunity that resulted from excess abdominal fat; in men, the immune system did not appear to be __13__ . It is hoped that future studies could __14__ these differences and perhaps lead to different __15__ for men and women.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:passage:p-section1-5:6",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section1-5",
+      "text": "__16__ there are steps you can __17__ to help reduce abdominal fat and maintain lean muscle mass as you age in order to protect both your physical and mental __18__ . The two highly recommended lifestyle approaches are maintaining or increasing your __19__ of aerobic exercise and following a Mediterranean-style __20__ that is high in fiber and eliminates highly processed foods.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-1:7",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 A 选项",
+      "anchor": "qp-1",
+      "text": "pauses",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-1:8",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 B 选项",
+      "anchor": "qp-1",
+      "text": "returns",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-1:9",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 C 选项",
+      "anchor": "qp-1",
+      "text": "peaks",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-1:10",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 D 选项",
+      "anchor": "qp-1",
+      "text": "fades",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-2:11",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 A 选项",
+      "anchor": "qp-2",
+      "text": "alternatively",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-2:12",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 B 选项",
+      "anchor": "qp-2",
+      "text": "formally",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-2:13",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 C 选项",
+      "anchor": "qp-2",
+      "text": "accidentally",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-2:14",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 D 选项",
+      "anchor": "qp-2",
+      "text": "generally",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-3:15",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 A 选项",
+      "anchor": "qp-3",
+      "text": "while",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-3:16",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 B 选项",
+      "anchor": "qp-3",
+      "text": "since",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-3:17",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 C 选项",
+      "anchor": "qp-3",
+      "text": "once",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-3:18",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 D 选项",
+      "anchor": "qp-3",
+      "text": "until",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-4:19",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 A 选项",
+      "anchor": "qp-4",
+      "text": "detection",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-4:20",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 B 选项",
+      "anchor": "qp-4",
+      "text": "accumulation",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-4:21",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 C 选项",
+      "anchor": "qp-4",
+      "text": "consumption",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-4:22",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 D 选项",
+      "anchor": "qp-4",
+      "text": "separation",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-5:23",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 A 选项",
+      "anchor": "qp-5",
+      "text": "possibility",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-5:24",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 B 选项",
+      "anchor": "qp-5",
+      "text": "decision",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-5:25",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 C 选项",
+      "anchor": "qp-5",
+      "text": "goal",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-5:26",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 D 选项",
+      "anchor": "qp-5",
+      "text": "requirement",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-6:27",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 A 选项",
+      "anchor": "qp-6",
+      "text": "delay",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-6:28",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 B 选项",
+      "anchor": "qp-6",
+      "text": "ensure",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-6:29",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 C 选项",
+      "anchor": "qp-6",
+      "text": "seek",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-6:30",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 D 选项",
+      "anchor": "qp-6",
+      "text": "utilize",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-7:31",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 A 选项",
+      "anchor": "qp-7",
+      "text": "modified",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-7:32",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 B 选项",
+      "anchor": "qp-7",
+      "text": "supported",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-7:33",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 C 选项",
+      "anchor": "qp-7",
+      "text": "included",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-7:34",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 D 选项",
+      "anchor": "qp-7",
+      "text": "predicted",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-8:35",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 A 选项",
+      "anchor": "qp-8",
+      "text": "devoted",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-8:36",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 B 选项",
+      "anchor": "qp-8",
+      "text": "compared",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-8:37",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 C 选项",
+      "anchor": "qp-8",
+      "text": "converted",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-8:38",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 D 选项",
+      "anchor": "qp-8",
+      "text": "applied",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-9:39",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 A 选项",
+      "anchor": "qp-9",
+      "text": "with",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-9:40",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 B 选项",
+      "anchor": "qp-9",
+      "text": "above",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-9:41",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 C 选项",
+      "anchor": "qp-9",
+      "text": "by",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-9:42",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 D 选项",
+      "anchor": "qp-9",
+      "text": "against",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-10:43",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 A 选项",
+      "anchor": "qp-10",
+      "text": "lived",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-10:44",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 B 选项",
+      "anchor": "qp-10",
+      "text": "managed",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-10:45",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 C 选项",
+      "anchor": "qp-10",
+      "text": "scored",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-10:46",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 D 选项",
+      "anchor": "qp-10",
+      "text": "played",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-11:47",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 A 选项",
+      "anchor": "qp-11",
+      "text": "ran out",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-11:48",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 B 选项",
+      "anchor": "qp-11",
+      "text": "set off",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-11:49",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 C 选项",
+      "anchor": "qp-11",
+      "text": "drew in",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-11:50",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 D 选项",
+      "anchor": "qp-11",
+      "text": "went by",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-12:51",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 A 选项",
+      "anchor": "qp-12",
+      "text": "superior",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-12:52",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 B 选项",
+      "anchor": "qp-12",
+      "text": "attributable",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-12:53",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 C 选项",
+      "anchor": "qp-12",
+      "text": "parallel",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-12:54",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 D 选项",
+      "anchor": "qp-12",
+      "text": "resistant",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-13:55",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 A 选项",
+      "anchor": "qp-13",
+      "text": "restored",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-13:56",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 B 选项",
+      "anchor": "qp-13",
+      "text": "isolated",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-13:57",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 C 选项",
+      "anchor": "qp-13",
+      "text": "involved",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-13:58",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 D 选项",
+      "anchor": "qp-13",
+      "text": "controlled",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-14:59",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 A 选项",
+      "anchor": "qp-14",
+      "text": "alter",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-14:60",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 B 选项",
+      "anchor": "qp-14",
+      "text": "spread",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-14:61",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 C 选项",
+      "anchor": "qp-14",
+      "text": "remove",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-14:62",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 D 选项",
+      "anchor": "qp-14",
+      "text": "explain",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-15:63",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 A 选项",
+      "anchor": "qp-15",
+      "text": "compensations",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-15:64",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 B 选项",
+      "anchor": "qp-15",
+      "text": "symptoms",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-15:65",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 C 选项",
+      "anchor": "qp-15",
+      "text": "demands",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-15:66",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 D 选项",
+      "anchor": "qp-15",
+      "text": "treatments",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-16:67",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 A 选项",
+      "anchor": "qp-16",
+      "text": "Likewise",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-16:68",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 B 选项",
+      "anchor": "qp-16",
+      "text": "Meanwhile",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-16:69",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 C 选项",
+      "anchor": "qp-16",
+      "text": "Therefore",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-16:70",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 D 选项",
+      "anchor": "qp-16",
+      "text": "Instead",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-17:71",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 A 选项",
+      "anchor": "qp-17",
+      "text": "change",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-17:72",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 B 选项",
+      "anchor": "qp-17",
+      "text": "watch",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-17:73",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 C 选项",
+      "anchor": "qp-17",
+      "text": "count",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-17:74",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 D 选项",
+      "anchor": "qp-17",
+      "text": "take",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-18:75",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 A 选项",
+      "anchor": "qp-18",
+      "text": "well-being",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-18:76",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 B 选项",
+      "anchor": "qp-18",
+      "text": "process",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-18:77",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 C 选项",
+      "anchor": "qp-18",
+      "text": "formation",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-18:78",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 D 选项",
+      "anchor": "qp-18",
+      "text": "coordination",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-19:79",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 A 选项",
+      "anchor": "qp-19",
+      "text": "level",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-19:80",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 B 选项",
+      "anchor": "qp-19",
+      "text": "love",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-19:81",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 C 选项",
+      "anchor": "qp-19",
+      "text": "knowledge",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-19:82",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 D 选项",
+      "anchor": "qp-19",
+      "text": "space",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-20:83",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 A 选项",
+      "anchor": "qp-20",
+      "text": "design",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-20:84",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 B 选项",
+      "anchor": "qp-20",
+      "text": "routine",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-20:85",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 C 选项",
+      "anchor": "qp-20",
+      "text": "diet",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:cloze:option:qp-20:86",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 D 选项",
+      "anchor": "qp-20",
+      "text": "prescription",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:directions:directions-section2-part-a-1:87",
+      "section": "text1",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-a-1",
+      "text": "Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "id": "2021:text1:passage:p-section2-part-a-1-1:88",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-1-1",
+      "text": "How can the train operators possibly justify yet another increase to rail passenger fares? It has become a grimly reliable annual ritual: every January the cost of travelling by train rises, imposing a significant extra burden on those who have no option but to use the rail network to get to work or otherwise. This year's rise, an average of 2.7 per cent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index (CPI) measure of inflation.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2021:text1:passage:p-section2-part-a-1-2:89",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-1-2",
+      "text": "Successive governments have permitted such increases on the grounds that the cost of investing in and running the rail network should be borne by those who use it, rather than the general taxpayer. Why, the argument goes, should a car-driving pensioner from Lincolnshire have to subsidise the daily commute of a stockbroker from Surrey? Equally, there is a sense that the travails of commuters in the South East, many of whom will face among the biggest rises, have received too much attention compared to those who must endure the relatively poor infrastructure of the Midlands and the North.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2021:text1:passage:p-section2-part-a-1-3:90",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-1-3",
+      "text": "However, over the past 12 months, those commuters have also experienced some of the worst rail strikes in years. It is all very well train operators trumpeting the improvements they are making to the network, but passengers should be able to expect a basic level of service for the substantial sums they are now paying to travel. The responsibility for the latest wave of strikes rests on the unions. However, there is a strong case that those who have been worst affected by industrial action should receive compensation for the disruption they have suffered.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2021:text1:passage:p-section2-part-a-1-4:91",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-1-4",
+      "text": "The Government has pledged to change the law to introduce a minimum service requirement so that, even when strikes occur, services can continue to operate. This should form part of a wider package of measures to address the long-running problems on Britain's railways. Yes, more investment is needed, but passengers will not be willing to pay more indefinitely if they must also endure cramped, unreliable services, punctuated by regular chaos when timetables are changed, or planned maintenance is managed incompetently. The threat of nationalisation may have been seen off for now, but it will return with a vengeance if the justified anger of passengers is not addressed in short order.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2021:text1:question:qp-21:92",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 21 题题干",
+      "anchor": "qp-21",
+      "text": "The author holds that this year's increase in rail passenger fares____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2021:text1:option:qp-21:93",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 A 选项",
+      "anchor": "qp-21",
+      "text": "has kept pace with inflation.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:option:qp-21:94",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 B 选项",
+      "anchor": "qp-21",
+      "text": "is a big surprise to commuters.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:option:qp-21:95",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 C 选项",
+      "anchor": "qp-21",
+      "text": "remains an unreasonable measure.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:option:qp-21:96",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 D 选项",
+      "anchor": "qp-21",
+      "text": "will ease train operators' burden.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:question:qp-22:97",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 22 题题干",
+      "anchor": "qp-22",
+      "text": "The stockbroker in Paragraph 2 is used to stand for____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2021:text1:option:qp-22:98",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 A 选项",
+      "anchor": "qp-22",
+      "text": "car drivers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:option:qp-22:99",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 B 选项",
+      "anchor": "qp-22",
+      "text": "rail travelers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:option:qp-22:100",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 C 选项",
+      "anchor": "qp-22",
+      "text": "local investors.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:option:qp-22:101",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 D 选项",
+      "anchor": "qp-22",
+      "text": "ordinary taxpayers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:question:qp-23:102",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 23 题题干",
+      "anchor": "qp-23",
+      "text": "It is indicated in Paragraph 3 that train operators____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2021:text1:option:qp-23:103",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 A 选项",
+      "anchor": "qp-23",
+      "text": "are offering compensation to commuters.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2021:text1:option:qp-23:104",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 B 选项",
+      "anchor": "qp-23",
+      "text": "are trying to repair relations with the unions.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2021:text1:option:qp-23:105",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 C 选项",
+      "anchor": "qp-23",
+      "text": "have failed to provide an adequate service.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2021:text1:option:qp-23:106",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 D 选项",
+      "anchor": "qp-23",
+      "text": "have suffered huge losses owing to the strikes.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2021:text1:question:qp-24:107",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 24 题题干",
+      "anchor": "qp-24",
+      "text": "If unable to calm down passengers, the railways may have to face____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2021:text1:option:qp-24:108",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 A 选项",
+      "anchor": "qp-24",
+      "text": "the loss of investment.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:option:qp-24:109",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 B 选项",
+      "anchor": "qp-24",
+      "text": "the collapse of operations.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:option:qp-24:110",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 C 选项",
+      "anchor": "qp-24",
+      "text": "a reduction of revenue.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:option:qp-24:111",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 D 选项",
+      "anchor": "qp-24",
+      "text": "a change of ownership.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:question:qp-25:112",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 25 题题干",
+      "anchor": "qp-25",
+      "text": "Which of the following would be the best title for the text?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2021:text1:option:qp-25:113",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 A 选项",
+      "anchor": "qp-25",
+      "text": "Who Are to Blame for the Strikes?",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:option:qp-25:114",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 B 选项",
+      "anchor": "qp-25",
+      "text": "Constant Complaining Doesn't Work",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:option:qp-25:115",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 C 选项",
+      "anchor": "qp-25",
+      "text": "Can Nationalisation Bring Hope?",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text1:option:qp-25:116",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 D 选项",
+      "anchor": "qp-25",
+      "text": "Ever-rising Fares Aren't Sustainable",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text2:passage:p-section2-part-a-2-1:117",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-2-1",
+      "text": "Last year marked the third year in a row that Indonesia's bleak rate of deforestation has slowed in pace. One reason for the turnaround may be the country's antipoverty program.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2021:text2:passage:p-section2-part-a-2-2:118",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-2-2",
+      "text": "In 2007, Indonesia started phasing in a program that gives money to its poorest residents under certain conditions, such as requiring people to keep kids in school or get regular medical care. Called conditional cash transfers or CCTs, these social assistance programs are designed to reduce inequality and break the cycle of poverty. They're already used in dozens of countries worldwide. In Indonesia, the program has provided enough food and medicine to substantially reduce severe growth problems among children.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2021:text2:passage:p-section2-part-a-2-3:119",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-2-3",
+      "text": "But CCT programs don't generally consider effects on the environment. In fact, poverty alleviation and environmental protection are often viewed as conflicting goals, says Paul Ferraro, an economist at Johns Hopkins University.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2021:text2:passage:p-section2-part-a-2-4:120",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-2-4",
+      "text": "That's because economic growth can be correlated with environmental degradation, while protecting the environment is sometimes correlated with greater poverty. However, those correlations don't prove cause and effect. The only previous study analyzing causality, based on an area in Mexico that had instituted CCTs, supported the traditional view. There, as people got more money, some of them may have more cleared land for cattle to raise for meat, Ferraro says.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2021:text2:passage:p-section2-part-a-2-5:121",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-2-5",
+      "text": "Such programs do not have to negatively affect the environment, though. Ferraro wanted to see if Indonesia's poverty-alleviation program was affecting deforestation. Indonesia has the third-largest area of tropical forest in the world and one of the highest deforestation rates.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2021:text2:passage:p-section2-part-a-2-6:122",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-2-6",
+      "text": "Ferraro analyzed satellite data showing annual forest loss from 2008 to 2012—including during Indonesia's phase-in of the antipoverty program—in 7,468 forested villages across 15 provinces. \"We see that the program is associated with a 30 percent reduction in deforestation,\" Ferraro says.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2021:text2:passage:p-section2-part-a-2-7:123",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-2-7",
+      "text": "That's likely because the rural poor are using the money as makeshift insurance policies against inclement weather, Ferraro says. Typically, if rains are delayed, people may clear land to plant more rice to supplement their harvests.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:passage:p-section2-part-a-2-8:124",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 8 段",
+      "anchor": "p-section2-part-a-2-8",
+      "text": "Whether this research translates elsewhere is anybody's guess. Ferraro suggests the results may transfer to other parts of Asia, due to commonalities such as the importance of growing rice and market access. And regardless of transferability, the study shows that what's good for people may also be good for the environment. Even if this program didn't reduce poverty, Ferraro says, \"the value of the avoided deforestation just for carbon dioxide emissions alone is more than the program costs.\"",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:question:qp-26:125",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 26 题题干",
+      "anchor": "qp-26",
+      "text": "According to the first two paragraphs, CCT programs aim to____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:option:qp-26:126",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 A 选项",
+      "anchor": "qp-26",
+      "text": "facilitate healthcare reform.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text2:option:qp-26:127",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 B 选项",
+      "anchor": "qp-26",
+      "text": "help poor families get better off.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text2:option:qp-26:128",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 C 选项",
+      "anchor": "qp-26",
+      "text": "improve local education systems.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text2:option:qp-26:129",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 D 选项",
+      "anchor": "qp-26",
+      "text": "lower deforestation rates.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text2:question:qp-27:130",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 27 题题干",
+      "anchor": "qp-27",
+      "text": "The study based on an area in Mexico is cited to show that____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:option:qp-27:131",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 A 选项",
+      "anchor": "qp-27",
+      "text": "cattle raising has been a major means of livelihood for the poor.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:option:qp-27:132",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 B 选项",
+      "anchor": "qp-27",
+      "text": "CCT programs have helped preserve traditional lifestyles.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:option:qp-27:133",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 C 选项",
+      "anchor": "qp-27",
+      "text": "antipoverty efforts require the participation of local farmers.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:option:qp-27:134",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 D 选项",
+      "anchor": "qp-27",
+      "text": "economic growth tends to cause environmental degradation.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:question:qp-28:135",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 28 题题干",
+      "anchor": "qp-28",
+      "text": "In his study about Indonesia, Ferraro intends to find out____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:option:qp-28:136",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 A 选项",
+      "anchor": "qp-28",
+      "text": "its acceptance level of CCTs.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text2:option:qp-28:137",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 B 选项",
+      "anchor": "qp-28",
+      "text": "its annual rate of poverty alleviation.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:option:qp-28:138",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 C 选项",
+      "anchor": "qp-28",
+      "text": "the relation of CCTs to its forest loss.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:option:qp-28:139",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 D 选项",
+      "anchor": "qp-28",
+      "text": "the role of its forests in climate change.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:question:qp-29:140",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 29 题题干",
+      "anchor": "qp-29",
+      "text": "According to Ferraro, the CCT program in Indonesia is most valuable in that____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:option:qp-29:141",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 A 选项",
+      "anchor": "qp-29",
+      "text": "it will benefit other Asian countries.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text2:option:qp-29:142",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 B 选项",
+      "anchor": "qp-29",
+      "text": "it will reduce regional inequality.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text2:option:qp-29:143",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 C 选项",
+      "anchor": "qp-29",
+      "text": "it can protect the environment.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text2:option:qp-29:144",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 D 选项",
+      "anchor": "qp-29",
+      "text": "it can benefit grain production.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text2:question:qp-30:145",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 30 题题干",
+      "anchor": "qp-30",
+      "text": "What is the text centered on?",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text2:option:qp-30:146",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 A 选项",
+      "anchor": "qp-30",
+      "text": "The effects of a program.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text2:option:qp-30:147",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 B 选项",
+      "anchor": "qp-30",
+      "text": "The debates over a program.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text2:option:qp-30:148",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 C 选项",
+      "anchor": "qp-30",
+      "text": "The process of a study.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text2:option:qp-30:149",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 D 选项",
+      "anchor": "qp-30",
+      "text": "The transferability of a study.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text3:passage:p-section2-part-a-3-1:150",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-3-1",
+      "text": "As a historian who's always searching for the text or the image that makes us re-evaluate the past, I've become preoccupied with looking for photographs that show our Victorian ancestors smiling (what better way to shatter the image of 19th-century prudery?). I've found quite a few, and—since I started posting them on Twitter—they have been causing quite a stir. People have been surprised to see evidence that Victorians had fun and could, and did, laugh. They are noting that the Victorians suddenly seem to become more human as the hundred-or-so years that separate us fade away through our common experience of laughter.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2021:text3:passage:p-section2-part-a-3-2:151",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-3-2",
+      "text": "Of course, I need to concede that my collection of 'Smiling Victorians' makes up only a tiny percentage of the vast catalogue of photographic portraiture created between 1840 and 1900, the majority of which show sitters posing miserably and stiffly in front of painted backdrops, or staring absently into the middle distance. How do we explain this trend?",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:passage:p-section2-part-a-3-3:152",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-3-3",
+      "text": "During the 1840s and 1850s, in the early days of photography, exposure times were notoriously long: the daguerreotype photographic method (producing an image on a silvered copper plate) could take several minutes to complete, resulting in blurred images as sitters shifted position or adjusted their limbs. The thought of holding a fixed grin as the camera performed its magical duties was too much to contemplate, and so a non-committal blank stare became the norm.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:passage:p-section2-part-a-3-4:153",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-3-4",
+      "text": "But exposure times were much quicker by the 1880s, and the introduction of the Box Brownie and other portable cameras meant that, though slow by today's digital standards, the exposure was almost instantaneous. Spontaneous smiles were relatively easy to capture by the 1890s, so we must look elsewhere for an explanation of why Victorians still hesitated to smile.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:passage:p-section2-part-a-3-5:154",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-3-5",
+      "text": "One explanation might be the loss of dignity displayed through a cheesy grin. \"Nature gave us lips to conceal our teeth,\" ran one popular Victorian maxim, alluding to the fact that before the birth of proper dentistry, mouths were often in a shocking state of hygiene. A flashing set of healthy and clean, regular 'pearly whites' was a rare sight in Victorian society, the preserve of the super-rich (and even then, dental hygiene was not guaranteed).",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:passage:p-section2-part-a-3-6:155",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-3-6",
+      "text": "A toothy grin (especially when there were gaps or blackened gnashers) lacked class: drunks, tramps, and music hall performers might gurn and grin with a smile as wide as Lewis Carroll's gum-exposing Cheshire Cat, but it was not a becoming look for properly bred persons. Even Mark Twain, a man who enjoyed a hearty laugh, said that when it came to photographic portraits there could be \"nothing more damning than a silly, foolish smile fixed forever\".",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:question:qp-31:156",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 31 题题干",
+      "anchor": "qp-31",
+      "text": "According to Paragraph 1, the author's posts on Twitter ____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-31:157",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 A 选项",
+      "anchor": "qp-31",
+      "text": "changed people's impression of the Victorians.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-31:158",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 B 选项",
+      "anchor": "qp-31",
+      "text": "highlighted social media's role in Victorian studies.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-31:159",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 C 选项",
+      "anchor": "qp-31",
+      "text": "re-evaluated the Victorian's notion of public image.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-31:160",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 D 选项",
+      "anchor": "qp-31",
+      "text": "illustrated the development of Victorian photography.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:question:qp-32:161",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 32 题题干",
+      "anchor": "qp-32",
+      "text": "What does the author say about the Victorian portraits he has collected?",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-32:162",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 A 选项",
+      "anchor": "qp-32",
+      "text": "They are in popular use among historians.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-32:163",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 B 选项",
+      "anchor": "qp-32",
+      "text": "They are rare among photographs of that age.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-32:164",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 C 选项",
+      "anchor": "qp-32",
+      "text": "They mirror 19th-century social conventions.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-32:165",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 D 选项",
+      "anchor": "qp-32",
+      "text": "They show effects of different exposure times.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2021:text3:question:qp-33:166",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 33 题题干",
+      "anchor": "qp-33",
+      "text": "What might have kept the Victorians from smiling for pictures in the 1890s?",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-33:167",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 A 选项",
+      "anchor": "qp-33",
+      "text": "Their inherent social sensitiveness.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-33:168",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 B 选项",
+      "anchor": "qp-33",
+      "text": "Their tension before the camera.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text3:option:qp-33:169",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 C 选项",
+      "anchor": "qp-33",
+      "text": "Their distrust of new inventions.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text3:option:qp-33:170",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 D 选项",
+      "anchor": "qp-33",
+      "text": "Their unhealthy dental condition.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text3:question:qp-34:171",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 34 题题干",
+      "anchor": "qp-34",
+      "text": "Mark Twain is quoted to show that the disapproval of smiles in pictures was____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-34:172",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 A 选项",
+      "anchor": "qp-34",
+      "text": "a deep-root belief.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text3:option:qp-34:173",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 B 选项",
+      "anchor": "qp-34",
+      "text": "a misguided attitude.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text3:option:qp-34:174",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 C 选项",
+      "anchor": "qp-34",
+      "text": "a controversial view.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text3:option:qp-34:175",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 D 选项",
+      "anchor": "qp-34",
+      "text": "a thought-provoking idea.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text3:question:qp-35:176",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 35 题题干",
+      "anchor": "qp-35",
+      "text": "Which of the following questions does the text answer?",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-35:177",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 A 选项",
+      "anchor": "qp-35",
+      "text": "Why did most Victorians look stern in photographs?",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-35:178",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 B 选项",
+      "anchor": "qp-35",
+      "text": "Why did the Victorians start to view photographs?",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-35:179",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 C 选项",
+      "anchor": "qp-35",
+      "text": "What made photography develop in the Victorian period?",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2021:text3:option:qp-35:180",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 D 选项",
+      "anchor": "qp-35",
+      "text": "How did smiling in photographs become a post-Victorian norm?",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2021:text4:passage:p-section2-part-a-4-1:181",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-4-1",
+      "text": "From the early days of broadband, advocates for consumers and web-based companies worried that the cable and phone companies selling broadband connections had the power and incentive to favor affiliated websites over their rivals'. That's why there has been such a strong demand for rules that would prevent broadband providers from picking winners and losers online, preserving the freedom and innovation that have been the lifeblood of the Internet.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2021:text4:passage:p-section2-part-a-4-2:182",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-4-2",
+      "text": "Yet that demand has been almost impossible to fill—in part because of pushback from broadband providers, anti-regulatory conservatives and the courts. A federal appeals court weighed in again Tuesday, but instead of providing a badly needed resolution, it only prolonged the fight. At issue before the U.S. Court of Appeals for the District of Columbia Circuit was the latest take of the Federal Communications Commission (FCC) on net neutrality, adopted on a party-line vote in 2017. The Republican-penned order not only eliminated the strict net neutrality rules the FCC had adopted when it had a Democratic majority in 2015, but rejected the commission's authority to require broadband providers to do much of anything. The order also declared that state and local governments couldn't regulate broadband providers either.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2021:text4:passage:p-section2-part-a-4-3:183",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-4-3",
+      "text": "The commission argued that other agencies would protect against anti-competitive behavior, such as a broadband-providing conglomerate like AT&T favoring its own video-streaming service at the expense of Netflix and Apple TV. Yet the FCC also ended the investigations of broadband providers that imposed data caps on their rivals' streaming services but not their own.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2021:text4:passage:p-section2-part-a-4-4:184",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-4-4",
+      "text": "On Tuesday, the appeals court unanimously upheld the 2017 order deregulating broadband providers, citing a Supreme Court ruling from 2005 that upheld a similarly deregulatory move. But Judge Patricia Millett rightly argued in a concurring opinion that \"the result is unhinged from the realities of modern broadband service,\" and said Congress or the Supreme Court could intervene to \"avoid trapping Internet regulation in technological anachronism.\"",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2021:text4:passage:p-section2-part-a-4-5:185",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-4-5",
+      "text": "In the meantime, the court threw out the FCC's attempt to block all state rules on net neutrality, while preserving the commission's power to preempt individual state laws that undermine its order. That means more battles like the one now going on between the Justice Department and California, which enacted a tough net neutrality law in the wake of the FCC's abdication.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:passage:p-section2-part-a-4-6:186",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-4-6",
+      "text": "The endless legal battles and back-and-forth at the FCC cry out for Congress to act. It needs to give the commission explicit authority once and for all to bar broadband providers from meddling in the traffic on their network and to create clear rules protecting openness and innovation online.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:question:qp-36:187",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 36 题题干",
+      "anchor": "qp-36",
+      "text": "There has long been concern that broadband providers would____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:option:qp-36:188",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 A 选项",
+      "anchor": "qp-36",
+      "text": "bring web-based firms under control.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text4:option:qp-36:189",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 B 选项",
+      "anchor": "qp-36",
+      "text": "slow down the traffic on their network.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:option:qp-36:190",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 C 选项",
+      "anchor": "qp-36",
+      "text": "show partiality in treating clients.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text4:option:qp-36:191",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 D 选项",
+      "anchor": "qp-36",
+      "text": "intensify competition with their rivals.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:question:qp-37:192",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 37 题题干",
+      "anchor": "qp-37",
+      "text": "Faced with the demand for net neutrality rules, the FCC____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:option:qp-37:193",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 A 选项",
+      "anchor": "qp-37",
+      "text": "sticks to an out-of-date order.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text4:option:qp-37:194",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 B 选项",
+      "anchor": "qp-37",
+      "text": "takes an anti-regulatory stance.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text4:option:qp-37:195",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 C 选项",
+      "anchor": "qp-37",
+      "text": "has issued a special resolution.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text4:option:qp-37:196",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 D 选项",
+      "anchor": "qp-37",
+      "text": "has allowed the states to intervene.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text4:question:qp-38:197",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 38 题题干",
+      "anchor": "qp-38",
+      "text": "What can be learned about AT&T from Paragraph 3?",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:option:qp-38:198",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 A 选项",
+      "anchor": "qp-38",
+      "text": "It protects against unfair competition.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:option:qp-38:199",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 B 选项",
+      "anchor": "qp-38",
+      "text": "It engages in anti-competitive practices.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:option:qp-38:200",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 C 选项",
+      "anchor": "qp-38",
+      "text": "It is under the FCC's investigation.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text4:option:qp-38:201",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 D 选项",
+      "anchor": "qp-38",
+      "text": "It is in pursuit of quality service.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text4:question:qp-39:202",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 39 题题干",
+      "anchor": "qp-39",
+      "text": "Judge Patricia Millett argues that the appeals court's decision____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:option:qp-39:203",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 A 选项",
+      "anchor": "qp-39",
+      "text": "focus on trivialities.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text4:option:qp-39:204",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 B 选项",
+      "anchor": "qp-39",
+      "text": "conveys an ambiguous message.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text4:option:qp-39:205",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 C 选项",
+      "anchor": "qp-39",
+      "text": "is at odds with its earlier rulings.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text4:option:qp-39:206",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 D 选项",
+      "anchor": "qp-39",
+      "text": "is out of touch with reality.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:text4:question:qp-40:207",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 40 题题干",
+      "anchor": "qp-40",
+      "text": "What does the author argue in the last paragraph?",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:option:qp-40:208",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 A 选项",
+      "anchor": "qp-40",
+      "text": "Congress needs to take action to ensure net neutrality.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:option:qp-40:209",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 B 选项",
+      "anchor": "qp-40",
+      "text": "The FCC should be put under strict supervision.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:option:qp-40:210",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 C 选项",
+      "anchor": "qp-40",
+      "text": "Rules need to be set to diversify online services.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:text4:option:qp-40:211",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 D 选项",
+      "anchor": "qp-40",
+      "text": "Broadband providers' rights should be protected.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:new_type:directions:directions-section2-part-b:212",
+      "section": "new_type",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-b",
+      "text": "Directions: In the following text, some sentences have been removed. For Questions 41-45, choose the most suitable one from the list A-G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2021:new_type:passage:p-section2-part-b-1:213",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-b-1",
+      "text": "In the movies and on television, artificial intelligence is typically depicted as something sinister that will upend our way of life. When it comes to AI in business, we often hear about it in relation to automation and the impending loss of jobs, but in what ways is AI changing companies and the larger economy that don't involve doom-and-gloom mass unemployment predictions?",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2021:new_type:passage:p-section2-part-b-2:214",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-b-2",
+      "text": "A recent survey of manufacturing and service industries from Tata Consultancy Services found that companies currently use AI more often in computer-to-computer activities than in automating human activities. Here are a few ways AI is aiding companies without replacing employees:",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2021:new_type:passage:p-section2-part-b-3:215",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-b-3",
+      "text": "Better hiring practices",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:new_type:passage:p-section2-part-b-4:216",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-b-4",
+      "text": "Companies are using artificial intelligence to remove some of the unconscious bias from hiring decisions. \"There are experiments that show that, naturally, the results of interviews are much more biased than what AI does,\" says Pedro Domingos, author of The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World and a computer science professor at the University of Washington. \" (41) ______ \" One company that's doing this is called Blendoor. It uses analytics to help identify where there may be bias in the hiring process.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2021:new_type:passage:p-section2-part-b-5:217",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-b-5",
+      "text": "More effective marketing",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:new_type:passage:p-section2-part-b-6:218",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-b-6",
+      "text": "Some AI software can analyze and optimize marketing email subject lines to increase open rates. One company in the UK, Phrasee, claims their software can outperform humans by up to 10 percent when it comes to email open rates. This can mean millions more in revenue. (42) ______ These are \"tools that help people use data, not a replacement for people,\" says Patrick H. Winston, a professor of artificial intelligence and computer science at MIT.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2021:new_type:passage:p-section2-part-b-7:219",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-b-7",
+      "text": "Saving customers money",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:new_type:passage:p-section2-part-b-8:220",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 8 段",
+      "anchor": "p-section2-part-b-8",
+      "text": "Energy companies can use AI to help customers reduce their electricity bills, saving them money while helping the environment. Companies can also optimize their own energy use and cut down on the cost of electricity. Insurance companies, meanwhile, can base their premiums on AI models that more accurately assess risk. Domingos says, \" (43) ______ \"",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2021:new_type:passage:p-section2-part-b-9:221",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 9 段",
+      "anchor": "p-section2-part-b-9",
+      "text": "Improved accuracy",
+      "pdf_pages": []
+    },
+    {
+      "id": "2021:new_type:passage:p-section2-part-b-10:222",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 10 段",
+      "anchor": "p-section2-part-b-10",
+      "text": "\"Machine learning often provides a more reliable form of statistics which makes data more valuable,\" says Winston. It \"helps people make smarter decisions.\" (44) ______",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2021:new_type:passage:p-section2-part-b-11:223",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 11 段",
+      "anchor": "p-section2-part-b-11",
+      "text": "Protecting and maintaining infrastructure",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2021:new_type:passage:p-section2-part-b-12:224",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 12 段",
+      "anchor": "p-section2-part-b-12",
+      "text": "A number of companies, particularly in energy and transportation, use AI image processing technology to inspect infrastructure and prevent equipment failure or leaks before they happen. \"If they fail first and then you fix them, it's very expensive,\" says Domingos. \" (45) ______ \"",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2021:new_type:option:mod-section2-part-b:225",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 A 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "AI replaces the boring parts of your job. If you're doing research, you can have AI go out and look for relevant sources and information that otherwise you just wouldn't have time for.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2021:new_type:option:mod-section2-part-b:226",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 B 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "One accounting firm, BY, uses an AI system that helps review contracts during an audit. This process, along with employees reviewing the contracts, is faster and more accurate.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2021:new_type:option:mod-section2-part-b:227",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 C 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "There are also companies like Acquisio, which analyzes advertising performance across multiple channels like Adwords, Bing and social media and makes adjustments or suggestions about where advertising funds will yield best results.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2021:new_type:option:mod-section2-part-b:228",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 D 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "You want to predict if something needs attention now and point to where it's useful for employees to go to.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2021:new_type:option:mod-section2-part-b:229",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 E 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Before, they might not insure the ones who felt like a high risk or charge them too much, or they would charge them too little and then it would cost the company money.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2021:new_type:option:mod-section2-part-b:230",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 F 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "We're also giving our customers better channels versus picking up the phone to accomplish something beyond human scale.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2021:new_type:option:mod-section2-part-b:231",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 G 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "AI looks at resumes in greater numbers than humans would be able to, and selects the more promising candidates.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2021:translation:directions:directions-section2-part-c:232",
+      "section": "translation",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-c",
+      "text": "Directions: Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. ( 10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2021:translation:passage:p-section2-part-c-1:233",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-c-1",
+      "text": "World War II was the watershed event for higher education in modern Western societies. (46)Those societies came out of the war with levels of enrollment that had been roughly constant at 3-5% of the relevant age groups during the decades before the war. But after the war, great social and political changes arising out of the successful war against Fascism created a growing demand in European and American economies for increasing numbers of graduates with more than a secondary school education. (47)And the demand that rose in those societies for entry to higher education extended to groups and social classes that had not thought of attending a university before the war. These demands resulted in a very rapid expansion of the systems of higher education, beginning in the 1960s and developing very rapidly (though unevenly) during the 1970s and 1980s.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2021:translation:passage:p-section2-part-c-2:234",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-c-2",
+      "text": "The growth of higher education manifests itself in at least three quite different ways, and these in turn have given rise to different sets of problems. There was first the rate of growth: (48)in many countries of Western Europe, the numbers of students in higher education doubled within five-year periods during the 1960s and doubled again in seven, eight, or 10 years by the middle of the 1970s. Second, growth obviously affected the absolute size both of systems and individual institutions. And third, growth was reflected in changes in the proportion of the relevant age group enrolled in institutions of higher education.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2021:translation:passage:p-section2-part-c-3:235",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-c-3",
+      "text": "Each of these manifestations of growth carried its own peculiar problems in its wake. For example, a high growth rate placed great strains on the existing structures of governance, of administration, and above all of socialization. When a faculty or department grows from, say, five to 20 members within three or four years, (49)and when the new staff are predominantly young men and women fresh from postgraduate study, they largely define the norms of academic life in that faculty. And if the postgraduate student population also grows rapidly and there is loss of a close apprenticeship relationship between faculty members and students, the student culture becomes the chief socializing force for new postgraduate students, with consequences for the intellectual and academic life of the institution-this was seen in America as well as in France, Italy, West Germany, and Japan. (50)High growth rates increased the chances for academic innovation; they also weakened the forms and processes by which teachers and students are admitted into a community of scholars during periods of stability or slow growth. In the 1960s and 1970s, European universities saw marked changes in their governance arrangements, with empowerment of junior faculty and to some degree of students as well.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2021:writing_a:writing:directions-section3-part-a:236",
+      "section": "writing_a",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-a",
+      "text": "51.Directions: A foreign friend of yours has recently graduated from college and intends to find a job in China. Write him/her an email to make some suggestions . You should write about 100 words on the ANSWER SHEET. Do not sign your own name at the end. Use “Li Ming” instead. Do not write the address. ( 10 points)",
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "id": "2021:writing_b:writing:directions-section3-part-b:237",
+      "section": "writing_b",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-b",
+      "text": "52.Directions: Write an essay of 160 - 200 words based on the following picture. In your essay, you should 1) describe the picture briefly, 2) interpret its intended meaning, and 3) give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "pdf_pages": [
+        12
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "section": "writing_b",
+      "url": "https://img-paper.lazynote.cn/2025/08/08/RuTgLw03.jpg",
+      "source_description": "画中左侧是一个装扮成美猴王的小孩，右手还拿着一根小棒子",
+      "description_is_exam_text": false,
+      "path": "images/exam_bank/2021-figure-1.jpg",
+      "sha256": "058e66e5b40fb0aa8a53ab5f468782124b58a00e7ff870e8ab88873779541bde"
+    }
+  ],
+  "quality_note": "第三方整理版。已检查9个题型模块、完形20题选项、阅读20题题干选项及PDF可读性；未逐字人工校对。来源PDF缺作文配图，配图已单独保存并补入本地整卷页。新题型不重排、不填答案。原句自动切分，入生词库前结合原段核对。"
+}

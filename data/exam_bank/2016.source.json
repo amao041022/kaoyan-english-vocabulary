@@ -1,0 +1,19 @@
+{
+  "year": 2016,
+  "paper_id": "2016-english-one",
+  "title": "2016年考研英语（一）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2016-english-one/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2016-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802016%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:38.165082+00:00",
+  "html": {
+    "path": "images/exam_bank/2016.html",
+    "sha256": "b5ae540b75d0d5666e881d61d317ea6435ffc86d31aa064b3cc3ee00e0381e80",
+    "bytes": 226153
+  },
+  "pdf": {
+    "path": "images/exam_bank/2016.pdf",
+    "sha256": "0b481c1abb8b92cea65fb9a64b0200795c9707350256c0f8aaf0e14d6c52cdcc",
+    "bytes": 217707
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "year": 2009,
+  "paper_id": "2009-english-one",
+  "title": "2009年考研英语（分卷前旧卷）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2009/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2009/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%EF%BC%88%E6%97%A7%EF%BC%892009%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:36.686072+00:00",
+  "html": {
+    "path": "images/exam_bank/2009.html",
+    "sha256": "955da2168a1797c3dd01416eedbd01ccdba7327394a0e513a274ec28439526c9",
+    "bytes": 226480
+  },
+  "pdf": {
+    "path": "images/exam_bank/2009.pdf",
+    "sha256": "516590392c96e1903b185984e026033d872aa9b503e0f669f97b73664904f423",
+    "bytes": 216374
+  }
+}

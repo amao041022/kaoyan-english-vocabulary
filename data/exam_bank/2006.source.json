@@ -1,0 +1,19 @@
+{
+  "year": 2006,
+  "paper_id": "2006-english-one",
+  "title": "2006年考研英语（分卷前旧卷）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2006/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2006/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%EF%BC%88%E6%97%A7%EF%BC%892006%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:36.684767+00:00",
+  "html": {
+    "path": "images/exam_bank/2006.html",
+    "sha256": "17d25952c017d2147d7863c558bac830555f2aa2f18a24fbdd815939d1f418c6",
+    "bytes": 228840
+  },
+  "pdf": {
+    "path": "images/exam_bank/2006.pdf",
+    "sha256": "a1a6249a31c8e631694d4916c31a7ede231689f59d59b2a8fd01086828f03366",
+    "bytes": 229483
+  }
+}

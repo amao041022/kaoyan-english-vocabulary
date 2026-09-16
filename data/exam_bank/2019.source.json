@@ -1,0 +1,19 @@
+{
+  "year": 2019,
+  "paper_id": "2019-english-one",
+  "title": "2019年考研英语（一）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2019-english-one/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2019-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802019%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:38.841962+00:00",
+  "html": {
+    "path": "images/exam_bank/2019.html",
+    "sha256": "944dcf2d62fa15f59ef6d841fd33e8c3040c7315c9eb86863d113ece1c3c4d5a",
+    "bytes": 226324
+  },
+  "pdf": {
+    "path": "images/exam_bank/2019.pdf",
+    "sha256": "367934c7fa34205f519862cd109bbd77cabe9ef0f11660564e9ad5c5c2c08392",
+    "bytes": 188471
+  }
+}

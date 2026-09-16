@@ -1,0 +1,2376 @@
+{
+  "schema_version": 1,
+  "year": 2015,
+  "title": "2015年考研英语（一）",
+  "source_url": "https://english-exam.lazynote.cn/kaoyan/paper/2015-english-one/",
+  "pdf": "images/exam_bank/2015.pdf",
+  "pdf_page_count": 12,
+  "sections": {
+    "cloze": 87,
+    "text1": 33,
+    "text2": 32,
+    "text3": 31,
+    "text4": 31,
+    "new_type": 13,
+    "translation": 5,
+    "writing_a": 1,
+    "writing_b": 1
+  },
+  "records": [
+    {
+      "id": "2015:cloze:directions:directions-section1:1",
+      "section": "cloze",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section1",
+      "text": "Directions: Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2015:cloze:passage:p-section1-1:2",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section1-1",
+      "text": "Though not biologically related, friends are as \"related\" as fourth cousins, sharing about 1% of genes. That is __1__ a study, published from the University of California and Yale University in the Proceedings of the National Academy of Sciences, has __2__ .",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2015:cloze:passage:p-section1-2:3",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section1-2",
+      "text": "The study is a genome-wide analysis conducted __3__ 1,932 unique subjects which __4__ pairs of unrelated friends and unrelated strangers. The same people were used in both __5__ .",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:passage:p-section1-3:4",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section1-3",
+      "text": "While 1% may seem __6__ , it is not so to a geneticist. As James Fowler, professor of medical genetics at UC San Diego, says, \"Most people do not even __7__ their fourth cousins but somehow manage to select as friends the people who __8__ our kin.\"",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:passage:p-section1-4:5",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section1-4",
+      "text": "The study __9__ found that the genes for smell were something shared in friends but not genes for immunity. Why this similarity exists in smell genes is difficult to explain, for now. __10__ , as the team suggests, it draws us to similar environments but there is more __11__ it. There could be many mechanisms working together that __12__ us in choosing genetically similar friends __13__ \"functional kinship\" of being friends with __14__ !",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:passage:p-section1-5:6",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section1-5",
+      "text": "One of the remarkable findings of the study was that the similar genes seem to be evolving __15__ than other genes. Studying this could help __16__ why human evolution picked pace in the last 30,000 years, with social environment being a major __17__ factor.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2015:cloze:passage:p-section1-6:7",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section1-6",
+      "text": "The findings do not simply explain people's __18__ to befriend those of similar __19__ backgrounds, say the researchers. Though all the subjects were drawn from a population of European extraction, care was taken to __20__ that all subjects, friends and strangers, were taken from the same population.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-1:8",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 A 选项",
+      "anchor": "qp-1",
+      "text": "when",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-1:9",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 B 选项",
+      "anchor": "qp-1",
+      "text": "why",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-1:10",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 C 选项",
+      "anchor": "qp-1",
+      "text": "how",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-1:11",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 D 选项",
+      "anchor": "qp-1",
+      "text": "what",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-2:12",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 A 选项",
+      "anchor": "qp-2",
+      "text": "defended",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-2:13",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 B 选项",
+      "anchor": "qp-2",
+      "text": "concluded",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-2:14",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 C 选项",
+      "anchor": "qp-2",
+      "text": "withdrawn",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-2:15",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 D 选项",
+      "anchor": "qp-2",
+      "text": "advised",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-3:16",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 A 选项",
+      "anchor": "qp-3",
+      "text": "for",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-3:17",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 B 选项",
+      "anchor": "qp-3",
+      "text": "with",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-3:18",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 C 选项",
+      "anchor": "qp-3",
+      "text": "on",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-3:19",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 D 选项",
+      "anchor": "qp-3",
+      "text": "by",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-4:20",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 A 选项",
+      "anchor": "qp-4",
+      "text": "compared",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-4:21",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 B 选项",
+      "anchor": "qp-4",
+      "text": "sought",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-4:22",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 C 选项",
+      "anchor": "qp-4",
+      "text": "separated",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-4:23",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 D 选项",
+      "anchor": "qp-4",
+      "text": "connected",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-5:24",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 A 选项",
+      "anchor": "qp-5",
+      "text": "tests",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-5:25",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 B 选项",
+      "anchor": "qp-5",
+      "text": "objects",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-5:26",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 C 选项",
+      "anchor": "qp-5",
+      "text": "samples",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-5:27",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 D 选项",
+      "anchor": "qp-5",
+      "text": "examples",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-6:28",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 A 选项",
+      "anchor": "qp-6",
+      "text": "insignificant",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-6:29",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 B 选项",
+      "anchor": "qp-6",
+      "text": "unexpected",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-6:30",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 C 选项",
+      "anchor": "qp-6",
+      "text": "unreliable",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-6:31",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 D 选项",
+      "anchor": "qp-6",
+      "text": "incredible",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-7:32",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 A 选项",
+      "anchor": "qp-7",
+      "text": "visit",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-7:33",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 B 选项",
+      "anchor": "qp-7",
+      "text": "miss",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-7:34",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 C 选项",
+      "anchor": "qp-7",
+      "text": "seek",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-7:35",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 D 选项",
+      "anchor": "qp-7",
+      "text": "know",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-8:36",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 A 选项",
+      "anchor": "qp-8",
+      "text": "resemble",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-8:37",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 B 选项",
+      "anchor": "qp-8",
+      "text": "influence",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-8:38",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 C 选项",
+      "anchor": "qp-8",
+      "text": "favor",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-8:39",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 D 选项",
+      "anchor": "qp-8",
+      "text": "surpass",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-9:40",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 A 选项",
+      "anchor": "qp-9",
+      "text": "again",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-9:41",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 B 选项",
+      "anchor": "qp-9",
+      "text": "also",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-9:42",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 C 选项",
+      "anchor": "qp-9",
+      "text": "instead",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-9:43",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 D 选项",
+      "anchor": "qp-9",
+      "text": "thus",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-10:44",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 A 选项",
+      "anchor": "qp-10",
+      "text": "Meanwhile",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-10:45",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 B 选项",
+      "anchor": "qp-10",
+      "text": "Furthermore",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-10:46",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 C 选项",
+      "anchor": "qp-10",
+      "text": "Likewise",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-10:47",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 D 选项",
+      "anchor": "qp-10",
+      "text": "Perhaps",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-11:48",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 A 选项",
+      "anchor": "qp-11",
+      "text": "about",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-11:49",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 B 选项",
+      "anchor": "qp-11",
+      "text": "to",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-11:50",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 C 选项",
+      "anchor": "qp-11",
+      "text": "from",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-11:51",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 D 选项",
+      "anchor": "qp-11",
+      "text": "like",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-12:52",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 A 选项",
+      "anchor": "qp-12",
+      "text": "drive",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-12:53",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 B 选项",
+      "anchor": "qp-12",
+      "text": "observe",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-12:54",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 C 选项",
+      "anchor": "qp-12",
+      "text": "confuse",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-12:55",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 D 选项",
+      "anchor": "qp-12",
+      "text": "limit",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-13:56",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 A 选项",
+      "anchor": "qp-13",
+      "text": "according to",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-13:57",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 B 选项",
+      "anchor": "qp-13",
+      "text": "rather than",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-13:58",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 C 选项",
+      "anchor": "qp-13",
+      "text": "regardless of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-13:59",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 D 选项",
+      "anchor": "qp-13",
+      "text": "along with",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-14:60",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 A 选项",
+      "anchor": "qp-14",
+      "text": "chances",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-14:61",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 B 选项",
+      "anchor": "qp-14",
+      "text": "responses",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-14:62",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 C 选项",
+      "anchor": "qp-14",
+      "text": "missions",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-14:63",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 D 选项",
+      "anchor": "qp-14",
+      "text": "benefits",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-15:64",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 A 选项",
+      "anchor": "qp-15",
+      "text": "later",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-15:65",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 B 选项",
+      "anchor": "qp-15",
+      "text": "slower",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-15:66",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 C 选项",
+      "anchor": "qp-15",
+      "text": "faster",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-15:67",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 D 选项",
+      "anchor": "qp-15",
+      "text": "earlier",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-16:68",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 A 选项",
+      "anchor": "qp-16",
+      "text": "forecast",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-16:69",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 B 选项",
+      "anchor": "qp-16",
+      "text": "remember",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-16:70",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 C 选项",
+      "anchor": "qp-16",
+      "text": "understand",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-16:71",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 D 选项",
+      "anchor": "qp-16",
+      "text": "express",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-17:72",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 A 选项",
+      "anchor": "qp-17",
+      "text": "unpredictable",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-17:73",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 B 选项",
+      "anchor": "qp-17",
+      "text": "contributory",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-17:74",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 C 选项",
+      "anchor": "qp-17",
+      "text": "controllable",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-17:75",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 D 选项",
+      "anchor": "qp-17",
+      "text": "disruptive",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-18:76",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 A 选项",
+      "anchor": "qp-18",
+      "text": "endeavor",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-18:77",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 B 选项",
+      "anchor": "qp-18",
+      "text": "decision",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-18:78",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 C 选项",
+      "anchor": "qp-18",
+      "text": "arrangement",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-18:79",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 D 选项",
+      "anchor": "qp-18",
+      "text": "tendency",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-19:80",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 A 选项",
+      "anchor": "qp-19",
+      "text": "political",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-19:81",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 B 选项",
+      "anchor": "qp-19",
+      "text": "religious",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-19:82",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 C 选项",
+      "anchor": "qp-19",
+      "text": "ethnic",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-19:83",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 D 选项",
+      "anchor": "qp-19",
+      "text": "economic",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-20:84",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 A 选项",
+      "anchor": "qp-20",
+      "text": "see",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-20:85",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 B 选项",
+      "anchor": "qp-20",
+      "text": "show",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-20:86",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 C 选项",
+      "anchor": "qp-20",
+      "text": "prove",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:cloze:option:qp-20:87",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 D 选项",
+      "anchor": "qp-20",
+      "text": "tell",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text1:directions:directions-section2-part-a-1:88",
+      "section": "text1",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-a-1",
+      "text": "Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "id": "2015:text1:passage:p-section2-part-a-1-1:89",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-1-1",
+      "text": "King Juan Carlos of Spain once insisted \"kings don't abdicate, they die in their sleep.\" But embarrassing scandals and the popularity of the republican left in the recent Euro-elections have forced him to eat his words and stand down. So, does the Spanish crisis suggest that monarchy is seeing its last days? Does that mean the writing is on the wall for all European royals, with their magnificent uniforms and majestic lifestyles?",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2015:text1:passage:p-section2-part-a-1-2:90",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-1-2",
+      "text": "The Spanish case provides arguments both for and against monarchy. When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above \"mere\" politics and \"embody\" a spirit of national unity.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2015:text1:passage:p-section2-part-a-1-3:91",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-1-3",
+      "text": "It is this apparent transcendence of politics that explains monarchs' continuing popularity as heads of state. And so, the Middle East excepted, Europe is the most monarch-infested region in the world, with 10 kingdoms (not counting Vatican city and Andorra). But unlike their absolutist counterparts in the Gulf and Asia, most royal families have survived because they allow voters to avoid the difficult search for a non-controversial but respected public figure.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2015:text1:passage:p-section2-part-a-1-4:92",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-1-4",
+      "text": "Even so, kings and queens undoubtedly have a downside. Symbolic of national unity as they claim to be, their very history – and sometimes the way they behave today – embodies outdated and indefensible privileges and inequalities. At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic families should still be the symbolic heart of modern democratic states.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2015:text1:passage:p-section2-part-a-1-5:93",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-1-5",
+      "text": "The most successful monarchies strive to abandon or hide their old aristocratic ways. Princes and princesses have day-jobs and ride bicycles, not horses (or helicopters). Even so, these are wealthy families who party with the international 1%, and media intrusiveness makes it increasingly difficult to maintain the right image.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2015:text1:passage:p-section2-part-a-1-6:94",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-1-6",
+      "text": "While Europe's monarchies will no doubt be smart enough to survive for some time to come, it is the British royals who have most to fear from the Spanish example.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2015:text1:passage:p-section2-part-a-1-7:95",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-1-7",
+      "text": "It is only the Queen who has preserved the monarchy's reputation with her rather ordinary (if well-heeled) granny style. The danger will come with Charles, who has both an expensive taste of lifestyle and a pretty hierarchical view of the world. He has failed to understand that monarchies have largely survived because they provide a service–as non-controversial and non-political heads of state. Charles ought to know that as English history shows, it is kings, not republicans, who are the monarchy's worst enemies.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2015:text1:question:qp-21:96",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 21 题题干",
+      "anchor": "qp-21",
+      "text": "According to the first two paragraphs, King Juan Carl of Spain____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-21:97",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 A 选项",
+      "anchor": "qp-21",
+      "text": "eased his relationship with his rivals.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-21:98",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 B 选项",
+      "anchor": "qp-21",
+      "text": "used to enjoy high public support.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text1:option:qp-21:99",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 C 选项",
+      "anchor": "qp-21",
+      "text": "was unpopular among European royals.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text1:option:qp-21:100",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 D 选项",
+      "anchor": "qp-21",
+      "text": "ended his reign in embarrassment.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text1:question:qp-22:101",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 22 题题干",
+      "anchor": "qp-22",
+      "text": "Monarchs are kept as heads of state in Europe mostly____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-22:102",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 A 选项",
+      "anchor": "qp-22",
+      "text": "to give voters more public figures to look up to.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-22:103",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 B 选项",
+      "anchor": "qp-22",
+      "text": "to achieve a balance between tradition and reality.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-22:104",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 C 选项",
+      "anchor": "qp-22",
+      "text": "owing to their undoubted and respectable status.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-22:105",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 D 选项",
+      "anchor": "qp-22",
+      "text": "due to their everlasting political embodiment.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:question:qp-23:106",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 23 题题干",
+      "anchor": "qp-23",
+      "text": "Which of the following is shown to be odd, according to Paragraph 4?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-23:107",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 A 选项",
+      "anchor": "qp-23",
+      "text": "Aristocrats' excessive reliance on inherited wealth.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-23:108",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 B 选项",
+      "anchor": "qp-23",
+      "text": "The role of the nobility in modern democracies.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-23:109",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 C 选项",
+      "anchor": "qp-23",
+      "text": "The simple lifestyle of the aristocratic families.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-23:110",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 D 选项",
+      "anchor": "qp-23",
+      "text": "The nobility's adherence to their privileges.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:question:qp-24:111",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 24 题题干",
+      "anchor": "qp-24",
+      "text": "The British royals \"have most to fear\" because Charles____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-24:112",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 A 选项",
+      "anchor": "qp-24",
+      "text": "fails to adapt himself to his future role.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-24:113",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 B 选项",
+      "anchor": "qp-24",
+      "text": "fails to change his lifestyle as advised.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-24:114",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 C 选项",
+      "anchor": "qp-24",
+      "text": "takes republicans as his potential allies.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-24:115",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 D 选项",
+      "anchor": "qp-24",
+      "text": "takes a tough line on political issues.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:question:qp-25:116",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 25 题题干",
+      "anchor": "qp-25",
+      "text": "Which of the following is the best title of the text?",
+      "pdf_pages": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-25:117",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 A 选项",
+      "anchor": "qp-25",
+      "text": "Carlos, Glory and Disgrace Combined",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text1:option:qp-25:118",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 B 选项",
+      "anchor": "qp-25",
+      "text": "Charles, Anxious to Succeed to the Throne",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-25:119",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 C 选项",
+      "anchor": "qp-25",
+      "text": "Carlos, a Lesson for All European Monarchs",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text1:option:qp-25:120",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 D 选项",
+      "anchor": "qp-25",
+      "text": "Charles, Slow to React to the Coming Threats",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text2:passage:p-section2-part-a-2-1:121",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-2-1",
+      "text": "Just how much does the Constitution protect your digital data? The Supreme Court will now consider whether police can search the contents of a mobile phone without a warrant if the phone is on or around a person during an arrest.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text2:passage:p-section2-part-a-2-2:122",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-2-2",
+      "text": "California has asked the justices to refrain from a sweeping ruling, particularly one that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest. It is hard, the state argues, for judges to assess the implications of new and rapidly changing technologies.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text2:passage:p-section2-part-a-2-3:123",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-2-3",
+      "text": "The court would be recklessly modest if it followed California's advice. Enough of the implications are discernable, even obvious, so that the justices can and should provide updated guidelines to police, lawyers and defendants.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text2:passage:p-section2-part-a-2-4:124",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-2-4",
+      "text": "They should start by discarding California's lame argument that exploring the contents of a smartphone – a vast storehouse of digital information – is similar to, say, going through a suspect's purse. The court has ruled that police don't violate the Fourth Amendment when they go through the wallet or pocketbook of an arrestee without a warrant. But exploring one's smartphone is more like entering his or her home. A smartphone may contain an arrestee's reading history, financial history, medical history and comprehensive records of recent correspondence. The development of \"cloud computing\", meanwhile, has made that exploration so much the easier.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2015:text2:passage:p-section2-part-a-2-5:125",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-2-5",
+      "text": "Americans should take steps to protect their digital privacy. But keeping sensitive information on these devices is increasingly a requirement of normal life. Citizens still have a right to expect private documents to remain private and protected by the Constitution's prohibition on unreasonable searches.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:passage:p-section2-part-a-2-6:126",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-2-6",
+      "text": "As so often is the case, stating that principle doesn't ease the challenge of line-drawing. In many cases, it would not be overly burdensome for authorities to obtain a warrant to search through phone contents. They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances, and they could take reasonable measures to ensure that phone data are not erased or altered while waiting for a warrant. The court, though, may want to allow room for police to cite situations where they are entitled to more freedom.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:passage:p-section2-part-a-2-7:127",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-2-7",
+      "text": "But the justices should not swallow California's argument whole. New, disruptive technology sometimes demands novel applications of the Constitution's protections. Orin Kerr, a law professor, compares the explosion and accessibility of digital information in the 21st century with the establishment of automobile use as a virtual necessity of life in the 20th: The justices had to specify novel rules for the new personal domain of the passenger car then; they must sort out how the Fourth Amendment applies to digital information now.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:question:qp-26:128",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 26 题题干",
+      "anchor": "qp-26",
+      "text": "The Supreme Court will work out whether, during an arrest, it is legitimate to____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-26:129",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 A 选项",
+      "anchor": "qp-26",
+      "text": "prevent suspects from deleting their phone contents.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-26:130",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 B 选项",
+      "anchor": "qp-26",
+      "text": "search for suspects' mobile phones without a warrant.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-26:131",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 C 选项",
+      "anchor": "qp-26",
+      "text": "check suspects' phone contents without being authorized.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-26:132",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 D 选项",
+      "anchor": "qp-26",
+      "text": "prohibit suspects from using their mobile phones.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:question:qp-27:133",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 27 题题干",
+      "anchor": "qp-27",
+      "text": "The author's attitude toward California's argument is one of____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-27:134",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 A 选项",
+      "anchor": "qp-27",
+      "text": "disapproval.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text2:option:qp-27:135",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 B 选项",
+      "anchor": "qp-27",
+      "text": "indifference.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text2:option:qp-27:136",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 C 选项",
+      "anchor": "qp-27",
+      "text": "tolerance.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text2:option:qp-27:137",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 D 选项",
+      "anchor": "qp-27",
+      "text": "cautiousness.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text2:question:qp-28:138",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 28 题题干",
+      "anchor": "qp-28",
+      "text": "The author believes that exploring one's phone contents is comparable to____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-28:139",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 A 选项",
+      "anchor": "qp-28",
+      "text": "going through one's wallet.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text2:option:qp-28:140",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 B 选项",
+      "anchor": "qp-28",
+      "text": "handling one's historical records.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text2:option:qp-28:141",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 C 选项",
+      "anchor": "qp-28",
+      "text": "scanning one's correspondences.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text2:option:qp-28:142",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 D 选项",
+      "anchor": "qp-28",
+      "text": "getting into one's residence.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text2:question:qp-29:143",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 29 题题干",
+      "anchor": "qp-29",
+      "text": "In Paragraphs 5 and 6, the author shows his concern that____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-29:144",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 A 选项",
+      "anchor": "qp-29",
+      "text": "principles are hard to be clearly expressed.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-29:145",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 B 选项",
+      "anchor": "qp-29",
+      "text": "the court is giving police less room for action.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-29:146",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 C 选项",
+      "anchor": "qp-29",
+      "text": "phones are used to store sensitive information.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-29:147",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 D 选项",
+      "anchor": "qp-29",
+      "text": "citizens' privacy is not effectively protected.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:question:qp-30:148",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 30 题题干",
+      "anchor": "qp-30",
+      "text": "Orin Kerr's comparison is quoted to indicate that____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-30:149",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 A 选项",
+      "anchor": "qp-30",
+      "text": "the Constitution should be implemented flexibly.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-30:150",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 B 选项",
+      "anchor": "qp-30",
+      "text": "principles of the Constitution should never be altered.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-30:151",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 C 选项",
+      "anchor": "qp-30",
+      "text": "California's argument violates principles of the Constitution.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text2:option:qp-30:152",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 D 选项",
+      "anchor": "qp-30",
+      "text": "new technology requires reinterpretation of the Constitution.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2015:text3:passage:p-section2-part-a-3-1:153",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-3-1",
+      "text": "The journal Science is adding an extra round of statistical checks to its peer-review process, editor-in-chief Marcia McNutt announced today. The policy follows similar efforts from other journals, after widespread concern that basic mistakes in data analysis are contributing to the irreproducibility of many published research findings.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2015:text3:passage:p-section2-part-a-3-2:154",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-3-2",
+      "text": "\"Readers must have confidence in the conclusions published in our journal,\" writes McNutt in an editorial. Working with the American Statistical Association, the journal has appointed seven experts to a statistics board of reviewing editors (SBoRE). Manuscripts will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers. The SBoRE panel will then find external statisticians to review these manuscripts.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2015:text3:passage:p-section2-part-a-3-3:155",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-3-3",
+      "text": "Asked whether any particular papers had impelled the change, McNutt said: \"The creation of the 'statistics board' was motivated by concerns broadly with the application of statistics and data analysis in scientific research and is part of Science's overall drive to increase reproducibility in the research we publish.\"",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2015:text3:passage:p-section2-part-a-3-4:156",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-3-4",
+      "text": "Giovanni Parmigiani, a biostatistician at the Harvard School of Public Health, a member of the SBoRE group, says he expects the board to \"play primarily an advisory role.\" He agreed to join because he \"found the foresight behind the establishment of the SBoRE to be novel, unique and likely to have a lasting impact. This impact will not only be through the publications in Science itself, but hopefully through a larger group of publishing places that may want to model their approach after Science.\"",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2015:text3:passage:p-section2-part-a-3-5:157",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-3-5",
+      "text": "John Ioannidis, a physician who studies research methodology, says that the policy is \"a most welcome step forward\" and \"long overdue\". \"Most journals are weak in statistical review, and this damages the quality of what they publish. I think that, for the majority of scientific papers nowadays, statistical review is more essential than expert review,\" he says, but he noted that biomedical journals such as Annals of Internal Medicine, the Journal of the American Medical Association and The Lancet pay strong attention to statistical review.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2015:text3:passage:p-section2-part-a-3-6:158",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-3-6",
+      "text": "Professional scientists are expected to know how to analyse data, but statistical errors are alarmingly common in published research, according to David Vaux, a cell biologist. Researchers should improve their standards, he wrote in 2012, but journals should also take a tougher line, \"engaging reviewers who are statistically literate and editors who can verify the process\". Vaux says that Science's idea to pass some papers to statisticians \"has some merit, but a weakness is that it relies on the board of reviewing editors to identify 'the papers that need scrutiny' in the first place\".",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2015:text3:question:qp-31:159",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 31 题题干",
+      "anchor": "qp-31",
+      "text": "It can be learned from Paragraph 1 that____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2015:text3:option:qp-31:160",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 A 选项",
+      "anchor": "qp-31",
+      "text": "Science intends to simplify its peer-review process.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2015:text3:option:qp-31:161",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 B 选项",
+      "anchor": "qp-31",
+      "text": "journals are strengthening their statistical checks.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2015:text3:option:qp-31:162",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 C 选项",
+      "anchor": "qp-31",
+      "text": "few journals are blamed for mistakes in data analysis.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2015:text3:option:qp-31:163",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 D 选项",
+      "anchor": "qp-31",
+      "text": "lack of data analysis is common in research projects.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2015:text3:question:qp-32:164",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 32 题题干",
+      "anchor": "qp-32",
+      "text": "The phrase \"flagged up\" (Para. 2) is the closest in meaning to____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2015:text3:option:qp-32:165",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 A 选项",
+      "anchor": "qp-32",
+      "text": "found.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text3:option:qp-32:166",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 B 选项",
+      "anchor": "qp-32",
+      "text": "revised.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text3:option:qp-32:167",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 C 选项",
+      "anchor": "qp-32",
+      "text": "marked.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text3:option:qp-32:168",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 D 选项",
+      "anchor": "qp-32",
+      "text": "stored.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text3:question:qp-33:169",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 33 题题干",
+      "anchor": "qp-33",
+      "text": "Giovanni Parmigiani believes that the establishment of the SBoRE may____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2015:text3:option:qp-33:170",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 A 选项",
+      "anchor": "qp-33",
+      "text": "pose a threat to all its peers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text3:option:qp-33:171",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 B 选项",
+      "anchor": "qp-33",
+      "text": "meet with strong opposition.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text3:option:qp-33:172",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 C 选项",
+      "anchor": "qp-33",
+      "text": "increase Science's circulation.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text3:option:qp-33:173",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 D 选项",
+      "anchor": "qp-33",
+      "text": "set an example for other journals.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text3:question:qp-34:174",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 34 题题干",
+      "anchor": "qp-34",
+      "text": "David Vaux holds that what Science is doing now____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2015:text3:option:qp-34:175",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 A 选项",
+      "anchor": "qp-34",
+      "text": "adds to researchers' workload.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text3:option:qp-34:176",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 B 选项",
+      "anchor": "qp-34",
+      "text": "diminishes the role of reviewers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text3:option:qp-34:177",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 C 选项",
+      "anchor": "qp-34",
+      "text": "has room for further improvement.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text3:option:qp-34:178",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 D 选项",
+      "anchor": "qp-34",
+      "text": "is to fail in the foreseeable future.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text3:question:qp-35:179",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 35 题题干",
+      "anchor": "qp-35",
+      "text": "Which of the following is the best title of the text?",
+      "pdf_pages": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "2015:text3:option:qp-35:180",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 A 选项",
+      "anchor": "qp-35",
+      "text": "Science Joins Push to Screen Statistics in Papers",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2015:text3:option:qp-35:181",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 B 选项",
+      "anchor": "qp-35",
+      "text": "Professional Statisticians Deserve More Respect",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2015:text3:option:qp-35:182",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 C 选项",
+      "anchor": "qp-35",
+      "text": "Data Analysis Finds Its Way onto Editors' Desks",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2015:text3:option:qp-35:183",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 D 选项",
+      "anchor": "qp-35",
+      "text": "Statisticians Are Coming Back with Science",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2015:text4:passage:p-section2-part-a-4-1:184",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-4-1",
+      "text": "Two years ago, Rupert Murdoch's daughter, Elisabeth, spoke of the \"unsettling dearth of integrity across so many of our institutions\". Integrity had collapsed, she argued, because of a collective acceptance that the only \"sorting mechanism\" in society should be profit and the market. But \"it's us, human beings, we the people who create the society we want, not profit.\"",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2015:text4:passage:p-section2-part-a-4-2:185",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-4-2",
+      "text": "Driving her point home, she continued: \"It's increasingly apparent that the absence of purpose, of a moral language within government, media or business could become one of the most dangerous goals for capitalism and freedom.\" This same absence of moral purpose was wounding companies such as News International, she thought, making it more likely that it would lose its way as it had with widespread illegal telephone hacking.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2015:text4:passage:p-section2-part-a-4-3:186",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-4-3",
+      "text": "As the hacking trial concludes – finding guilty one ex-editor of the News of the World, Andy Coulson, for conspiring to hack phones, and finding his predecessor, Rebekah Brooks, innocent of the same charge – the wider issue of dearth of integrity still stands. Journalists are known to have hacked the phones of up to 5,500 people. This is hacking on an industrial scale, as was acknowledged by Glenn Mulcaire, the man hired by the News of the World in 2001 to be the point person for phone hacking. Others await trial. This long story still unfolds.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2015:text4:passage:p-section2-part-a-4-4:187",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-4-4",
+      "text": "In many respects, the dearth of moral purpose frames not only the fact of such widespread phone hacking but the terms on which the trial took place. One of the astonishing revelations was how little Rebekah Brooks knew of what went on in her newsroom, how little she thought to ask and the fact that she never inquired how the stories arrived. The core of her successful defence was that she knew nothing.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2015:text4:passage:p-section2-part-a-4-5:188",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-4-5",
+      "text": "In today's world, it has become normal that well-paid executives should not be accountable for what happens in the organisations that they run. Perhaps we should not be so surprised. For a generation, the collective doctrine has been that the sorting mechanism of society should be profit. The words that have mattered are efficiency, flexibility, shareholder value, business-friendly, wealth generation, sales, impact and, in newspapers, circulation. Words degraded to the margin have been justice, fairness, tolerance, proportionality and accountability.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2015:text4:passage:p-section2-part-a-4-6:189",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-4-6",
+      "text": "The purpose of editing the News of the World was not to promote reader understanding, to be fair in what was written or to betray any common humanity. It was to ruin lives in the quest for circulation and impact. Ms Brooks may or may not have had suspicions about how her journalists got their stories, but she asked no questions, gave no instructions – nor received traceable, recorded answers.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:question:qp-36:190",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 36 题题干",
+      "anchor": "qp-36",
+      "text": "According to the first two paragraphs, Elisabeth was upset by____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-36:191",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 A 选项",
+      "anchor": "qp-36",
+      "text": "the consequences of the current sorting mechanism.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-36:192",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 B 选项",
+      "anchor": "qp-36",
+      "text": "companies' financial loss due to immoral practices.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-36:193",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 C 选项",
+      "anchor": "qp-36",
+      "text": "governmental ineffectiveness on moral issues.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-36:194",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 D 选项",
+      "anchor": "qp-36",
+      "text": "the wide misuse of integrity among institutions.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:question:qp-37:195",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 37 题题干",
+      "anchor": "qp-37",
+      "text": "It can be inferred from Paragraph 3 that____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-37:196",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 A 选项",
+      "anchor": "qp-37",
+      "text": "Glenn Mulcaire may deny phone hacking as a crime.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-37:197",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 B 选项",
+      "anchor": "qp-37",
+      "text": "more journalists may be found guilty of phone hacking.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-37:198",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 C 选项",
+      "anchor": "qp-37",
+      "text": "Andy Coulson should be held innocent of the charge.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-37:199",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 D 选项",
+      "anchor": "qp-37",
+      "text": "phone hacking will be accepted on certain occasions.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:question:qp-38:200",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 38 题题干",
+      "anchor": "qp-38",
+      "text": "The author believes that Rebekah Brooks's defence____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-38:201",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 A 选项",
+      "anchor": "qp-38",
+      "text": "was hardly convincing.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text4:option:qp-38:202",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 B 选项",
+      "anchor": "qp-38",
+      "text": "centered on trivial issues.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text4:option:qp-38:203",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 C 选项",
+      "anchor": "qp-38",
+      "text": "revealed a cunning personality.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text4:option:qp-38:204",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 D 选项",
+      "anchor": "qp-38",
+      "text": "was part of a conspiracy.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text4:question:qp-39:205",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 39 题题干",
+      "anchor": "qp-39",
+      "text": "The author holds that the current collective doctrine shows",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-39:206",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 A 选项",
+      "anchor": "qp-39",
+      "text": "a marginalized lifestyle.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text4:option:qp-39:207",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 B 选项",
+      "anchor": "qp-39",
+      "text": "unfair wealth distribution.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text4:option:qp-39:208",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 C 选项",
+      "anchor": "qp-39",
+      "text": "generally distorted values.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text4:option:qp-39:209",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 D 选项",
+      "anchor": "qp-39",
+      "text": "a rigid moral code.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2015:text4:question:qp-40:210",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 40 题题干",
+      "anchor": "qp-40",
+      "text": "Which of the following is suggested in the last paragraph?",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-40:211",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 A 选项",
+      "anchor": "qp-40",
+      "text": "The quality of writings is of primary importance.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-40:212",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 B 选项",
+      "anchor": "qp-40",
+      "text": "Moral awareness matters in editing a newspaper.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-40:213",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 C 选项",
+      "anchor": "qp-40",
+      "text": "Common humanity is central to news reporting.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:text4:option:qp-40:214",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 D 选项",
+      "anchor": "qp-40",
+      "text": "Journalists need stricter industrial regulations.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:new_type:directions:directions-section2-part-b:215",
+      "section": "new_type",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-b",
+      "text": "Directions: In the following text, some sentences have been removed. For Questions 41-45, choose the most suitable one from the list A-G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:new_type:passage:p-section2-part-b-1:216",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-b-1",
+      "text": "How does your reading proceed? Clearly you try to comprehend, in the sense of identifying meanings for individual words and working out relationships between them, drawing on your implicit knowledge of English grammar. (41) ______ You begin to infer a context for the text, for instance by making decisions about what kind of speech event is involved: Who is making the utterance, to whom, when and where.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2015:new_type:passage:p-section2-part-b-2:217",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-b-2",
+      "text": "The ways of reading indicated here are without doubt kinds of comprehension. But they show comprehension to consist not just of passive assimilation but of active engagement in inference and problem-solving. You infer information you feel the writer has invited you to grasp by presenting you with specific evidence and clues. (42) ______",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2015:new_type:passage:p-section2-part-b-3:218",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-b-3",
+      "text": "Conceived in this way, comprehension will not follow exactly the same track for each reader. What is in question is not the retrieval of an absolute, fixed or \"true\" meaning that can be read off and checked for accuracy, or some timeless relation of the text to the world. (43) ______",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2015:new_type:passage:p-section2-part-b-4:219",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-b-4",
+      "text": "Such background material inevitably reflects who we are. (44) ______ This doesn't, however, make interpretation merely relative or even pointless. Precisely because readers from different historical periods, places and social experiences produce different but overlapping readings of the same words on the page–including for texts that engage with fundamental human concerns – debates about texts can play an important role in social discussion of beliefs and values.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2015:new_type:passage:p-section2-part-b-5:220",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-b-5",
+      "text": "How we read a given text also depends to some extent on our particular interest in reading it. (45) ______ Such dimensions of reading suggest – as others introduced later in the book will also do – that we bring an implicit (often unacknowledged) agenda to any act of reading. It doesn't then necessarily follow that one kind of reading is fuller, more advanced or more worthwhile than another. Ideally, different kinds of reading inform each other, and act as useful reference points for and counterbalances to one another. Together, they make up the reading component of your overall literacy, or relationship to your surrounding textual environment.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2015:new_type:option:mod-section2-part-b:221",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 A 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Are we studying that text and trying to respond in a way that fulfills the requirement of a given course? Reading it simply for pleasure? Skimming it for information? Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2015:new_type:option:mod-section2-part-b:222",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 B 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Factors such as the place and period in which we are reading, our gender, ethnicity, age and social class will encourage us towards certain interpretations but at the same time obscure or even close off others.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2015:new_type:option:mod-section2-part-b:223",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 C 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "If you are unfamiliar with words or idioms, you guess at their meaning, using clues presented in the context. On the assumption that they will become relevant later, you make a mental note of discourse entities as well as possible links between them.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2015:new_type:option:mod-section2-part-b:224",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 D 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "In effect, you try to reconstruct the likely meanings or effects that any given sentence, image or reference might have had: These might be the ones the author intended.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2015:new_type:option:mod-section2-part-b:225",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 E 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "You make further inferences, for instance, about how the text may be significant to you, or about its validity – inferences that form the basis of a personal response for which the author will inevitably be far less responsible.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2015:new_type:option:mod-section2-part-b:226",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 F 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "In plays, novels and narrative poems, characters speak as constructs created by the author, not necessarily as mouthpieces for the author's own thoughts.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2015:new_type:option:mod-section2-part-b:227",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 G 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Rather, we ascribe meanings to texts on the basis of interaction between what we might call textual and contextual material: between kinds of organization or patterning we perceive in a text's formal structures (so especially its language structures) and various kinds of background, social knowledge, belief and attitude that we bring to the text.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2015:translation:directions:directions-section2-part-c:228",
+      "section": "translation",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-c",
+      "text": "Directions: Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. ( 10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2015:translation:passage:p-section2-part-c-1:229",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-c-1",
+      "text": "Within the span of a hundred years, in the seventeenth and early eighteenth centuries, a tide of emigration – one of the great folk wanderings of history – swept from Europe to America. (46)This movement, driven by powerful and diverse motivations, built a nation out of a wilderness and, by its nature, shaped the character and destiny of an uncharted continent.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2015:translation:passage:p-section2-part-c-2:230",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-c-2",
+      "text": "(47)The United States is the product of two principal forces – the immigration of European peoples with their varied ideas, customs, and national characteristics and the impact of a new country which modified these traits. Of necessity, colonial America was a projection of Europe. Across the Atlantic came successive groups of Englishmen, Frenchmen, Germans, Scots, Irishmen, Dutchmen, Swedes, and many others who attempted to transplant their habits and traditions to the new world. (48)But the force of geographic conditions peculiar to America, the interplay of the varied national groups upon one another, and the sheer difficulty of maintaining old-world ways in a raw, new continent caused significant changes. These changes were gradual and at first scarcely visible. But the result was a new social pattern which, although it resembled European society in many ways, had a character that was distinctly American.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2015:translation:passage:p-section2-part-c-3:231",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-c-3",
+      "text": "(49)The first shiploads of immigrants bound for the territory which is now the United States crossed the Atlantic more than a hundred years after the 15th- and 16th-century explorations of North America. In the meantime, thriving Spanish colonies had been established in Mexico, the West Indies, and South America. These travelers to North America came in small, unmercifully overcrowded craft. During their six- to twelve-week voyage, they survived on barely enough food allotted to them. Many of the ships were lost in storms, many passengers died of disease, and infants rarely survived the journey. Sometimes storms blew the vessels far off their course, and often calm brought unbearably long delay.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2015:translation:passage:p-section2-part-c-4:232",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-c-4",
+      "text": "To the anxious travelers the sight of the American shore brought almost inexpressible relief. Said one recorder of events, \"The air at twelve leagues' distance smelt as sweet as a new-blown garden.\" The colonists' first glimpse of the new land was a sight of dense woods. (50)The virgin forest with its richness and variety of trees was a real treasure-house which extended from Maine all the way down to Georgia. Here was abundant fuel and lumber. Here was the raw material of houses and furniture, ships and potash, dyes and naval stores.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2015:writing_a:writing:directions-section3-part-a:233",
+      "section": "writing_a",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-a",
+      "text": "51.Directions: You are going to host a club reading session. Write an email of about 100 words recommending a book to the club members. You should state reasons for your recommendation. You should write neatly on the ANSWER SHEET. Do not sign your own name at the end of the letter, use “Li Ming ” instead. Do not write the address. (10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2015:writing_b:writing:directions-section3-part-b:234",
+      "section": "writing_b",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-b",
+      "text": "52.Directions: Write an essay of 160-200 words based on the following picture. In your essay, you should 1）describe the picture briefly, 2）interpret its intended meaning, and 3）give your comments. You should write neatly on ANSWER SHEET. (20 points)",
+      "pdf_pages": [
+        12
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "section": "writing_b",
+      "url": "https://img-paper.lazynote.cn/2025/08/08/uuTgMQFx.jpg",
+      "source_description": "这是一幅标题为“手机时代的聚会”的黑白漫画",
+      "description_is_exam_text": false,
+      "path": "images/exam_bank/2015-figure-1.jpg",
+      "sha256": "1a58b6bf57d35cc2e8f19029e2930e9f67a2194e04ab2c3be3dbf0f436c652a3"
+    }
+  ],
+  "quality_note": "第三方整理版。已检查9个题型模块、完形20题选项、阅读20题题干选项及PDF可读性；未逐字人工校对。来源PDF缺作文配图，配图已单独保存并补入本地整卷页。新题型不重排、不填答案。原句自动切分，入生词库前结合原段核对。"
+}

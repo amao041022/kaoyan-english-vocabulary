@@ -1,0 +1,19 @@
+{
+  "year": 2007,
+  "paper_id": "2007-english-one",
+  "title": "2007年考研英语（分卷前旧卷）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2007/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2007/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%EF%BC%88%E6%97%A7%EF%BC%892007%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:36.684767+00:00",
+  "html": {
+    "path": "images/exam_bank/2007.html",
+    "sha256": "0836a3e1df3bf76896140a4e50252a19b8834c7c9c8dcf6bedcbb1cc769c7cff",
+    "bytes": 224173
+  },
+  "pdf": {
+    "path": "images/exam_bank/2007.pdf",
+    "sha256": "69c14a202c8b7adaf2c0f3300fd5f2935149f915ed476e71d4df6a2df35f2046",
+    "bytes": 218162
+  }
+}

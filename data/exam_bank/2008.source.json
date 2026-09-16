@@ -1,0 +1,19 @@
+{
+  "year": 2008,
+  "paper_id": "2008-english-one",
+  "title": "2008年考研英语（分卷前旧卷）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2008/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2008/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%EF%BC%88%E6%97%A7%EF%BC%892008%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:36.686072+00:00",
+  "html": {
+    "path": "images/exam_bank/2008.html",
+    "sha256": "823d429982f82a8af2acd13cb36086596dda5651d5509280b498e63655ef518e",
+    "bytes": 224776
+  },
+  "pdf": {
+    "path": "images/exam_bank/2008.pdf",
+    "sha256": "c3e1132b40f0f1da8c30841b8656cd563497e66bc723e75d125dc781e4dc3167",
+    "bytes": 223570
+  }
+}

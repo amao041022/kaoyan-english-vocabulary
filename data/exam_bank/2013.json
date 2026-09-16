@@ -1,0 +1,2332 @@
+{
+  "schema_version": 1,
+  "year": 2013,
+  "title": "2013年考研英语（一）",
+  "source_url": "https://english-exam.lazynote.cn/kaoyan/paper/2013-english-one/",
+  "pdf": "images/exam_bank/2013.pdf",
+  "pdf_page_count": 12,
+  "sections": {
+    "cloze": 85,
+    "text1": 32,
+    "text2": 32,
+    "text3": 32,
+    "text4": 32,
+    "new_type": 15,
+    "translation": 4,
+    "writing_a": 1,
+    "writing_b": 1
+  },
+  "records": [
+    {
+      "id": "2013:cloze:directions:directions-section1:1",
+      "section": "cloze",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section1",
+      "text": "Directions: Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2013:cloze:passage:p-section1-1:2",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section1-1",
+      "text": "People are, on the whole, poor at considering background information when making individual decisions. At first glance this might seem like a strength that __1__ the ability to make judgments which are unbiased by __2__ factors. But Dr Uri Simonsohn speculated that an inability to consider the big __3__ was leading decision-makers to be biased by the daily samples of information they were working with. __4__ , he theorised that a judge __5__ of appearing too soft __6__ crime might be more likely to send someone to prison __7__ he had already sentenced five or six other defendants only to forced community service on that day.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2013:cloze:passage:p-section1-2:3",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section1-2",
+      "text": "To __8__ this idea, he turned to the university-admissions process. In theory, the __9__ of an applicant should not depend on the few others __10__ randomly for interview during the same day, but Dr Simonsohn suspected the truth was __11__ .",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:passage:p-section1-3:4",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section1-3",
+      "text": "He studied the results of 9,323 MBA interviews __12__ by 31 admissions officers. The interviewers had __13__ applicants on a scale of one to five. This scale __14__ numerous factors into consideration. The scores were __15__ used in conjunction with an applicant's score on the Graduate Management Admission Test, or GMAT, a standardised exam which is __16__ out of 800 points, to make a decision on whether to accept him or her.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:passage:p-section1-4:5",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section1-4",
+      "text": "Dr Simonsohn found if the score of the previous candidate in a daily series of interviewees was 0.75 points or more higher than that of the one __17__ that, then the score for the next applicant would __18__ by an average of 0.075 points. This might sound small, but to __19__ the effects of such a decrease a candidate would need 30 more GMAT points than would otherwise have been __20__ .",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2013:cloze:option:qp-1:6",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 A 选项",
+      "anchor": "qp-1",
+      "text": "grants",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-1:7",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 B 选项",
+      "anchor": "qp-1",
+      "text": "submits",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-1:8",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 C 选项",
+      "anchor": "qp-1",
+      "text": "transmits",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-1:9",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 D 选项",
+      "anchor": "qp-1",
+      "text": "delivers",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-2:10",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 A 选项",
+      "anchor": "qp-2",
+      "text": "minor",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-2:11",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 B 选项",
+      "anchor": "qp-2",
+      "text": "external",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-2:12",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 C 选项",
+      "anchor": "qp-2",
+      "text": "crucial",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-2:13",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 D 选项",
+      "anchor": "qp-2",
+      "text": "objective",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-3:14",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 A 选项",
+      "anchor": "qp-3",
+      "text": "issue",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-3:15",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 B 选项",
+      "anchor": "qp-3",
+      "text": "vision",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-3:16",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 C 选项",
+      "anchor": "qp-3",
+      "text": "picture",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-3:17",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 D 选项",
+      "anchor": "qp-3",
+      "text": "moment",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-4:18",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 A 选项",
+      "anchor": "qp-4",
+      "text": "Above all",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-4:19",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 B 选项",
+      "anchor": "qp-4",
+      "text": "On average",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-4:20",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 C 选项",
+      "anchor": "qp-4",
+      "text": "In principle",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-4:21",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 D 选项",
+      "anchor": "qp-4",
+      "text": "For example",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-5:22",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 A 选项",
+      "anchor": "qp-5",
+      "text": "fond",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-5:23",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 B 选项",
+      "anchor": "qp-5",
+      "text": "fearful",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-5:24",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 C 选项",
+      "anchor": "qp-5",
+      "text": "capable",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-5:25",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 D 选项",
+      "anchor": "qp-5",
+      "text": "thoughtless",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-6:26",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 A 选项",
+      "anchor": "qp-6",
+      "text": "in",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-6:27",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 B 选项",
+      "anchor": "qp-6",
+      "text": "for",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-6:28",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 C 选项",
+      "anchor": "qp-6",
+      "text": "to",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-6:29",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 D 选项",
+      "anchor": "qp-6",
+      "text": "on",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-7:30",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 A 选项",
+      "anchor": "qp-7",
+      "text": "if",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-7:31",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 B 选项",
+      "anchor": "qp-7",
+      "text": "until",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-7:32",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 C 选项",
+      "anchor": "qp-7",
+      "text": "though",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-7:33",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 D 选项",
+      "anchor": "qp-7",
+      "text": "unless",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-8:34",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 A 选项",
+      "anchor": "qp-8",
+      "text": "test",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-8:35",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 B 选项",
+      "anchor": "qp-8",
+      "text": "emphasize",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-8:36",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 C 选项",
+      "anchor": "qp-8",
+      "text": "share",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-8:37",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 D 选项",
+      "anchor": "qp-8",
+      "text": "promote",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-9:38",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 A 选项",
+      "anchor": "qp-9",
+      "text": "decision",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-9:39",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 B 选项",
+      "anchor": "qp-9",
+      "text": "quality",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-9:40",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 C 选项",
+      "anchor": "qp-9",
+      "text": "status",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-9:41",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 D 选项",
+      "anchor": "qp-9",
+      "text": "success",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-10:42",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 A 选项",
+      "anchor": "qp-10",
+      "text": "found",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-10:43",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 B 选项",
+      "anchor": "qp-10",
+      "text": "studied",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-10:44",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 C 选项",
+      "anchor": "qp-10",
+      "text": "chosen",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-10:45",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 D 选项",
+      "anchor": "qp-10",
+      "text": "identified",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-11:46",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 A 选项",
+      "anchor": "qp-11",
+      "text": "otherwise",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-11:47",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 B 选项",
+      "anchor": "qp-11",
+      "text": "defensible",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-11:48",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 C 选项",
+      "anchor": "qp-11",
+      "text": "replaceable",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-11:49",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 D 选项",
+      "anchor": "qp-11",
+      "text": "exceptional",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-12:50",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 A 选项",
+      "anchor": "qp-12",
+      "text": "inspired",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-12:51",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 B 选项",
+      "anchor": "qp-12",
+      "text": "expressed",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-12:52",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 C 选项",
+      "anchor": "qp-12",
+      "text": "conducted",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-12:53",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 D 选项",
+      "anchor": "qp-12",
+      "text": "secured",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-13:54",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 A 选项",
+      "anchor": "qp-13",
+      "text": "assigned",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-13:55",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 B 选项",
+      "anchor": "qp-13",
+      "text": "rated",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-13:56",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 C 选项",
+      "anchor": "qp-13",
+      "text": "matched",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-13:57",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 D 选项",
+      "anchor": "qp-13",
+      "text": "arranged",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-14:58",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 A 选项",
+      "anchor": "qp-14",
+      "text": "put",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-14:59",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 B 选项",
+      "anchor": "qp-14",
+      "text": "got",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-14:60",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 C 选项",
+      "anchor": "qp-14",
+      "text": "took",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-14:61",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 D 选项",
+      "anchor": "qp-14",
+      "text": "gave",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-15:62",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 A 选项",
+      "anchor": "qp-15",
+      "text": "instead",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-15:63",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 B 选项",
+      "anchor": "qp-15",
+      "text": "then",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-15:64",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 C 选项",
+      "anchor": "qp-15",
+      "text": "ever",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-15:65",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 D 选项",
+      "anchor": "qp-15",
+      "text": "rather",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-16:66",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 A 选项",
+      "anchor": "qp-16",
+      "text": "selected",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-16:67",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 B 选项",
+      "anchor": "qp-16",
+      "text": "passed",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-16:68",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 C 选项",
+      "anchor": "qp-16",
+      "text": "marked",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-16:69",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 D 选项",
+      "anchor": "qp-16",
+      "text": "introduced",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-17:70",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 A 选项",
+      "anchor": "qp-17",
+      "text": "below",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-17:71",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 B 选项",
+      "anchor": "qp-17",
+      "text": "after",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-17:72",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 C 选项",
+      "anchor": "qp-17",
+      "text": "above",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-17:73",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 D 选项",
+      "anchor": "qp-17",
+      "text": "before",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-18:74",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 A 选项",
+      "anchor": "qp-18",
+      "text": "jump",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-18:75",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 B 选项",
+      "anchor": "qp-18",
+      "text": "float",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-18:76",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 C 选项",
+      "anchor": "qp-18",
+      "text": "fluctuate",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-18:77",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 D 选项",
+      "anchor": "qp-18",
+      "text": "drop",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-19:78",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 A 选项",
+      "anchor": "qp-19",
+      "text": "achieve",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-19:79",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 B 选项",
+      "anchor": "qp-19",
+      "text": "undo",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-19:80",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 C 选项",
+      "anchor": "qp-19",
+      "text": "maintain",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-19:81",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 D 选项",
+      "anchor": "qp-19",
+      "text": "disregard",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-20:82",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 A 选项",
+      "anchor": "qp-20",
+      "text": "necessary",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-20:83",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 B 选项",
+      "anchor": "qp-20",
+      "text": "possible",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-20:84",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 C 选项",
+      "anchor": "qp-20",
+      "text": "promising",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:cloze:option:qp-20:85",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 D 选项",
+      "anchor": "qp-20",
+      "text": "helpful",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:directions:directions-section2-part-a-1:86",
+      "section": "text1",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-a-1",
+      "text": "Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "id": "2013:text1:passage:p-section2-part-a-1-1:87",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-1-1",
+      "text": "In the 2006 film version of The Devil Wears Prada, Miranda Priestly, played by Meryl Streep, scolds her unattractive assistant for imagining that high fashion doesn't affect her. Priestly explains how the deep blue color of the assistant's sweater descended over the years from fashion shows to department stores and to the bargain bin in which the poor girl doubtless found her garment.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2013:text1:passage:p-section2-part-a-1-2:88",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-1-2",
+      "text": "This top-down conception of the fashion business couldn't be more out of date or at odds with the feverish world described in Overdressed, Elizabeth Cline's three-year indictment of \"fast fashion\". In the last decade or so, advances in technology have allowed mass-market labels such as Zara, H&M, and Uniqlo to react to trends more quickly and anticipate demand more precisely. Quicker turnarounds mean less wasted inventory, more frequent releases, and more profit. These labels encourage style-conscious consumers to see clothes as disposable – meant to last only a wash or two, although they don't advertise that – and to renew their wardrobe every few weeks. By offering on-trend items at dirt-cheap prices, Cline argues, these brands have hijacked fashion cycles, shaking an industry long accustomed to a seasonal pace.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2013:text1:passage:p-section2-part-a-1-3:89",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-1-3",
+      "text": "The victims of this revolution, of course, are not limited to designers. For H&M to offer a $5.95 knit miniskirt in all its 2,300-plus stores around the world, it must rely on low-wage overseas labor, order in volumes that strain natural resources, and use massive amounts of harmful chemicals.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2013:text1:passage:p-section2-part-a-1-4:90",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-1-4",
+      "text": "Overdressed is the fashion world's answer to consumer-activist bestsellers like Michael Pollan's The Omnivore's Dilemma. \"Mass-produced clothing, like fast food, fills a hunger and need, yet is non-durable and wasteful,\" Cline argues. Americans, she finds, buy roughly 20 billion garments a year – about 64 items per person – and no matter how much they give away, this excess leads to waste.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2013:text1:passage:p-section2-part-a-1-5:91",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-1-5",
+      "text": "Towards the end of Overdressed, Cline introduced her ideal, a Brooklyn woman named Sarah Kate Beaumont, who since 2008 has made all of her own clothes – and beautifully. But as Cline is the first to note, it took Beaumont decades to perfect her craft; her example can't be knocked off.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2013:text1:passage:p-section2-part-a-1-6:92",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-1-6",
+      "text": "Though several fast-fashion companies have made efforts to curb their impact on labor and the environment – including H&M, with its green Conscious Collection line – Cline believes lasting change can only be effected by the customer. She exhibits the idealism common to many advocates of sustainability, be it in food or in energy. Vanity is a constant; people will only start shopping more sustainably when they can't afford not to.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2013:text1:question:qp-21:93",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 21 题题干",
+      "anchor": "qp-21",
+      "text": "Priestly criticizes her assistant for her____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2013:text1:option:qp-21:94",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 A 选项",
+      "anchor": "qp-21",
+      "text": "insensitivity to fashion.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:option:qp-21:95",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 B 选项",
+      "anchor": "qp-21",
+      "text": "obsession with high fashion.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:option:qp-21:96",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 C 选项",
+      "anchor": "qp-21",
+      "text": "poor bargaining skill.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:option:qp-21:97",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 D 选项",
+      "anchor": "qp-21",
+      "text": "lack of imagination.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:question:qp-22:98",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 22 题题干",
+      "anchor": "qp-22",
+      "text": "According to Cline, mass-market labels urge consumers to____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2013:text1:option:qp-22:99",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 A 选项",
+      "anchor": "qp-22",
+      "text": "combat unnecessary waste.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:option:qp-22:100",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 B 选项",
+      "anchor": "qp-22",
+      "text": "shop for their garments more frequently.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2013:text1:option:qp-22:101",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 C 选项",
+      "anchor": "qp-22",
+      "text": "resist the influence of advertisements.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2013:text1:option:qp-22:102",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 D 选项",
+      "anchor": "qp-22",
+      "text": "shut out the feverish fashion world.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:question:qp-23:103",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 23 题题干",
+      "anchor": "qp-23",
+      "text": "The word \"indictment\" (Line 3, Para. 2) is closest in meaning to ____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2013:text1:option:qp-23:104",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 A 选项",
+      "anchor": "qp-23",
+      "text": "tolerance.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:option:qp-23:105",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 B 选项",
+      "anchor": "qp-23",
+      "text": "indifference.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:option:qp-23:106",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 C 选项",
+      "anchor": "qp-23",
+      "text": "enthusiasm.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:option:qp-23:107",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 D 选项",
+      "anchor": "qp-23",
+      "text": "accusation.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:question:qp-24:108",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 24 题题干",
+      "anchor": "qp-24",
+      "text": "Which of the following can be inferred from the last paragraph?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2013:text1:option:qp-24:109",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 A 选项",
+      "anchor": "qp-24",
+      "text": "Vanity has more often been found in idealists.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2013:text1:option:qp-24:110",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 B 选项",
+      "anchor": "qp-24",
+      "text": "The fast-fashion industry ignores sustainability.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2013:text1:option:qp-24:111",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 C 选项",
+      "anchor": "qp-24",
+      "text": "Pricing is vital to environment-friendly purchasing.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2013:text1:option:qp-24:112",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 D 选项",
+      "anchor": "qp-24",
+      "text": "People are more interested in unaffordable garments.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2013:text1:question:qp-25:113",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 25 题题干",
+      "anchor": "qp-25",
+      "text": "What is the subject of the text?",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:option:qp-25:114",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 A 选项",
+      "anchor": "qp-25",
+      "text": "Satire on an extravagant lifestyle.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:option:qp-25:115",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 B 选项",
+      "anchor": "qp-25",
+      "text": "Challenge to a high-fashion myth.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text1:option:qp-25:116",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 C 选项",
+      "anchor": "qp-25",
+      "text": "Criticism of the fast-fashion industry.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2013:text1:option:qp-25:117",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 D 选项",
+      "anchor": "qp-25",
+      "text": "Exposure of a mass-market secret.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:passage:p-section2-part-a-2-1:118",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-2-1",
+      "text": "An old saying has it that half of all advertising budgets are wasted – the trouble is, no one knows which half. In the internet age, at least in theory, this fraction can be much reduced. By watching what people search for, click on and say online, companies can aim \"behavioural\" ads at those most likely to buy.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2013:text2:passage:p-section2-part-a-2-2:119",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-2-2",
+      "text": "In the past couple of weeks a quarrel has illustrated the value to advertisers of such fine-grained information: Should advertisers assume that people are happy to be tracked and sent behavioural ads? Or should they have explicit permission?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2013:text2:passage:p-section2-part-a-2-3:120",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-2-3",
+      "text": "In December 2010 America's Federal Trade Commission (FTC) proposed adding a \"do not track\" (DNT) option to internet browsers, so that users could tell advertisers that they did not want to be followed. Microsoft's Internet Explorer and Apple's Safari both offer DNT; Google's Chrome is due to do so this year. In February the FTC and the Digital Advertising Alliance (DAA) agreed that the industry would get cracking on responding to DNT requests.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2013:text2:passage:p-section2-part-a-2-4:121",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-2-4",
+      "text": "On May 31st Microsoft set off the row. It said that Internet Explorer 10, the version due to appear with Windows 8, would have DNT as a default.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2013:text2:passage:p-section2-part-a-2-5:122",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-2-5",
+      "text": "Advertisers are horrified. Human nature being what it is, most people stick with default settings. Few switch DNT on now, but if tracking is off it will stay off. Bob Liodice, the chief executive of the Association of National Advertisers, says consumers will be worse off if the industry cannot collect information about their preferences. People will not get fewer ads, he says. \"They'll get less meaningful, less targeted ads.\"",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2013:text2:passage:p-section2-part-a-2-6:123",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-2-6",
+      "text": "It is not yet clear how advertisers will respond. Getting a DNT signal does not oblige anyone to stop tracking, although some companies have promised to do so. Unable to tell whether someone really objects to behavioural ads or whether they are sticking with Microsoft's default, some may ignore a DNT signal and press on anyway.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2013:text2:passage:p-section2-part-a-2-7:124",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-2-7",
+      "text": "Also unclear is why Microsoft has gone it alone. After all, it has an ad business too, which it says will comply with DNT requests, though it is still working out how. If it is trying to upset Google, which relies almost wholly on advertising, it has chosen an indirect method: there is no guarantee that DNT by default will become the norm. DNT does not seem an obviously huge selling point for windows 8 – though the firm has compared some of its other products favourably with Google's on that count before. Brendon Lynch, Microsoft's chief privacy officer, blogged: \"We believe consumers should have more control.\" Could it really be that simple?",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2013:text2:question:qp-26:125",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 26 题题干",
+      "anchor": "qp-26",
+      "text": "It is suggested in Paragraph 1 that \"behavioural\" ads help advertisers to____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2013:text2:option:qp-26:126",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 A 选项",
+      "anchor": "qp-26",
+      "text": "provide better online services.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:option:qp-26:127",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 B 选项",
+      "anchor": "qp-26",
+      "text": "ease competition among themselves.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:option:qp-26:128",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 C 选项",
+      "anchor": "qp-26",
+      "text": "avoid complaints from consumers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:option:qp-26:129",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 D 选项",
+      "anchor": "qp-26",
+      "text": "lower their operational costs.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:question:qp-27:130",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 27 题题干",
+      "anchor": "qp-27",
+      "text": "\"the industry\" (Line 5, Para. 3) refers to ____",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:option:qp-27:131",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 A 选项",
+      "anchor": "qp-27",
+      "text": "internet browser developers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:option:qp-27:132",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 B 选项",
+      "anchor": "qp-27",
+      "text": "digital information analysts.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:option:qp-27:133",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 C 选项",
+      "anchor": "qp-27",
+      "text": "e-commerce conductors.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:option:qp-27:134",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 D 选项",
+      "anchor": "qp-27",
+      "text": "online advertisers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:question:qp-28:135",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 28 题题干",
+      "anchor": "qp-28",
+      "text": "Bob Liodice holds that setting DNT as a default____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2013:text2:option:qp-28:136",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 A 选项",
+      "anchor": "qp-28",
+      "text": "may cut the number of junk ads.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:option:qp-28:137",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 B 选项",
+      "anchor": "qp-28",
+      "text": "fails to affect the ad industry.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:option:qp-28:138",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 C 选项",
+      "anchor": "qp-28",
+      "text": "will not benefit consumers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:option:qp-28:139",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 D 选项",
+      "anchor": "qp-28",
+      "text": "goes against human nature.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:question:qp-29:140",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 29 题题干",
+      "anchor": "qp-29",
+      "text": "Which of the following is true according to Paragraph 6?",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2013:text2:option:qp-29:141",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 A 选项",
+      "anchor": "qp-29",
+      "text": "Advertisers are willing to implement DNT.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2013:text2:option:qp-29:142",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 B 选项",
+      "anchor": "qp-29",
+      "text": "DNT may not serve its intended purpose.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2013:text2:option:qp-29:143",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 C 选项",
+      "anchor": "qp-29",
+      "text": "DNT is losing its popularity among consumers.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2013:text2:option:qp-29:144",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 D 选项",
+      "anchor": "qp-29",
+      "text": "Advertisers are obliged to offer behavioural ads.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2013:text2:question:qp-30:145",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 30 题题干",
+      "anchor": "qp-30",
+      "text": "The author's attitude towards what Brendon Lynch said in his blog is one of____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2013:text2:option:qp-30:146",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 A 选项",
+      "anchor": "qp-30",
+      "text": "indulgence.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:option:qp-30:147",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 B 选项",
+      "anchor": "qp-30",
+      "text": "understanding.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:option:qp-30:148",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 C 选项",
+      "anchor": "qp-30",
+      "text": "appreciation.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text2:option:qp-30:149",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 D 选项",
+      "anchor": "qp-30",
+      "text": "skepticism.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:passage:p-section2-part-a-3-1:150",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-3-1",
+      "text": "Up until a few decades ago, our visions of the future were largely – though by no means uniformly – glowingly positive. Science and technology would cure all the ills of humanity, leading to lives of fulfilment and opportunity for all.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2013:text3:passage:p-section2-part-a-3-2:151",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-3-2",
+      "text": "Now utopia has grown unfashionable, as we have gained a deeper appreciation of the range of threats facing us, from asteroid strike to epidemic flu and to climate change. You might even be tempted to assume that humanity has little future to look forward to.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2013:text3:passage:p-section2-part-a-3-3:152",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-3-3",
+      "text": "But such gloominess is misplaced. The fossil record shows that many species have endured for millions of years – so why shouldn't we? Take a broader look at our species' place in the universe, and it becomes clear that we have an excellent chance of surviving for tens, if not hundreds, of thousands of years. Look up Homo sapiens in the \"Red List\" of threatened species of the International Union for the Conservation of Nature (IUCN) and you will read: \"Listed as Least Concern as the species is very widely distributed, adaptable, currently increasing, and there are no major threats resulting in an overall population decline.\"",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2013:text3:passage:p-section2-part-a-3-4:153",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-3-4",
+      "text": "So what does our deep future hold? A growing number of researchers and organisations are now thinking seriously about that question. For example, the Long Now Foundation has as its flagship project a mechanical clock that is designed to still be marking time thousands of years hence.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2013:text3:passage:p-section2-part-a-3-5:154",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-3-5",
+      "text": "Perhaps willfully, it may be easier to think about such lengthy timescales than about the more immediate future. The potential evolution of today's technology, and its social consequences, is dazzlingly complicated, and it's perhaps best left to science fiction writers and futurologists to explore the many possibilities we can envisage. That's one reason why we have launched Arc, a new publication dedicated to the near future.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2013:text3:passage:p-section2-part-a-3-6:155",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-3-6",
+      "text": "But take a longer view and there is a surprising amount that we can say with considerable assurance. As so often, the past holds the key to the future: we have now identified enough of the long-term patterns shaping the history of the planet, and our species, to make evidence-based forecasts about the situations in which our descendants will find themselves.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2013:text3:passage:p-section2-part-a-3-7:156",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-3-7",
+      "text": "This long perspective makes the pessimistic view of our prospects seem more likely to be a passing fad. To be sure, the future is not all rosy. But we are now knowledgeable enough to reduce many of the risks that threatened the existence of earlier humans, and to improve the lot of those to come.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2013:text3:question:qp-31:157",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 31 题题干",
+      "anchor": "qp-31",
+      "text": "Our vision of the future used to be inspired by____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2013:text3:option:qp-31:158",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 A 选项",
+      "anchor": "qp-31",
+      "text": "our desire for lives of fulfillment.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:option:qp-31:159",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 B 选项",
+      "anchor": "qp-31",
+      "text": "our faith in science and technology.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:option:qp-31:160",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 C 选项",
+      "anchor": "qp-31",
+      "text": "our awareness of potential risks.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:option:qp-31:161",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 D 选项",
+      "anchor": "qp-31",
+      "text": "our belief in equal opportunity.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:question:qp-32:162",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 32 题题干",
+      "anchor": "qp-32",
+      "text": "The IUCN's \"Red List\" suggests that human beings are____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2013:text3:option:qp-32:163",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 A 选项",
+      "anchor": "qp-32",
+      "text": "a sustained species.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:option:qp-32:164",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 B 选项",
+      "anchor": "qp-32",
+      "text": "the world's dominant power.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:option:qp-32:165",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 C 选项",
+      "anchor": "qp-32",
+      "text": "a threat to the environment.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:option:qp-32:166",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 D 选项",
+      "anchor": "qp-32",
+      "text": "a misplaced race.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:question:qp-33:167",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 33 题题干",
+      "anchor": "qp-33",
+      "text": "Which of the following is true according to Paragraph 5?",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2013:text3:option:qp-33:168",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 A 选项",
+      "anchor": "qp-33",
+      "text": "The interest in science fiction is on the rise.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2013:text3:option:qp-33:169",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 B 选项",
+      "anchor": "qp-33",
+      "text": "Arc helps limit the scope of futurological studies.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2013:text3:option:qp-33:170",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 C 选项",
+      "anchor": "qp-33",
+      "text": "Technology offers solutions to social problems.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2013:text3:option:qp-33:171",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 D 选项",
+      "anchor": "qp-33",
+      "text": "Our immediate future is hard to conceive.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2013:text3:question:qp-34:172",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 34 题题干",
+      "anchor": "qp-34",
+      "text": "To ensure the future of mankind, it is crucial to____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2013:text3:option:qp-34:173",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 A 选项",
+      "anchor": "qp-34",
+      "text": "adopt an optimistic view of the world.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:option:qp-34:174",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 B 选项",
+      "anchor": "qp-34",
+      "text": "draw on our experience from the past.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:option:qp-34:175",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 C 选项",
+      "anchor": "qp-34",
+      "text": "explore our planet's abundant resources.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2013:text3:option:qp-34:176",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 D 选项",
+      "anchor": "qp-34",
+      "text": "curb our ambition to reshape history.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:question:qp-35:177",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 35 题题干",
+      "anchor": "qp-35",
+      "text": "Which of the following would be the best title for the text?",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2013:text3:option:qp-35:178",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 A 选项",
+      "anchor": "qp-35",
+      "text": "The Ever-bright Prospects of Mankind.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:option:qp-35:179",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 B 选项",
+      "anchor": "qp-35",
+      "text": "Science, Technology and Humanity.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:option:qp-35:180",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 C 选项",
+      "anchor": "qp-35",
+      "text": "Evolution of the Human Species.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text3:option:qp-35:181",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 D 选项",
+      "anchor": "qp-35",
+      "text": "Uncertainty about Our Future.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text4:passage:p-section2-part-a-4-1:182",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-4-1",
+      "text": "On a five to three vote, the Supreme Court knocked out much of Arizona's immigration law Monday – a modest policy victory for the Obama Administration. But on the more important matter of the Constitution, the decision was an 8-0 defeat for the Administration's effort to upset the balance of power between the federal government and the states.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2013:text4:passage:p-section2-part-a-4-2:183",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-4-2",
+      "text": "In Arizona v. United States, the majority overturned three of the four contested provisions of Arizona's controversial plan to have state and local police enforce federal immigration law. The Constitutional principles that Washington alone has the power to \"establish a uniform Rule of Naturalization\" and that federal laws precede state laws are noncontroversial. Arizona had attempted to fashion state policies that ran parallel to the existing federal ones.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2013:text4:passage:p-section2-part-a-4-3:184",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-4-3",
+      "text": "Justice Anthony Kennedy, joined by Chief Justice John Roberts and the Court's liberals, ruled that the state flew too close to the federal sun. On the overturned provisions the majority held Congress had deliberately \"occupied the field\" and Arizona had thus intruded on the federal's privileged powers.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2013:text4:passage:p-section2-part-a-4-4:185",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-4-4",
+      "text": "However, the Justices said that Arizona police would be allowed to verify the legal status of people who come in contact with law enforcement. That's because Congress has always envisioned joint federal-state immigration enforcement and explicitly encourages state officers to share information and cooperate with federal colleagues.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2013:text4:passage:p-section2-part-a-4-5:186",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-4-5",
+      "text": "Two of the three objecting Justices – Samuel Alito and Clarence Thomas – agreed with this Constitutional logic but disagreed about which Arizona rules conflicted with the federal statute. The only major objection came from Justice Antonin Scalia, who offered an even more robust defense of state privileges going back to the Alien and Sedition Acts.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2013:text4:passage:p-section2-part-a-4-6:187",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-4-6",
+      "text": "The 8-0 objection to President Obama turns on what Justice Samuel Alito describes in his objection as \"a shocking assertion of federal executive power\". The White House argued that Arizona's laws conflicted with its enforcement priorities, even if state laws complied with federal statutes to the letter. In effect, the White House claimed that it could invalidate any otherwise legitimate state law that it disagrees with.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2013:text4:passage:p-section2-part-a-4-7:188",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-4-7",
+      "text": "Some powers do belong exclusively to the federal government, and control of citizenship and the borders is among them. But if Congress wanted to prevent states from using their own resources to check immigration status, it could. It never did so. The Administration was in essence asserting that because it didn't want to carry out Congress's immigration wishes, no state should be allowed to do so either. Every Justice rightly rejected this remarkable claim.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2013:text4:question:qp-36:189",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 36 题题干",
+      "anchor": "qp-36",
+      "text": "Three provisions of Arizona's plan were overturned because they____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-36:190",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 A 选项",
+      "anchor": "qp-36",
+      "text": "disturbed the power balance between different states.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-36:191",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 B 选项",
+      "anchor": "qp-36",
+      "text": "overstepped the authority of federal immigration law.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-36:192",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 C 选项",
+      "anchor": "qp-36",
+      "text": "deprived the federal police of Constitutional powers.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-36:193",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 D 选项",
+      "anchor": "qp-36",
+      "text": "contradicted both the federal and state policies.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:question:qp-37:194",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 37 题题干",
+      "anchor": "qp-37",
+      "text": "On which of the following did the Justices agree, according to Paragraph 4?",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-37:195",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 A 选项",
+      "anchor": "qp-37",
+      "text": "Congress's intervention in immigration enforcement.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-37:196",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 B 选项",
+      "anchor": "qp-37",
+      "text": "Federal officers' duty to withhold immigrants' information.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-37:197",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 C 选项",
+      "anchor": "qp-37",
+      "text": "States' legitimate role in immigration enforcement.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-37:198",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 D 选项",
+      "anchor": "qp-37",
+      "text": "States' independence from federal immigration law.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:question:qp-38:199",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 38 题题干",
+      "anchor": "qp-38",
+      "text": "It can be inferred from Paragraph 5 that the Alien and Sedition Acts____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-38:200",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 A 选项",
+      "anchor": "qp-38",
+      "text": "stood in favor of the states.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text4:option:qp-38:201",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 B 选项",
+      "anchor": "qp-38",
+      "text": "supported the federal statute.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text4:option:qp-38:202",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 C 选项",
+      "anchor": "qp-38",
+      "text": "undermined the states' interests.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text4:option:qp-38:203",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 D 选项",
+      "anchor": "qp-38",
+      "text": "violated the Constitution.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text4:question:qp-39:204",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 39 题题干",
+      "anchor": "qp-39",
+      "text": "The White House claims that its power of enforcement____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-39:205",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 A 选项",
+      "anchor": "qp-39",
+      "text": "is dependent on the states' support.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text4:option:qp-39:206",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 B 选项",
+      "anchor": "qp-39",
+      "text": "is established by federal statutes.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text4:option:qp-39:207",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 C 选项",
+      "anchor": "qp-39",
+      "text": "outweighs that held by the states.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text4:option:qp-39:208",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 D 选项",
+      "anchor": "qp-39",
+      "text": "rarely goes against state laws.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:text4:question:qp-40:209",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 40 题题干",
+      "anchor": "qp-40",
+      "text": "What can be learned from the last paragraph?",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-40:210",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 A 选项",
+      "anchor": "qp-40",
+      "text": "Immigration issues are usually decided by Congress.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-40:211",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 B 选项",
+      "anchor": "qp-40",
+      "text": "The Administration is dominant over immigration issues.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-40:212",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 C 选项",
+      "anchor": "qp-40",
+      "text": "Justices wanted to strengthen its coordination with Congress.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:text4:option:qp-40:213",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 D 选项",
+      "anchor": "qp-40",
+      "text": "Justices intended to check the power of the Administration.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:new_type:directions:directions-section2-part-b:214",
+      "section": "new_type",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-b",
+      "text": "Directions: In the following text, some sentences have been removed. For Questions 41-45 , choose the most suitable one from the list A-G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:new_type:passage:p-section2-part-b-1:215",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-b-1",
+      "text": "The social sciences are flourishing. As of 2005, there were almost half a million professional social scientists from all fields in the world, working both inside and outside academia. According to the World Social Science Report 2010, the number of social-science students worldwide has swollen by about 11% every year since 2000.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:new_type:passage:p-section2-part-b-2:216",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-b-2",
+      "text": "Yet this enormous resource is not contributing enough to today's global challenges, including climate change, security, sustainable development and health. (41) ______ Humanity has the necessary agro-technological tools to eradicate hunger, from genetically engineered crops to artificial fertilizers. Here, too, the problems are social: the organization and distribution of food, wealth and prosperity.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2013:new_type:passage:p-section2-part-b-3:217",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-b-3",
+      "text": "(42) ______ This is a shame – the community should be grasping the opportunity to raise its influence in the real world. To paraphrase the great social scientist Joseph Schumpeter: there is no radical innovation without creative destruction.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2013:new_type:passage:p-section2-part-b-4:218",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-b-4",
+      "text": "Today, the social sciences are largely focused on disciplinary problems and internal scholarly debates, rather than on topics with external impact. Analyses reveal that the number of papers including the keywords \"environmental change\" or \"climate change\" has increased rapidly since 2004. (43) ______",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2013:new_type:passage:p-section2-part-b-5:219",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-b-5",
+      "text": "When social scientists do tackle practical issues, their scope is often local: Belgium is interested mainly in the effects of poverty on Belgium, for example. And whether the community's work contributes much to an overall accumulation of knowledge is doubtful.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2013:new_type:passage:p-section2-part-b-6:220",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-b-6",
+      "text": "The problem is not necessarily the amount of available funding. (44) ______ This is an adequate amount so long as it is aimed in the right direction. Social scientists who complain about a lack of funding should not expect more in today's economic climate.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2013:new_type:passage:p-section2-part-b-7:221",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-b-7",
+      "text": "The trick is to direct these funds better. The European Union Framework funding programs have long had a category specifically targeted at social scientists. This year, it was proposed that the system be changed: Horizon 2020, a new program to be enacted in 2014, would not have such a category. This has resulted in protests from social scientists. But the intention is not to neglect social science; rather, the complete opposite. (45) ______ That should create more collaborative endeavors and help to develop projects aimed directly at solving global problems.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2013:new_type:option:mod-section2-part-b:222",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 A 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "The idea is to force social scientists to integrate their work with other categories, including health and demographic change; food security; marine research and the bio-economy; clean, efficient energy; and inclusive, innovative and secure societies.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2013:new_type:option:mod-section2-part-b:223",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 B 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "The solution is to change the mindset of the academic community, and what it considers to be its main goal. Global challenges and social innovation ought to receive much more attention from scientists, especially the young ones.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2013:new_type:option:mod-section2-part-b:224",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 C 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "It could be that we are evolving two communities of social scientists: one that is discipline-oriented and publishing in highly specialized journals, and one that is problem-oriented and publishing elsewhere, such as policy briefs.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2013:new_type:option:mod-section2-part-b:225",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 D 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "However, the numbers are still small: in 2010, about 1,600 of the 100,000 social-sciences papers published globally included one of these keywords.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2013:new_type:option:mod-section2-part-b:226",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 E 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "These issues all have root causes in human behavior: all require behavioral change and social innovations, as well as technological development. Stemming climate change, for example, is as much about changing consumption patterns and promoting tax acceptance as it is about developing clean energy.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2013:new_type:option:mod-section2-part-b:227",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 F 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Despite these factors, many social scientists seem reluctant to tackle such problems. And in Europe, some are up in arms over a proposal to drop a specific funding category for social-science research and to integrate it within cross-cutting topics of sustainable development.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2013:new_type:option:mod-section2-part-b:228",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 G 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "During the late 1990s, national spending on social sciences and the humanities as a percentage of all research and development funds – including government, higher education, non-profit and corporate – varied from around 4% to 25%; in most European nations, it is about 15%.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2013:translation:directions:directions-section2-part-c:229",
+      "section": "translation",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-c",
+      "text": "Directions: Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. ( 10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2013:translation:passage:p-section2-part-c-1:230",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-c-1",
+      "text": "It is speculated that gardens arise from a basic human need in the individuals who made them: the need for creative expression. There is no doubt that gardens evidence an irrepressible urge to create, express, fashion, and beautify and that self-expression is a basic human urge; (46)yet when one looks at the photographs of the gardens created by the homeless, it strikes one that, for all their diversity of styles, these gardens speak of various other fundamental urges, beyond that of decoration and creative expression.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2013:translation:passage:p-section2-part-c-2:231",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-c-2",
+      "text": "One of these urges has to do with creating a state of peace in the midst of turbulence, a \"still point of the turning world,\" to borrow a phrase from T. S. Eliot. (47)A sacred place of peace, however crude it may be, is a distinctly human need, as opposed to shelter, which is a distinctly animal need. This distinction is so much so that where the latter is lacking, as it is for these unlikely gardeners, the former becomes all the more urgent. Composure is a state of mind made possible by the structuring of one's relation to one's environment. (48)The gardens of the homeless, which are in effect homeless gardens, introduce form into an urban environment where it either didn't exist or was not discernible as such. In so doing they give composure to a segment of the inarticulate environment in which they take their stand.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2013:translation:passage:p-section2-part-c-3:232",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-c-3",
+      "text": "Another urge or need that these gardens appear to respond to, or to arise from, is so intrinsic that we are barely ever conscious of its abiding claims on us. When we are deprived of green, of plants, of trees, (49)most of us give in to a demoralization of spirit which we usually blame on some psychological conditions, until one day we find ourselves in a garden and feel the oppression vanish as if by magic. In most of the homeless gardens of New York City the actual cultivation of plants is unfeasible, yet even so the compositions often seem to represent attempts to call forth the spirit of plant and animal life, if only symbolically, through a clumplike arrangement of materials, an introduction of colors, small pools of water, and a frequent presence of petals or leaves as well as of stuffed animals. On display here are various fantasy elements whose reference, at some basic level, seems to be the natural world. (50)It is this implicit or explicit reference to nature that fully justifies the use of the word garden, though in a \"liberated\" sense, to describe these synthetic constructions. In them we can see biophilia – a yearning for contact with nonhuman life – assuming uncanny representational forms.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2013:writing_a:writing:directions-section3-part-a:233",
+      "section": "writing_a",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-a",
+      "text": "51.Directions: Write an e-mail of about 100 words to a foreign teacher in your college, inviting him/her to be a judge for the upcoming English speech contest. You should include the details you think necessary. You should write neatly on ANSWER SHEET. Do not sign your own name at the end of the letter, use “Li Ming ” instead. Do not write the address. (10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2013:writing_b:writing:directions-section3-part-b:234",
+      "section": "writing_b",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-b",
+      "text": "52.Directions: Write an essay of 160-200 words based on the following drawing. In your essay, you should 1)describe the drawing briefly, 2)interpret its intended meaning, and 3)give your comments. You should write neatly on ANSWER SHEET. (20 points)",
+      "pdf_pages": [
+        11
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "section": "writing_b",
+      "url": "https://img-paper.lazynote.cn/2025/08/08/guTgN9YR.jpg",
+      "source_description": "这是一幅黑白漫画",
+      "description_is_exam_text": false,
+      "path": "images/exam_bank/2013-figure-1.jpg",
+      "sha256": "252b0f08e72123298a482f149ed4ac3ecc4ba277bfbc6ad9c2a8dc4d94a0f76a"
+    }
+  ],
+  "quality_note": "第三方整理版。已检查9个题型模块、完形20题选项、阅读20题题干选项及PDF可读性；未逐字人工校对。来源PDF缺作文配图，配图已单独保存并补入本地整卷页。新题型不重排、不填答案。原句自动切分，入生词库前结合原段核对。"
+}

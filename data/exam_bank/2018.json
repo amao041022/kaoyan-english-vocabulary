@@ -1,0 +1,2223 @@
+{
+  "schema_version": 1,
+  "year": 2018,
+  "title": "2018年考研英语（一）",
+  "source_url": "https://english-exam.lazynote.cn/kaoyan/paper/2018-english-one/",
+  "pdf": "images/exam_bank/2018.pdf",
+  "pdf_page_count": 12,
+  "sections": {
+    "cloze": 85,
+    "text1": 33,
+    "text2": 31,
+    "text3": 29,
+    "text4": 29,
+    "new_type": 8,
+    "translation": 4,
+    "writing_a": 1,
+    "writing_b": 1
+  },
+  "records": [
+    {
+      "id": "2018:cloze:directions:directions-section1:1",
+      "section": "cloze",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section1",
+      "text": "Directions: Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2018:cloze:passage:p-section1-1:2",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section1-1",
+      "text": "Trust is a tricky business. On the one hand, it's a necessary condition __1__ many worthwhile things: child care, friendships, etc. On the other hand, putting your __2__ in the wrong place often carries a high __3__ .",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2018:cloze:passage:p-section1-2:3",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section1-2",
+      "text": "__4__ , why do we trust at all? Well, because it feels good. __5__ people place their trust in an individual or an institution, their brains release oxytocin, a hormone that __6__ pleasurable feelings and triggers the herding instinct that prompts humans to __7__ with one another. Scientists have found that exposure __8__ this hormone puts us in a trusting __9__ : In a Swiss study, researchers sprayed oxytocin into the noses of half the subjects; those subjects were ready to lend significantly higher amounts of money to strangers than were their __10__ who inhaled something else.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:passage:p-section1-3:4",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section1-3",
+      "text": "__11__ for us, we also have a sixth sense for dishonesty that may __12__ us. A Canadian study found that children as young as 14 months can differentiate __13__ a credible person and a dishonest one. Sixty toddlers were each __14__ to an adult tester holding a plastic container. The tester would ask, \"What's in here?\" before looking into the container, smiling, and exclaiming, \"Wow!\" Each subject was then invited to look __15__ . Half of them found a toy; the other half __16__ the container was empty – and realized the tester had __17__ them.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:passage:p-section1-4:5",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section1-4",
+      "text": "Among the children who had not been tricked, the majority were __18__ to cooperate with the tester in learning a new skill, demonstrating that they trusted his leadership. __19__ , only five of the 30 children paired with the \" __20__ \" tester participated in a follow-up activity.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2018:cloze:option:qp-1:6",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 A 选项",
+      "anchor": "qp-1",
+      "text": "on",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-1:7",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 B 选项",
+      "anchor": "qp-1",
+      "text": "like",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-1:8",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 C 选项",
+      "anchor": "qp-1",
+      "text": "for",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-1:9",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 D 选项",
+      "anchor": "qp-1",
+      "text": "from",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-2:10",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 A 选项",
+      "anchor": "qp-2",
+      "text": "faith",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-2:11",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 B 选项",
+      "anchor": "qp-2",
+      "text": "concern",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-2:12",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 C 选项",
+      "anchor": "qp-2",
+      "text": "attention",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-2:13",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 D 选项",
+      "anchor": "qp-2",
+      "text": "interest",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-3:14",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 A 选项",
+      "anchor": "qp-3",
+      "text": "benefit",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-3:15",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 B 选项",
+      "anchor": "qp-3",
+      "text": "debt",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-3:16",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 C 选项",
+      "anchor": "qp-3",
+      "text": "hope",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-3:17",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 D 选项",
+      "anchor": "qp-3",
+      "text": "price",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-4:18",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 A 选项",
+      "anchor": "qp-4",
+      "text": "Therefore",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-4:19",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 B 选项",
+      "anchor": "qp-4",
+      "text": "Then",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-4:20",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 C 选项",
+      "anchor": "qp-4",
+      "text": "Instead",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-4:21",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 D 选项",
+      "anchor": "qp-4",
+      "text": "Again",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-5:22",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 A 选项",
+      "anchor": "qp-5",
+      "text": "Until",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-5:23",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 B 选项",
+      "anchor": "qp-5",
+      "text": "Unless",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-5:24",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 C 选项",
+      "anchor": "qp-5",
+      "text": "Although",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-5:25",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 D 选项",
+      "anchor": "qp-5",
+      "text": "When",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-6:26",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 A 选项",
+      "anchor": "qp-6",
+      "text": "selects",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-6:27",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 B 选项",
+      "anchor": "qp-6",
+      "text": "produces",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-6:28",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 C 选项",
+      "anchor": "qp-6",
+      "text": "applies",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-6:29",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 D 选项",
+      "anchor": "qp-6",
+      "text": "maintains",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-7:30",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 A 选项",
+      "anchor": "qp-7",
+      "text": "consult",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-7:31",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 B 选项",
+      "anchor": "qp-7",
+      "text": "compete",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-7:32",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 C 选项",
+      "anchor": "qp-7",
+      "text": "connect",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-7:33",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 D 选项",
+      "anchor": "qp-7",
+      "text": "compare",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-8:34",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 A 选项",
+      "anchor": "qp-8",
+      "text": "at",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-8:35",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 B 选项",
+      "anchor": "qp-8",
+      "text": "by",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-8:36",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 C 选项",
+      "anchor": "qp-8",
+      "text": "of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-8:37",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 D 选项",
+      "anchor": "qp-8",
+      "text": "to",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-9:38",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 A 选项",
+      "anchor": "qp-9",
+      "text": "context",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-9:39",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 B 选项",
+      "anchor": "qp-9",
+      "text": "mood",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-9:40",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 C 选项",
+      "anchor": "qp-9",
+      "text": "period",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-9:41",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 D 选项",
+      "anchor": "qp-9",
+      "text": "circle",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-10:42",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 A 选项",
+      "anchor": "qp-10",
+      "text": "counterparts",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-10:43",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 B 选项",
+      "anchor": "qp-10",
+      "text": "substitutes",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-10:44",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 C 选项",
+      "anchor": "qp-10",
+      "text": "colleagues",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-10:45",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 D 选项",
+      "anchor": "qp-10",
+      "text": "supporters",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-11:46",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 A 选项",
+      "anchor": "qp-11",
+      "text": "Funny",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-11:47",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 B 选项",
+      "anchor": "qp-11",
+      "text": "Lucky",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-11:48",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 C 选项",
+      "anchor": "qp-11",
+      "text": "Odd",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-11:49",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 D 选项",
+      "anchor": "qp-11",
+      "text": "Ironic",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-12:50",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 A 选项",
+      "anchor": "qp-12",
+      "text": "monitor",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-12:51",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 B 选项",
+      "anchor": "qp-12",
+      "text": "protect",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-12:52",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 C 选项",
+      "anchor": "qp-12",
+      "text": "surprise",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-12:53",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 D 选项",
+      "anchor": "qp-12",
+      "text": "delight",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-13:54",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 A 选项",
+      "anchor": "qp-13",
+      "text": "between",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-13:55",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 B 选项",
+      "anchor": "qp-13",
+      "text": "within",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-13:56",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 C 选项",
+      "anchor": "qp-13",
+      "text": "toward",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-13:57",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 D 选项",
+      "anchor": "qp-13",
+      "text": "over",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-14:58",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 A 选项",
+      "anchor": "qp-14",
+      "text": "transferred",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-14:59",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 B 选项",
+      "anchor": "qp-14",
+      "text": "added",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-14:60",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 C 选项",
+      "anchor": "qp-14",
+      "text": "introduced",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-14:61",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 D 选项",
+      "anchor": "qp-14",
+      "text": "entrusted",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-15:62",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 A 选项",
+      "anchor": "qp-15",
+      "text": "out",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-15:63",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 B 选项",
+      "anchor": "qp-15",
+      "text": "back",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-15:64",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 C 选项",
+      "anchor": "qp-15",
+      "text": "around",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-15:65",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 D 选项",
+      "anchor": "qp-15",
+      "text": "inside",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-16:66",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 A 选项",
+      "anchor": "qp-16",
+      "text": "discovered",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-16:67",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 B 选项",
+      "anchor": "qp-16",
+      "text": "proved",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-16:68",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 C 选项",
+      "anchor": "qp-16",
+      "text": "insisted",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-16:69",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 D 选项",
+      "anchor": "qp-16",
+      "text": "remembered",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-17:70",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 A 选项",
+      "anchor": "qp-17",
+      "text": "betrayed",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-17:71",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 B 选项",
+      "anchor": "qp-17",
+      "text": "wronged",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-17:72",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 C 选项",
+      "anchor": "qp-17",
+      "text": "fooled",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-17:73",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 D 选项",
+      "anchor": "qp-17",
+      "text": "mocked",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-18:74",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 A 选项",
+      "anchor": "qp-18",
+      "text": "forced",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-18:75",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 B 选项",
+      "anchor": "qp-18",
+      "text": "willing",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-18:76",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 C 选项",
+      "anchor": "qp-18",
+      "text": "hesitant",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-18:77",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 D 选项",
+      "anchor": "qp-18",
+      "text": "entitled",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-19:78",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 A 选项",
+      "anchor": "qp-19",
+      "text": "In contrast",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-19:79",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 B 选项",
+      "anchor": "qp-19",
+      "text": "As a result",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-19:80",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 C 选项",
+      "anchor": "qp-19",
+      "text": "On the whole",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-19:81",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 D 选项",
+      "anchor": "qp-19",
+      "text": "For instance",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-20:82",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 A 选项",
+      "anchor": "qp-20",
+      "text": "inflexible",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-20:83",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 B 选项",
+      "anchor": "qp-20",
+      "text": "incapable",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-20:84",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 C 选项",
+      "anchor": "qp-20",
+      "text": "unreliable",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:cloze:option:qp-20:85",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 D 选项",
+      "anchor": "qp-20",
+      "text": "unsuitable",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text1:directions:directions-section2-part-a-1:86",
+      "section": "text1",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-a-1",
+      "text": "Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "id": "2018:text1:passage:p-section2-part-a-1-1:87",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-1-1",
+      "text": "Among the annoying challenges facing the middle class is one that will probably go unmentioned in the next presidential campaign: What happens when the robots come for their jobs?",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2018:text1:passage:p-section2-part-a-1-2:88",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-1-2",
+      "text": "Don't dismiss that possibility entirely. About half of U.S. jobs are at high risk of being automated, according to a University of Oxford study, with the middle class disproportionately squeezed. Lower-income jobs like gardening or day care don't appeal to robots. But many middle-class occupations – trucking, financial advice, software engineering – have aroused their interest, or soon will. The rich own the robots, so they will be fine.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2018:text1:passage:p-section2-part-a-1-3:89",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-1-3",
+      "text": "This isn't to be alarmist. Optimists point out that technological upheaval has benefited workers in the past. The Industrial Revolution didn't go so well for Luddites whose jobs were displaced by mechanized looms, but it eventually raised living standards and created more jobs than it destroyed. Likewise, automation should eventually boost productivity, stimulate demand by driving down prices, and free workers from hard, boring work. But in the medium term, middle-class workers may need a lot of help adjusting.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2018:text1:passage:p-section2-part-a-1-4:90",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-1-4",
+      "text": "The first step, as Erik Brynjolfsson and Andrew McAfee argue in The Second Machine Age, should be rethinking education and job training. Curriculums – from grammar school to college – should evolve to focus less on memorizing facts and more on creativity and complex communication. Vocational schools should do a better job of fostering problem-solving skills and helping students work alongside robots. Online education can supplement the traditional kind. It could make extra training and instruction affordable. Professionals trying to acquire new skills will be able to do so without going into debt.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2018:text1:passage:p-section2-part-a-1-5:91",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-1-5",
+      "text": "The challenge of coping with automation underlines the need for the U.S. to revive its fading business dynamism: Starting new companies must be made easier. In previous eras of drastic technological change, entrepreneurs smoothed the transition by dreaming up ways to combine labor and machines. The best uses of 3D printers and virtual reality haven't been invented yet. The U.S. needs the new companies that will invent them.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2018:text1:passage:p-section2-part-a-1-6:92",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-1-6",
+      "text": "Finally, because automation threatens to widen the gap between capital income and labor income, taxes and the safety net will have to be rethought. Taxes on low-wage labor need to be cut, and wage subsidies such as the earned income tax credit should be expanded: This would boost incomes, encourage work, reward companies for job creation, and reduce inequality.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2018:text1:passage:p-section2-part-a-1-7:93",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-1-7",
+      "text": "Technology will improve society in ways big and small over the next few years, yet this will be little comfort to those who find their lives and careers upended by automation. Destroying the machines that are coming for our jobs would be nuts. But policies to help workers adapt will be indispensable.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2018:text1:question:qp-21:94",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 21 题题干",
+      "anchor": "qp-21",
+      "text": "Who will be most threatened by automation?",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2018:text1:option:qp-21:95",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 A 选项",
+      "anchor": "qp-21",
+      "text": "Leading politicians.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text1:option:qp-21:96",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 B 选项",
+      "anchor": "qp-21",
+      "text": "Low-wage laborers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text1:option:qp-21:97",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 C 选项",
+      "anchor": "qp-21",
+      "text": "Robot owners.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text1:option:qp-21:98",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 D 选项",
+      "anchor": "qp-21",
+      "text": "Middle-class workers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text1:question:qp-22:99",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 22 题题干",
+      "anchor": "qp-22",
+      "text": "Which of the following best represents the author's view?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text1:option:qp-22:100",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 A 选项",
+      "anchor": "qp-22",
+      "text": "Worries about automation are in fact groundless.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text1:option:qp-22:101",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 B 选项",
+      "anchor": "qp-22",
+      "text": "Optimists' opinions on new tech find little support.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text1:option:qp-22:102",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 C 选项",
+      "anchor": "qp-22",
+      "text": "Issues arising from automation need to be tackled.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text1:option:qp-22:103",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 D 选项",
+      "anchor": "qp-22",
+      "text": "Negative consequences of new tech can be avoided.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text1:question:qp-23:104",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 23 题题干",
+      "anchor": "qp-23",
+      "text": "Education in the age of automation should put more emphasis on____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text1:option:qp-23:105",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 A 选项",
+      "anchor": "qp-23",
+      "text": "creative potential.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text1:option:qp-23:106",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 B 选项",
+      "anchor": "qp-23",
+      "text": "job-hunting skills.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text1:option:qp-23:107",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 C 选项",
+      "anchor": "qp-23",
+      "text": "individual needs.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text1:option:qp-23:108",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 D 选项",
+      "anchor": "qp-23",
+      "text": "cooperative spirit.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text1:question:qp-24:109",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 24 题题干",
+      "anchor": "qp-24",
+      "text": "The author suggests that tax policies be aimed at____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text1:option:qp-24:110",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 A 选项",
+      "anchor": "qp-24",
+      "text": "encouraging the development of automation.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text1:option:qp-24:111",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 B 选项",
+      "anchor": "qp-24",
+      "text": "increasing the return on capital investment.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text1:option:qp-24:112",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 C 选项",
+      "anchor": "qp-24",
+      "text": "easing the hostility between rich and poor.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text1:option:qp-24:113",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 D 选项",
+      "anchor": "qp-24",
+      "text": "preventing the income gap from widening.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text1:question:qp-25:114",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 25 题题干",
+      "anchor": "qp-25",
+      "text": "In this text, the author presents a problem with____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text1:option:qp-25:115",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 A 选项",
+      "anchor": "qp-25",
+      "text": "opposing views on it.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text1:option:qp-25:116",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 B 选项",
+      "anchor": "qp-25",
+      "text": "possible solutions to it.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text1:option:qp-25:117",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 C 选项",
+      "anchor": "qp-25",
+      "text": "its alarming impacts.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text1:option:qp-25:118",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 D 选项",
+      "anchor": "qp-25",
+      "text": "its major variations.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text2:passage:p-section2-part-a-2-1:119",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-2-1",
+      "text": "A new survey by Harvard University finds more than two-thirds of young Americans disapprove of President Trump's use of Twitter. The implication is that Millennials prefer news from the White House to be filtered through other sources, not a president's social media platform.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text2:passage:p-section2-part-a-2-2:120",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-2-2",
+      "text": "Most Americans rely on social media to check daily headlines. Yet as distrust has risen toward all media, people may be starting to beef up their media literacy skills. Such a trend is badly needed. During the 2016 presidential campaign, nearly a quarter of web content shared by Twitter users in the politically critical state of Michigan was fake news, according to the University of Oxford. And a survey conducted for BuzzFeed News found 44 percent of Facebook users rarely or never trust news from the media giant.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text2:passage:p-section2-part-a-2-3:121",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-2-3",
+      "text": "Young people who are digital natives are indeed becoming more skillful at separating fact from fiction in cyberspace. A Knight Foundation focus-group survey of young people between ages 14 and 24 found they use \"distributed trust\" to verify stories. They cross-check sources and prefer news from different perspectives – especially those that are open about any bias. \"Many young people assume a great deal of personal responsibility for educating themselves and actively seeking out opposing viewpoints,\" the survey concluded.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text2:passage:p-section2-part-a-2-4:122",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-2-4",
+      "text": "Such active research can have another effect. A 2014 survey conducted in Australia, Britain, and the United States by the University of Wisconsin-Madison found that young people's reliance on social media led to greater political engagement.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2018:text2:passage:p-section2-part-a-2-5:123",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-2-5",
+      "text": "Social media allows users to experience news events more intimately and immediately while also permitting them to re-share news as a projection of their values and interests. This forces users to be more conscious of their role in passing along information. A survey by Barna research group found the top reason given by Americans for the fake news phenomenon is \"reader error,\" more so than made-up stories or factual mistakes in reporting. About a third say the problem of fake news lies in \"misinterpretation or exaggeration of actual news\" via social media. In other words, the choice to share news on social media may be the heart of the issue. \"This indicates there is a real personal responsibility in counteracting this problem,\" says Roxanne Stone, editor in chief at Barna Group.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:passage:p-section2-part-a-2-6:124",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-2-6",
+      "text": "So when young people are critical of an over-tweeting president, they reveal a mental discipline in thinking skills – and in their choices on when to share on social media.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:question:qp-26:125",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 26 题题干",
+      "anchor": "qp-26",
+      "text": "According to Paragraphs 1 and 2, many young Americans cast doubts on____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-26:126",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 A 选项",
+      "anchor": "qp-26",
+      "text": "the justification of the news-filtering practice.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-26:127",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 B 选项",
+      "anchor": "qp-26",
+      "text": "people's preference for social media platforms.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-26:128",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 C 选项",
+      "anchor": "qp-26",
+      "text": "the administration's ability to handle information.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-26:129",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 D 选项",
+      "anchor": "qp-26",
+      "text": "social media as a reliable source of news.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:question:qp-27:130",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 27 题题干",
+      "anchor": "qp-27",
+      "text": "The phrase \"beef up\" (Line 2, Para. 2) is closest in meaning to____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-27:131",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 A 选项",
+      "anchor": "qp-27",
+      "text": "sharpen.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text2:option:qp-27:132",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 B 选项",
+      "anchor": "qp-27",
+      "text": "define.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text2:option:qp-27:133",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 C 选项",
+      "anchor": "qp-27",
+      "text": "boast.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text2:option:qp-27:134",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 D 选项",
+      "anchor": "qp-27",
+      "text": "share.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text2:question:qp-28:135",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 28 题题干",
+      "anchor": "qp-28",
+      "text": "According to the Knight Foundation survey, young people____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-28:136",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 A 选项",
+      "anchor": "qp-28",
+      "text": "tend to voice their opinions in cyberspace.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-28:137",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 B 选项",
+      "anchor": "qp-28",
+      "text": "verify news by referring to diverse sources.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-28:138",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 C 选项",
+      "anchor": "qp-28",
+      "text": "have a strong sense of responsibility.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-28:139",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 D 选项",
+      "anchor": "qp-28",
+      "text": "like to exchange views on \"distributed trust\".",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:question:qp-29:140",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 29 题题干",
+      "anchor": "qp-29",
+      "text": "The Barna survey found that a main cause for the fake news problem is____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-29:141",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 A 选项",
+      "anchor": "qp-29",
+      "text": "readers' outdated values.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text2:option:qp-29:142",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 B 选项",
+      "anchor": "qp-29",
+      "text": "journalists' biased reporting.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text2:option:qp-29:143",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 C 选项",
+      "anchor": "qp-29",
+      "text": "readers' misinterpretation.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text2:option:qp-29:144",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 D 选项",
+      "anchor": "qp-29",
+      "text": "journalists' made-up stories.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text2:question:qp-30:145",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 30 题题干",
+      "anchor": "qp-30",
+      "text": "Which of the following would be the best title for the text?",
+      "pdf_pages": [
+        6,
+        9
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-30:146",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 A 选项",
+      "anchor": "qp-30",
+      "text": "A Rise in Critical Skills for Sharing News Online.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-30:147",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 B 选项",
+      "anchor": "qp-30",
+      "text": "A Counteraction Against the Over-tweeting Trend.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-30:148",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 C 选项",
+      "anchor": "qp-30",
+      "text": "The Accumulation of Mutual Trust on Social Media.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text2:option:qp-30:149",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 D 选项",
+      "anchor": "qp-30",
+      "text": "The Platforms for Projection of Personal Interests.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text3:passage:p-section2-part-a-3-1:150",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-3-1",
+      "text": "Any fair-minded assessment of the dangers of the deal between Britain's National Health Service (NHS) and DeepMind must start by acknowledging that both sides mean well. DeepMind is one of the leading artificial intelligence (AI) companies in the world. The potential of this work applied to healthcare is very great, but it could also lead to further concentration of power in the tech giants. It is against that background that the information commissioner, Elizabeth Denham, has issued her damning verdict against the Royal Free hospital trust under the NHS, which handed over to DeepMind the records of 1.6 million patients in 2015 on the basis of a vague agreement which took far too little account of the patients' rights and their expectations of privacy.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2018:text3:passage:p-section2-part-a-3-2:151",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-3-2",
+      "text": "DeepMind has almost apologized. The NHS trust has mended its ways. Further arrangements – and there may be many – between the NHS and DeepMind will be carefully scrutinised to ensure that all necessary permissions have been asked of patients and all unnecessary data has been cleaned. There are lessons about informed patient consent to learn. But privacy is not the only angle in this case and not even the most important. Ms Denham chose to concentrate the blame on the NHS trust, since under existing law it \"controlled\" the data and DeepMind merely \"processed\" it. But this distinction misses the point that it is processing and aggregation, not the mere possession of bits, that gives the data value.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2018:text3:passage:p-section2-part-a-3-3:152",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-3-3",
+      "text": "The great question is who should benefit from the analysis of all the data that our lives now generate. Privacy law builds on the concept of damage to an individual from identifiable knowledge about them. That misses the way the surveillance economy works. The data of an individual there gains its value only when it is compared with the data of countless millions more.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2018:text3:passage:p-section2-part-a-3-4:153",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-3-4",
+      "text": "The use of privacy law to curb the tech giants in this instance feels slightly maladapted. This practice does not address the real worry. It is not enough to say that the algorithms DeepMind develops will benefit patients and save lives. What matters is that they will belong to a private monopoly which developed them using public resources. If software promises to save lives on the scale that drugs now can, big data may be expected to behave as a big pharma has done. We are still at the beginning of this revolution and small choices now may turn out to have gigantic consequences later. A long struggle will be needed to avoid a future of digital feudalism. Ms Denham's report is a welcome start.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2018:text3:question:qp-31:154",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 31 题题干",
+      "anchor": "qp-31",
+      "text": "What is true of the agreement between the NHS and DeepMind?",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2018:text3:option:qp-31:155",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 A 选项",
+      "anchor": "qp-31",
+      "text": "It caused conflicts among tech giants.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2018:text3:option:qp-31:156",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 B 选项",
+      "anchor": "qp-31",
+      "text": "It failed to pay due attention to patients' rights.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2018:text3:option:qp-31:157",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 C 选项",
+      "anchor": "qp-31",
+      "text": "It fell short of the latter's expectations.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2018:text3:option:qp-31:158",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 D 选项",
+      "anchor": "qp-31",
+      "text": "It put both sides into a dangerous situation.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2018:text3:question:qp-32:159",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 32 题题干",
+      "anchor": "qp-32",
+      "text": "The NHS trust responded to Denham's verdict with____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2018:text3:option:qp-32:160",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 A 选项",
+      "anchor": "qp-32",
+      "text": "empty promises.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text3:option:qp-32:161",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 B 选项",
+      "anchor": "qp-32",
+      "text": "tough resistance.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text3:option:qp-32:162",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 C 选项",
+      "anchor": "qp-32",
+      "text": "necessary adjustments.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text3:option:qp-32:163",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 D 选项",
+      "anchor": "qp-32",
+      "text": "sincere apologies.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text3:question:qp-33:164",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 33 题题干",
+      "anchor": "qp-33",
+      "text": "The author argues in Paragraph 2 that____",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text3:option:qp-33:165",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 A 选项",
+      "anchor": "qp-33",
+      "text": "privacy protection must be secured at all costs.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2018:text3:option:qp-33:166",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 B 选项",
+      "anchor": "qp-33",
+      "text": "leaking patients' data is worse than selling it.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2018:text3:option:qp-33:167",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 C 选项",
+      "anchor": "qp-33",
+      "text": "making profits from patients' data is illegal.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2018:text3:option:qp-33:168",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 D 选项",
+      "anchor": "qp-33",
+      "text": "the value of data comes from the processing of it.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2018:text3:question:qp-34:169",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 34 题题干",
+      "anchor": "qp-34",
+      "text": "According to the last paragraph, the real worry arising from this deal is____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2018:text3:option:qp-34:170",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 A 选项",
+      "anchor": "qp-34",
+      "text": "the vicious rivalry among big pharmas.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2018:text3:option:qp-34:171",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 B 选项",
+      "anchor": "qp-34",
+      "text": "the ineffective enforcement of privacy law.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2018:text3:option:qp-34:172",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 C 选项",
+      "anchor": "qp-34",
+      "text": "the uncontrolled use of new software.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text3:option:qp-34:173",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 D 选项",
+      "anchor": "qp-34",
+      "text": "the monopoly of big data by tech giants.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2018:text3:question:qp-35:174",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 35 题题干",
+      "anchor": "qp-35",
+      "text": "The author's attitude toward the application of AI to healthcare is____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2018:text3:option:qp-35:175",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 A 选项",
+      "anchor": "qp-35",
+      "text": "ambiguous.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text3:option:qp-35:176",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 B 选项",
+      "anchor": "qp-35",
+      "text": "cautious.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text3:option:qp-35:177",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 C 选项",
+      "anchor": "qp-35",
+      "text": "appreciative.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text3:option:qp-35:178",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 D 选项",
+      "anchor": "qp-35",
+      "text": "contemptuous.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text4:passage:p-section2-part-a-4-1:179",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-4-1",
+      "text": "The U.S. Postal Service (USPS) continues to bleed red ink. It reported a net loss of $5.6 billion for fiscal 2016, the 10th straight year its expenses have exceeded revenue. Meanwhile, it has more than $120 billion in unfunded liabilities, mostly for employee health and retirement costs. There are many reasons this formerly stable federal institution finds itself at the brink of bankruptcy. Fundamentally, the USPS is in a historic squeeze between technological change that has permanently decreased demand for its bread-and-butter product, first-class mail, and a regulatory structure that denies management the flexibility to adjust its operations to the new reality.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2018:text4:passage:p-section2-part-a-4-2:180",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-4-2",
+      "text": "And interest groups ranging from postal unions to greeting-card makers exert self-interested pressure on the USPS's ultimate overseer – Congress – insisting that whatever else happens to the Postal Service, aspects of the status quo they depend on get protected. This is why repeated attempts at reform legislation have failed in recent years, leaving the Postal Service unable to pay its bills except by deferring vital modernization.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2018:text4:passage:p-section2-part-a-4-3:181",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-4-3",
+      "text": "Now comes word that everyone involved – Democrats, Republicans, the Postal Service, the unions and the system's heaviest users – has finally agreed on a plan to fix the system. Legislation is moving through the House that would save USPS an estimated $28.6 billion over five years, which could help pay for new vehicles, among other survival measures. Most of the money would come from a penny-per-letter permanent rate increase and from shifting postal retirees into Medicare. The latter step would largely offset the financial burden of annually pre-funding retiree health care, thus addressing a long-standing complaint by the USPS and its unions.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2018:text4:passage:p-section2-part-a-4-4:182",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-4-4",
+      "text": "If it clears the House, this measure would still have to get through the Senate – where someone is bound to point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform. There's no change to collective bargaining at the USPS, a major omission considering that personnel accounts for 80 percent of the agency's costs. Also missing is any discussion of eliminating Saturday letter delivery. That common-sense change enjoys wide public support and would save the USPS $2 billion per year. But postal special-interest groups seem to have killed it, at least in the House. The emerging consensus around the bill is a sign that legislators are getting frightened about a politically embarrassing short-term collapse at the USPS. It is not, however, a sign that they're getting serious about transforming the postal system for the 21st century.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2018:text4:question:qp-36:183",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 36 题题干",
+      "anchor": "qp-36",
+      "text": "The financial problem with the USPS is caused partly by____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-36:184",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 A 选项",
+      "anchor": "qp-36",
+      "text": "its unbalanced budget.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text4:option:qp-36:185",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 B 选项",
+      "anchor": "qp-36",
+      "text": "its rigid management.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text4:option:qp-36:186",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 C 选项",
+      "anchor": "qp-36",
+      "text": "the cost for technical upgrading.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text4:option:qp-36:187",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 D 选项",
+      "anchor": "qp-36",
+      "text": "the withdrawal of bank support.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text4:question:qp-37:188",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 37 题题干",
+      "anchor": "qp-37",
+      "text": "According to Paragraph 2, the USPS fails to modernize itself due to____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-37:189",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 A 选项",
+      "anchor": "qp-37",
+      "text": "the interference from interest groups.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-37:190",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 B 选项",
+      "anchor": "qp-37",
+      "text": "the inadequate funding from Congress.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-37:191",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 C 选项",
+      "anchor": "qp-37",
+      "text": "the shrinking demand for postal service.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-37:192",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 D 选项",
+      "anchor": "qp-37",
+      "text": "the incompetence of postal unions.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text4:question:qp-38:193",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 38 题题干",
+      "anchor": "qp-38",
+      "text": "The long-standing complaint by the USPS and its unions can be addressed by____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-38:194",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 A 选项",
+      "anchor": "qp-38",
+      "text": "removing its burden of retiree health care.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-38:195",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 B 选项",
+      "anchor": "qp-38",
+      "text": "making more investment in new vehicles.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-38:196",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 C 选项",
+      "anchor": "qp-38",
+      "text": "adopting a new rate-increase mechanism.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-38:197",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 D 选项",
+      "anchor": "qp-38",
+      "text": "attracting more first-class mail users.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:question:qp-39:198",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 39 题题干",
+      "anchor": "qp-39",
+      "text": "In the last paragraph, the author seems to view legislators with",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-39:199",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 A 选项",
+      "anchor": "qp-39",
+      "text": "respect.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text4:option:qp-39:200",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 B 选项",
+      "anchor": "qp-39",
+      "text": "tolerance.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text4:option:qp-39:201",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 C 选项",
+      "anchor": "qp-39",
+      "text": "discontent.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text4:option:qp-39:202",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 D 选项",
+      "anchor": "qp-39",
+      "text": "gratitude.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2018:text4:question:qp-40:203",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 40 题题干",
+      "anchor": "qp-40",
+      "text": "Which of the following would be the best title for the text?",
+      "pdf_pages": [
+        6,
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-40:204",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 A 选项",
+      "anchor": "qp-40",
+      "text": "The USPS Starts to Miss Its Good Old Days.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-40:205",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 B 选项",
+      "anchor": "qp-40",
+      "text": "The Postal Service: Keep Away from My Cheese.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-40:206",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 C 选项",
+      "anchor": "qp-40",
+      "text": "The USPS: Chronic Illness Requires a Quick Cure.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:text4:option:qp-40:207",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 D 选项",
+      "anchor": "qp-40",
+      "text": "The Postal Service Needs More Than a Band-Aid.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:new_type:directions:directions-section2-part-b:208",
+      "section": "new_type",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-b",
+      "text": "Directions: The following paragraphs are given in a wrong order. For questions 41 -45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A-G and filling them into the numbered boxes. Paragraphs C and F have been correctly placed. Mark your answers on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:new_type:paragraph_option:p-section2-part-b-1:209",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 A",
+      "anchor": "p-section2-part-b-1",
+      "text": "[ A ]In December of 1869, Congress appointed a commission to select a site and prepare plans and cost estimates for a new State Department Building. The commission was also to consider possible arrangements for the War and Navy Departments. To the horror of some who expected a Greek Revival twin of the Treasury Building to be erected on the other side of the White House, the elaborate French Second Empire style design by Alfred Mullett was selected, and construction of a building to house all three departments began in June of 1871.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:new_type:paragraph_option:p-section2-part-b-2:210",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 B",
+      "anchor": "p-section2-part-b-2",
+      "text": "[ B ]Completed in 1875, the State Department's south wing was the first to be occupied, with its elegant four-story library (completed in 1876), Diplomatic Reception Room, and Secretary's office decorated with carved wood, Oriental rugs, and stenciled wall patterns. The Navy Department moved into the east wing in 1879, where elaborate wall and ceiling stenciling and marquetry floors decorated the office of the Secretary.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2018:new_type:paragraph_option:p-section2-part-b-3:211",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 C",
+      "anchor": "p-section2-part-b-3",
+      "text": "[ C ]The State, War, and Navy Building, as it was originally known, housed the three Executive Branch Departments most intimately associated with formulating and conducting the nation's foreign policy in the last quarter of the nineteenth century and the first quarter of the twentieth century – the period when the United States emerged as an international power. The building has housed some of the nation's most significant diplomats and politicians and has been the scene of many historic events.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2018:new_type:paragraph_option:p-section2-part-b-4:212",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 D",
+      "anchor": "p-section2-part-b-4",
+      "text": "[ D ]Many of the most celebrated national figures have participated in historical events that have taken place within the EEOB's granite walls. Theodore and Franklin D. Roosevelt, William Howard Taft, Dwight D. Eisenhower, Lyndon B. Johnson, Gerald Ford, and George H. W. Bush all had offices in this building before becoming president. It has housed 16 Secretaries of the Navy, 21 Secretaries of War, and 24 Secretaries of State. Winston Churchill once walked its corridors and Japanese emissaries met here with Secretary of State Cordell Hull after the bombing of Pearl Harbor.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2018:new_type:paragraph_option:p-section2-part-b-5:213",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 E",
+      "anchor": "p-section2-part-b-5",
+      "text": "[ E ]The Eisenhower Executive Office Building (EEOB) commands a unique position in both the national history and the architectural heritage of the United States. Designed by Supervising Architect of the Treasury, Alfred B. Mullett, it was built from 1871 to 1888 to house the growing staffs of the State, War, and Navy Departments, and is considered one of the best examples of French Second Empire architecture in the country.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2018:new_type:paragraph_option:p-section2-part-b-6:214",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 F",
+      "anchor": "p-section2-part-b-6",
+      "text": "[ F ]Construction took 17 years as the building slowly rose wing by wing. When the EEOB was finished, it was the largest office building in Washington, with nearly 2 miles of black and white tiled corridors. Almost all of the interior detail is of cast iron or plaster; the use of wood was minimized to insure fire safety. Eight monumental curving staircases of granite with over 4,000 individually cast bronze balusters are capped by four skylight domes and two stained glass rotundas.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2018:new_type:paragraph_option:p-section2-part-b-7:215",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 G",
+      "anchor": "p-section2-part-b-7",
+      "text": "[ G ]The history of the EEOB began long before its foundations were laid. The first executive offices were constructed between 1799 and 1820. A series of fires (including those set by the British in 1814) and overcrowded conditions led to the construction of the existing Treasury Building. In 1866, the construction of the North Wing of the Treasury Building necessitated the demolition of the State Department building.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2018:translation:directions:directions-section2-part-c:216",
+      "section": "translation",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-c",
+      "text": "Directions: Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. ( 10 points)",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2018:translation:passage:p-section2-part-c-1:217",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-c-1",
+      "text": "Shakespeare's lifetime was coincident with a period of extraordinary activity and achievement in the drama. (46)By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy. These new forms were at first mainly written by scholars and performed by amateurs, but in England, as everywhere else in western Europe, the growth of a class of professional actors was threatening to make the drama popular, whether it should be new or old, classical or medieval, literary or farcical. Court, school, organizations of amateurs, and the traveling actors were all rivals in supplying a widespread desire for dramatic entertainment; and (47)no boy who went to a grammar school could be ignorant that the drama was a form of literature which gave glory to Greece and Rome and might yet bring honor to England.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2018:translation:passage:p-section2-part-c-2:218",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-c-2",
+      "text": "When Shakespeare was twelve years old the first public playhouse was built in London. For a time literature showed no interest in this public stage. Plays aiming at literary distinction were written for schools or court, or for the choir boys of St. Paul's and the royal chapel, who, however, gave plays in public as well as at court. (48)But the professional companies prospered in their permanent theaters, and university men with literary ambitions were quick to turn to these theaters as offering a means of livelihood. By the time that Shakespeare was twenty-five, Lyly, Peele, and Greene had made comedies that were at once popular and literary; Kyd had written a tragedy that crowded the pit; and Marlowe had brought poetry and genius to triumph on the common stage – where they had played no part since the death of Euripides. (49)A native literary drama had been created, its alliance with the public playhouses established, and at least some of its great traditions had been begun.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2018:translation:passage:p-section2-part-c-3:219",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-c-3",
+      "text": "The development of the Elizabethan drama for the next twenty-five years is of exceptional interest to students of literary history, for in this brief period we may trace the beginning, growth, blossoming, and decay of many kinds of plays, and of many great careers. We are amazed today at the mere number of plays produced, as well as by the number of dramatists writing at the same time for this London of two hundred thousand inhabitants. (50)To realize how great was the dramatic activity, we must remember further that hosts of plays have been lost, and that probably there is no author of note whose entire work has survived.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2018:writing_a:writing:directions-section3-part-a:220",
+      "section": "writing_a",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-a",
+      "text": "51.Directions: Write an email to all international experts on campus inviting them to attend the graduation ceremony. In your email you should include time, place and other relevant information about the ceremony. You should write about 100 words neatly on the ANSWER SHEET. Do not use your own name at the end of the email. Use “Li Ming” instead. (10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2018:writing_b:writing:directions-section3-part-b:221",
+      "section": "writing_b",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-b",
+      "text": "52.Directions: Write an essay of 160-200 words based on the picture below. In your essay, you should 1)describe the picture briefly, 2)interpret the meaning, and 3)give your comments. You should write neatly on the ANSWER SHEET.（20 points）",
+      "pdf_pages": [
+        11
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "section": "writing_b",
+      "url": "https://img-paper.lazynote.cn/2025/08/08/juTgM5tF.jpg",
+      "source_description": "图片中一位男士坐在办公桌前，面前摆放着一台电脑",
+      "description_is_exam_text": false,
+      "path": "images/exam_bank/2018-figure-1.jpg",
+      "sha256": "c1ec3611cd203bfdb7f97a6527c789c0c42a9dd440f200a04818e09a3635dd18"
+    }
+  ],
+  "quality_note": "第三方整理版。已检查9个题型模块、完形20题选项、阅读20题题干选项及PDF可读性；未逐字人工校对。来源PDF缺作文配图，配图已单独保存并补入本地整卷页。新题型不重排、不填答案。原句自动切分，入生词库前结合原段核对。"
+}

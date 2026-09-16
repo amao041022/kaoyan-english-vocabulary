@@ -1,0 +1,9 @@
+{
+  "bits_per_sample": 16,
+  "expected_files": 674,
+  "language": "en-US",
+  "channels": 1,
+  "voice": "Microsoft Zira Desktop",
+  "generated_at": "2026-09-16T11:46:01",
+  "sample_rate": 22050
+}

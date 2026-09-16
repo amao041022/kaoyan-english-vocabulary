@@ -1,0 +1,2303 @@
+{
+  "schema_version": 1,
+  "year": 2008,
+  "title": "2008年考研英语（分卷前旧卷）",
+  "source_url": "https://english-exam.lazynote.cn/kaoyan/paper/2008/",
+  "pdf": "images/exam_bank/2008.pdf",
+  "pdf_page_count": 12,
+  "sections": {
+    "cloze": 84,
+    "text1": 32,
+    "text2": 29,
+    "text3": 30,
+    "text4": 31,
+    "new_type": 14,
+    "translation": 3,
+    "writing_a": 1,
+    "writing_b": 1
+  },
+  "records": [
+    {
+      "id": "2008:cloze:directions:directions-section1:1",
+      "section": "cloze",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section1",
+      "text": "Directions: Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2008:cloze:passage:p-section1-1:2",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section1-1",
+      "text": "The idea that some groups of people may be more intelligent than others is one of those hypotheses that dare not speak its name. But Gregory Cochran is __1__ to say it anyway. He is that __2__ bird, a scientist who works independently __3__ any institution. He helped popularize the idea that some diseases not __4__ thought to have a bacterial cause were actually infections, which aroused much controversy when it was first suggested.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2008:cloze:passage:p-section1-2:3",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section1-2",
+      "text": "__5__ he, however, might tremble at the __6__ of what he is about to do. Together with another two scientists, he is publishing a paper which not only __7__ that one group of humanity is more intelligent than the others, but explains the process that has brought this about. The group in __8__ is a particular people originated from central Europe. The process is natural selection.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:passage:p-section1-3:4",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section1-3",
+      "text": "This group generally does well in IQ test, __9__ 12-15 points above the __10__ value of 100, and has contributed __11__ to the intellectual and cultural life of the West, as the __12__ of their elites, including several world-renowned scientists, __13__ . They also suffer more often than most people from a number of nasty genetic diseases, such as breast cancer. These facts, __14__ , have previously been thought unrelated. The former has been __15__ to social effects, such as a strong tradition of __16__ education. The latter was seen as a (an) __17__ of genetic isolation. Dr. Cochran suggests that the intelligence and diseases are intimately __18__ . His argument is that the unusual history of these people has __19__ them to unique evolutionary pressures that have resulted in this __20__ state of affairs.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-1:5",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 A 选项",
+      "anchor": "qp-1",
+      "text": "selected",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-1:6",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 B 选项",
+      "anchor": "qp-1",
+      "text": "prepared",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-1:7",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 C 选项",
+      "anchor": "qp-1",
+      "text": "obliged",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-1:8",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 D 选项",
+      "anchor": "qp-1",
+      "text": "pleased",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-2:9",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 A 选项",
+      "anchor": "qp-2",
+      "text": "unique",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-2:10",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 B 选项",
+      "anchor": "qp-2",
+      "text": "particular",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-2:11",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 C 选项",
+      "anchor": "qp-2",
+      "text": "special",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-2:12",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 D 选项",
+      "anchor": "qp-2",
+      "text": "rare",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-3:13",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 A 选项",
+      "anchor": "qp-3",
+      "text": "of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-3:14",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 B 选项",
+      "anchor": "qp-3",
+      "text": "with",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-3:15",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 C 选项",
+      "anchor": "qp-3",
+      "text": "in",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-3:16",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 D 选项",
+      "anchor": "qp-3",
+      "text": "against",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-4:17",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 A 选项",
+      "anchor": "qp-4",
+      "text": "subsequently",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-4:18",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 B 选项",
+      "anchor": "qp-4",
+      "text": "presently",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-4:19",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 C 选项",
+      "anchor": "qp-4",
+      "text": "previously",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-4:20",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 D 选项",
+      "anchor": "qp-4",
+      "text": "lately",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-5:21",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 A 选项",
+      "anchor": "qp-5",
+      "text": "Only",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-5:22",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 B 选项",
+      "anchor": "qp-5",
+      "text": "So",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-5:23",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 C 选项",
+      "anchor": "qp-5",
+      "text": "Even",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-5:24",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 D 选项",
+      "anchor": "qp-5",
+      "text": "Hence",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-6:25",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 A 选项",
+      "anchor": "qp-6",
+      "text": "thought",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-6:26",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 B 选项",
+      "anchor": "qp-6",
+      "text": "sight",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-6:27",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 C 选项",
+      "anchor": "qp-6",
+      "text": "cost",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-6:28",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 D 选项",
+      "anchor": "qp-6",
+      "text": "risk",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-7:29",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 A 选项",
+      "anchor": "qp-7",
+      "text": "advises",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-7:30",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 B 选项",
+      "anchor": "qp-7",
+      "text": "suggests",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-7:31",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 C 选项",
+      "anchor": "qp-7",
+      "text": "protests",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-7:32",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 D 选项",
+      "anchor": "qp-7",
+      "text": "objects",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-8:33",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 A 选项",
+      "anchor": "qp-8",
+      "text": "progress",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-8:34",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 B 选项",
+      "anchor": "qp-8",
+      "text": "fact",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-8:35",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 C 选项",
+      "anchor": "qp-8",
+      "text": "need",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-8:36",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 D 选项",
+      "anchor": "qp-8",
+      "text": "question",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-9:37",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 A 选项",
+      "anchor": "qp-9",
+      "text": "attaining",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-9:38",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 B 选项",
+      "anchor": "qp-9",
+      "text": "scoring",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-9:39",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 C 选项",
+      "anchor": "qp-9",
+      "text": "reaching",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-9:40",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 D 选项",
+      "anchor": "qp-9",
+      "text": "calculating",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-10:41",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 A 选项",
+      "anchor": "qp-10",
+      "text": "normal",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-10:42",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 B 选项",
+      "anchor": "qp-10",
+      "text": "common",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-10:43",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 C 选项",
+      "anchor": "qp-10",
+      "text": "mean",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-10:44",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 D 选项",
+      "anchor": "qp-10",
+      "text": "total",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-11:45",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 A 选项",
+      "anchor": "qp-11",
+      "text": "unconsciously",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-11:46",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 B 选项",
+      "anchor": "qp-11",
+      "text": "disproportionately",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-11:47",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 C 选项",
+      "anchor": "qp-11",
+      "text": "indefinitely",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-11:48",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 D 选项",
+      "anchor": "qp-11",
+      "text": "unaccountably",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-12:49",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 A 选项",
+      "anchor": "qp-12",
+      "text": "missions",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-12:50",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 B 选项",
+      "anchor": "qp-12",
+      "text": "fortunes",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-12:51",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 C 选项",
+      "anchor": "qp-12",
+      "text": "interests",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-12:52",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 D 选项",
+      "anchor": "qp-12",
+      "text": "careers",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-13:53",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 A 选项",
+      "anchor": "qp-13",
+      "text": "affirm",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-13:54",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 B 选项",
+      "anchor": "qp-13",
+      "text": "witness",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-13:55",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 C 选项",
+      "anchor": "qp-13",
+      "text": "observe",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-13:56",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 D 选项",
+      "anchor": "qp-13",
+      "text": "approve",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-14:57",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 A 选项",
+      "anchor": "qp-14",
+      "text": "moreover",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-14:58",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 B 选项",
+      "anchor": "qp-14",
+      "text": "therefore",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-14:59",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 C 选项",
+      "anchor": "qp-14",
+      "text": "however",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-14:60",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 D 选项",
+      "anchor": "qp-14",
+      "text": "meanwhile",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-15:61",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 A 选项",
+      "anchor": "qp-15",
+      "text": "given up",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-15:62",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 B 选项",
+      "anchor": "qp-15",
+      "text": "got over",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-15:63",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 C 选项",
+      "anchor": "qp-15",
+      "text": "carried on",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-15:64",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 D 选项",
+      "anchor": "qp-15",
+      "text": "put down",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-16:65",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 A 选项",
+      "anchor": "qp-16",
+      "text": "assessing",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-16:66",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 B 选项",
+      "anchor": "qp-16",
+      "text": "supervising",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-16:67",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 C 选项",
+      "anchor": "qp-16",
+      "text": "administering",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-16:68",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 D 选项",
+      "anchor": "qp-16",
+      "text": "valuing",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-17:69",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 A 选项",
+      "anchor": "qp-17",
+      "text": "development",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-17:70",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 B 选项",
+      "anchor": "qp-17",
+      "text": "origin",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-17:71",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 C 选项",
+      "anchor": "qp-17",
+      "text": "consequence",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-17:72",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 D 选项",
+      "anchor": "qp-17",
+      "text": "instrument",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-18:73",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 A 选项",
+      "anchor": "qp-18",
+      "text": "linked",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-18:74",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 B 选项",
+      "anchor": "qp-18",
+      "text": "integrated",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-18:75",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 C 选项",
+      "anchor": "qp-18",
+      "text": "woven",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-18:76",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 D 选项",
+      "anchor": "qp-18",
+      "text": "combined",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-19:77",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 A 选项",
+      "anchor": "qp-19",
+      "text": "limited",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-19:78",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 B 选项",
+      "anchor": "qp-19",
+      "text": "subjected",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-19:79",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 C 选项",
+      "anchor": "qp-19",
+      "text": "converted",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-19:80",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 D 选项",
+      "anchor": "qp-19",
+      "text": "directed",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-20:81",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 A 选项",
+      "anchor": "qp-20",
+      "text": "paradoxical",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-20:82",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 B 选项",
+      "anchor": "qp-20",
+      "text": "incompatible",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-20:83",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 C 选项",
+      "anchor": "qp-20",
+      "text": "inevitable",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:cloze:option:qp-20:84",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 D 选项",
+      "anchor": "qp-20",
+      "text": "continuous",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text1:directions:directions-section2-part-a-1:85",
+      "section": "text1",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-a-1",
+      "text": "Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "id": "2008:text1:passage:p-section2-part-a-1-1:86",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-1-1",
+      "text": "While still catching up to men in some spheres of modern life, women appear to be way ahead in at least one undesirable category. \"Women are particularly susceptible to developing depression and anxiety disorders in response to stress compared to men,\" according to Dr. Yehuda, chief psychiatrist at New York's Veteran's Administration Hospital.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:passage:p-section2-part-a-1-2:87",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-1-2",
+      "text": "Studies of both animals and humans have shown that sex hormones somehow affect the stress response, causing females under stress to produce more of the trigger chemicals than do males under the same conditions. In several of the studies, when stressed-out female rats had their ovaries (the female reproductive organs) removed, their chemical responses became equal to those of the males.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:passage:p-section2-part-a-1-3:88",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-1-3",
+      "text": "Adding to a woman's increased dose of stress chemicals, are her increased \"opportunities\" for stress. \"It's not necessarily that women don't cope as well. It's just that they have so much more to cope with,\" says Dr. Yehuda. \"Their capacity for tolerating stress may even be greater than men's,\" she observes, \"it's just that they're dealing with so many more things that they become worn out from it more visibly and sooner.\"",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:passage:p-section2-part-a-1-4:89",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-1-4",
+      "text": "Dr. Yehuda notes another difference between the sexes. \"I think that the kinds of things that women are exposed to tend to be in more of a chronic or repeated nature. Men go to war and are exposed to combat stress. Men are exposed to more acts of random physical violence. The kinds of interpersonal violence that women are exposed to tend to be in domestic situations, by, unfortunately, parents or other family members, and they tend not to be one-shot deals. The wear-and-tear that comes from these longer relationships can be quite devastating.\"",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:passage:p-section2-part-a-1-5:90",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-1-5",
+      "text": "Adeline Alvarez married at 18 and gave birth to a son, but was determined to finish college. \"I struggled a lot to get the college degree. I was living in so much frustration that that was my escape, to go to school, and get ahead and do better.\" Later, her marriage ended and she became a single mother. \"It's the hardest thing to take care of a teenager, have a job, pay the rent, pay the car payment, and pay the debt. I lived from paycheck to paycheck.\"",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:passage:p-section2-part-a-1-6:91",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-1-6",
+      "text": "Not everyone experiences the kinds of severe chronic stresses Alvarez describes. But most women today are coping with a lot of obligations, with few breaks, and feeling the strain. Alvarez's experience demonstrates the importance of finding ways to diffuse stress before it threatens your health and your ability to function.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:question:qp-21:92",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 21 题题干",
+      "anchor": "qp-21",
+      "text": "Which of the following is true according to the first two paragraphs?",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-21:93",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 A 选项",
+      "anchor": "qp-21",
+      "text": "Women are biologically more vulnerable to stress.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-21:94",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 B 选项",
+      "anchor": "qp-21",
+      "text": "Women are still suffering much stress caused by men.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-21:95",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 C 选项",
+      "anchor": "qp-21",
+      "text": "Women are more experienced than men in coping with stress.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-21:96",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 D 选项",
+      "anchor": "qp-21",
+      "text": "Men and women show different inclinations when faced with stress.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:question:qp-22:97",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 22 题题干",
+      "anchor": "qp-22",
+      "text": "Dr. Yehuda's research suggests that women____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-22:98",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 A 选项",
+      "anchor": "qp-22",
+      "text": "need extra doses of chemicals to handle stress.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-22:99",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 B 选项",
+      "anchor": "qp-22",
+      "text": "have limited capacity for tolerating stress.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-22:100",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 C 选项",
+      "anchor": "qp-22",
+      "text": "are more capable of avoiding stress.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text1:option:qp-22:101",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 D 选项",
+      "anchor": "qp-22",
+      "text": "are exposed to more stress.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text1:question:qp-23:102",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 23 题题干",
+      "anchor": "qp-23",
+      "text": "According to Paragraph 4, the stress women confront tends to be____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-23:103",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 A 选项",
+      "anchor": "qp-23",
+      "text": "domestic and temporary.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text1:option:qp-23:104",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 B 选项",
+      "anchor": "qp-23",
+      "text": "irregular and violent.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text1:option:qp-23:105",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 C 选项",
+      "anchor": "qp-23",
+      "text": "durable and frequent.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text1:option:qp-23:106",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 D 选项",
+      "anchor": "qp-23",
+      "text": "trivial and random.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text1:question:qp-24:107",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 24 题题干",
+      "anchor": "qp-24",
+      "text": "The sentence \"I lived from paycheck to paycheck.\" (Line 6, Para. 5) shows that____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-24:108",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 A 选项",
+      "anchor": "qp-24",
+      "text": "Alvarez cared about nothing but making money.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-24:109",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 B 选项",
+      "anchor": "qp-24",
+      "text": "Alvarez's salary barely covered her household expenses.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-24:110",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 C 选项",
+      "anchor": "qp-24",
+      "text": "Alvarez got paychecks from different jobs.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-24:111",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 D 选项",
+      "anchor": "qp-24",
+      "text": "Alvarez paid practically everything by check.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2008:text1:question:qp-25:112",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 25 题题干",
+      "anchor": "qp-25",
+      "text": "Which of the following would be the best title for the text?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-25:113",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 A 选项",
+      "anchor": "qp-25",
+      "text": "Strain of Stress: No Way Out?",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text1:option:qp-25:114",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 B 选项",
+      "anchor": "qp-25",
+      "text": "Responses to Stress: Gender Difference",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2008:text1:option:qp-25:115",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 C 选项",
+      "anchor": "qp-25",
+      "text": "Stress Analysis: What Chemicals Say",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text1:option:qp-25:116",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 D 选项",
+      "anchor": "qp-25",
+      "text": "Gender Inequality: Women Under Stress",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2008:text2:passage:p-section2-part-a-2-1:117",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-2-1",
+      "text": "It used to be so straightforward. A team of researchers working together in the laboratory would submit the results of their research to a journal. A journal editor would then remove the authors' names and affiliations from the paper and send it to their peers for review. Depending on the comments received, the editor would accept the paper for publication or decline it. Copyright rested with the journal publisher, and researchers seeking knowledge of the results would have to subscribe to the journal.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2008:text2:passage:p-section2-part-a-2-2:118",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-2-2",
+      "text": "No longer. The Internet – and pressure from funding agencies, who are questioning why commercial publishers are making money from government-funded research by restricting access to it – is making free access to scientific results a reality. The Organization for Economic Co-operation and Development (OECD) has just issued a report describing the far-reaching consequences of this. The report, by John Houghton of Victoria University in Australia and Graham Vickery of the OECD, makes heavy reading for publishers who have, so far, made handsome profits. But it goes further than that. It signals a change in what has, until now, been a key element of scientific endeavour.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2008:text2:passage:p-section2-part-a-2-3:119",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-2-3",
+      "text": "The value of knowledge and the return on the public investment in research depend, in part, upon wide distribution and ready access. It is big business. In America, the core scientific publishing market is estimated at between $7 billion and $11 billion. The International Association of Scientific, Technical and Medical Publishers says that there are more than 2,000 publishers worldwide specializing in these subjects. They publish more than 1.2 million articles each year in some 16,000 journals.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2008:text2:passage:p-section2-part-a-2-4:120",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-2-4",
+      "text": "This is now changing. According to the OECD report, some 75% of scholarly journals are now online. Entirely new business models are emerging; three main ones were identified by the report's authors. There is the so-called big deal, where institutional subscribers pay for access to a collection of online journal titles through site-licensing agreements. There is open-access publishing, typically supported by asking the author (or his employer) to pay for the paper to be published. Finally, there are open-access archives, where organizations such as universities or international laboratories support institutional repositories. Other models exist that are hybrids of these three, such as delayed open-access, where journals allow only subscribers to read a paper for the first six months, before making it freely available to everyone who wishes to see it. All this could change the traditional form of the peer-review process, at least for the publication of papers.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2008:text2:question:qp-26:121",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 26 题题干",
+      "anchor": "qp-26",
+      "text": "In the first paragraph, the author discusses____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-26:122",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 A 选项",
+      "anchor": "qp-26",
+      "text": "the background information of journal editing.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-26:123",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 B 选项",
+      "anchor": "qp-26",
+      "text": "the publication routine of laboratory reports.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-26:124",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 C 选项",
+      "anchor": "qp-26",
+      "text": "the relations of authors with journal publishers.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-26:125",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 D 选项",
+      "anchor": "qp-26",
+      "text": "the traditional process of journal publication.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:question:qp-27:126",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 27 题题干",
+      "anchor": "qp-27",
+      "text": "Which of the following is true of the OECD report?",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-27:127",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 A 选项",
+      "anchor": "qp-27",
+      "text": "It criticizes government-funded research.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-27:128",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 B 选项",
+      "anchor": "qp-27",
+      "text": "It introduces an effective means of publication.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-27:129",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 C 选项",
+      "anchor": "qp-27",
+      "text": "It upsets profit-making journal publishers.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-27:130",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 D 选项",
+      "anchor": "qp-27",
+      "text": "It benefits scientific research considerably.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:question:qp-28:131",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 28 题题干",
+      "anchor": "qp-28",
+      "text": "According to the text, online publication is significant in that____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-28:132",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 A 选项",
+      "anchor": "qp-28",
+      "text": "it provides an easier access to scientific results.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-28:133",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 B 选项",
+      "anchor": "qp-28",
+      "text": "it brings huge profits to scientific researchers.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-28:134",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 C 选项",
+      "anchor": "qp-28",
+      "text": "it emphasizes the crucial role of scientific knowledge.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-28:135",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 D 选项",
+      "anchor": "qp-28",
+      "text": "it facilitates public investment in scientific research.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:question:qp-29:136",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 29 题题干",
+      "anchor": "qp-29",
+      "text": "With the open-access publishing model, the author of a paper is required to____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-29:137",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 A 选项",
+      "anchor": "qp-29",
+      "text": "cover the cost of its publication.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text2:option:qp-29:138",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 B 选项",
+      "anchor": "qp-29",
+      "text": "subscribe to the journal publishing it.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-29:139",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 C 选项",
+      "anchor": "qp-29",
+      "text": "allow other online journals to use it freely.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-29:140",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 D 选项",
+      "anchor": "qp-29",
+      "text": "complete the peer-review before submission.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:question:qp-30:141",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 30 题题干",
+      "anchor": "qp-30",
+      "text": "Which of the following best summarizes the text?",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-30:142",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 A 选项",
+      "anchor": "qp-30",
+      "text": "The Internet is posing a threat to publishers.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-30:143",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 B 选项",
+      "anchor": "qp-30",
+      "text": "A new mode of publication is emerging.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text2:option:qp-30:144",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 C 选项",
+      "anchor": "qp-30",
+      "text": "Authors welcome the new channel for publication.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text2:option:qp-30:145",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 D 选项",
+      "anchor": "qp-30",
+      "text": "Publication is rendered easier by online service.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text3:passage:p-section2-part-a-3-1:146",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-3-1",
+      "text": "In the early 1960s Wilt Chamberlain was one of the only three players in the National Basketball Association (NBA) listed at over seven feet. If he had played last season, however, he would have been one of 42. The bodies playing major professional sports have changed dramatically over the years, and managers have been more than willing to adjust team uniforms to fit the growing numbers of bigger, longer frames.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text3:passage:p-section2-part-a-3-2:147",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-3-2",
+      "text": "The trend in sports, though, may be obscuring an unrecognized reality: Americans have generally stopped growing. Though typically about two inches taller now than 140 years ago, today's people – especially those born to families who have lived in the U.S. for many generations – apparently reached their limit in the early 1960s. And they aren't likely to get any taller. \"In the general population today, at this genetic, environmental level, we've pretty much gone as far as we can go,\" says anthropologist William Cameron Chumlea of Wright State University. In the case of NBA players, their increase in height appears to result from the increasingly common practice of recruiting players from all over the world.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2008:text3:passage:p-section2-part-a-3-3:148",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-3-3",
+      "text": "Growth, which rarely continues beyond the age of 20, demands calories and nutrients – notably, protein – to feed expanding tissues. At the start of the 20th century, under-nutrition and childhood infections got in the way. But as diet and health improved, children and adolescents have, on average, increased in height by about an inch and a half every 20 years, a pattern known as the secular trend in height. Yet according to the Centers for Disease Control and Prevention, average height – 5′9″ for men, 5′4″ for women – hasn't really changed since 1960.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:passage:p-section2-part-a-3-4:149",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-3-4",
+      "text": "Genetically speaking, there are advantages to avoiding substantial height. During childbirth, larger babies have more difficulty passing through the birth canal. Moreover, even though humans have been upright for millions of years, our feet and back continue to struggle with bipedal posture and cannot easily withstand repeated strain imposed by oversize limbs. \"There are some real constraints that are set by the genetic architecture of the individual organism,\" says anthropologist William Leonard of Northwestern University.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:passage:p-section2-part-a-3-5:150",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-3-5",
+      "text": "Genetic maximums can change, but don't expect this to happen soon. Claire C. Gordon, senior anthropologist at the Army Research Center in Natick, Mass., ensures that 90 percent of the uniforms and workstations fit recruits without alteration. She says that, unlike those for basketball, the length of military uniforms has not changed for some time. And if you need to predict human height in the near future to design a piece of equipment, Gordon says that by and large, \"you could use today's data and feel fairly confident.\"",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:question:qp-31:151",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 31 题题干",
+      "anchor": "qp-31",
+      "text": "Wilt Chamberlain is cited as an example to____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-31:152",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 A 选项",
+      "anchor": "qp-31",
+      "text": "illustrate the change of height of NBA players.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-31:153",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 B 选项",
+      "anchor": "qp-31",
+      "text": "show the popularity of NBA players in the U.S.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-31:154",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 C 选项",
+      "anchor": "qp-31",
+      "text": "compare different generations of NBA players.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-31:155",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 D 选项",
+      "anchor": "qp-31",
+      "text": "assess the achievements of famous NBA players.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:question:qp-32:156",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 32 题题干",
+      "anchor": "qp-32",
+      "text": "Which of the following plays a key role in body growth according to the text?",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-32:157",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 A 选项",
+      "anchor": "qp-32",
+      "text": "Genetic modification.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text3:option:qp-32:158",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 B 选项",
+      "anchor": "qp-32",
+      "text": "Natural environment.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text3:option:qp-32:159",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 C 选项",
+      "anchor": "qp-32",
+      "text": "Living standards.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text3:option:qp-32:160",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 D 选项",
+      "anchor": "qp-32",
+      "text": "Daily exercise.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text3:question:qp-33:161",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 33 题题干",
+      "anchor": "qp-33",
+      "text": "On which of the following statements would the author most probably agree?",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-33:162",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 A 选项",
+      "anchor": "qp-33",
+      "text": "Non-Americans add to the average height of the nation.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-33:163",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 B 选项",
+      "anchor": "qp-33",
+      "text": "Human height is conditioned by the upright posture.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-33:164",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 C 选项",
+      "anchor": "qp-33",
+      "text": "Americans are the tallest on average in the world.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-33:165",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 D 选项",
+      "anchor": "qp-33",
+      "text": "Larger babies tend to become taller in adulthood.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:question:qp-34:166",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 34 题题干",
+      "anchor": "qp-34",
+      "text": "We learn from the last paragraph that in the near future____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-34:167",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 A 选项",
+      "anchor": "qp-34",
+      "text": "the garment industry will reconsider the uniform size.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-34:168",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 B 选项",
+      "anchor": "qp-34",
+      "text": "the design of military uniforms will remain unchanged.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-34:169",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 C 选项",
+      "anchor": "qp-34",
+      "text": "genetic testing will be employed in selecting sportsmen.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-34:170",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 D 选项",
+      "anchor": "qp-34",
+      "text": "the existing data of human height will still be applicable.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2008:text3:question:qp-35:171",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 35 题题干",
+      "anchor": "qp-35",
+      "text": "The text intends to tell us that____",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text3:option:qp-35:172",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 A 选项",
+      "anchor": "qp-35",
+      "text": "the change of human height follows a cyclic pattern.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-35:173",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 B 选项",
+      "anchor": "qp-35",
+      "text": "human height is becoming even more predictable.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-35:174",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 C 选项",
+      "anchor": "qp-35",
+      "text": "Americans have reached their genetic growth limit.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text3:option:qp-35:175",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 D 选项",
+      "anchor": "qp-35",
+      "text": "the genetic pattern of Americans has altered.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text4:passage:p-section2-part-a-4-1:176",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-4-1",
+      "text": "In 1784, five years before he became president of the United States, George Washington, 52, was nearly toothless. So he hired a dentist to transplant nine teeth into his jaw – having extracted them from the mouths of his slaves.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text4:passage:p-section2-part-a-4-2:177",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-4-2",
+      "text": "That's a far different image from the cherry-tree-chopping George most people remember from their history books. But recently, many historians have begun to focus on the role slavery played in the lives of the founding generation. They have been spurred in part by DNA evidence made available in 1998, which almost certainly proved Thomas Jefferson had fathered at least one child with his slave Sally Hemings. And only over the past 30 years have scholars examined history from the bottom up. Works of several historians reveal the moral compromises made by the nation's early leaders and the fragile nature of the country's infancy. More significantly, they argue that many of the Founding Fathers knew slavery was wrong – and yet most did little to fight it.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text4:passage:p-section2-part-a-4-3:178",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-4-3",
+      "text": "More than anything, the historians say, the founders were hampered by the culture of their time. While Washington and Jefferson privately expressed distaste for slavery, they also understood that it was part of the political and economic bedrock of the country they helped to create.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text4:passage:p-section2-part-a-4-4:179",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-4-4",
+      "text": "For one thing, the South could not afford to part with its slaves. Owning slaves was \"like having a large bank account,\" says Wiencek, author of An Imperfect God: George Washington, His Slaves, and the Creation of America. The southern states would not have signed the Constitution without protections for the \"peculiar institution,\" including a clause that counted a slave as three fifths of a man for purposes of congressional representation.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text4:passage:p-section2-part-a-4-5:180",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-4-5",
+      "text": "And the statesmen's political lives depended on slavery. The three-fifths formula handed Jefferson his narrow victory in the presidential election of 1800 by inflating the votes of the southern states in the Electoral College. Once in office, Jefferson extended slavery with the Louisiana Purchase in 1803; the new land was carved into 13 states, including three slave states.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text4:passage:p-section2-part-a-4-6:181",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-4-6",
+      "text": "Still, Jefferson freed Hemings's children – though not Hemings herself or his approximately 150 other slaves. Washington, who had begun to believe that all men were created equal after observing the bravery of the black soldiers during the Revolutionary War, overcame the strong opposition of his relatives to grant his slaves their freedom in his will. Only a decade earlier, such an act would have required legislative approval in Virginia.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text4:question:qp-36:182",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 36 题题干",
+      "anchor": "qp-36",
+      "text": "George Washington's dental surgery is mentioned to____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-36:183",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 A 选项",
+      "anchor": "qp-36",
+      "text": "show the primitive medical practice in the past.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-36:184",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 B 选项",
+      "anchor": "qp-36",
+      "text": "demonstrate the cruelty of slavery in his days.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-36:185",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 C 选项",
+      "anchor": "qp-36",
+      "text": "stress the role of slaves in the U.S. history.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-36:186",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 D 选项",
+      "anchor": "qp-36",
+      "text": "reveal some unknown aspect of his life.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2008:text4:question:qp-37:187",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 37 题题干",
+      "anchor": "qp-37",
+      "text": "We may infer from the second paragraph that____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-37:188",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 A 选项",
+      "anchor": "qp-37",
+      "text": "DNA technology has been widely applied to history research.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-37:189",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 B 选项",
+      "anchor": "qp-37",
+      "text": "in its early days the U.S. was confronted with delicate situations.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-37:190",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 C 选项",
+      "anchor": "qp-37",
+      "text": "historians deliberately made up some stories of Jefferson's life.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-37:191",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 D 选项",
+      "anchor": "qp-37",
+      "text": "political compromises are easily found throughout the U.S. history.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:question:qp-38:192",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 38 题题干",
+      "anchor": "qp-38",
+      "text": "What do we learn about Thomas Jefferson?",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-38:193",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 A 选项",
+      "anchor": "qp-38",
+      "text": "His political view changed his attitude towards slavery.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-38:194",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 B 选项",
+      "anchor": "qp-38",
+      "text": "His status as a father made him free the child slaves.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-38:195",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 C 选项",
+      "anchor": "qp-38",
+      "text": "His attitude towards slavery was complex.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-38:196",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 D 选项",
+      "anchor": "qp-38",
+      "text": "His affair with a slave stained his prestige.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:question:qp-39:197",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 39 题题干",
+      "anchor": "qp-39",
+      "text": "Which of the following is true according to the text?",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-39:198",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 A 选项",
+      "anchor": "qp-39",
+      "text": "Some Founding Fathers benefit politically from slavery.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-39:199",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 B 选项",
+      "anchor": "qp-39",
+      "text": "Slaves in the old days did not have the right to vote.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-39:200",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 C 选项",
+      "anchor": "qp-39",
+      "text": "Slaves owners usually had large savings accounts.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-39:201",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 D 选项",
+      "anchor": "qp-39",
+      "text": "Slavery was regarded as a peculiar institution.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:question:qp-40:202",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 40 题题干",
+      "anchor": "qp-40",
+      "text": "Washington's decision to free slaves originated from his____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:text4:option:qp-40:203",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 A 选项",
+      "anchor": "qp-40",
+      "text": "moral considerations.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text4:option:qp-40:204",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 B 选项",
+      "anchor": "qp-40",
+      "text": "military experience.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text4:option:qp-40:205",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 C 选项",
+      "anchor": "qp-40",
+      "text": "financial conditions.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:text4:option:qp-40:206",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 D 选项",
+      "anchor": "qp-40",
+      "text": "political stand.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:new_type:directions:directions-section2-part-b:207",
+      "section": "new_type",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-b",
+      "text": "Directions: In the following text, some segments have been removed. For Questions 41-45, choose the most suitable one from the list A-G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on ANSWER SHEET 1. (10 points)",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:new_type:passage:p-section2-part-b-1:208",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-b-1",
+      "text": "The time for sharpening pencils, arranging your desk, and doing almost anything else instead of writing has ended. The first draft will appear on the page only if you stop avoiding the inevitable and sit, stand up, or lie down to write. (41) ______",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:new_type:passage:p-section2-part-b-2:209",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-b-2",
+      "text": "Be flexible. Your outline should smoothly conduct you from one point to the next, but do not permit it to railroad you. If a relevant and important idea occurs to you now, work it into the draft. (42) ______ Grammar, punctuation, and spelling can wait until you revise. Concentrate on what you are saying. Good writing most often occurs when you are in hot pursuit of an idea rather than in a nervous search for errors.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:new_type:passage:p-section2-part-b-3:210",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-b-3",
+      "text": "(43) ______ Your pages will be easier to keep track of that way, and, if you have to clip a paragraph to place it elsewhere, you will not lose any writing on the other side.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2008:new_type:passage:p-section2-part-b-4:211",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-b-4",
+      "text": "If you are working on a word processor, you can take advantage of its capacity to make additions and deletions as well as move entire paragraphs by making just a few simple keyboard commands. Some software programs can also check spelling and certain grammatical elements in your writing. (44) ______ These printouts are also easier to read than the screen when you work on revisions.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2008:new_type:passage:p-section2-part-b-5:212",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-b-5",
+      "text": "Once you have a first draft on paper, you can delete material that is unrelated to your thesis and add material necessary to illustrate your points and make your paper convincing. The student who wrote \"The A&P as a State of Mind\" wisely dropped a paragraph that questioned whether Sammy displays chauvinistic attitudes toward women. (45) ______",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2008:new_type:passage:p-section2-part-b-6:213",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-b-6",
+      "text": "Remember that your initial draft is only that. You should go through the paper many times – and then again – working to substantiate and clarify your ideas. You may even end up with several entire versions of the paper. Rewrite. The sentences within each paragraph should be related to a single topic. Transitions should connect one paragraph to the next so that there are no abrupt or confusing shifts. Awkward or wordy phrasing or unclear sentences and paragraphs should be mercilessly poked and prodded into shape.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2008:new_type:option:mod-section2-part-b:214",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 A 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "To make revising easier, leave wide margins and extra space between lines so that you can easily add words, sentences, and corrections. Write on only one side of the paper.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2008:new_type:option:mod-section2-part-b:215",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 B 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "After you have clearly and adequately developed the body of your paper, pay particular attention to the introductory and concluding paragraphs. It's probably best to write the introduction last, after you know precisely what you are introducing. Concluding paragraphs demand equal attention because they leave the reader with a final impression.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2008:new_type:option:mod-section2-part-b:216",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 C 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "It's worth remembering, however, that though a clean copy fresh off a printer may look terrific, it will read only as well as the thinking and writing that have gone into it. Many writers prudently store their data on disks and print their pages each time they finish a draft to avoid losing any material because of power failures or other problems.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2008:new_type:option:mod-section2-part-b:217",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 D 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "It makes no difference how you write, just so you do. Now that you have developed a topic into a tentative thesis, you can assemble your notes and begin to flesh out whatever outline you have made.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2008:new_type:option:mod-section2-part-b:218",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 E 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Although this is an interesting issue, it has nothing to do with the thesis, which explains how the setting influences Sammy's decision to quit his job. Instead of including that paragraph, she added one that described Lengel's crabbed response to the girls so that she could lead up to the A & P \"policy\" he enforces.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2008:new_type:option:mod-section2-part-b:219",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 F 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "In the final paragraph about the significance of the setting in \"A&P,\" the student brings together the reasons Sammy quit his job by referring to his refusal to accept Lengel's store policies.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2008:new_type:option:mod-section2-part-b:220",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 G 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "By using the first draft as a means of thinking about what you want to say, you will very likely discover more than your notes originally suggested. Plenty of good writers don't use outlines at all but discover ordering principles as they write. Do not attempt to compose a perfectly correct draft the first time around.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2008:translation:directions:directions-section2-part-c:221",
+      "section": "translation",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-c",
+      "text": "Directions: Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. ( 10 points)",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2008:translation:passage:p-section2-part-c-1:222",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-c-1",
+      "text": "In his autobiography, Darwin himself speaks of his intellectual powers with extraordinary modesty. He points out that he always experienced much difficulty in expressing himself clearly and concisely, but (46)he believes that this very difficulty may have had the compensating advantage of forcing him to think long and intently about every sentence, and thus enabling him to detect errors in reasoning and in his own observations. He disclaimed the possession of any great quickness of apprehension or wit, such as distinguished Huxley. (47)He asserted, also, that his power to follow a long and purely abstract train of thought was very limited, for which reason he felt certain that he never could have succeeded with mathematics. His memory, too, he described as extensive, but hazy. So poor in one sense was it that he never could remember for more than a few days a single date or a line of poetry. (48)On the other hand, he did not accept as well founded the charge made by some of his critics that, while he was a good observer, he had no power of reasoning. This, he thought, could not be true, because the \"Origin of Species\" is one long argument from the beginning to the end, and has convinced many able men. No one, he submits, could have written it without possessing some power of reasoning. He was willing to assert that \"I have a fair share of invention, and of common sense or judgment, such as every fairly successful lawyer or doctor must have, but not, I believe, in any higher degree.\" (49)He adds humbly that perhaps he was \"superior to the common run of men in noticing things which easily escape attention, and in observing them carefully.\"",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2008:translation:passage:p-section2-part-c-2:223",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-c-2",
+      "text": "Writing in the last year of his life, he expressed the opinion that in two or three respects his mind had changed during the preceding twenty or thirty years. Up to the age of thirty or beyond it poetry of many kinds gave him great pleasure. Formerly, too, pictures had given him considerable, and music very great, delight. In 1881, however, he said: \"Now for many years I cannot endure to read a line of poetry. I have also almost lost my taste for pictures or music.\" (50)Darwin was convinced that the loss of these tastes was not only a loss of happiness, but might possibly be injurious to the intellect, and more probably to the moral character.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2008:writing_a:writing:directions-section3-part-a:224",
+      "section": "writing_a",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-a",
+      "text": "51.Directions: You have just come back from Canada and found a music CD in your luggage that you forgot to return to Bob, your landlord there. Write him a letter to 1)make an apology, and 2)suggest a solution. You should write about 100 words on ANSWER SHEET 2. Do not sign your own name at the end of the letter, use “Li Ming ” instead. Do not write the address. (10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2008:writing_b:writing:directions-section3-part-b:225",
+      "section": "writing_b",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-b",
+      "text": "52.Directions: Write an essay of 160-200 words based on the following drawing. In your essay, you should 1）describe the drawing briefly, 2）explain its intended meaning, and then 3）give your comments. You should write neatly on ANSWER SHEET 2. (20 points)",
+      "pdf_pages": [
+        11
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "section": "writing_b",
+      "url": "https://img-paper.lazynote.cn/2025/08/08/ruTgsuNg.jpg",
+      "source_description": "这是一幅黑白漫画",
+      "description_is_exam_text": false,
+      "path": "images/exam_bank/2008-figure-1.jpg",
+      "sha256": "77373459e9b95a23bfec7bef1469d3b14f677d06ec607077c8f374ce87656abf"
+    }
+  ],
+  "quality_note": "第三方整理版。已检查9个题型模块、完形20题选项、阅读20题题干选项及PDF可读性；未逐字人工校对。来源PDF缺作文配图，配图已单独保存并补入本地整卷页。新题型不重排、不填答案。原句自动切分，入生词库前结合原段核对。"
+}

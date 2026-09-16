@@ -1,0 +1,19 @@
+{
+  "year": 2025,
+  "paper_id": "2025-english-one",
+  "title": "2025年考研英语（一）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2025-english-one/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2025-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802025%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:39.714638+00:00",
+  "html": {
+    "path": "images/exam_bank/2025.html",
+    "sha256": "25b207451db2af61723e4d99ab428a090a292f081b34a26018845bb254cb43a4",
+    "bytes": 225659
+  },
+  "pdf": {
+    "path": "images/exam_bank/2025.pdf",
+    "sha256": "35263e112fee8b11014b45bbcc137ccd5341fccd365d3da5dfcc2b32d60495df",
+    "bytes": 190726
+  }
+}

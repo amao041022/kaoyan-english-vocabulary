@@ -1,0 +1,19 @@
+{
+  "year": 2023,
+  "paper_id": "2023-english-one",
+  "title": "2023年考研英语（一）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2023-english-one/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2023-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802023%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:39.465459+00:00",
+  "html": {
+    "path": "images/exam_bank/2023.html",
+    "sha256": "b19eb9cf7f34109a5011cc49b5467269ad2ba133a6ff45312ad3cf2d022a442c",
+    "bytes": 225473
+  },
+  "pdf": {
+    "path": "images/exam_bank/2023.pdf",
+    "sha256": "05878487fb628f2bcbc1bc901f3e9863b5edbe2a3d0539cc1c0167002f9d31ab",
+    "bytes": 187866
+  }
+}

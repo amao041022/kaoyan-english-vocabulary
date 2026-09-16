@@ -1,0 +1,411 @@
+{
+  "schema_version": 1,
+  "built_at": "2026-09-16T02:58:04.011884+00:00",
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "paper_count": 20,
+  "reading_passages": 80,
+  "record_count": 4636,
+  "sources": [
+    {
+      "year": 2006,
+      "paper_id": "2006-english-one",
+      "title": "2006年考研英语（分卷前旧卷）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2006/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2006/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%EF%BC%88%E6%97%A7%EF%BC%892006%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:36.684767+00:00",
+      "html": {
+        "path": "images/exam_bank/2006.html",
+        "sha256": "17d25952c017d2147d7863c558bac830555f2aa2f18a24fbdd815939d1f418c6",
+        "bytes": 228840
+      },
+      "pdf": {
+        "path": "images/exam_bank/2006.pdf",
+        "sha256": "a1a6249a31c8e631694d4916c31a7ede231689f59d59b2a8fd01086828f03366",
+        "bytes": 229483
+      }
+    },
+    {
+      "year": 2007,
+      "paper_id": "2007-english-one",
+      "title": "2007年考研英语（分卷前旧卷）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2007/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2007/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%EF%BC%88%E6%97%A7%EF%BC%892007%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:36.684767+00:00",
+      "html": {
+        "path": "images/exam_bank/2007.html",
+        "sha256": "0836a3e1df3bf76896140a4e50252a19b8834c7c9c8dcf6bedcbb1cc769c7cff",
+        "bytes": 224173
+      },
+      "pdf": {
+        "path": "images/exam_bank/2007.pdf",
+        "sha256": "69c14a202c8b7adaf2c0f3300fd5f2935149f915ed476e71d4df6a2df35f2046",
+        "bytes": 218162
+      }
+    },
+    {
+      "year": 2008,
+      "paper_id": "2008-english-one",
+      "title": "2008年考研英语（分卷前旧卷）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2008/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2008/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%EF%BC%88%E6%97%A7%EF%BC%892008%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:36.686072+00:00",
+      "html": {
+        "path": "images/exam_bank/2008.html",
+        "sha256": "823d429982f82a8af2acd13cb36086596dda5651d5509280b498e63655ef518e",
+        "bytes": 224776
+      },
+      "pdf": {
+        "path": "images/exam_bank/2008.pdf",
+        "sha256": "c3e1132b40f0f1da8c30841b8656cd563497e66bc723e75d125dc781e4dc3167",
+        "bytes": 223570
+      }
+    },
+    {
+      "year": 2009,
+      "paper_id": "2009-english-one",
+      "title": "2009年考研英语（分卷前旧卷）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2009/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2009/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%EF%BC%88%E6%97%A7%EF%BC%892009%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:36.686072+00:00",
+      "html": {
+        "path": "images/exam_bank/2009.html",
+        "sha256": "955da2168a1797c3dd01416eedbd01ccdba7327394a0e513a274ec28439526c9",
+        "bytes": 226480
+      },
+      "pdf": {
+        "path": "images/exam_bank/2009.pdf",
+        "sha256": "516590392c96e1903b185984e026033d872aa9b503e0f669f97b73664904f423",
+        "bytes": 216374
+      }
+    },
+    {
+      "year": 2010,
+      "paper_id": "2010-english-one",
+      "title": "2010年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2010-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2010-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802010%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:37.069061+00:00",
+      "html": {
+        "path": "images/exam_bank/2010.html",
+        "sha256": "663c0c7e6ead8420272970a15c19ac5764bf170ecb3d8e25b05fe33ff88c0d53",
+        "bytes": 226175
+      },
+      "pdf": {
+        "path": "images/exam_bank/2010.pdf",
+        "sha256": "d453637c791e2719b974d5866fa6db955f2f93d11fea3adbe96142fc367b9422",
+        "bytes": 188369
+      }
+    },
+    {
+      "year": 2011,
+      "paper_id": "2011-english-one",
+      "title": "2011年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2011-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2011-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802011%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:37.499778+00:00",
+      "html": {
+        "path": "images/exam_bank/2011.html",
+        "sha256": "2ba9b5891d21a2a695b47080701c51eb2f75597441253ab30a4be07d948a4930",
+        "bytes": 222868
+      },
+      "pdf": {
+        "path": "images/exam_bank/2011.pdf",
+        "sha256": "0e4a471fbc3ce2e56642e55effb9dfffd29256f42c3408a8a297d87fa014d050",
+        "bytes": 188105
+      }
+    },
+    {
+      "year": 2012,
+      "paper_id": "2012-english-one",
+      "title": "2012年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2012-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2012-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802012%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:37.517552+00:00",
+      "html": {
+        "path": "images/exam_bank/2012.html",
+        "sha256": "f3753b87d68654ab10ef697c27755a1a489bf97f2a89831d7c23be89bd78799d",
+        "bytes": 227363
+      },
+      "pdf": {
+        "path": "images/exam_bank/2012.pdf",
+        "sha256": "dc5446655bcb24da5aa1cac8231627d203a53c4f1143f5e1e50e37173d48a419",
+        "bytes": 220498
+      }
+    },
+    {
+      "year": 2013,
+      "paper_id": "2013-english-one",
+      "title": "2013年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2013-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2013-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802013%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:37.559797+00:00",
+      "html": {
+        "path": "images/exam_bank/2013.html",
+        "sha256": "284eae4a22e369207e1d7514f3f1ce8e3a85bea529006fc57314d3ff9b1b5a9a",
+        "bytes": 225021
+      },
+      "pdf": {
+        "path": "images/exam_bank/2013.pdf",
+        "sha256": "6e7ffc1c912cb3b2c83d05413adbee02e02ccbb8de7cac58967193ba99d9052d",
+        "bytes": 220381
+      }
+    },
+    {
+      "year": 2014,
+      "paper_id": "2014-english-one",
+      "title": "2014年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2014-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2014-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802014%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:37.768917+00:00",
+      "html": {
+        "path": "images/exam_bank/2014.html",
+        "sha256": "e05a766919cb44d4dbeddf14ed31136ded062456e1d694df36ea5424ffdb5ea5",
+        "bytes": 222851
+      },
+      "pdf": {
+        "path": "images/exam_bank/2014.pdf",
+        "sha256": "a4b7c987e93939bb2c12c48ce0030b1f5150ba92644da86ad5eccae7d8a82a04",
+        "bytes": 190229
+      }
+    },
+    {
+      "year": 2015,
+      "paper_id": "2015-english-one",
+      "title": "2015年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2015-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2015-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802015%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:38.073187+00:00",
+      "html": {
+        "path": "images/exam_bank/2015.html",
+        "sha256": "459d6c75423d9ec3a5bc2968caa901b91f34bd8c2c9c2fb224cf0bea8febc70a",
+        "bytes": 228665
+      },
+      "pdf": {
+        "path": "images/exam_bank/2015.pdf",
+        "sha256": "0526bb8b82ef1706c65f807d80b97babde221551e8f5e226faa66505e3bd9567",
+        "bytes": 223616
+      }
+    },
+    {
+      "year": 2016,
+      "paper_id": "2016-english-one",
+      "title": "2016年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2016-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2016-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802016%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:38.165082+00:00",
+      "html": {
+        "path": "images/exam_bank/2016.html",
+        "sha256": "b5ae540b75d0d5666e881d61d317ea6435ffc86d31aa064b3cc3ee00e0381e80",
+        "bytes": 226153
+      },
+      "pdf": {
+        "path": "images/exam_bank/2016.pdf",
+        "sha256": "0b481c1abb8b92cea65fb9a64b0200795c9707350256c0f8aaf0e14d6c52cdcc",
+        "bytes": 217707
+      }
+    },
+    {
+      "year": 2017,
+      "paper_id": "2017-english-one",
+      "title": "2017年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2017-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2017-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802017%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:38.295005+00:00",
+      "html": {
+        "path": "images/exam_bank/2017.html",
+        "sha256": "0b8a7da3dc4ad22930c1a08415a39f318cf99d1b77eb4741f76c20267d4fdc81",
+        "bytes": 226480
+      },
+      "pdf": {
+        "path": "images/exam_bank/2017.pdf",
+        "sha256": "21a4852d74635245ba8e4cfd4f3c8cfbb517861761e7e2ab0ee63d0f908335ac",
+        "bytes": 195608
+      }
+    },
+    {
+      "year": 2018,
+      "paper_id": "2018-english-one",
+      "title": "2018年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2018-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2018-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802018%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:38.445945+00:00",
+      "html": {
+        "path": "images/exam_bank/2018.html",
+        "sha256": "ac070a0850d0915f60f8d4e9e7204c3f90a5ae4a62f8b748e342f1f45f34f6bf",
+        "bytes": 223048
+      },
+      "pdf": {
+        "path": "images/exam_bank/2018.pdf",
+        "sha256": "df67f85967c80c9563b4b675fd6f15f470ad2dca5f942ec3816811ee42118309",
+        "bytes": 193121
+      }
+    },
+    {
+      "year": 2019,
+      "paper_id": "2019-english-one",
+      "title": "2019年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2019-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2019-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802019%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:38.841962+00:00",
+      "html": {
+        "path": "images/exam_bank/2019.html",
+        "sha256": "944dcf2d62fa15f59ef6d841fd33e8c3040c7315c9eb86863d113ece1c3c4d5a",
+        "bytes": 226324
+      },
+      "pdf": {
+        "path": "images/exam_bank/2019.pdf",
+        "sha256": "367934c7fa34205f519862cd109bbd77cabe9ef0f11660564e9ad5c5c2c08392",
+        "bytes": 188471
+      }
+    },
+    {
+      "year": 2020,
+      "paper_id": "2020-english-one",
+      "title": "2020年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2020-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2020-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802020%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:38.907795+00:00",
+      "html": {
+        "path": "images/exam_bank/2020.html",
+        "sha256": "2622cbac94fabfcc10967e724e9f25d8672d71f09e7c946b6eb0f26e80c0f665",
+        "bytes": 226147
+      },
+      "pdf": {
+        "path": "images/exam_bank/2020.pdf",
+        "sha256": "5753a9e01936c016849ebe1e7a105b253e4a6b8d423a0bec572bfc0c46681e3b",
+        "bytes": 216616
+      }
+    },
+    {
+      "year": 2021,
+      "paper_id": "2021-english-one",
+      "title": "2021年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2021-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2021-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802021%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:39.030201+00:00",
+      "html": {
+        "path": "images/exam_bank/2021.html",
+        "sha256": "bb37e76ac5757b6bf3d085269bb3e5d41023545b5394cce4eb50d8a4ff388f6e",
+        "bytes": 225947
+      },
+      "pdf": {
+        "path": "images/exam_bank/2021.pdf",
+        "sha256": "0db2ed86c7945a1792f59267eb51028809c6fbfcc6c896cdb67ec555ec6c6637",
+        "bytes": 219971
+      }
+    },
+    {
+      "year": 2022,
+      "paper_id": "2022-english-one",
+      "title": "2022年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2022-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2022-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802022%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:39.240503+00:00",
+      "html": {
+        "path": "images/exam_bank/2022.html",
+        "sha256": "0a1a032c8b193a8cb18069ac3363bda5d8be1c144243197ad2cdf5f88a57d0e9",
+        "bytes": 227534
+      },
+      "pdf": {
+        "path": "images/exam_bank/2022.pdf",
+        "sha256": "151b8158ecb85588df70955d29f36ef784be146f86dbc40dc4b6519d68d76338",
+        "bytes": 221113
+      }
+    },
+    {
+      "year": 2023,
+      "paper_id": "2023-english-one",
+      "title": "2023年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2023-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2023-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802023%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:39.465459+00:00",
+      "html": {
+        "path": "images/exam_bank/2023.html",
+        "sha256": "b19eb9cf7f34109a5011cc49b5467269ad2ba133a6ff45312ad3cf2d022a442c",
+        "bytes": 225473
+      },
+      "pdf": {
+        "path": "images/exam_bank/2023.pdf",
+        "sha256": "05878487fb628f2bcbc1bc901f3e9863b5edbe2a3d0539cc1c0167002f9d31ab",
+        "bytes": 187866
+      }
+    },
+    {
+      "year": 2024,
+      "paper_id": "2024-english-one",
+      "title": "2024年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2024-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2024-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802024%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:39.668075+00:00",
+      "html": {
+        "path": "images/exam_bank/2024.html",
+        "sha256": "6b7be9b615f99cae6bddf5ab94e1032ddd25be1877a4dd7598bd66f7208b6815",
+        "bytes": 229272
+      },
+      "pdf": {
+        "path": "images/exam_bank/2024.pdf",
+        "sha256": "32cabc2db207d257696a41879e1c081ef5bc7c5385a5278e8fa75fa2d518238a",
+        "bytes": 220061
+      }
+    },
+    {
+      "year": 2025,
+      "paper_id": "2025-english-one",
+      "title": "2025年考研英语（一）",
+      "provider": "LazyNote（第三方整理版）",
+      "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2025-english-one/",
+      "pdf_url": "https://downloads.lazynote.cn/kaoyan/2025-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802025%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+      "downloaded_at": "2026-09-16T02:48:39.714638+00:00",
+      "html": {
+        "path": "images/exam_bank/2025.html",
+        "sha256": "25b207451db2af61723e4d99ab428a090a292f081b34a26018845bb254cb43a4",
+        "bytes": 225659
+      },
+      "pdf": {
+        "path": "images/exam_bank/2025.pdf",
+        "sha256": "35263e112fee8b11014b45bbcc137ccd5341fccd365d3da5dfcc2b32d60495df",
+        "bytes": 190726
+      }
+    }
+  ]
+}

@@ -1,0 +1,2321 @@
+{
+  "schema_version": 1,
+  "year": 2019,
+  "title": "2019年考研英语（一）",
+  "source_url": "https://english-exam.lazynote.cn/kaoyan/paper/2019-english-one/",
+  "pdf": "images/exam_bank/2019.pdf",
+  "pdf_page_count": 12,
+  "sections": {
+    "cloze": 86,
+    "text1": 33,
+    "text2": 31,
+    "text3": 34,
+    "text4": 32,
+    "new_type": 8,
+    "translation": 5,
+    "writing_a": 1,
+    "writing_b": 1
+  },
+  "records": [
+    {
+      "id": "2019:cloze:directions:directions-section1:1",
+      "section": "cloze",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section1",
+      "text": "Directions: Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2019:cloze:passage:p-section1-1:2",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section1-1",
+      "text": "Today we live in a world where GPS systems, digital maps, and other navigation apps are available on our smartphones. __1__ of us just walk straight into the woods without a phone. But phones __2__ on batteries, and batteries can die faster than we realize. __3__ you get lost without a phone or a compass, and you __4__ can't find north, we have a few tricks to help you navigate __5__ to civilization, one of which is to follow the land.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2019:cloze:passage:p-section1-2:3",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section1-2",
+      "text": "When you find yourself well __6__ a trail, but not in a completely __7__ area, you have to answer two questions: Which __8__ is downhill, in this particular area? And where is the nearest water source? Humans overwhelmingly live in valleys, and on supplies of fresh water. __9__ , if you head downhill, and follow any H2O you find, you should __10__ see signs of people.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:passage:p-section1-3:4",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section1-3",
+      "text": "If you've explored the area before, keep an eye out for familiar sights – you may be __11__ how quickly identifying a distinctive rock or tree can restore your bearings.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2019:cloze:passage:p-section1-4:5",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section1-4",
+      "text": "Another __12__ : Climb high and look for signs of human habitation. __13__ , even in dense forest, you should be able to __14__ gaps in the tree line due to roads, train tracks, and other paths people carve __15__ the woods. Head toward these __16__ to find a way out. At night, scan the horizon for __17__ light sources, such as fires and streetlights, then walk toward the glow of light pollution.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:passage:p-section1-5:6",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section1-5",
+      "text": "__18__ , assuming you're lost in an area humans tend to frequent, look for the __19__ we leave on the landscape. Trail blazes, tire tracks, and other features can __20__ you to civilization.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-1:7",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 A 选项",
+      "anchor": "qp-1",
+      "text": "Some",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-1:8",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 B 选项",
+      "anchor": "qp-1",
+      "text": "Most",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-1:9",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 C 选项",
+      "anchor": "qp-1",
+      "text": "Few",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-1:10",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 D 选项",
+      "anchor": "qp-1",
+      "text": "All",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-2:11",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 A 选项",
+      "anchor": "qp-2",
+      "text": "put",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-2:12",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 B 选项",
+      "anchor": "qp-2",
+      "text": "take",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-2:13",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 C 选项",
+      "anchor": "qp-2",
+      "text": "run",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-2:14",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 D 选项",
+      "anchor": "qp-2",
+      "text": "come",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-3:15",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 A 选项",
+      "anchor": "qp-3",
+      "text": "Since",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-3:16",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 B 选项",
+      "anchor": "qp-3",
+      "text": "If",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-3:17",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 C 选项",
+      "anchor": "qp-3",
+      "text": "Though",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-3:18",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 D 选项",
+      "anchor": "qp-3",
+      "text": "Until",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-4:19",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 A 选项",
+      "anchor": "qp-4",
+      "text": "formally",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-4:20",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 B 选项",
+      "anchor": "qp-4",
+      "text": "relatively",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-4:21",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 C 选项",
+      "anchor": "qp-4",
+      "text": "gradually",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-4:22",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 D 选项",
+      "anchor": "qp-4",
+      "text": "literally",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-5:23",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 A 选项",
+      "anchor": "qp-5",
+      "text": "back",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-5:24",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 B 选项",
+      "anchor": "qp-5",
+      "text": "next",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-5:25",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 C 选项",
+      "anchor": "qp-5",
+      "text": "around",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-5:26",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 D 选项",
+      "anchor": "qp-5",
+      "text": "away",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-6:27",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 A 选项",
+      "anchor": "qp-6",
+      "text": "onto",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-6:28",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 B 选项",
+      "anchor": "qp-6",
+      "text": "off",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-6:29",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 C 选项",
+      "anchor": "qp-6",
+      "text": "across",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-6:30",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 D 选项",
+      "anchor": "qp-6",
+      "text": "alone",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-7:31",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 A 选项",
+      "anchor": "qp-7",
+      "text": "unattractive",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-7:32",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 B 选项",
+      "anchor": "qp-7",
+      "text": "uncrowded",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-7:33",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 C 选项",
+      "anchor": "qp-7",
+      "text": "unchanged",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-7:34",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 D 选项",
+      "anchor": "qp-7",
+      "text": "unfamiliar",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-8:35",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 A 选项",
+      "anchor": "qp-8",
+      "text": "site",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-8:36",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 B 选项",
+      "anchor": "qp-8",
+      "text": "point",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-8:37",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 C 选项",
+      "anchor": "qp-8",
+      "text": "way",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-8:38",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 D 选项",
+      "anchor": "qp-8",
+      "text": "place",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-9:39",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 A 选项",
+      "anchor": "qp-9",
+      "text": "So",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-9:40",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 B 选项",
+      "anchor": "qp-9",
+      "text": "Yet",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-9:41",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 C 选项",
+      "anchor": "qp-9",
+      "text": "Instead",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-9:42",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 D 选项",
+      "anchor": "qp-9",
+      "text": "Besides",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-10:43",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 A 选项",
+      "anchor": "qp-10",
+      "text": "immediately",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-10:44",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 B 选项",
+      "anchor": "qp-10",
+      "text": "intentionally",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-10:45",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 C 选项",
+      "anchor": "qp-10",
+      "text": "unexpectedly",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-10:46",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 D 选项",
+      "anchor": "qp-10",
+      "text": "eventually",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-11:47",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 A 选项",
+      "anchor": "qp-11",
+      "text": "surprised",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-11:48",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 B 选项",
+      "anchor": "qp-11",
+      "text": "annoyed",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-11:49",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 C 选项",
+      "anchor": "qp-11",
+      "text": "frightened",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-11:50",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 D 选项",
+      "anchor": "qp-11",
+      "text": "confused",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-12:51",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 A 选项",
+      "anchor": "qp-12",
+      "text": "problem",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-12:52",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 B 选项",
+      "anchor": "qp-12",
+      "text": "option",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-12:53",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 C 选项",
+      "anchor": "qp-12",
+      "text": "view",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-12:54",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 D 选项",
+      "anchor": "qp-12",
+      "text": "result",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-13:55",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 A 选项",
+      "anchor": "qp-13",
+      "text": "Above all",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-13:56",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 B 选项",
+      "anchor": "qp-13",
+      "text": "In contrast",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-13:57",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 C 选项",
+      "anchor": "qp-13",
+      "text": "On average",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-13:58",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 D 选项",
+      "anchor": "qp-13",
+      "text": "For example",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-14:59",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 A 选项",
+      "anchor": "qp-14",
+      "text": "bridge",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-14:60",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 B 选项",
+      "anchor": "qp-14",
+      "text": "avoid",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-14:61",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 C 选项",
+      "anchor": "qp-14",
+      "text": "spot",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-14:62",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 D 选项",
+      "anchor": "qp-14",
+      "text": "separate",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-15:63",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 A 选项",
+      "anchor": "qp-15",
+      "text": "from",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-15:64",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 B 选项",
+      "anchor": "qp-15",
+      "text": "through",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-15:65",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 C 选项",
+      "anchor": "qp-15",
+      "text": "beyond",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-15:66",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 D 选项",
+      "anchor": "qp-15",
+      "text": "under",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-16:67",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 A 选项",
+      "anchor": "qp-16",
+      "text": "posts",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-16:68",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 B 选项",
+      "anchor": "qp-16",
+      "text": "links",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-16:69",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 C 选项",
+      "anchor": "qp-16",
+      "text": "shades",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-16:70",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 D 选项",
+      "anchor": "qp-16",
+      "text": "breaks",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-17:71",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 A 选项",
+      "anchor": "qp-17",
+      "text": "artificial",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-17:72",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 B 选项",
+      "anchor": "qp-17",
+      "text": "mysterious",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-17:73",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 C 选项",
+      "anchor": "qp-17",
+      "text": "hidden",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-17:74",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 D 选项",
+      "anchor": "qp-17",
+      "text": "limited",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-18:75",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 A 选项",
+      "anchor": "qp-18",
+      "text": "Finally",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-18:76",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 B 选项",
+      "anchor": "qp-18",
+      "text": "Consequently",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-18:77",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 C 选项",
+      "anchor": "qp-18",
+      "text": "Incidentally",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-18:78",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 D 选项",
+      "anchor": "qp-18",
+      "text": "Generally",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-19:79",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 A 选项",
+      "anchor": "qp-19",
+      "text": "memories",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-19:80",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 B 选项",
+      "anchor": "qp-19",
+      "text": "marks",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-19:81",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 C 选项",
+      "anchor": "qp-19",
+      "text": "notes",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-19:82",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 D 选项",
+      "anchor": "qp-19",
+      "text": "belongings",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-20:83",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 A 选项",
+      "anchor": "qp-20",
+      "text": "restrict",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-20:84",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 B 选项",
+      "anchor": "qp-20",
+      "text": "adopt",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-20:85",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 C 选项",
+      "anchor": "qp-20",
+      "text": "lead",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:cloze:option:qp-20:86",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 D 选项",
+      "anchor": "qp-20",
+      "text": "expose",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text1:directions:directions-section2-part-a-1:87",
+      "section": "text1",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-a-1",
+      "text": "Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "id": "2019:text1:passage:p-section2-part-a-1-1:88",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-1-1",
+      "text": "Financial regulators in Britain have imposed a rather unusual rule on the bosses of big banks. Starting next year, any guaranteed bonus of top executives could be delayed 10 years if their banks are under investigation for wrongdoing. The main purpose of this \"clawback\" rule is to hold bankers accountable for harmful risk-taking and to restore public trust in financial institutions. Yet officials also hope for a much larger benefit: more long-term decision-making, not only by banks but by all corporations, to build a stronger economy for future generations.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:passage:p-section2-part-a-1-2:89",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-1-2",
+      "text": "\"Short-termism\" or the desire for quick profits, has worsened in publicly traded companies, says the Bank of England's top economist, Andrew Haldane. He quotes a giant of classical economics, Alfred Marshall, in describing this financial impatience as acting like \"children who pick the plums out of their pudding to eat them at once\" rather than putting them aside to be eaten last.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:passage:p-section2-part-a-1-3:90",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-1-3",
+      "text": "The average time for holding a stock in both the United States and Britain, he notes, has dropped from seven years to seven months in recent decades. Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research or to build up customer loyalty. This has been dubbed \"quarterly capitalism.\"",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:passage:p-section2-part-a-1-4:91",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-1-4",
+      "text": "In addition, new digital technologies have allowed more rapid trading of equities, quicker use of information, and thus shorter attention spans in financial markets. \"There seems to be a predominance of short-term thinking at the expense of long-term investing,\" said Commissioner Daniel Gallagher of the US Securities and Exchange Commission in a speech this week.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:passage:p-section2-part-a-1-5:92",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-1-5",
+      "text": "In the US, the Sarbanes-Oxley Act of 2002 has pushed most public companies to defer performance bonuses for senior executives by about a year, slightly helping reduce \"short-termism.\" In its latest survey of CEO pay, The Wall Street Journal finds that \"a substantial part\" of executive pay is now tied to performance.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:passage:p-section2-part-a-1-6:93",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-1-6",
+      "text": "Much more could be done to encourage \"long-termism,\" such as changes in the tax code and quicker disclosure of stock acquisitions. In France, shareholders who hold onto a company investment for at least two years can sometimes earn more voting rights in a company.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:passage:p-section2-part-a-1-7:94",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-1-7",
+      "text": "Within companies, the right compensation design can provide incentives for executives to think beyond their own time at the company and on behalf of all stakeholders. Britain's new rule is a reminder to bankers that society has an interest in their performance, not just for the short term but for the long term.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:question:qp-21:95",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 21 题题干",
+      "anchor": "qp-21",
+      "text": "According to Paragraph 1, one motive in imposing the new rule is to____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-21:96",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 A 选项",
+      "anchor": "qp-21",
+      "text": "enhance bankers' sense of responsibility.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-21:97",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 B 选项",
+      "anchor": "qp-21",
+      "text": "help corporations achieve larger profits.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-21:98",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 C 选项",
+      "anchor": "qp-21",
+      "text": "build a new system of financial regulation.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-21:99",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 D 选项",
+      "anchor": "qp-21",
+      "text": "guarantee the bonuses of top executives.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:question:qp-22:100",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 22 题题干",
+      "anchor": "qp-22",
+      "text": "Alfred Marshall is quoted to indicate____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-22:101",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 A 选项",
+      "anchor": "qp-22",
+      "text": "the conditions for generating quick profits.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-22:102",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 B 选项",
+      "anchor": "qp-22",
+      "text": "governments' impatience in decision-making.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-22:103",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 C 选项",
+      "anchor": "qp-22",
+      "text": "the solid structure of publicly traded companies.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-22:104",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 D 选项",
+      "anchor": "qp-22",
+      "text": "\"short-termism\" in economic activities.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2019:text1:question:qp-23:105",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 23 题题干",
+      "anchor": "qp-23",
+      "text": "It is argued that the influence of transient investment on public companies can be____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-23:106",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 A 选项",
+      "anchor": "qp-23",
+      "text": "indirect.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text1:option:qp-23:107",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 B 选项",
+      "anchor": "qp-23",
+      "text": "adverse.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text1:option:qp-23:108",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 C 选项",
+      "anchor": "qp-23",
+      "text": "minimal.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text1:option:qp-23:109",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 D 选项",
+      "anchor": "qp-23",
+      "text": "temporary.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text1:question:qp-24:110",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 24 题题干",
+      "anchor": "qp-24",
+      "text": "The US and France examples are used to illustrate____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-24:111",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 A 选项",
+      "anchor": "qp-24",
+      "text": "the obstacles to preventing \"short-termism\".",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-24:112",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 B 选项",
+      "anchor": "qp-24",
+      "text": "the significance of long-term thinking.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-24:113",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 C 选项",
+      "anchor": "qp-24",
+      "text": "the approaches to promoting \"long-termism\".",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-24:114",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 D 选项",
+      "anchor": "qp-24",
+      "text": "the prevalence of short-term thinking.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2019:text1:question:qp-25:115",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 25 题题干",
+      "anchor": "qp-25",
+      "text": "Which of the following would be the best title for the text?",
+      "pdf_pages": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-25:116",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 A 选项",
+      "anchor": "qp-25",
+      "text": "Failure of Quarterly Capitalism",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text1:option:qp-25:117",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 B 选项",
+      "anchor": "qp-25",
+      "text": "Patience as a Corporate Virtue",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text1:option:qp-25:118",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 C 选项",
+      "anchor": "qp-25",
+      "text": "Decisiveness Required of Top Executives",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2019:text1:option:qp-25:119",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 D 选项",
+      "anchor": "qp-25",
+      "text": "Frustration of Risk-taking Bankers",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:passage:p-section2-part-a-2-1:120",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-2-1",
+      "text": "Grade inflation – the gradual increase in average GPAs (grade-point averages) over the past few decades – is often considered a product of a consumer era in higher education, in which students are treated like customers to be pleased. But another, related force – a policy often buried deep in course catalogs called \"grade forgiveness\" – is helping raise GPAs.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2019:text2:passage:p-section2-part-a-2-2:121",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-2-2",
+      "text": "Grade forgiveness allows students to retake a course in which they received a low grade, and the most recent grade or the highest grade is the only one that counts in calculating a student's overall GPA.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2019:text2:passage:p-section2-part-a-2-3:122",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-2-3",
+      "text": "The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to keep students in school (and paying tuition) and improve their graduation rates. When this practice first started decades ago, it was usually limited to freshmen, to give them a second chance to take a class in their first year if they struggled in their transition to college-level courses. But now most colleges, save for many selective campuses, allow all undergraduates, and even graduate students, to get their low grades forgiven.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2019:text2:passage:p-section2-part-a-2-4:123",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-2-4",
+      "text": "College officials tend to emphasize that the goal of grade forgiveness is less about the grade itself and more about encouraging students to retake courses critical to their degree program and graduation without incurring a big penalty. \"Ultimately,\" said Jack Miner, Ohio State University's registrar, \"we see students achieve more success because they retake a course and do better in subsequent courses or master the content that allows them to graduate on time.\"",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2019:text2:passage:p-section2-part-a-2-5:124",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-2-5",
+      "text": "That said, there is a way in which grade forgiveness satisfies colleges' own needs as well. For public institutions, state funds are sometimes tied partly to their success on metrics such as graduation rates and student retention – so better grades can, by boosting figures like those, mean more money. And anything that raises GPAs will likely make students – who, at the end of the day, are paying the bill – feel they've gotten a better value for their tuition dollars, which is another big concern for colleges.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2019:text2:passage:p-section2-part-a-2-6:125",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-2-6",
+      "text": "Indeed, grade forgiveness is just another way that universities are responding to consumers' expectations for higher education. Since students and parents expect a college degree to lead to a job, it is in the best interest of a school to turn out graduates who are as qualified as possible – or at least appear to be. On this, students' and colleges' incentives seem to be aligned.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2019:text2:question:qp-26:126",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 26 题题干",
+      "anchor": "qp-26",
+      "text": "What is commonly regarded as the cause of grade inflation?",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2019:text2:option:qp-26:127",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 A 选项",
+      "anchor": "qp-26",
+      "text": "The change of course catalogs.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:option:qp-26:128",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 B 选项",
+      "anchor": "qp-26",
+      "text": "Students' indifference to GPAs.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:option:qp-26:129",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 C 选项",
+      "anchor": "qp-26",
+      "text": "Colleges' neglect of GPAs.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:option:qp-26:130",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 D 选项",
+      "anchor": "qp-26",
+      "text": "The influence of consumer culture.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:question:qp-27:131",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 27 题题干",
+      "anchor": "qp-27",
+      "text": "What was the original purpose of grade forgiveness?",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2019:text2:option:qp-27:132",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 A 选项",
+      "anchor": "qp-27",
+      "text": "To help freshmen adapt to college learning.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2019:text2:option:qp-27:133",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 B 选项",
+      "anchor": "qp-27",
+      "text": "To maintain colleges' graduation rates.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2019:text2:option:qp-27:134",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 C 选项",
+      "anchor": "qp-27",
+      "text": "To prepare graduates for a challenging future.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2019:text2:option:qp-27:135",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 D 选项",
+      "anchor": "qp-27",
+      "text": "To increase universities' income from tuition.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2019:text2:question:qp-28:136",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 28 题题干",
+      "anchor": "qp-28",
+      "text": "According to Paragraph 5, grade forgiveness enables colleges to____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2019:text2:option:qp-28:137",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 A 选项",
+      "anchor": "qp-28",
+      "text": "obtain more financial support.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:option:qp-28:138",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 B 选项",
+      "anchor": "qp-28",
+      "text": "boost their student enrollments.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:option:qp-28:139",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 C 选项",
+      "anchor": "qp-28",
+      "text": "improve their teaching quality.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:option:qp-28:140",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 D 选项",
+      "anchor": "qp-28",
+      "text": "meet local governments' needs.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:question:qp-29:141",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 29 题题干",
+      "anchor": "qp-29",
+      "text": "What does the phrase \"to be aligned\" (Line 5, Para. 6) most probably mean?",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2019:text2:option:qp-29:142",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 A 选项",
+      "anchor": "qp-29",
+      "text": "To counterbalance each other.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:option:qp-29:143",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 B 选项",
+      "anchor": "qp-29",
+      "text": "To complement each other.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:option:qp-29:144",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 C 选项",
+      "anchor": "qp-29",
+      "text": "To be identical with each other.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:option:qp-29:145",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 D 选项",
+      "anchor": "qp-29",
+      "text": "To be contradictory to each other.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:question:qp-30:146",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 30 题题干",
+      "anchor": "qp-30",
+      "text": "The author examines the practice of grade forgiveness by____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2019:text2:option:qp-30:147",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 A 选项",
+      "anchor": "qp-30",
+      "text": "assessing its feasibility.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:option:qp-30:148",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 B 选项",
+      "anchor": "qp-30",
+      "text": "analyzing the causes behind it.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:option:qp-30:149",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 C 选项",
+      "anchor": "qp-30",
+      "text": "comparing different views on it.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text2:option:qp-30:150",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 D 选项",
+      "anchor": "qp-30",
+      "text": "listing its long-run effects.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text3:passage:p-section2-part-a-3-1:151",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-3-1",
+      "text": "This year marks exactly two centuries since the publication of \"Frankenstein; or, The Modern Prometheus,\" by Mary Shelley. Even before the invention of the electric light bulb, the author produced a remarkable work of speculative fiction that would foreshadow many ethical questions to be raised by technologies yet to come.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2019:text3:passage:p-section2-part-a-3-2:152",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-3-2",
+      "text": "Today the rapid growth of artificial intelligence (AI) raises fundamental questions: \"What is intelligence, identity, or consciousness? What makes humans humans?\"",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2019:text3:passage:p-section2-part-a-3-3:153",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-3-3",
+      "text": "What is being called artificial general intelligence, machines that would imitate the way humans think, continues to evade scientists. Yet humans remain fascinated by the idea of robots that would look, move, and respond like humans, similar to those recently depicted on popular sci-fi TV series such as \"Westworld\" and \"Humans.\"",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2019:text3:passage:p-section2-part-a-3-4:154",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-3-4",
+      "text": "Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist. \"We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.\"",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:passage:p-section2-part-a-3-5:155",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-3-5",
+      "text": "But that doesn't mean crucial ethical issues involving AI aren't at hand. The coming use of autonomous vehicles, for example, poses thorny ethical questions. Human drivers sometimes must make split-second decisions. Their reactions may be a complex combination of instant reflexes, input from past driving experiences, and what their eyes and ears tell them in that moment. AI \"vision\" today is not nearly as sophisticated as that of humans. And to anticipate every imaginable driving situation is a difficult programming problem.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:passage:p-section2-part-a-3-6:156",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-3-6",
+      "text": "Whenever decisions are based on masses of data, \"you quickly get into a lot of ethical questions,\" notes Tan Kiat How, chief executive of a Singapore-based agency that is helping the government develop a voluntary code for the ethical use of AI. Along with Singapore, other governments and mega-corporations are beginning to establish their own guidelines. Britain is setting up a data ethics center. India released its AI ethics strategy this spring.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:passage:p-section2-part-a-3-7:157",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-3-7",
+      "text": "On June 7 Google pledged not to \"design or deploy AI\" that would cause \"overall harm,\" or to develop AI-directed weapons or use AI for surveillance that would violate international norms. It also pledged not to deploy AI whose use would violate international laws or human rights.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:passage:p-section2-part-a-3-8:158",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 8 段",
+      "anchor": "p-section2-part-a-3-8",
+      "text": "While the statement is vague, it represents one starting point. So does the idea that decisions made by AI systems should be explainable, transparent, and fair.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:passage:p-section2-part-a-3-9:159",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 9 段",
+      "anchor": "p-section2-part-a-3-9",
+      "text": "To put it another way: How can we make sure that the thinking of intelligent machines reflects humanity's highest values? Only then will they be useful servants and not Frankenstein's out-of-control monster.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:question:qp-31:160",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 31 题题干",
+      "anchor": "qp-31",
+      "text": "Mary Shelley's novel Frankenstein is mentioned because it____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:option:qp-31:161",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 A 选项",
+      "anchor": "qp-31",
+      "text": "fascinates AI scientists all over the world.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:option:qp-31:162",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 B 选项",
+      "anchor": "qp-31",
+      "text": "has remained popular for as long as 200 years.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:option:qp-31:163",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 C 选项",
+      "anchor": "qp-31",
+      "text": "involves some concerns raised by AI today.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:option:qp-31:164",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 D 选项",
+      "anchor": "qp-31",
+      "text": "has sparked serious ethical controversies.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:question:qp-32:165",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 32 题题干",
+      "anchor": "qp-32",
+      "text": "In David Eagleman's opinion, our current knowledge of consciousness____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:option:qp-32:166",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 A 选项",
+      "anchor": "qp-32",
+      "text": "helps explain artificial intelligence.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:option:qp-32:167",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 B 选项",
+      "anchor": "qp-32",
+      "text": "can be misleading to robot making.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text3:option:qp-32:168",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 C 选项",
+      "anchor": "qp-32",
+      "text": "inspires popular sci-fi TV series.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text3:option:qp-32:169",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 D 选项",
+      "anchor": "qp-32",
+      "text": "is too limited for us to reproduce it.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text3:question:qp-33:170",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 33 题题干",
+      "anchor": "qp-33",
+      "text": "The solution to the ethical issues brought by autonomous vehicles____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2019:text3:option:qp-33:171",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 A 选项",
+      "anchor": "qp-33",
+      "text": "can hardly ever be found.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text3:option:qp-33:172",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 B 选项",
+      "anchor": "qp-33",
+      "text": "is still beyond our capacity.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text3:option:qp-33:173",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 C 选项",
+      "anchor": "qp-33",
+      "text": "causes little public concern.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text3:option:qp-33:174",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 D 选项",
+      "anchor": "qp-33",
+      "text": "has aroused much curiosity.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text3:question:qp-34:175",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 34 题题干",
+      "anchor": "qp-34",
+      "text": "The author's attitude toward Google's pledges is one of____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2019:text3:option:qp-34:176",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 A 选项",
+      "anchor": "qp-34",
+      "text": "affirmation.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text3:option:qp-34:177",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 B 选项",
+      "anchor": "qp-34",
+      "text": "skepticism.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text3:option:qp-34:178",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 C 选项",
+      "anchor": "qp-34",
+      "text": "contempt.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text3:option:qp-34:179",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 D 选项",
+      "anchor": "qp-34",
+      "text": "respect.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text3:question:qp-35:180",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 35 题题干",
+      "anchor": "qp-35",
+      "text": "Which of the following would be the best title for the text?",
+      "pdf_pages": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "2019:text3:option:qp-35:181",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 A 选项",
+      "anchor": "qp-35",
+      "text": "AI's Future: In the Hands of Tech Giants",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text3:option:qp-35:182",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 B 选项",
+      "anchor": "qp-35",
+      "text": "Frankenstein, the Novel Predicting the Age of AI",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2019:text3:option:qp-35:183",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 C 选项",
+      "anchor": "qp-35",
+      "text": "The Conscience of AI: Complex But Inevitable",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2019:text3:option:qp-35:184",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 D 选项",
+      "anchor": "qp-35",
+      "text": "AI Shall Be Killers Once Out of Control",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2019:text4:passage:p-section2-part-a-4-1:185",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-4-1",
+      "text": "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial win for states.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2019:text4:passage:p-section2-part-a-4-2:186",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-4-2",
+      "text": "The Supreme Court's opinion Thursday overruled a pair of decades-old decisions that states said cost them billions of dollars in lost revenue annually. The decisions made it more difficult for states to collect sales tax on certain online purchases.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2019:text4:passage:p-section2-part-a-4-3:187",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-4-3",
+      "text": "The cases the court overturned said that if a business was shipping a customer's purchase to a state where the business didn't have a physical presence such as a warehouse or office, the business didn't have to collect sales tax for the state. Customers were generally responsible for paying the sales tax to the state themselves if they weren't charged it, but most didn't realize they owed it and few paid.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2019:text4:passage:p-section2-part-a-4-4:188",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-4-4",
+      "text": "Justice Anthony Kennedy wrote that the previous decisions were flawed. \"Each year the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States,\" he wrote in an opinion joined by four other justices. Kennedy wrote that the rule \"limited states' ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.\"",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2019:text4:passage:p-section2-part-a-4-5:189",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-4-5",
+      "text": "The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already. Now, rivals will be charging sales tax where they hadn't before. Big chains have been collecting sales tax nationwide because they typically have physical stores in whatever state a purchase is being shipped to. Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it, though third-party sellers who use the site don't have to.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2019:text4:passage:p-section2-part-a-4-6:190",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-4-6",
+      "text": "Until now, many sellers that have a physical presence in only a single state or a few states have been able to avoid charging sales taxes when they ship to addresses outside those states. Sellers that use eBay and Etsy, which provide platforms for smaller sellers, also haven't been collecting sales tax nationwide. Under the ruling Thursday, states can pass laws requiring out-of-state sellers to collect the state's sales tax from customers and send it to the state.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2019:text4:passage:p-section2-part-a-4-7:191",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-4-7",
+      "text": "Retail trade groups praised the ruling, saying it levels the playing field for local and online businesses. The losers, said retail analyst Neil Saunders, are online-only retailers, especially smaller ones. Those retailers may face headaches complying with various state sales tax laws. The Small Business & Entrepreneurship Council advocacy group said in a statement, \"Small businesses and internet entrepreneurs are not well served at all by this decision.\"",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2019:text4:question:qp-36:192",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 36 题题干",
+      "anchor": "qp-36",
+      "text": "The Supreme Court decision Thursday will____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-36:193",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 A 选项",
+      "anchor": "qp-36",
+      "text": "better businesses' relations with states.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-36:194",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 B 选项",
+      "anchor": "qp-36",
+      "text": "put most online businesses in a dilemma.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-36:195",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 C 选项",
+      "anchor": "qp-36",
+      "text": "make more online shoppers pay sales tax.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-36:196",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 D 选项",
+      "anchor": "qp-36",
+      "text": "force some states to cut sales tax.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text4:question:qp-37:197",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 37 题题干",
+      "anchor": "qp-37",
+      "text": "It can be learned from paragraphs 2 and 3 that the overruled decisions____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-37:198",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 A 选项",
+      "anchor": "qp-37",
+      "text": "have led to the dominance of e-commerce.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-37:199",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 B 选项",
+      "anchor": "qp-37",
+      "text": "have cost consumers a lot over the years.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-37:200",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 C 选项",
+      "anchor": "qp-37",
+      "text": "were widely criticized by online purchasers.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-37:201",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 D 选项",
+      "anchor": "qp-37",
+      "text": "were considered unfavorable by states.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:question:qp-38:202",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 38 题题干",
+      "anchor": "qp-38",
+      "text": "According to Justice Anthony Kennedy, the physical presence rule has____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-38:203",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 A 选项",
+      "anchor": "qp-38",
+      "text": "hindered economic development.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text4:option:qp-38:204",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 B 选项",
+      "anchor": "qp-38",
+      "text": "brought prosperity to the country.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text4:option:qp-38:205",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 C 选项",
+      "anchor": "qp-38",
+      "text": "harmed fair market competition.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text4:option:qp-38:206",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 D 选项",
+      "anchor": "qp-38",
+      "text": "boosted growth in states' revenue.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text4:question:qp-39:207",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 39 题题干",
+      "anchor": "qp-39",
+      "text": "Who are most likely to welcome the Supreme Court ruling?",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-39:208",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 A 选项",
+      "anchor": "qp-39",
+      "text": "Internet entrepreneurs.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text4:option:qp-39:209",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 B 选项",
+      "anchor": "qp-39",
+      "text": "Big-chain owners.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text4:option:qp-39:210",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 C 选项",
+      "anchor": "qp-39",
+      "text": "Third-party sellers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text4:option:qp-39:211",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 D 选项",
+      "anchor": "qp-39",
+      "text": "Small retailers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2019:text4:question:qp-40:212",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 40 题题干",
+      "anchor": "qp-40",
+      "text": "In dealing with the Supreme Court decision Thursday, the author____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-40:213",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 A 选项",
+      "anchor": "qp-40",
+      "text": "gives a factual account of it and discusses its consequences.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-40:214",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 B 选项",
+      "anchor": "qp-40",
+      "text": "describes the long and complicated process of its making.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-40:215",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 C 选项",
+      "anchor": "qp-40",
+      "text": "presents its main points with conflicting views on them.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:text4:option:qp-40:216",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 D 选项",
+      "anchor": "qp-40",
+      "text": "cites some cases related to it and analyzes their implications.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:new_type:directions:directions-section2-part-b:217",
+      "section": "new_type",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-b",
+      "text": "Directions: The following paragraphs are given in a wrong order. For questions 41 -45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A-G and filling them into the numbered boxes. Paragraphs C and F have been correctly placed. Mark your answers on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:new_type:paragraph_option:p-section2-part-b-1:218",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 A",
+      "anchor": "p-section2-part-b-1",
+      "text": "[ A ]These tools can help you win every argument – not in the unhelpful sense of beating your opponents but in the better sense of learning about the issues that divide people. Learning why they disagree with us and learning to talk and work together with them. If we readjust our view of arguments – from a verbal fight or tennis game to a reasoned exchange through which we all gain mutual respect, and understanding – then we change the very nature of what it means to \"win\" an argument.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:new_type:paragraph_option:p-section2-part-b-2:219",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 B",
+      "anchor": "p-section2-part-b-2",
+      "text": "[ B ]Of course, many discussions are not so successful. Still, we need to be careful not to accuse opponents of bad arguments too quickly. We need to learn how to evaluate them properly. A large part of evaluation is calling out bad arguments, but we also need to admit good arguments by opponents and to apply the same critical standards to ourselves. Humility requires you to recognize weakness in your own arguments and sometimes also to accept reasons on the opposite side.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2019:new_type:paragraph_option:p-section2-part-b-3:220",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 C",
+      "anchor": "p-section2-part-b-3",
+      "text": "[ C ]None of these will be easy but you can start even if others refuse to. Next time you state your position, formulate an argument for what you claim and honestly ask yourself whether your argument is any good. Next time you talk with someone who takes a stand, ask them to give you a reason for their view. Spell out their argument fully and charitably. Assess its strength impartially. Raise objections and listen carefully to their replies.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2019:new_type:paragraph_option:p-section2-part-b-4:221",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 D",
+      "anchor": "p-section2-part-b-4",
+      "text": "[ D ]Carnegie would be right if arguments were fights, which is how we often think of them. Like physical fights, verbal fights can leave both sides bloodied. Even when you win, you end up no better off. Your prospects would be almost as dismal if arguments were even just competitions – like, say, tennis games. Pairs of opponents hit the ball back and forth until one winner emerges from all who entered. Everybody else loses. This kind of thinking is why so many people try to avoid arguments, especially about politics and religion.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2019:new_type:paragraph_option:p-section2-part-b-5:222",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 E",
+      "anchor": "p-section2-part-b-5",
+      "text": "[ E ]In his 1936 work How to Win Friends and Influence People, Dale Carnegie wrote: \"There is only one way…to get the best of an argument – and that is to avoid it.\" This aversion to arguments is common, but it depends on a mistaken view of arguments that causes profound problems for our personal and social lives – and in many ways misses the point of arguing in the first place.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2019:new_type:paragraph_option:p-section2-part-b-6:223",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 F",
+      "anchor": "p-section2-part-b-6",
+      "text": "[ F ]These views of arguments also undermine reason. If you see a conversation as a fight or competition, you can win by cheating as long as you don't get caught. You will be happy to convince people with bad arguments. You can call their views stupid, or joke about how ignorant they are. None of these tricks will help you understand them, their positions or the issues that divide you, but they can help you win – in one way.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2019:new_type:paragraph_option:p-section2-part-b-7:224",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 G",
+      "anchor": "p-section2-part-b-7",
+      "text": "[ G ]There is a better way to win arguments. Imagine that you favor increasing the minimum wage in our state, and I do not. If you yell, \"Yes,\" and I yell, \"No,\" neither of us learns anything. We neither understand nor respect each other, and we have no basis for compromise or cooperation. In contrast, suppose you give a reasonable argument: that full-time workers should not have to live in poverty. Then I counter with another reasonable argument: that a higher minimum wage will force businesses to employ fewer people for less time. Now we can understand each other's positions and recognize our shared values, since we both care about needy workers.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2019:translation:directions:directions-section2-part-c:225",
+      "section": "translation",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-c",
+      "text": "Directions: Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. ( 10 points)",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2019:translation:passage:p-section2-part-c-1:226",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-c-1",
+      "text": "It was only after I started to write a weekly column about the medical journals, and began to read scientific papers from beginning to end, that I realised just how bad much of the medical literature frequently was. I came to recognise various signs of a bad paper: the kind of paper that purports to show that people who eat more than one kilo of broccoli a week were 1.17 times more likely than those who eat less to suffer late in life from pernicious anaemia. (46)There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2019:translation:passage:p-section2-part-c-2:227",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-c-2",
+      "text": "Why is so much bad science published? A recent paper, titled \"The Natural Selection of Bad Science\", published on the Royal Society's open science website, attempts to answer this intriguing and important question. It says that the problem is not merely that people do bad science, but that our current system of career advancement positively encourages it. What is important is not truth, but publication, which has become almost an end in itself. There has been a kind of inflationary process at work: (47)nowadays anyone applying for a research post has to have published twice the number of papers that would have been required for the same post only 10 years ago. Never mind the quality, then, count the number.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2019:translation:passage:p-section2-part-c-3:228",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-c-3",
+      "text": "(48)Attempts have been made to curb this tendency, for example, by trying to incorporate some measure of quality as well as quantity into the assessment of an applicant's papers. This is the famed citation index, that is to say the number of times a paper has been quoted elsewhere in the scientific literature, the assumption being that an important paper will be cited more often than one of small account. (49)This would be reasonable if it were not for the fact that scientists can easily arrange to cite themselves in their future publications, or get associates to do so for them in return for similar favours.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2019:translation:passage:p-section2-part-c-4:229",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-c-4",
+      "text": "Boiling down an individual's output to simple metrics, such as number of publications or journal impacts, entails considerable savings in time, energy and ambiguity. Unfortunately, the long-term costs of using simple quantitative metrics to assess researcher merit are likely to be quite great. (50)If we are serious about ensuring that our science is both meaningful and reproducible, we must ensure that our institutions encourage that kind of science.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2019:writing_a:writing:directions-section3-part-a:230",
+      "section": "writing_a",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-a",
+      "text": "51.Directions: Suppose you are working for the “Aiding Rural Primary School” project of your university. Write an email to answer the inquiry from an international student volunteer, specifying the details of the project. You should write about 100 words on the ANSWER SHEET. Do not use your own name in the email. Use “Li Ming” instead. (10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2019:writing_b:writing:directions-section3-part-b:231",
+      "section": "writing_b",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-b",
+      "text": "52.Directions: Write an essay of 160-200 words based on the picture below. In your essay, you should 1)describe the picture briefly, 2)interpret the implied meaning, and 3)give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "pdf_pages": [
+        11
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "section": "writing_b",
+      "url": "https://img-paper.lazynote.cn/2025/08/08/guTgLZ07.jpg",
+      "source_description": "这是一幅标题为“途中”的黑白漫画",
+      "description_is_exam_text": false,
+      "path": "images/exam_bank/2019-figure-1.jpg",
+      "sha256": "278b0cecfe89b28bc222d8542cb1276cb6a5642d93bd84adbd40e3902282498c"
+    }
+  ],
+  "quality_note": "第三方整理版。已检查9个题型模块、完形20题选项、阅读20题题干选项及PDF可读性；未逐字人工校对。来源PDF缺作文配图，配图已单独保存并补入本地整卷页。新题型不重排、不填答案。原句自动切分，入生词库前结合原段核对。"
+}

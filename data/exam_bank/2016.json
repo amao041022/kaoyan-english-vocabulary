@@ -1,0 +1,2380 @@
+{
+  "schema_version": 1,
+  "year": 2016,
+  "title": "2016年考研英语（一）",
+  "source_url": "https://english-exam.lazynote.cn/kaoyan/paper/2016-english-one/",
+  "pdf": "images/exam_bank/2016.pdf",
+  "pdf_page_count": 12,
+  "sections": {
+    "cloze": 84,
+    "text1": 33,
+    "text2": 31,
+    "text3": 31,
+    "text4": 32,
+    "new_type": 21,
+    "translation": 4,
+    "writing_a": 1,
+    "writing_b": 1
+  },
+  "records": [
+    {
+      "id": "2016:cloze:directions:directions-section1:1",
+      "section": "cloze",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section1",
+      "text": "Directions: Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2016:cloze:passage:p-section1-1:2",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section1-1",
+      "text": "In Cambodia, the choice of a spouse is a complex one for the young male. It may involve not only his parents and his friends, __1__ those of the young woman, but also a matchmaker. A young man can __2__ a likely spouse on his own and then ask his parents to __3__ the marriage negotiations, or the young man's parents may make the choice of a spouse, giving the child little to say in the selection. __4__ , a girl may veto the spouse her parents have chosen. __5__ a spouse has been selected, each family investigates the other to make sure its child is marrying __6__ a good family.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2016:cloze:passage:p-section1-2:3",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section1-2",
+      "text": "The traditional wedding is a long and colorful affair. Formerly it lasted three days, __7__ by the 1980s it more commonly lasted a day and a half. Buddhist priests offer a short sermon and __8__ prayers of blessing. Parts of the ceremony involve ritual hair cutting, __9__ cotton threads soaked in holy water around the bride's and groom's wrists, and __10__ a candle around a circle of happily married and respected couples to bless the __11__ . Newlyweds traditionally move in with the wife's parents and may __12__ with them up to a year, __13__ they can build a new house nearby.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2016:cloze:passage:p-section1-3:4",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section1-3",
+      "text": "Divorce is legal and easy to __14__ , but not common. Divorced persons are __15__ with some disapproval. Each spouse retains __16__ property he or she __17__ into the marriage, and jointly-acquired property is __18__ equally. Divorced persons may remarry, but a gender prejudice __19__ up: The divorced male doesn't have a waiting period before he can remarry __20__ the woman must wait ten months.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-1:5",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 A 选项",
+      "anchor": "qp-1",
+      "text": "as well as",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-1:6",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 B 选项",
+      "anchor": "qp-1",
+      "text": "by way of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-1:7",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 C 选项",
+      "anchor": "qp-1",
+      "text": "on behalf of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-1:8",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 D 选项",
+      "anchor": "qp-1",
+      "text": "with regard to",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-2:9",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 A 选项",
+      "anchor": "qp-2",
+      "text": "adapt to",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-2:10",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 B 选项",
+      "anchor": "qp-2",
+      "text": "provide for",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-2:11",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 C 选项",
+      "anchor": "qp-2",
+      "text": "compete with",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-2:12",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 D 选项",
+      "anchor": "qp-2",
+      "text": "decide on",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-3:13",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 A 选项",
+      "anchor": "qp-3",
+      "text": "renew",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-3:14",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 B 选项",
+      "anchor": "qp-3",
+      "text": "close",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-3:15",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 C 选项",
+      "anchor": "qp-3",
+      "text": "arrange",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-3:16",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 D 选项",
+      "anchor": "qp-3",
+      "text": "postpone",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-4:17",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 A 选项",
+      "anchor": "qp-4",
+      "text": "In theory",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-4:18",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 B 选项",
+      "anchor": "qp-4",
+      "text": "In time",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-4:19",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 C 选项",
+      "anchor": "qp-4",
+      "text": "Above all",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-4:20",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 D 选项",
+      "anchor": "qp-4",
+      "text": "For example",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-5:21",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 A 选项",
+      "anchor": "qp-5",
+      "text": "Although",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-5:22",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 B 选项",
+      "anchor": "qp-5",
+      "text": "Lest",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-5:23",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 C 选项",
+      "anchor": "qp-5",
+      "text": "After",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-5:24",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 D 选项",
+      "anchor": "qp-5",
+      "text": "Unless",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-6:25",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 A 选项",
+      "anchor": "qp-6",
+      "text": "within",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-6:26",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 B 选项",
+      "anchor": "qp-6",
+      "text": "into",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-6:27",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 C 选项",
+      "anchor": "qp-6",
+      "text": "from",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-6:28",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 D 选项",
+      "anchor": "qp-6",
+      "text": "through",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-7:29",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 A 选项",
+      "anchor": "qp-7",
+      "text": "since",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-7:30",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 B 选项",
+      "anchor": "qp-7",
+      "text": "or",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-7:31",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 C 选项",
+      "anchor": "qp-7",
+      "text": "so",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-7:32",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 D 选项",
+      "anchor": "qp-7",
+      "text": "but",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-8:33",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 A 选项",
+      "anchor": "qp-8",
+      "text": "test",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-8:34",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 B 选项",
+      "anchor": "qp-8",
+      "text": "recite",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-8:35",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 C 选项",
+      "anchor": "qp-8",
+      "text": "copy",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-8:36",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 D 选项",
+      "anchor": "qp-8",
+      "text": "create",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-9:37",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 A 选项",
+      "anchor": "qp-9",
+      "text": "folding",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-9:38",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 B 选项",
+      "anchor": "qp-9",
+      "text": "piling",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-9:39",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 C 选项",
+      "anchor": "qp-9",
+      "text": "wrapping",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-9:40",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 D 选项",
+      "anchor": "qp-9",
+      "text": "tying",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-10:41",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 A 选项",
+      "anchor": "qp-10",
+      "text": "passing",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-10:42",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 B 选项",
+      "anchor": "qp-10",
+      "text": "lighting",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-10:43",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 C 选项",
+      "anchor": "qp-10",
+      "text": "hiding",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-10:44",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 D 选项",
+      "anchor": "qp-10",
+      "text": "serving",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-11:45",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 A 选项",
+      "anchor": "qp-11",
+      "text": "association",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-11:46",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 B 选项",
+      "anchor": "qp-11",
+      "text": "meeting",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-11:47",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 C 选项",
+      "anchor": "qp-11",
+      "text": "collection",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-11:48",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 D 选项",
+      "anchor": "qp-11",
+      "text": "union",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-12:49",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 A 选项",
+      "anchor": "qp-12",
+      "text": "grow",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-12:50",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 B 选项",
+      "anchor": "qp-12",
+      "text": "part",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-12:51",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 C 选项",
+      "anchor": "qp-12",
+      "text": "live",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-12:52",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 D 选项",
+      "anchor": "qp-12",
+      "text": "deal",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-13:53",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 A 选项",
+      "anchor": "qp-13",
+      "text": "whereas",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-13:54",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 B 选项",
+      "anchor": "qp-13",
+      "text": "until",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-13:55",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 C 选项",
+      "anchor": "qp-13",
+      "text": "for",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-13:56",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 D 选项",
+      "anchor": "qp-13",
+      "text": "if",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-14:57",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 A 选项",
+      "anchor": "qp-14",
+      "text": "follow",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-14:58",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 B 选项",
+      "anchor": "qp-14",
+      "text": "obtain",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-14:59",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 C 选项",
+      "anchor": "qp-14",
+      "text": "challenge",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-14:60",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 D 选项",
+      "anchor": "qp-14",
+      "text": "avoid",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-15:61",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 A 选项",
+      "anchor": "qp-15",
+      "text": "isolated",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-15:62",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 B 选项",
+      "anchor": "qp-15",
+      "text": "persuaded",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-15:63",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 C 选项",
+      "anchor": "qp-15",
+      "text": "viewed",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-15:64",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 D 选项",
+      "anchor": "qp-15",
+      "text": "exposed",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-16:65",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 A 选项",
+      "anchor": "qp-16",
+      "text": "whatever",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-16:66",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 B 选项",
+      "anchor": "qp-16",
+      "text": "however",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-16:67",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 C 选项",
+      "anchor": "qp-16",
+      "text": "whenever",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-16:68",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 D 选项",
+      "anchor": "qp-16",
+      "text": "wherever",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-17:69",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 A 选项",
+      "anchor": "qp-17",
+      "text": "changed",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-17:70",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 B 选项",
+      "anchor": "qp-17",
+      "text": "brought",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-17:71",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 C 选项",
+      "anchor": "qp-17",
+      "text": "shaped",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-17:72",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 D 选项",
+      "anchor": "qp-17",
+      "text": "pushed",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-18:73",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 A 选项",
+      "anchor": "qp-18",
+      "text": "withdrawn",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-18:74",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 B 选项",
+      "anchor": "qp-18",
+      "text": "invested",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-18:75",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 C 选项",
+      "anchor": "qp-18",
+      "text": "donated",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-18:76",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 D 选项",
+      "anchor": "qp-18",
+      "text": "divided",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-19:77",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 A 选项",
+      "anchor": "qp-19",
+      "text": "clears",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-19:78",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 B 选项",
+      "anchor": "qp-19",
+      "text": "shows",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-19:79",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 C 选项",
+      "anchor": "qp-19",
+      "text": "warms",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-19:80",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 D 选项",
+      "anchor": "qp-19",
+      "text": "breaks",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-20:81",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 A 选项",
+      "anchor": "qp-20",
+      "text": "while",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-20:82",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 B 选项",
+      "anchor": "qp-20",
+      "text": "once",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-20:83",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 C 选项",
+      "anchor": "qp-20",
+      "text": "so that",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:cloze:option:qp-20:84",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 D 选项",
+      "anchor": "qp-20",
+      "text": "in that",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text1:directions:directions-section2-part-a-1:85",
+      "section": "text1",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-a-1",
+      "text": "Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "id": "2016:text1:passage:p-section2-part-a-1-1:86",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-1-1",
+      "text": "France, which prides itself as the global innovator of fashion, has decided its fashion industry has lost an absolute right to define physical beauty for women. Its lawmakers gave preliminary approval last week to a law that would make it a crime to employ ultra-thin models on runways. The parliament also agreed to ban websites that \"incite excessive thinness\" by promoting extreme dieting.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2016:text1:passage:p-section2-part-a-1-2:87",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-1-2",
+      "text": "Such measures have a couple of uplifting motives. They suggest beauty should not be defined by looks that end up impinging on health. That's a start. And the ban on ultra-thin models seems to go beyond protecting models from starving themselves to death – as some have done. It tells the fashion industry that it must take responsibility for the signal it sends women, especially teenage girls, about the social tape-measure they must use to determine their individual worth.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2016:text1:passage:p-section2-part-a-1-3:88",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-1-3",
+      "text": "The bans, if fully enforced, would suggest to women (and many men) that they should not let others be arbiters of their beauty. And perhaps faintly, they hint that people should look to intangible qualities like character and intellect rather than dieting their way to size zero or wasp-waist physiques.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2016:text1:passage:p-section2-part-a-1-4:89",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-1-4",
+      "text": "The French measures, however, rely too much on severe punishment to change a culture that still regards beauty as skin-deep – and bone-showing. Under the law, using a fashion model that does not meet a government-defined index of body mass could result in a $85,000 fine and six months in prison.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2016:text1:passage:p-section2-part-a-1-5:90",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-1-5",
+      "text": "The fashion industry knows it has an inherent problem in focusing on material adornment and idealized body types. In Denmark, the United States, and a few other countries, it is trying to set voluntary standards for models and fashion images that rely more on peer pressure for enforcement.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2016:text1:passage:p-section2-part-a-1-6:91",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-1-6",
+      "text": "In contrast to France's actions, Denmark's fashion industry agreed last month on rules and sanctions regarding the age, health, and other characteristics of models. The newly revised Danish Fashion Ethical Charter clearly states: \"We are aware of and take responsibility for the impact the fashion industry has on body ideals, especially on young people.\" The charter's main tool of enforcement is to deny access for designers and modeling agencies to Copenhagen Fashion Week (CFW), which is run by the Danish Fashion Institute. But in general it relies on a name-and-shame method of compliance.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2016:text1:passage:p-section2-part-a-1-7:92",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-1-7",
+      "text": "Relying on ethical persuasion rather than law to address the misuse of body ideals may be the best step. Even better would be to help elevate notions of beauty beyond the material standards of a particular industry.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2016:text1:question:qp-21:93",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 21 题题干",
+      "anchor": "qp-21",
+      "text": "According to the first paragraph, what would happen in France?",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-21:94",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 A 选项",
+      "anchor": "qp-21",
+      "text": "Physical beauty would be redefined.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text1:option:qp-21:95",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 B 选项",
+      "anchor": "qp-21",
+      "text": "New runways would be constructed.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text1:option:qp-21:96",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 C 选项",
+      "anchor": "qp-21",
+      "text": "Websites about dieting would thrive.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text1:option:qp-21:97",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 D 选项",
+      "anchor": "qp-21",
+      "text": "The fashion industry would decline.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text1:question:qp-22:98",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 22 题题干",
+      "anchor": "qp-22",
+      "text": "The phrase \"impinging on\" (Line 2, Para. 2) is closest in meaning to____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-22:99",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 A 选项",
+      "anchor": "qp-22",
+      "text": "indicating the state of.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text1:option:qp-22:100",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 B 选项",
+      "anchor": "qp-22",
+      "text": "heightening the value of.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text1:option:qp-22:101",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 C 选项",
+      "anchor": "qp-22",
+      "text": "losing faith in.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text1:option:qp-22:102",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 D 选项",
+      "anchor": "qp-22",
+      "text": "doing harm to.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text1:question:qp-23:103",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 23 题题干",
+      "anchor": "qp-23",
+      "text": "Which of the following is true of the fashion industry?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-23:104",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 A 选项",
+      "anchor": "qp-23",
+      "text": "The French measures have already failed.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-23:105",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 B 选项",
+      "anchor": "qp-23",
+      "text": "Its inherent problems are getting worse.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-23:106",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 C 选项",
+      "anchor": "qp-23",
+      "text": "Models are no longer under peer pressure.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-23:107",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 D 选项",
+      "anchor": "qp-23",
+      "text": "New standards are being set in Denmark.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:question:qp-24:108",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 24 题题干",
+      "anchor": "qp-24",
+      "text": "A designer is most likely to be rejected by CFW for____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-24:109",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 A 选项",
+      "anchor": "qp-24",
+      "text": "pursuing perfect physical conditions.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-24:110",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 B 选项",
+      "anchor": "qp-24",
+      "text": "caring too much about models' character.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-24:111",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 C 选项",
+      "anchor": "qp-24",
+      "text": "showing little concern for health factors.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-24:112",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 D 选项",
+      "anchor": "qp-24",
+      "text": "setting a high age threshold for models.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:question:qp-25:113",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 25 题题干",
+      "anchor": "qp-25",
+      "text": "Which of the following may be the best title of the text?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-25:114",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 A 选项",
+      "anchor": "qp-25",
+      "text": "The Great Threats to the Fashion Industry",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-25:115",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 B 选项",
+      "anchor": "qp-25",
+      "text": "Just Another Round of Struggle for Beauty",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-25:116",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 C 选项",
+      "anchor": "qp-25",
+      "text": "A Dilemma for the Starving Models in France",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text1:option:qp-25:117",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 D 选项",
+      "anchor": "qp-25",
+      "text": "A Challenge to the Fashion Industry's Body Ideals",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text2:passage:p-section2-part-a-2-1:118",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-2-1",
+      "text": "For the first time in history more people live in towns than in the country. In Britain this has had a curious result. While polls show Britons rate \"the countryside\" alongside the royal family, Shakespeare and the National Health Service (NHS) as what makes them proudest of their country, this has limited political support.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text2:passage:p-section2-part-a-2-2:119",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-2-2",
+      "text": "A century ago Octavia Hill launched the National Trust not to rescue stylish houses but to save \"the beauty of natural places for everyone forever.\" It was specifically to provide city dwellers with spaces for leisure where they could experience \"a refreshing air.\" Hill's pressure later led to the creation of national parks and green belts. They don't make countryside any more, and every year concrete consumes more of it. It needs constant guardianship.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text2:passage:p-section2-part-a-2-3:120",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-2-3",
+      "text": "At the next election none of the big parties seem likely to endorse this sentiment. The Conservatives' planning reform explicitly gives rural development priority over conservation, even authorising \"off-plan\" building where local people might object. The concept of sustainable development has been defined as profitable. Labour likewise wants to discontinue local planning where councils oppose development. The Liberal Democrats are silent. Only Ukip, sensing its chance, has sided with those pleading for a more considered approach to using green land. Its Campaign to Protect Rural England struck terror into many local Conservative parties.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text2:passage:p-section2-part-a-2-4:121",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-2-4",
+      "text": "The sensible place to build new houses, factories and offices is where people are, in cities and towns where infrastructure is in place. The London agents Stirling Ackroyd recently identified enough sites for half a million houses in the London area alone, with no intrusion on green belt. What is true of London is even truer of the provinces.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text2:passage:p-section2-part-a-2-5:122",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-2-5",
+      "text": "The idea that \"housing crisis\" equals \"concreted meadows\" is pure lobby talk. The issue is not the need for more houses but, as always, where to put them. Under lobby pressure, George Osborne favours rural new-build against urban renovation and renewal. He favours out-of-town shopping sites against high streets. This is not a free market but a biased one. Rural towns and villages have grown and will always grow. They do so best where building sticks to their edges and respects their character. We do not ruin urban conservation areas. Why ruin rural ones?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2016:text2:passage:p-section2-part-a-2-6:123",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-2-6",
+      "text": "Development should be planned, not let rip. After the Netherlands, Britain is Europe's most crowded country. Half a century of town and country planning has enabled it to retain an enviable rural coherence, while still permitting low-density urban living. There is no doubt of the alternative – the corrupted landscapes of southern Portugal, Spain or Ireland. Avoiding this rather than promoting it should unite the left and right of the political spectrum.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:question:qp-26:124",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 26 题题干",
+      "anchor": "qp-26",
+      "text": "Britain's public sentiment about the countryside____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-26:125",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 A 选项",
+      "anchor": "qp-26",
+      "text": "is not well reflected in politics.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text2:option:qp-26:126",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 B 选项",
+      "anchor": "qp-26",
+      "text": "is fully backed by the royal family.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text2:option:qp-26:127",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 C 选项",
+      "anchor": "qp-26",
+      "text": "didn't start till the Shakespearean age.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-26:128",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 D 选项",
+      "anchor": "qp-26",
+      "text": "has brought much benefit to the NHS.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text2:question:qp-27:129",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 27 题题干",
+      "anchor": "qp-27",
+      "text": "According to Paragraph 2, the achievements of the National Trust are now being____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-27:130",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 A 选项",
+      "anchor": "qp-27",
+      "text": "largely overshadowed.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text2:option:qp-27:131",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 B 选项",
+      "anchor": "qp-27",
+      "text": "properly protected.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text2:option:qp-27:132",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 C 选项",
+      "anchor": "qp-27",
+      "text": "effectively reinforced.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text2:option:qp-27:133",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 D 选项",
+      "anchor": "qp-27",
+      "text": "gradually destroyed.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text2:question:qp-28:134",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 28 题题干",
+      "anchor": "qp-28",
+      "text": "Which of the following can be inferred from Paragraph 3?",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-28:135",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 A 选项",
+      "anchor": "qp-28",
+      "text": "Labour is under attack for opposing development.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-28:136",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 B 选项",
+      "anchor": "qp-28",
+      "text": "The Conservatives may abandon \"off-plan\" building.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-28:137",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 C 选项",
+      "anchor": "qp-28",
+      "text": "Ukip may gain from its support for rural conservation.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-28:138",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 D 选项",
+      "anchor": "qp-28",
+      "text": "The Liberal Democrats are losing political influence.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:question:qp-29:139",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 29 题题干",
+      "anchor": "qp-29",
+      "text": "The author holds that George Osborne's preference____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-29:140",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 A 选项",
+      "anchor": "qp-29",
+      "text": "shows his disregard for the character of rural areas.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-29:141",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 B 选项",
+      "anchor": "qp-29",
+      "text": "stresses the necessity of easing the housing crisis.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-29:142",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 C 选项",
+      "anchor": "qp-29",
+      "text": "highlights his firm stand against lobby pressure.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-29:143",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 D 选项",
+      "anchor": "qp-29",
+      "text": "reveals a strong prejudice against urban areas.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:question:qp-30:144",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 30 题题干",
+      "anchor": "qp-30",
+      "text": "In the last paragraph, the author shows his appreciation of____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-30:145",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 A 选项",
+      "anchor": "qp-30",
+      "text": "the size of population in Britain.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text2:option:qp-30:146",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 B 选项",
+      "anchor": "qp-30",
+      "text": "the enviable urban lifestyle in Britain.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-30:147",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 C 选项",
+      "anchor": "qp-30",
+      "text": "the town-and-country planning in Britain.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text2:option:qp-30:148",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 D 选项",
+      "anchor": "qp-30",
+      "text": "the political life in today's Britain.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:passage:p-section2-part-a-3-1:149",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-3-1",
+      "text": "\"There is one and only one social responsibility of business,\" wrote Milton Friedman, a Nobel prize-winning economist, \"That is, to use its resources and engage in activities designed to increase its profits.\" But even if you accept Friedman's premise and regard corporate social responsibility (CSR) policies as a waste of shareholders' money, things may not be absolutely clear-cut. New research suggests that CSR may create monetary value for companies – at least when they are prosecuted for corruption.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2016:text3:passage:p-section2-part-a-3-2:150",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-3-2",
+      "text": "The largest firms in America and Britain together spend more than $15 billion a year on CSR, according to an estimate by EPG, a consulting firm. This could add value to their businesses in three ways. First, consumers may take CSR spending as a \"signal\" that a company's products are of high quality. Second, customers may be willing to buy a company's products as an indirect way to donate to the good causes it helps. And third, through a more diffuse \"halo effect,\" whereby its good deeds earn it greater consideration from consumers and others.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2016:text3:passage:p-section2-part-a-3-3:151",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-3-3",
+      "text": "Previous studies on CSR have had trouble differentiating these effects because consumers can be affected by all three. A recent study attempts to separate them by looking at bribery prosecutions under America's Foreign Corrupt Practices Act (FCPA). It argues that since prosecutors do not consume a company's products as part of their investigations, they could be influenced only by the halo effect.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2016:text3:passage:p-section2-part-a-3-4:152",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-3-4",
+      "text": "The study found that, among prosecuted firms, those with the most comprehensive CSR programmes tended to get more lenient penalties. Their analysis ruled out the possibility that it was firms' political influence, rather than their CSR stand, that accounted for the leniency: Companies that contributed more to political campaigns did not receive lower fines.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2016:text3:passage:p-section2-part-a-3-5:153",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-3-5",
+      "text": "In all, the study concludes that whereas prosecutors should only evaluate a case based on its merits, they do seem to be influenced by a company's record in CSR. \"We estimate that either eliminating a substantial labour-rights concern, such as child labour, or increasing corporate giving by about 20% results in fines that generally are 40% lower than the typical punishment for bribing foreign officials,\" says one researcher.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2016:text3:passage:p-section2-part-a-3-6:154",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-3-6",
+      "text": "Researchers admit that their study does not answer the question of how much businesses ought to spend on CSR. Nor does it reveal how much companies are banking on the halo effect, rather than the other possible benefits, when they decide their do-gooding policies. But at least they have demonstrated that when companies get into trouble with the law, evidence of good character can win them a less costly punishment.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2016:text3:question:qp-31:155",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 31 题题干",
+      "anchor": "qp-31",
+      "text": "The author views Milton Friedman's statement about CSR with____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2016:text3:option:qp-31:156",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 A 选项",
+      "anchor": "qp-31",
+      "text": "tolerance.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:option:qp-31:157",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 B 选项",
+      "anchor": "qp-31",
+      "text": "skepticism.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:option:qp-31:158",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 C 选项",
+      "anchor": "qp-31",
+      "text": "approval.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:option:qp-31:159",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 D 选项",
+      "anchor": "qp-31",
+      "text": "uncertainty.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:question:qp-32:160",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 32 题题干",
+      "anchor": "qp-32",
+      "text": "According to Paragraph 2, CSR helps a company by____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2016:text3:option:qp-32:161",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 A 选项",
+      "anchor": "qp-32",
+      "text": "guarding it against malpractices.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:option:qp-32:162",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 B 选项",
+      "anchor": "qp-32",
+      "text": "protecting it from being defamed.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:option:qp-32:163",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 C 选项",
+      "anchor": "qp-32",
+      "text": "winning trust from consumers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:option:qp-32:164",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 D 选项",
+      "anchor": "qp-32",
+      "text": "raising the quality of its products.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:question:qp-33:165",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 33 题题干",
+      "anchor": "qp-33",
+      "text": "The expression \"more lenient\" (Para. 4) is closest in meaning to____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2016:text3:option:qp-33:166",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 A 选项",
+      "anchor": "qp-33",
+      "text": "less controversial.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:option:qp-33:167",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 B 选项",
+      "anchor": "qp-33",
+      "text": "more effective.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:option:qp-33:168",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 C 选项",
+      "anchor": "qp-33",
+      "text": "more lasting.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:option:qp-33:169",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 D 选项",
+      "anchor": "qp-33",
+      "text": "less severe.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:question:qp-34:170",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 34 题题干",
+      "anchor": "qp-34",
+      "text": "When prosecutors evaluate a case, a company's CSR record____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text3:option:qp-34:171",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 A 选项",
+      "anchor": "qp-34",
+      "text": "has an impact on their decision.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:option:qp-34:172",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 B 选项",
+      "anchor": "qp-34",
+      "text": "comes across as reliable evidence.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text3:option:qp-34:173",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 C 选项",
+      "anchor": "qp-34",
+      "text": "increases the chance of being penalized.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text3:option:qp-34:174",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 D 选项",
+      "anchor": "qp-34",
+      "text": "constitutes part of the investigation.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text3:question:qp-35:175",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 35 题题干",
+      "anchor": "qp-35",
+      "text": "Which of the following is true of CSR, according to the last paragraph?",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text3:option:qp-35:176",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 A 选项",
+      "anchor": "qp-35",
+      "text": "Its negative effects on businesses are often overlooked.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text3:option:qp-35:177",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 B 选项",
+      "anchor": "qp-35",
+      "text": "The necessary amount of companies' spending on it is unknown.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text3:option:qp-35:178",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 C 选项",
+      "anchor": "qp-35",
+      "text": "Companies' financial capacity for it has been overestimated.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text3:option:qp-35:179",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 D 选项",
+      "anchor": "qp-35",
+      "text": "It has brought much benefit to the banking industry.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text4:passage:p-section2-part-a-4-1:180",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-4-1",
+      "text": "There will eventually come a day when The New York Times ceases to publish stories on newsprint. Exactly when that day will be is a matter of debate. \"Sometime in the future,\" the paper's publisher said back in 2010.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text4:passage:p-section2-part-a-4-2:181",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-4-2",
+      "text": "Nostalgia for ink on paper and the rustle of pages aside, there's plenty of incentive to ditch print. The infrastructure required to make a physical newspaper—printing presses, delivery trucks – isn't just expensive; it's excessive at a time when online-only competitors don't have the same set of financial constraints. Readers are migrating away from print anyway. And though print ad sales still dwarf their online and mobile counterparts, revenue from print is still declining.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text4:passage:p-section2-part-a-4-3:182",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-4-3",
+      "text": "Overhead may be high and circulation lower, but rushing to eliminate its print edition would be a mistake, says BuzzFeed CEO Jonah Peretti.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text4:passage:p-section2-part-a-4-4:183",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-4-4",
+      "text": "Peretti says the Times shouldn't waste time getting out of the print business, but only if they go about doing it the right way. \"Figuring out a way to accelerate that transition would make sense for them,\" he said, \"but if you discontinue it, you're going to have your most loyal customers really upset with you.\"",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text4:passage:p-section2-part-a-4-5:184",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-4-5",
+      "text": "Sometimes that's worth making a change anyway. Peretti gives the example of Netflix discontinuing its DVD-mailing service to focus on streaming. \"It was seen as a blunder,\" he said. The move turned out to be foresighted. And if Peretti were in charge at the Times? \"I wouldn't pick a year to end print,\" he said. \"I would raise prices and make it into more of a legacy product.\"",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text4:passage:p-section2-part-a-4-6:185",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-4-6",
+      "text": "The most loyal customers would still get the product they favor, the idea goes, and they'd feel like they were helping sustain the quality of something they believe in. \"So if you're overpaying for print, you could feel like you were helping,\" Peretti said. \"Then increase it at a higher rate each year and essentially try to generate additional revenue.\" In other words, if you're going to make a print product, make it for the people who are already obsessed with it. Which may be what the Times is doing already. Getting the print edition seven days a week costs nearly $500 a year – more than twice as much as a digital-only subscription.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text4:passage:p-section2-part-a-4-7:186",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-4-7",
+      "text": "\"It's a really hard thing to do and it's a tremendous luxury that BuzzFeed doesn't have a legacy business,\" Peretti remarked. \"But we're going to have questions like that where we have things we're doing that don't make sense when the market changes and the world changes. In those situations, it's better to be more aggressive than less aggressive.\"",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2016:text4:question:qp-36:187",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 36 题题干",
+      "anchor": "qp-36",
+      "text": "The New York Times is considering ending its print edition partly due to____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:option:qp-36:188",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 A 选项",
+      "anchor": "qp-36",
+      "text": "the high cost of operation.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text4:option:qp-36:189",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 B 选项",
+      "anchor": "qp-36",
+      "text": "the increasing online ad sales.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text4:option:qp-36:190",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 C 选项",
+      "anchor": "qp-36",
+      "text": "the pressure from its investors.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text4:option:qp-36:191",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 D 选项",
+      "anchor": "qp-36",
+      "text": "the complaints from its readers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text4:question:qp-37:192",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 37 题题干",
+      "anchor": "qp-37",
+      "text": "Peretti suggests that, in face of the present situation, the Times should____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:option:qp-37:193",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 A 选项",
+      "anchor": "qp-37",
+      "text": "end the print edition for good.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text4:option:qp-37:194",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 B 选项",
+      "anchor": "qp-37",
+      "text": "make strategic adjustments.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text4:option:qp-37:195",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 C 选项",
+      "anchor": "qp-37",
+      "text": "seek new sources of readership.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text4:option:qp-37:196",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 D 选项",
+      "anchor": "qp-37",
+      "text": "aim for efficient management.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text4:question:qp-38:197",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 38 题题干",
+      "anchor": "qp-38",
+      "text": "It can be inferred from Paragraphs 5 and 6 that a \"legacy product\" ____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:option:qp-38:198",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 A 选项",
+      "anchor": "qp-38",
+      "text": "helps restore the glory of former times.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:option:qp-38:199",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 B 选项",
+      "anchor": "qp-38",
+      "text": "is meant for the most loyal customers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text4:option:qp-38:200",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 C 选项",
+      "anchor": "qp-38",
+      "text": "will have the cost of printing reduced.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:option:qp-38:201",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 D 选项",
+      "anchor": "qp-38",
+      "text": "expands the popularity of the paper.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:text4:question:qp-39:202",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 39 题题干",
+      "anchor": "qp-39",
+      "text": "Peretti believes that, in a changing world, ____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:option:qp-39:203",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 A 选项",
+      "anchor": "qp-39",
+      "text": "traditional luxuries can stay unaffected.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:option:qp-39:204",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 B 选项",
+      "anchor": "qp-39",
+      "text": "cautiousness facilitates problem-solving.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:option:qp-39:205",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 C 选项",
+      "anchor": "qp-39",
+      "text": "aggressiveness better meets challenges.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:option:qp-39:206",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 D 选项",
+      "anchor": "qp-39",
+      "text": "legacy businesses are becoming outdated.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:question:qp-40:207",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 40 题题干",
+      "anchor": "qp-40",
+      "text": "Which of the following would be the best title of the text?",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:option:qp-40:208",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 A 选项",
+      "anchor": "qp-40",
+      "text": "Shift to Online Newspapers All at Once",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:option:qp-40:209",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 B 选项",
+      "anchor": "qp-40",
+      "text": "Make Your Print Newspaper a Luxury Good",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:option:qp-40:210",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 C 选项",
+      "anchor": "qp-40",
+      "text": "Keep Your Newspapers Forever in Fashion",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:text4:option:qp-40:211",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 D 选项",
+      "anchor": "qp-40",
+      "text": "Cherish the Newspaper Still in Your Hand",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:new_type:directions:directions-section2-part-b:212",
+      "section": "new_type",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-b",
+      "text": "Directions: Read the following text and answer the questions by choosing the most suitable subheading from the list A-G for each of the numbered paragraphs (41-45). There are two extra subheadings. Mark your answers on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:new_type:passage:p-section2-part-b-1:213",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-b-1",
+      "text": "No matter how formal or informal the work environment, the way you present yourself has an impact. This is especially true in first impressions. According to research from Princeton University, people assess your competence, trustworthiness, and likeability in just a tenth of a second, solely based on the way you look.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:new_type:passage:p-section2-part-b-2:214",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-b-2",
+      "text": "The difference between today's workplace and the \"dress for success\" era is that the range of options is so much broader. Norms have evolved and fragmented. In some settings, red sneakers or dress T-shirts can convey status; in others not so much. Plus, whatever image we present is magnified by social-media services like LinkedIn. Chances are, your headshots are seen much more often now than a decade or two ago. Millennials, it seems, face the paradox of being the least formal generation yet the most conscious of style and personal branding. It can be confusing.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2016:new_type:passage:p-section2-part-b-3:215",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-b-3",
+      "text": "So how do we navigate this? How do we know when to invest in an upgrade? And what's the best way to pull off one that enhances our goals? Here are some tips:",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2016:new_type:passage:p-section2-part-b-4:216",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-b-4",
+      "text": "(41) ______",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:new_type:passage:p-section2-part-b-5:217",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-b-5",
+      "text": "As an executive coach, I've seen image upgrades be particularly helpful during transitions – when looking for a new job, stepping into a new or more public role, or changing work environments. If you're in a period of change or just feeling stuck and in a rut, now may be a good time. If you're not sure, ask for honest feedback from trusted friends, colleagues and professionals. Look for cues about how others perceive you. Maybe there's no need for an upgrade and that's OK.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2016:new_type:passage:p-section2-part-b-6:218",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-b-6",
+      "text": "(42) ______",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:new_type:passage:p-section2-part-b-7:219",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-b-7",
+      "text": "Get clear on what impact you're hoping to have. Are you looking to refresh your image or pivot it? For one person, the goal may be to be taken more seriously and enhance their professional image. For another, it may be to be perceived as more approachable, or more modern and stylish. For someone moving from finance to advertising, maybe they want to look more \"SoHo.\" (It's OK to use characterizations like that.)",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2016:new_type:passage:p-section2-part-b-8:220",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 8 段",
+      "anchor": "p-section2-part-b-8",
+      "text": "(43) ______",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:new_type:passage:p-section2-part-b-9:221",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 9 段",
+      "anchor": "p-section2-part-b-9",
+      "text": "Look at your work environment like an anthropologist. What are the norms of your environment? What conveys status? Who are your most important audiences? How do the people you respect and look up to present themselves? The better you understand the cultural context, the more control you can have over your impact.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2016:new_type:passage:p-section2-part-b-10:222",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 10 段",
+      "anchor": "p-section2-part-b-10",
+      "text": "(44) ______",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:new_type:passage:p-section2-part-b-11:223",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 11 段",
+      "anchor": "p-section2-part-b-11",
+      "text": "Enlist the support of professionals and share with them your goals and context. Hire a personal stylist, or use the free styling service of a store like J.Crew. Try a hair stylist instead of a barber. Work with a professional photographer instead of your spouse or friend. It's not as expensive as you might think.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2016:new_type:passage:p-section2-part-b-12:224",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 12 段",
+      "anchor": "p-section2-part-b-12",
+      "text": "(45) ______",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:new_type:passage:p-section2-part-b-13:225",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 13 段",
+      "anchor": "p-section2-part-b-13",
+      "text": "The point of a style upgrade isn't to become more vain or to spend more time fussing over what to wear. Instead, use it as an opportunity to reduce decision fatigue. Pick a standard work uniform or a few go-to options. Buy all your clothes at once with a stylist instead of shopping alone, one article of clothing at a time.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2016:new_type:option:mod-section2-part-b:226",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 A 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Create a new image of yourself",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:new_type:option:mod-section2-part-b:227",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 B 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Have confidence in yourself",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:new_type:option:mod-section2-part-b:228",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 C 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Decide if the time is right",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:new_type:option:mod-section2-part-b:229",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 D 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Understand the context",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:new_type:option:mod-section2-part-b:230",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 E 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Work with professionals",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:new_type:option:mod-section2-part-b:231",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 F 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Know your goals",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:new_type:option:mod-section2-part-b:232",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 G 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Make it efficient",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:translation:directions:directions-section2-part-c:233",
+      "section": "translation",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-c",
+      "text": "Directions: Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. ( 10 points)",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2016:translation:passage:p-section2-part-c-1:234",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-c-1",
+      "text": "Mental health is our birthright. (46)We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone. Mental health can't be learned, only reawakened. It is like the immune system of the body, which under stress or through lack of nutrition or exercise can be weakened, but which never leaves us. When we don't understand the value of mental health and we don't know how to gain access to it, mental health will remain hidden from us. (47)Our mental health doesn't really go anywhere; like the sun behind a cloud, it can be temporarily hidden from view, but it is fully capable of being restored in an instant.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2016:translation:passage:p-section2-part-c-2:235",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-c-2",
+      "text": "Mental health is the seed that contains self-esteem – confidence in ourselves and an ability to trust in our common sense. It allows us to have perspective on our lives – the ability to not take ourselves too seriously, to laugh at ourselves, to see the bigger picture, and to see that things will work out. It's a form of innate or unlearned optimism. (48)Mental health allows us to view others with sympathy if they are having troubles, with kindness if they are in pain, and with unconditional love no matter who they are. Mental health is the source of creativity for solving problems, resolving conflict, making our surroundings more beautiful, managing our home life, or coming up with a creative business idea or invention to make our lives easier. It gives us patience for ourselves and toward others as well as patience while driving, catching a fish, working on our car, or raising a child. It allows us to see the beauty that surrounds us each moment in nature, in culture, in the flow of our daily lives.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2016:translation:passage:p-section2-part-c-3:236",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-c-3",
+      "text": "(49)Although mental health is the cure-all for living our lives, it is perfectly ordinary as you will see that it has been there to direct you through all your difficult decisions. It has been available even in the most mundane of life situations to show you right from wrong, good from bad, friend from foe. Mental health has commonly been called conscience, instinct, wisdom, common sense, or the inner voice. We think of it simply as a healthy and helpful flow of intelligent thought. (50)As you will come to see, knowing that mental health is always available and knowing to trust it allows us to slow down to the moment and live life happily.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2016:writing_a:writing:directions-section3-part-a:237",
+      "section": "writing_a",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-a",
+      "text": "51.Directions: Suppose you are a librarian in your university. Write a notice of about 100 words, providing the newly-enrolled international students with relevant information about the library. You should write neatly on the ANSWER SHEET. Do not sign your own name at the end of the notice. Use “Li Ming” instead. Do not write the address. (10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2016:writing_b:writing:directions-section3-part-b:238",
+      "section": "writing_b",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-b",
+      "text": "52.Directions: Write an essay of 160-200 words based on the following pictures. In your essay, you should l) describe the pictures briefly, 2)interpret the meaning, and 3)give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "pdf_pages": [
+        11
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "section": "writing_b",
+      "url": "https://img-paper.lazynote.cn/2025/08/08/yuTgMtVA.jpg",
+      "source_description": "这是一幅标题为“与其只提要求，不如做个榜样”的漫画，由左右两部分组成",
+      "description_is_exam_text": false,
+      "path": "images/exam_bank/2016-figure-1.jpg",
+      "sha256": "2558212082df3d66f1907c9846cf6a295be77dfec2012af914fbe63d98815a80"
+    }
+  ],
+  "quality_note": "第三方整理版。已检查9个题型模块、完形20题选项、阅读20题题干选项及PDF可读性；未逐字人工校对。来源PDF缺作文配图，配图已单独保存并补入本地整卷页。新题型不重排、不填答案。原句自动切分，入生词库前结合原段核对。"
+}

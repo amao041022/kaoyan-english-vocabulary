@@ -1,0 +1,2279 @@
+{
+  "schema_version": 1,
+  "year": 2009,
+  "title": "2009年考研英语（分卷前旧卷）",
+  "source_url": "https://english-exam.lazynote.cn/kaoyan/paper/2009/",
+  "pdf": "images/exam_bank/2009.pdf",
+  "pdf_page_count": 12,
+  "sections": {
+    "cloze": 85,
+    "text1": 33,
+    "text2": 31,
+    "text3": 30,
+    "text4": 30,
+    "new_type": 14,
+    "translation": 4,
+    "writing_a": 1,
+    "writing_b": 1
+  },
+  "records": [
+    {
+      "id": "2009:cloze:directions:directions-section1:1",
+      "section": "cloze",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section1",
+      "text": "Directions: Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2009:cloze:passage:p-section1-1:2",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section1-1",
+      "text": "Research on animal intelligence always makes us wonder just how smart humans are. __1__ the fruit-fly experiments described by Carl Zimmer in the Science Times. Fruit flies who were taught to be smarter than the average fruit fly __2__ to live shorter lives. This suggests that __3__ bulbs burn longer, that there is a(n) __4__ in not being too bright.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2009:cloze:passage:p-section1-2:3",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section1-2",
+      "text": "Intelligence, it __5__ , is a high-priced option. It takes more upkeep, burns more fuel and is slow __6__ the starting line because it depends on learning – a(n) __7__ process – instead of instinct. Plenty of other species are able to learn, and one of the things they've apparently learned is when to __8__ .",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:passage:p-section1-3:4",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section1-3",
+      "text": "Is there an adaptive value to __9__ intelligence? That's the question behind this new research. Instead of casting a wistful glance __10__ at all the species we've left in the dust I.Q.-wise, it implicitly asks what the real __11__ of our own intelligence might be. This is __12__ the mind of every animal we've ever met.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:passage:p-section1-4:5",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section1-4",
+      "text": "Research on animal intelligence also makes us wonder what experiments animals would __13__ on humans if they had the chance. Every cat with an owner, __14__ , is running a small-scale study in operant conditioning. We believe that __15__ animals ran the labs, they would test us to __16__ the limits of our patience, our faithfulness, our memory for locations. They would try to decide what intelligence in humans is really __17__ , not merely how much of it there is. __18__ , they would hope to study a(n) __19__ question: Are humans actually aware of the world they live in? __20__ the results are inconclusive.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2009:cloze:option:qp-1:6",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 A 选项",
+      "anchor": "qp-1",
+      "text": "Suppose",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-1:7",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 B 选项",
+      "anchor": "qp-1",
+      "text": "Consider",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-1:8",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 C 选项",
+      "anchor": "qp-1",
+      "text": "Observe",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-1:9",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 D 选项",
+      "anchor": "qp-1",
+      "text": "Imagine",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-2:10",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 A 选项",
+      "anchor": "qp-2",
+      "text": "tended",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-2:11",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 B 选项",
+      "anchor": "qp-2",
+      "text": "feared",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-2:12",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 C 选项",
+      "anchor": "qp-2",
+      "text": "happened",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-2:13",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 D 选项",
+      "anchor": "qp-2",
+      "text": "threatened",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-3:14",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 A 选项",
+      "anchor": "qp-3",
+      "text": "thinner",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-3:15",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 B 选项",
+      "anchor": "qp-3",
+      "text": "stabler",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-3:16",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 C 选项",
+      "anchor": "qp-3",
+      "text": "lighter",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-3:17",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 D 选项",
+      "anchor": "qp-3",
+      "text": "dimmer",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-4:18",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 A 选项",
+      "anchor": "qp-4",
+      "text": "tendency",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-4:19",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 B 选项",
+      "anchor": "qp-4",
+      "text": "advantage",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-4:20",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 C 选项",
+      "anchor": "qp-4",
+      "text": "inclination",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-4:21",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 D 选项",
+      "anchor": "qp-4",
+      "text": "priority",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-5:22",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 A 选项",
+      "anchor": "qp-5",
+      "text": "insists on",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-5:23",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 B 选项",
+      "anchor": "qp-5",
+      "text": "sums up",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-5:24",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 C 选项",
+      "anchor": "qp-5",
+      "text": "turns out",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-5:25",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 D 选项",
+      "anchor": "qp-5",
+      "text": "puts forward",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-6:26",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 A 选项",
+      "anchor": "qp-6",
+      "text": "off",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-6:27",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 B 选项",
+      "anchor": "qp-6",
+      "text": "behind",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-6:28",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 C 选项",
+      "anchor": "qp-6",
+      "text": "over",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-6:29",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 D 选项",
+      "anchor": "qp-6",
+      "text": "along",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-7:30",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 A 选项",
+      "anchor": "qp-7",
+      "text": "incredible",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-7:31",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 B 选项",
+      "anchor": "qp-7",
+      "text": "spontaneous",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-7:32",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 C 选项",
+      "anchor": "qp-7",
+      "text": "inevitable",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-7:33",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 D 选项",
+      "anchor": "qp-7",
+      "text": "gradual",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-8:34",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 A 选项",
+      "anchor": "qp-8",
+      "text": "fight",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-8:35",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 B 选项",
+      "anchor": "qp-8",
+      "text": "doubt",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-8:36",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 C 选项",
+      "anchor": "qp-8",
+      "text": "stop",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-8:37",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 D 选项",
+      "anchor": "qp-8",
+      "text": "think",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-9:38",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 A 选项",
+      "anchor": "qp-9",
+      "text": "invisible",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-9:39",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 B 选项",
+      "anchor": "qp-9",
+      "text": "limited",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-9:40",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 C 选项",
+      "anchor": "qp-9",
+      "text": "indefinite",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-9:41",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 D 选项",
+      "anchor": "qp-9",
+      "text": "different",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-10:42",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 A 选项",
+      "anchor": "qp-10",
+      "text": "upward",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-10:43",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 B 选项",
+      "anchor": "qp-10",
+      "text": "forward",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-10:44",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 C 选项",
+      "anchor": "qp-10",
+      "text": "afterward",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-10:45",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 D 选项",
+      "anchor": "qp-10",
+      "text": "backward",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-11:46",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 A 选项",
+      "anchor": "qp-11",
+      "text": "features",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-11:47",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 B 选项",
+      "anchor": "qp-11",
+      "text": "influences",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-11:48",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 C 选项",
+      "anchor": "qp-11",
+      "text": "results",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-11:49",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 D 选项",
+      "anchor": "qp-11",
+      "text": "costs",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-12:50",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 A 选项",
+      "anchor": "qp-12",
+      "text": "outside",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-12:51",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 B 选项",
+      "anchor": "qp-12",
+      "text": "on",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-12:52",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 C 选项",
+      "anchor": "qp-12",
+      "text": "by",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-12:53",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 D 选项",
+      "anchor": "qp-12",
+      "text": "across",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-13:54",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 A 选项",
+      "anchor": "qp-13",
+      "text": "deliver",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-13:55",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 B 选项",
+      "anchor": "qp-13",
+      "text": "carry",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-13:56",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 C 选项",
+      "anchor": "qp-13",
+      "text": "perform",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-13:57",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 D 选项",
+      "anchor": "qp-13",
+      "text": "apply",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-14:58",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 A 选项",
+      "anchor": "qp-14",
+      "text": "by chance",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-14:59",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 B 选项",
+      "anchor": "qp-14",
+      "text": "in contrast",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-14:60",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 C 选项",
+      "anchor": "qp-14",
+      "text": "as usual",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-14:61",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 D 选项",
+      "anchor": "qp-14",
+      "text": "for instance",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-15:62",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 A 选项",
+      "anchor": "qp-15",
+      "text": "if",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-15:63",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 B 选项",
+      "anchor": "qp-15",
+      "text": "unless",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-15:64",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 C 选项",
+      "anchor": "qp-15",
+      "text": "as",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-15:65",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 D 选项",
+      "anchor": "qp-15",
+      "text": "lest",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-16:66",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 A 选项",
+      "anchor": "qp-16",
+      "text": "moderate",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-16:67",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 B 选项",
+      "anchor": "qp-16",
+      "text": "overcome",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-16:68",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 C 选项",
+      "anchor": "qp-16",
+      "text": "determine",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-16:69",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 D 选项",
+      "anchor": "qp-16",
+      "text": "reach",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-17:70",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 A 选项",
+      "anchor": "qp-17",
+      "text": "at",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-17:71",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 B 选项",
+      "anchor": "qp-17",
+      "text": "for",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-17:72",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 C 选项",
+      "anchor": "qp-17",
+      "text": "after",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-17:73",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 D 选项",
+      "anchor": "qp-17",
+      "text": "with",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-18:74",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 A 选项",
+      "anchor": "qp-18",
+      "text": "Above all",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-18:75",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 B 选项",
+      "anchor": "qp-18",
+      "text": "After all",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-18:76",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 C 选项",
+      "anchor": "qp-18",
+      "text": "However",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-18:77",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 D 选项",
+      "anchor": "qp-18",
+      "text": "Otherwise",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-19:78",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 A 选项",
+      "anchor": "qp-19",
+      "text": "fundamental",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-19:79",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 B 选项",
+      "anchor": "qp-19",
+      "text": "comprehensive",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-19:80",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 C 选项",
+      "anchor": "qp-19",
+      "text": "equivalent",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-19:81",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 D 选项",
+      "anchor": "qp-19",
+      "text": "hostile",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-20:82",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 A 选项",
+      "anchor": "qp-20",
+      "text": "By accident",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-20:83",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 B 选项",
+      "anchor": "qp-20",
+      "text": "In time",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-20:84",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 C 选项",
+      "anchor": "qp-20",
+      "text": "So far",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:cloze:option:qp-20:85",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 D 选项",
+      "anchor": "qp-20",
+      "text": "Better still",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:directions:directions-section2-part-a-1:86",
+      "section": "text1",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-a-1",
+      "text": "Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "id": "2009:text1:passage:p-section2-part-a-1-1:87",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-1-1",
+      "text": "Habits are a funny thing. We reach for them mindlessly, setting our brains on auto-pilot and relaxing into the unconscious comfort of familiar routine. \"Not choice, but habit rules the unreflecting herd,\" William Wordsworth said in the 19th century. In the ever-changing 21st century, even the word \"habit\" carries a negative implication.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2009:text1:passage:p-section2-part-a-1-2:88",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-1-2",
+      "text": "So it seems paradoxical to talk about habits in the same context as creativity and innovation. But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2009:text1:passage:p-section2-part-a-1-3:89",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-1-3",
+      "text": "Rather than dismissing ourselves as unchangeable creatures of habit, we can instead direct our own change by consciously developing new habits. In fact, the more new things we try – the more we step outside our comfort zone – the more inherently creative we become, both in the workplace and in our personal lives.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2009:text1:passage:p-section2-part-a-1-4:90",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-1-4",
+      "text": "But don't bother trying to kill off old habits; once those ruts of procedure are worn into the brain, they're there to stay. Instead, the new habits we deliberately press into ourselves create parallel pathways that can bypass those old roads.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2009:text1:passage:p-section2-part-a-1-5:91",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-1-5",
+      "text": "\"The first thing needed for innovation is a fascination with wonder,\" says Dawna Markova, author of The Open Mind. \"But we are taught instead to 'decide', just as our president calls himself 'the Decider'.\" She adds, however, that \"to decide is to kill off all possibilities but one. A good innovational thinker is always exploring the many other possibilities.\"",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2009:text1:passage:p-section2-part-a-1-6:92",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-1-6",
+      "text": "All of us work through problems in ways of which we're unaware, she says. Researchers in the late 1960s discovered that humans are born with the capacity to approach challenges in four primary ways: analytically, procedurally, relationally (or collaboratively) and innovatively. At the end of adolescence, however, the brain shuts down half of that capacity, preserving only those modes of thought that have seemed most valuable during the first decade or so of life.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2009:text1:passage:p-section2-part-a-1-7:93",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-1-7",
+      "text": "The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought. \"This breaks the major rule in the American belief system – that anyone can do anything,\" explains M. J. Ryan, author of the 2006 book This Year I Will… and Ms. Markova's business partner. \"That's a lie that we have perpetuated, and it fosters commonness. Knowing what you're good at and doing even more of it creates excellence.\" This is where developing new habits comes in.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2009:text1:question:qp-21:94",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 21 题题干",
+      "anchor": "qp-21",
+      "text": "In Wordsworth's view, \"habits\" is characterized by being____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2009:text1:option:qp-21:95",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 A 选项",
+      "anchor": "qp-21",
+      "text": "casual.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:option:qp-21:96",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 B 选项",
+      "anchor": "qp-21",
+      "text": "familiar.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:option:qp-21:97",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 C 选项",
+      "anchor": "qp-21",
+      "text": "mechanical.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:option:qp-21:98",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 D 选项",
+      "anchor": "qp-21",
+      "text": "changeable.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:question:qp-22:99",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 22 题题干",
+      "anchor": "qp-22",
+      "text": "Brain researchers have discovered that the formation of new habits can be____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2009:text1:option:qp-22:100",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 A 选项",
+      "anchor": "qp-22",
+      "text": "predicted.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:option:qp-22:101",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 B 选项",
+      "anchor": "qp-22",
+      "text": "regulated.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:option:qp-22:102",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 C 选项",
+      "anchor": "qp-22",
+      "text": "traced.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:option:qp-22:103",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 D 选项",
+      "anchor": "qp-22",
+      "text": "guided.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:question:qp-23:104",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 23 题题干",
+      "anchor": "qp-23",
+      "text": "The word \"ruts\" (Para. 4) is closest in meaning to____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2009:text1:option:qp-23:105",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 A 选项",
+      "anchor": "qp-23",
+      "text": "tracks.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:option:qp-23:106",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 B 选项",
+      "anchor": "qp-23",
+      "text": "series.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:option:qp-23:107",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 C 选项",
+      "anchor": "qp-23",
+      "text": "characteristics.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:option:qp-23:108",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 D 选项",
+      "anchor": "qp-23",
+      "text": "connections.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:question:qp-24:109",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 24 题题干",
+      "anchor": "qp-24",
+      "text": "Dawna Markova would most probably agree that____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2009:text1:option:qp-24:110",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 A 选项",
+      "anchor": "qp-24",
+      "text": "ideas are born of a relaxing mind.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:option:qp-24:111",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 B 选项",
+      "anchor": "qp-24",
+      "text": "innovativeness could be taught.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:option:qp-24:112",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 C 选项",
+      "anchor": "qp-24",
+      "text": "decisiveness derives from fantastic ideas.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2009:text1:option:qp-24:113",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 D 选项",
+      "anchor": "qp-24",
+      "text": "curiosity activates creative minds.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:question:qp-25:114",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 25 题题干",
+      "anchor": "qp-25",
+      "text": "Ryan's comments suggest that the practice of standardized testing____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2009:text1:option:qp-25:115",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 A 选项",
+      "anchor": "qp-25",
+      "text": "prevents new habits from being formed.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2009:text1:option:qp-25:116",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 B 选项",
+      "anchor": "qp-25",
+      "text": "no longer emphasizes commonness.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text1:option:qp-25:117",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 C 选项",
+      "anchor": "qp-25",
+      "text": "maintains the inherent American thinking mode.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2009:text1:option:qp-25:118",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 D 选项",
+      "anchor": "qp-25",
+      "text": "complies with the American belief system.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2009:text2:passage:p-section2-part-a-2-1:119",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-2-1",
+      "text": "It is a wise father that knows his own child, but today a man can boost his paternal (fatherly) wisdom – or at least confirm that he's the kid's dad. All he needs to do is shell out $30 for a paternity testing kit (PTK) at his local drugstore – and another $120 to get the results.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2009:text2:passage:p-section2-part-a-2-2:120",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-2-2",
+      "text": "More than 60,000 people have purchased the PTKs since they first became available without prescriptions last year, according to Doug Fogg, chief operating officer of Identigene, which makes the over-the-counter kits. More than two dozen companies sell DNA tests directly to the public, ranging in price from a few hundred dollars to more than $2,500.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2009:text2:passage:p-section2-part-a-2-3:121",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-2-3",
+      "text": "Among the most popular: paternity and kinship testing, which adopted children can use to find their biological relatives and families can use to track down kids put up for adoption. DNA testing is also the latest rage among passionate genealogists – and supports businesses that offer to search for a family's geographic roots.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2009:text2:passage:p-section2-part-a-2-4:122",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-2-4",
+      "text": "Most tests require collecting cells by swabbing saliva in the mouth and sending it to the company for testing. All tests require a potential candidate with whom to compare DNA.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2009:text2:passage:p-section2-part-a-2-5:123",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-2-5",
+      "text": "But some observers are skeptical. \"There's a kind of false precision being hawked by people claiming they are doing ancestry testing,\" says Troy Duster, a New York University sociologist. He notes that each individual has many ancestors – numbering in the hundreds just a few centuries back. Yet most ancestry testing only considers a single lineage, either the Y chromosome inherited through men in a father's line or mitochondrial DNA, which is passed down only from mothers. This DNA can reveal genetic information about only one or two ancestors, even though, for example, just three generations back people also have six other great-grandparents or, four generations back, 14 other great-great-grandparents.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2009:text2:passage:p-section2-part-a-2-6:124",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-2-6",
+      "text": "Critics also argue that commercial genetic testing is only as good as the reference collections to which a sample is compared. Databases used by some companies don't rely on data collected systematically but rather lump together information from different research projects. This means that a DNA database may have a lot of data from some regions and not others, so a person's test results may differ depending on the company that processes the results. In addition, the computer programs a company uses to estimate relationships may be patented and not subject to peer review or outside evaluation.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2009:text2:question:qp-26:125",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 26 题题干",
+      "anchor": "qp-26",
+      "text": "In Paragraphs 1 and 2, the text shows PTK's____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2009:text2:option:qp-26:126",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 A 选项",
+      "anchor": "qp-26",
+      "text": "easy availability.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-26:127",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 B 选项",
+      "anchor": "qp-26",
+      "text": "flexibility in pricing.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-26:128",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 C 选项",
+      "anchor": "qp-26",
+      "text": "successful promotion.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-26:129",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 D 选项",
+      "anchor": "qp-26",
+      "text": "popularity with households.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:question:qp-27:130",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 27 题题干",
+      "anchor": "qp-27",
+      "text": "PTK is used to____",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-27:131",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 A 选项",
+      "anchor": "qp-27",
+      "text": "locate one's birth place.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-27:132",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 B 选项",
+      "anchor": "qp-27",
+      "text": "promote genetic research.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-27:133",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 C 选项",
+      "anchor": "qp-27",
+      "text": "identify parent-child kinship.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-27:134",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 D 选项",
+      "anchor": "qp-27",
+      "text": "choose children for adoption.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:question:qp-28:135",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 28 题题干",
+      "anchor": "qp-28",
+      "text": "Skeptical observers believe that ancestry testing fails to____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2009:text2:option:qp-28:136",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 A 选项",
+      "anchor": "qp-28",
+      "text": "trace distant ancestors.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-28:137",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 B 选项",
+      "anchor": "qp-28",
+      "text": "rebuild reliable bloodlines.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-28:138",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 C 选项",
+      "anchor": "qp-28",
+      "text": "fully use genetic information.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-28:139",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 D 选项",
+      "anchor": "qp-28",
+      "text": "achieve the claimed accuracy.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:question:qp-29:140",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 29 题题干",
+      "anchor": "qp-29",
+      "text": "In the last paragraph, a problem commercial genetic testing faces is____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2009:text2:option:qp-29:141",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 A 选项",
+      "anchor": "qp-29",
+      "text": "disorganized data collection.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-29:142",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 B 选项",
+      "anchor": "qp-29",
+      "text": "overlapping database building.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-29:143",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 C 选项",
+      "anchor": "qp-29",
+      "text": "excessive sample comparison.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-29:144",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 D 选项",
+      "anchor": "qp-29",
+      "text": "lack of patent evaluation.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:question:qp-30:145",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 30 题题干",
+      "anchor": "qp-30",
+      "text": "An appropriate title for the text is most likely to be____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2009:text2:option:qp-30:146",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 A 选项",
+      "anchor": "qp-30",
+      "text": "Fors and Againsts of DNA Testing.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-30:147",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 B 选项",
+      "anchor": "qp-30",
+      "text": "DNA Testing and Its Problems.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-30:148",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 C 选项",
+      "anchor": "qp-30",
+      "text": "DNA Testing Outside the Lab.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text2:option:qp-30:149",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 D 选项",
+      "anchor": "qp-30",
+      "text": "Lies Behind DNA Testing.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text3:passage:p-section2-part-a-3-1:150",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-3-1",
+      "text": "The relationship between formal education and economic growth in poor countries is widely misunderstood by economists and politicians alike. Progress in both areas is undoubtedly necessary for the social, political, and intellectual development of these and all other societies; however, the conventional view that education should be one of the very highest priorities for promoting rapid economic development in poor countries is wrong. We are fortunate that it is, because building new educational systems there and putting enough people through them to improve economic performance would require two or three generations. The findings of a research institution have consistently shown that workers in all countries can be trained on the job to achieve radically higher productivity and, as a result, radically higher standards of living.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2009:text3:passage:p-section2-part-a-3-2:151",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-3-2",
+      "text": "Ironically, the first evidence for this idea appeared in the United States. Not long ago, with the country entering a recession and Japan at its pre-bubble peak, the U.S. workforce was derided as poorly educated and one of the primary causes of the poor U.S. economic performance. Japan was, and remains, the global leader in automotive-assembly productivity. Yet the research revealed that the U.S. factories of Honda, Nissan, and Toyota achieved about 95 percent of the productivity of their Japanese counterparts – a result of the training that U.S. workers received on the job.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2009:text3:passage:p-section2-part-a-3-3:152",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-3-3",
+      "text": "More recently, while examining housing construction, the researchers discovered that illiterate, non-English-speaking Mexican workers in Houston, Texas, consistently met best-practice labor productivity standards despite the complexity of the building industry's work.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2009:text3:passage:p-section2-part-a-3-4:153",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-3-4",
+      "text": "What is the real relationship between education and economic development? We have to suspect that continuing economic growth promotes the development of education even when governments don't force it. After all, that's how education got started. When our ancestors were hunters and gatherers 10,000 years ago, they didn't have time to wonder much about anything besides finding food. Only when humanity began to get its food in a more productive way was there time for other things.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2009:text3:passage:p-section2-part-a-3-5:154",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-3-5",
+      "text": "As education improved, humanity's productivity potential increased as well. When the competitive environment pushed our ancestors to achieve that potential, they could in turn afford more education. This increasingly high level of education is probably a necessary, but not a sufficient, condition for the complex political systems required by advanced economic performance. Thus poor countries might not be able to escape their poverty traps without political changes that may be possible only with broader formal education. A lack of formal education, however, doesn't constrain the ability of the developing world's workforce to substantially improve productivity for the foreseeable future. On the contrary, constraints on improving productivity explain why education isn't developing more quickly there than it is.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2009:text3:question:qp-31:155",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 31 题题干",
+      "anchor": "qp-31",
+      "text": "The author holds in Paragraph 1 that the importance of education in poor countries____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2009:text3:option:qp-31:156",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 A 选项",
+      "anchor": "qp-31",
+      "text": "is subject to groundless doubts.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text3:option:qp-31:157",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 B 选项",
+      "anchor": "qp-31",
+      "text": "has fallen victim of bias.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text3:option:qp-31:158",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 C 选项",
+      "anchor": "qp-31",
+      "text": "is conventionally downgraded.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text3:option:qp-31:159",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 D 选项",
+      "anchor": "qp-31",
+      "text": "has been overestimated.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text3:question:qp-32:160",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 32 题题干",
+      "anchor": "qp-32",
+      "text": "It is stated in Paragraph 1 that the construction of a new educational system____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2009:text3:option:qp-32:161",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 A 选项",
+      "anchor": "qp-32",
+      "text": "challenges economists and politicians.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2009:text3:option:qp-32:162",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 B 选项",
+      "anchor": "qp-32",
+      "text": "takes efforts of generations.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text3:option:qp-32:163",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 C 选项",
+      "anchor": "qp-32",
+      "text": "demands priority from the government.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2009:text3:option:qp-32:164",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 D 选项",
+      "anchor": "qp-32",
+      "text": "requires sufficient labor force.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text3:question:qp-33:165",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 33 题题干",
+      "anchor": "qp-33",
+      "text": "A major difference between the Japanese and U.S. workforces is that____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2009:text3:option:qp-33:166",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 A 选项",
+      "anchor": "qp-33",
+      "text": "the Japanese workforce is better disciplined.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2009:text3:option:qp-33:167",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 B 选项",
+      "anchor": "qp-33",
+      "text": "the Japanese workforce is more productive.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2009:text3:option:qp-33:168",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 C 选项",
+      "anchor": "qp-33",
+      "text": "the U.S. workforce has a better education.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2009:text3:option:qp-33:169",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 D 选项",
+      "anchor": "qp-33",
+      "text": "the U.S. workforce is more organized.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text3:question:qp-34:170",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 34 题题干",
+      "anchor": "qp-34",
+      "text": "The author quotes the example of our ancestors to show that education emerged____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2009:text3:option:qp-34:171",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 A 选项",
+      "anchor": "qp-34",
+      "text": "when people had enough time.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text3:option:qp-34:172",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 B 选项",
+      "anchor": "qp-34",
+      "text": "prior to better ways of finding food.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text3:option:qp-34:173",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 C 选项",
+      "anchor": "qp-34",
+      "text": "when people no longer went hungry.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text3:option:qp-34:174",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 D 选项",
+      "anchor": "qp-34",
+      "text": "as a result of pressure on government.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text3:question:qp-35:175",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 35 题题干",
+      "anchor": "qp-35",
+      "text": "According to the last paragraph, development of education____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2009:text3:option:qp-35:176",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 A 选项",
+      "anchor": "qp-35",
+      "text": "results directly from competitive environments.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2009:text3:option:qp-35:177",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 B 选项",
+      "anchor": "qp-35",
+      "text": "does not depend on economic performance.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2009:text3:option:qp-35:178",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 C 选项",
+      "anchor": "qp-35",
+      "text": "follows improved productivity.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text3:option:qp-35:179",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 D 选项",
+      "anchor": "qp-35",
+      "text": "cannot afford political changes.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text4:passage:p-section2-part-a-4-1:180",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-4-1",
+      "text": "The most thoroughly studied intellectuals in the history of the New World are the ministers and political leaders of seventeenth-century New England. According to the standard history of American philosophy, nowhere else in colonial America was \"so much importance attached to intellectual pursuits.\" According to many books and articles, New England's leaders established the basic themes and preoccupations of an unfolding, dominant Puritan tradition in American intellectual life.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2009:text4:passage:p-section2-part-a-4-2:181",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-4-2",
+      "text": "To take this approach to the New Englanders normally means to start with the Puritans' theological innovations and their distinctive ideas about the church – important subjects that we may not neglect. But in keeping with our examination of southern intellectual life, we may consider the original Puritans as carriers of European culture, adjusting to New World circumstances. The New England colonies were the scenes of important episodes in the pursuit of widely understood ideals of civility and virtuosity.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2009:text4:passage:p-section2-part-a-4-3:182",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-4-3",
+      "text": "The early settlers of Massachusetts Bay included men of impressive education and influence in England. Besides the ninety or so learned ministers who came to Massachusetts churches in the decade after 1629, there were political leaders like John Winthrop, an educated gentleman, lawyer, and official of the Crown before he journeyed to Boston. These men wrote and published extensively, reaching both New World and Old World audiences, and giving New England an atmosphere of intellectual earnestness.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2009:text4:passage:p-section2-part-a-4-4:183",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-4-4",
+      "text": "We should not forget, however, that most New Englanders were less well educated. While few craftsmen or farmers, let alone dependents and servants, left literary compositions to be analyzed, it is obvious that their views were less fully intellectualized. Their thinking often had a traditional superstitious quality. A tailor named John Dane, who emigrated in the late 1630s, left an account of his reasons for leaving England that is filled with signs. Sexual confusion, economic frustrations, and religious hope – all came together in a decisive moment when he opened the Bible, told his father that the first line he saw would settle his fate, and read the magical words: \"Come out from among them, touch no unclean thing, and I will be your God and you shall be my people.\" One wonders what Dane thought of the careful sermons explaining the Bible that he heard in Puritan churches.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2009:text4:passage:p-section2-part-a-4-5:184",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-4-5",
+      "text": "Meanwhile, many settlers had slighter religious commitments than Dane's, as one clergyman learned in confronting folk along the coast who mocked that they had not come to the New World for religion. \"Our main end was to catch fish.\"",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2009:text4:question:qp-36:185",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 36 题题干",
+      "anchor": "qp-36",
+      "text": "The author holds that in the seventeenth-century New England____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-36:186",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 A 选项",
+      "anchor": "qp-36",
+      "text": "Puritan tradition dominated political life.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-36:187",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 B 选项",
+      "anchor": "qp-36",
+      "text": "intellectual interests were encouraged.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-36:188",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 C 选项",
+      "anchor": "qp-36",
+      "text": "politics benefited much from intellectual endeavors.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-36:189",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 D 选项",
+      "anchor": "qp-36",
+      "text": "intellectual pursuits enjoyed a liberal environment.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:question:qp-37:190",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 37 题题干",
+      "anchor": "qp-37",
+      "text": "It is suggested in Paragraph 2 that New Englanders____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-37:191",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 A 选项",
+      "anchor": "qp-37",
+      "text": "experienced a comparatively peaceful early history.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-37:192",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 B 选项",
+      "anchor": "qp-37",
+      "text": "brought with them the culture of the Old World.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-37:193",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 C 选项",
+      "anchor": "qp-37",
+      "text": "paid little attention to southern intellectual life.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-37:194",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 D 选项",
+      "anchor": "qp-37",
+      "text": "were obsessed with religious innovations.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:question:qp-38:195",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 38 题题干",
+      "anchor": "qp-38",
+      "text": "The early ministers and political leaders in Massachusetts Bay____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-38:196",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 A 选项",
+      "anchor": "qp-38",
+      "text": "were famous in the New World for their writings.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-38:197",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 B 选项",
+      "anchor": "qp-38",
+      "text": "gained increasing importance in religious affairs.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-38:198",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 C 选项",
+      "anchor": "qp-38",
+      "text": "abandoned high positions before coming to the New World.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-38:199",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 D 选项",
+      "anchor": "qp-38",
+      "text": "created a new intellectual atmosphere in New England.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:question:qp-39:200",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 39 题题干",
+      "anchor": "qp-39",
+      "text": "The story of John Dane shows that less well-educated New Englanders were often____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-39:201",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 A 选项",
+      "anchor": "qp-39",
+      "text": "influenced by superstitions.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text4:option:qp-39:202",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 B 选项",
+      "anchor": "qp-39",
+      "text": "troubled with religious beliefs.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text4:option:qp-39:203",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 C 选项",
+      "anchor": "qp-39",
+      "text": "puzzled by church sermons.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text4:option:qp-39:204",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 D 选项",
+      "anchor": "qp-39",
+      "text": "frustrated with family earnings.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2009:text4:question:qp-40:205",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 40 题题干",
+      "anchor": "qp-40",
+      "text": "The text suggests that early settlers in New England____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-40:206",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 A 选项",
+      "anchor": "qp-40",
+      "text": "were mostly engaged in political activities.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-40:207",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 B 选项",
+      "anchor": "qp-40",
+      "text": "were motivated by an illusory prospect.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-40:208",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 C 选项",
+      "anchor": "qp-40",
+      "text": "came from different intellectual backgrounds.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:text4:option:qp-40:209",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 D 选项",
+      "anchor": "qp-40",
+      "text": "left few formal records for later reference.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:new_type:directions:directions-section2-part-b:210",
+      "section": "new_type",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-b",
+      "text": "Directions: In the following text, some segments have been removed. For Questions 41-45, choose the most suitable one from the list A-G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on ANSWER SHEET 1. (10 points)",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:new_type:passage:p-section2-part-b-1:211",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-b-1",
+      "text": "Coinciding with the groundbreaking theory of biological evolution proposed by British naturalist Charles Darwin in the 1860s, British social philosopher Herbert Spencer put forward his own theory of biological and cultural evolution. Spencer argued that all worldly phenomena, including human societies, changed over time, advancing toward perfection. (41) ______",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:new_type:passage:p-section2-part-b-2:212",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-b-2",
+      "text": "American social scientist Lewis Henry Morgan introduced another theory of cultural evolution in the late 1800s. Morgan helped found modern anthropology – the scientific study of human societies, customs and beliefs – thus becoming one of the earliest anthropologists. In his work, he attempted to show how all aspects of culture changed together in the evolution of societies. (42) ______",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2009:new_type:passage:p-section2-part-b-3:213",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-b-3",
+      "text": "In the early 1900s in North America, German-born American anthropologist Franz Boas developed a new theory of culture known as historical particularism. Historical particularism, which emphasized the uniqueness of all cultures, gave new direction to anthropology. (43) ______",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2009:new_type:passage:p-section2-part-b-4:214",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-b-4",
+      "text": "Boas felt that the culture of any society must be understood as the result of a unique history and not as one of many cultures belonging to a broader evolutionary stage or type of culture. (44) ______",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2009:new_type:passage:p-section2-part-b-5:215",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-b-5",
+      "text": "Historical particularism became a dominant approach to the study of culture in American anthropology, largely through the influence of many students of Boas. But a number of anthropologists in the early 1900s also rejected the particularist theory of culture in favor of diffusionism. Some attributed virtually every important cultural achievement to the inventions of a few, especially gifted peoples that, according to diffusionists, then spread to other cultures. (45) ______",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2009:new_type:passage:p-section2-part-b-6:216",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-b-6",
+      "text": "Also in the early 1900s, French sociologist Émile Durkheim developed a theory of culture that would greatly influence anthropology. Durkheim proposed that religious beliefs functioned to reinforce social solidarity. An interest in the relationship between the function of society and culture became a major theme in European, and especially British, anthropology.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2009:new_type:option:mod-section2-part-b:217",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 A 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Other anthropologists believed that cultural innovations, such as inventions, had a single origin and passed from society to society. This theory was known as diffusionism.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2009:new_type:option:mod-section2-part-b:218",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 B 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "In order to study particular cultures as completely as possible, he became skilled in linguistics, the study of languages, and in physical anthropology, the study of human biology and anatomy.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2009:new_type:option:mod-section2-part-b:219",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 C 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "He argued that human evolution was characterized by a struggle he called the \"survival of the fittest,\" in which weaker races and societies must eventually be replaced by stronger, more advanced races and societies.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2009:new_type:option:mod-section2-part-b:220",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 D 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "They also focused on important rituals that appeared to preserve a people's social structure, such as initiation ceremonies that formally signify children's entrance into adulthood.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2009:new_type:option:mod-section2-part-b:221",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 E 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Thus, in his view, diverse aspects of culture, such as the structure of families, forms of marriage, categories of kinship, ownership of property, forms of government, technology, and systems of food production, all changed as societies evolved.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2009:new_type:option:mod-section2-part-b:222",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 F 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Supporters of the theory viewed culture as a collection of integrated parts that work together to keep a society functioning.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2009:new_type:option:mod-section2-part-b:223",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 G 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "For example, British anthropologists Grafton Elliot Smith and W. J. Perry incorrectly suggested, on the basis of inadequate information, that farming, pottery making, and metallurgy all originated in ancient Egypt and diffused throughout the world. In fact, all of these cultural developments occurred separately at different times in many parts of the world.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2009:translation:directions:directions-section2-part-c:224",
+      "section": "translation",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-c",
+      "text": "Directions: Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. ( 10 points)",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2009:translation:passage:p-section2-part-c-1:225",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-c-1",
+      "text": "There is a marked difference between the education which every one gets from living with others and the deliberate educating of the young. In the former case the education is incidental; it is natural and important, but it is not the express reason of the association. (46)It may be said that the measure of the worth of any social institution is its effect in enlarging and improving experience, but this effect is not a part of its original motive. Religious associations began, for example, in the desire to secure the favor of overruling powers and to ward off evil influences; family life in the desire to gratify appetites and secure family perpetuity; systematic labor, for the most part, because of enslavement to others, etc. (47)Only gradually was the by-product of the institution noted, and only more gradually still was this effect considered as a directive factor in the conduct of the institution. Even today, in our industrial life, apart from certain values of industriousness and thrift, the intellectual and emotional reaction of the forms of human association under which the world's work is carried on receives little attention as compared with physical output.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2009:translation:passage:p-section2-part-c-2:226",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-c-2",
+      "text": "But in dealing with the young, the fact of association itself as an immediate human fact, gains in importance. (48)While it is easy to ignore in our contact with them the effect of our acts upon their disposition, it is not so easy as in dealing with adults. The need of training is too evident and the pressure to accomplish a change in their attitude and habits is too urgent to leave these consequences wholly out of account. (49)Since our chief business with them is to enable them to share in a common life we cannot help considering whether or not we are forming the powers which will secure this ability. If humanity has made some headway in realizing that the ultimate value of every institution is its distinctively human effect we may well believe that this lesson has been learned largely through dealings with the young.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2009:translation:passage:p-section2-part-c-3:227",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-c-3",
+      "text": "(50)We are thus led to distinguish, within the broad educational process which we have been so far considering, a more formal kind of education – that of direct tuition or schooling. In undeveloped social groups, we find very little formal teaching and training. These groups mainly rely for instilling needed dispositions into the young upon the same sort of association which keeps adults loyal to their group.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2009:writing_a:writing:directions-section3-part-a:228",
+      "section": "writing_a",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-a",
+      "text": "51.Directions: Restrictions on the use of plastic bags have not been so successful in some regions. “White Pollution” is still going on. Write a letter to the editor(s) of your local newspaper to 1)give your opinions briefly, and 2)make two or three suggestions. You should write about 100 words on ANSWER SHEET 2. Do not sign your own name at the end of the letter, use “Li Ming ” instead. Do not write the address. (10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2009:writing_b:writing:directions-section3-part-b:229",
+      "section": "writing_b",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-b",
+      "text": "52.Directions: Write an essay of 160-200 words based on the following drawing. In your essay, you should 1)describe the drawing briefly, 2)explain its intended meaning, and then 3)give your comments. You should write neatly on ANSWER SHEET 2. (20 points)",
+      "pdf_pages": [
+        11
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "section": "writing_b",
+      "url": "https://img-paper.lazynote.cn/2025/08/08/XuTgs7kp.jpg",
+      "source_description": "这是一幅黑白漫画，标题是“网络的‘近’与‘远’”",
+      "description_is_exam_text": false,
+      "path": "images/exam_bank/2009-figure-1.jpg",
+      "sha256": "e5a82c31aeba2c914bfa7a9d3a21807c821728a2fd0d3dee650f9f44f419f8b0"
+    }
+  ],
+  "quality_note": "第三方整理版。已检查9个题型模块、完形20题选项、阅读20题题干选项及PDF可读性；未逐字人工校对。来源PDF缺作文配图，配图已单独保存并补入本地整卷页。新题型不重排、不填答案。原句自动切分，入生词库前结合原段核对。"
+}

@@ -1,0 +1,3310 @@
+{
+  "schema": 1,
+  "aliases": {
+    "2017-t4-06": "2017-t2-13",
+    "2021-ii-t2-17": "2017-t2-04",
+    "2021-ii-cloze-07": "2017-t3-04",
+    "2021-ii-t2-10": "wb-u2-t3-16",
+    "2021-ii-t1-05": "wb-u2-t4-12",
+    "wb-u2-t4-06": "wb-u2-t3-04",
+    "2018-cloze-01": "wb-u2-t4-14"
+  },
+  "entries": {
+    "2015-t1-01": {
+      "quiz_gloss": "坚持",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "insist on doing something",
+          "meaning": "坚持做某事",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2015-t1-02": {
+      "quiz_gloss": "退位",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "abdicate the throne",
+          "meaning": "退位",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2015-t1-03": {
+      "quiz_gloss": "丑闻",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "embarrassing scandals",
+          "meaning": "令人难堪的丑闻",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "But embarrassing scandals and the popularity of the republican left in the recent Euro-elections have forced him to eat his words and stand down."
+        }
+      ]
+    },
+    "2015-t1-04": {
+      "quiz_gloss": "庄严尊贵的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "majestic lifestyles",
+          "meaning": "尊贵的生活方式",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Does that mean the writing is on the wall for all European royals, with their magnificent uniforms and majestic lifestyles?"
+        }
+      ]
+    },
+    "2015-t1-05": {
+      "quiz_gloss": "使两极分化",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "public opinion is particularly polarized",
+          "meaning": "公众意见严重分化",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "When public opinion is particularly polarized, as it was following the end of the Franco regime, monarchs can rise above “mere” politics and “embody” a spirit of national unity."
+        }
+      ]
+    },
+    "2015-t1-06": {
+      "quiz_gloss": "缓和",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "eased his relationship with his rivals",
+          "meaning": "缓和他与对手的关系",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "eased his relationship with his rivals"
+        }
+      ]
+    },
+    "2015-t1-07": {
+      "quiz_gloss": "竞争对手",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "a rival company",
+          "meaning": "竞争公司",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2015-t1-08": {
+      "quiz_gloss": "体现",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "the embodiment of something",
+          "meaning": "某事物的体现或化身",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2015-t1-09": {
+      "quiz_gloss": "过多的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "excessive reliance on inherited wealth",
+          "meaning": "过度依赖继承的财富",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Aristocrats’ excessive reliance on inherited wealth."
+        }
+      ]
+    },
+    "2015-t1-10": {
+      "quiz_gloss": "继承",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "inherited wealth",
+          "meaning": "继承的财富",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Aristocrats’ excessive reliance on inherited wealth."
+        }
+      ]
+    },
+    "2015-t2-01": {
+      "quiz_gloss": "禁止",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "prohibition on unreasonable searches",
+          "meaning": "禁止不合理搜查",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Citizens still have a right to expect private documents to remain private and protected by the Constitution’s prohibition on unreasonable searches."
+        }
+      ]
+    },
+    "2015-t2-02": {
+      "quiz_gloss": "授权令",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "obtain a warrant",
+          "meaning": "取得搜查令",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "In many cases, it would not be overly burdensome for authorities to obtain a warrant to search through phone contents."
+        }
+      ]
+    },
+    "2015-t2-03": {
+      "quiz_gloss": "（宪法）修正案",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "Fourth Amendment",
+          "meaning": "宪法第四修正案",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances, and they could take reasonable measures to ensure that phone data are not erased or altered while waiting for a warrant."
+        }
+      ]
+    },
+    "2015-t2-04": {
+      "quiz_gloss": "合法的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "it is legitimate to do something",
+          "meaning": "做某事是合法或正当的",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2015-t2-05": {
+      "quiz_gloss": "禁止",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "prohibit somebody from doing something",
+          "meaning": "禁止某人做某事",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2015-t2-06": {
+      "quiz_gloss": "住所",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "permanent residence",
+          "meaning": "永久居留",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2015-t2-07": {
+      "quiz_gloss": "违反",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "violates principles of the Constitution",
+          "meaning": "违反宪法原则",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "California’s argument violates principles of the Constitution"
+        }
+      ]
+    },
+    "2015-t2-08": {
+      "quiz_gloss": "改变",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "alter a plan",
+          "meaning": "改变计划",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2015-t3-01": {
+      "quiz_gloss": "不可重复性",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "irreproducibility of research findings",
+          "meaning": "研究结果的不可重复性",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2015-t3-02": {
+      "quiz_gloss": "标记",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "flag up a problem",
+          "meaning": "提醒注意某个问题",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2015-t3-03": {
+      "quiz_gloss": "统计的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "statistical checks",
+          "meaning": "统计检查",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "journals are strengthening their statistical checks"
+        }
+      ]
+    },
+    "2015-t3-04": {
+      "quiz_gloss": "发行量",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "increase circulation",
+          "meaning": "增加发行量",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2015-t3-05": {
+      "quiz_gloss": "减少",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "diminishes the role of reviewers",
+          "meaning": "削弱审稿人的作用",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "diminishes the role of reviewers"
+        }
+      ]
+    },
+    "2015-t4-01": {
+      "quiz_gloss": "正直",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "personal integrity",
+          "meaning": "个人操守",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2015-t4-02": {
+      "quiz_gloss": "集体的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "a collective acceptance",
+          "meaning": "集体接受",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Integrity had collapsed, she argued, because of a collective acceptance that the only “sorting mechanism” in society should be profit and the market."
+        }
+      ]
+    },
+    "2015-t4-03": {
+      "quiz_gloss": "流露；显露",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "betray any common humanity",
+          "meaning": "流露任何共同的人性关怀",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "The purpose of editing the News of the World was not to promote readers’ understanding, to be fair in what was written or to betray any common humanity."
+        }
+      ]
+    },
+    "2015-t4-04": {
+      "quiz_gloss": "不道德的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "immoral practices",
+          "meaning": "不道德的做法",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "companies’ financial loss due to immoral practices"
+        }
+      ]
+    },
+    "2015-t4-05": {
+      "quiz_gloss": "滥用",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "misuse of integrity",
+          "meaning": "对诚信概念的误用",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "the wide misuse of integrity among institutions"
+        }
+      ]
+    },
+    "2015-t4-06": {
+      "quiz_gloss": "阴谋",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "part of a conspiracy",
+          "meaning": "阴谋的一部分",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "was part of a conspiracy"
+        }
+      ]
+    },
+    "2016-cloze-01": {
+      "quiz_gloss": "配偶",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "the choice of a spouse",
+          "meaning": "配偶的选择",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "In Cambodia, the choice of a spouse is a complex one for the young male."
+        }
+      ]
+    },
+    "2016-cloze-02": {
+      "quiz_gloss": "媒人",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "act as a matchmaker",
+          "meaning": "充当媒人",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2016-cloze-03": {
+      "quiz_gloss": "否决",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "veto a proposal",
+          "meaning": "否决提案",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2016-cloze-04": {
+      "quiz_gloss": "佛教的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "Buddhist priests",
+          "meaning": "佛教僧侣",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Buddhist priests offer a short sermon and __8__ prayers of blessing."
+        }
+      ]
+    },
+    "2016-cloze-05": {
+      "quiz_gloss": "僧侣；宗教神职人员",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "Buddhist priests",
+          "meaning": "佛教僧侣",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Buddhist priests offer a short sermon and __8__ prayers of blessing."
+        }
+      ]
+    },
+    "2016-cloze-06": {
+      "quiz_gloss": "与……竞争",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "compete with somebody for something",
+          "meaning": "与某人争夺某物",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2016-cloze-07": {
+      "quiz_gloss": "以免；唯恐",
+      "pos": "conj",
+      "collocations": []
+    },
+    "2016-cloze-08": {
+      "quiz_gloss": "说服",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "persuade somebody to do something",
+          "meaning": "说服某人做某事",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2016-t1-01": {
+      "quiz_gloss": "初步的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "preliminary approval",
+          "meaning": "初步批准",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Its lawmakers gave preliminary approval last week to a law that would make it a crime to employ ultra-thin models on runways."
+        }
+      ]
+    },
+    "2016-t1-02": {
+      "quiz_gloss": "批准",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "seek approval",
+          "meaning": "寻求批准",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2016-t1-03": {
+      "quiz_gloss": "最终处于",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "end up doing something",
+          "meaning": "最终做某事",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2016-t1-04": {
+      "quiz_gloss": "损害；侵害",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "impinging on health",
+          "meaning": "损害健康",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "They suggest beauty should not be defined by looks that end up impinging on health."
+        }
+      ]
+    },
+    "2016-t1-05": {
+      "quiz_gloss": "评判者",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "arbiters of their beauty",
+          "meaning": "裁定他们是否美丽的人",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "The bans, if fully enforced, would suggest to women (and many men) that they should not let others be arbiters of their beauty."
+        }
+      ]
+    },
+    "2016-t1-06": {
+      "quiz_gloss": "暗示",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "hint that",
+          "meaning": "暗示……",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "And perhaps faintly, they hint that people should look to intangible qualities like character and intellect rather than dieting their way to size zero or wasp-waist physiques."
+        }
+      ]
+    },
+    "2016-t1-07": {
+      "quiz_gloss": "无形的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "intangible qualities",
+          "meaning": "无形的内在品质",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "And perhaps faintly, they hint that people should look to intangible qualities like character and intellect rather than dieting their way to size zero or wasp-waist physiques."
+        }
+      ]
+    },
+    "2016-t1-08": {
+      "quiz_gloss": "指数",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "index of body mass",
+          "meaning": "身体质量指数",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Under the law, using a fashion model that does not meet a government-defined index of body mass could result in a $85,000 fine and six months in prison."
+        }
+      ]
+    },
+    "2016-t1-09": {
+      "quiz_gloss": "固有的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "an inherent problem",
+          "meaning": "固有的问题",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "The fashion industry knows it has an inherent problem in focusing on material adornment and idealized body types."
+        }
+      ]
+    },
+    "2016-t1-10": {
+      "quiz_gloss": "物质的；外在的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "material adornment",
+          "meaning": "物质层面的装饰",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "The fashion industry knows it has an inherent problem in focusing on material adornment and idealized body types."
+        }
+      ]
+    },
+    "2016-t1-11": {
+      "quiz_gloss": "装饰",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "material adornment",
+          "meaning": "物质层面的装饰",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "The fashion industry knows it has an inherent problem in focusing on material adornment and idealized body types."
+        }
+      ]
+    },
+    "2016-t1-12": {
+      "quiz_gloss": "自愿的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "voluntary standards",
+          "meaning": "自愿遵守的标准",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "In Denmark, the United States, and a few other countries, it is trying to set voluntary standards for models and fashion images that rely more on peer pressure for enforcement."
+        }
+      ]
+    },
+    "2016-t1-13": {
+      "quiz_gloss": "遵守",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "in compliance with",
+          "meaning": "遵照……",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2016-t1-14": {
+      "quiz_gloss": "节食",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "go on a diet",
+          "meaning": "开始节食",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2016-t1-15": {
+      "quiz_gloss": "兴旺",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "thrive on something",
+          "meaning": "凭借某事物而兴旺",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2016-t1-16": {
+      "quiz_gloss": "状态",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "the state of",
+          "meaning": "……的状态",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "indicating the state of"
+        }
+      ]
+    },
+    "2016-t1-17": {
+      "quiz_gloss": "威胁",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "pose a threat to",
+          "meaning": "对……构成威胁",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2016-t2-01": {
+      "quiz_gloss": "王室的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "the royal family",
+          "meaning": "王室",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "While polls show Britons rate “the countryside” alongside the royal family, Shakespeare and the National Health Service (NHS) as what makes them proudest of their country, this has limited political support."
+        }
+      ]
+    },
+    "2016-t2-02": {
+      "quiz_gloss": "居民",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "city dwellers",
+          "meaning": "城市居民",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "It was specifically to provide city dwellers with spaces for leisure where they could experience “a refreshing air”."
+        }
+      ]
+    },
+    "2016-t2-03": {
+      "quiz_gloss": "选举",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "the next election",
+          "meaning": "下一次选举",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "At the next election none of the big parties seem likely to endorse this sentiment."
+        }
+      ]
+    },
+    "2016-t2-04": {
+      "quiz_gloss": "支持",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "endorse this sentiment",
+          "meaning": "赞同这种态度",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "At the next election none of the big parties seem likely to endorse this sentiment."
+        }
+      ]
+    },
+    "2016-t2-05": {
+      "quiz_gloss": "有偏见的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "biased against somebody",
+          "meaning": "对某人抱有偏见",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2016-t2-06": {
+      "quiz_gloss": "放任",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "let rip",
+          "meaning": "放任；不加约束地进行",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Development should be planned, not let rip."
+        }
+      ]
+    },
+    "2016-t2-07": {
+      "quiz_gloss": "连贯性",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "rural coherence",
+          "meaning": "乡村空间的协调性",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Half a century of town and country planning has enabled it to retain an enviable rural coherence, while still permitting low-density urban living."
+        }
+      ]
+    },
+    "2016-t2-08": {
+      "quiz_gloss": "民众情感；看法",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "public sentiment",
+          "meaning": "公众情绪",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Britain’s public sentiment about the countryside ________."
+        }
+      ]
+    },
+    "2016-t2-09": {
+      "quiz_gloss": "加强",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "effectively reinforced",
+          "meaning": "得到有效巩固",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "effectively reinforced"
+        }
+      ]
+    },
+    "2017-t1-01": {
+      "quiz_gloss": "悲惨的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "a tragic reminder",
+          "meaning": "惨痛的提醒",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2017-t1-02": {
+      "quiz_gloss": "削弱",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "undermines public support",
+          "meaning": "削弱公众支持",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "But demanding too much of air travelers or providing too little security in return undermines public support for the process."
+        }
+      ]
+    },
+    "2017-t1-03": {
+      "quiz_gloss": "令人极为愤怒的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "find something infuriating",
+          "meaning": "觉得某事令人愤怒",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2017-t1-04": {
+      "quiz_gloss": "偷偷携带进入",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "sneak weapons",
+          "meaning": "偷偷携带武器",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Last year, the Transportation Security Administration (TSA) found in a secret check that undercover investigators were able to sneak weapons—both fake and real—past airport security nearly every time they tried."
+        }
+      ]
+    },
+    "2017-t1-05": {
+      "quiz_gloss": "预料",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "anticipate the steep increase",
+          "meaning": "预料到急剧增长",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Part of the issue is that the government did not anticipate the steep increase in airline travel, so the TSA is now rushing to get new screeners on the line."
+        }
+      ]
+    },
+    "2017-t1-06": {
+      "quiz_gloss": "（增长）急剧的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "the steep increase",
+          "meaning": "急剧增长",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Part of the issue is that the government did not anticipate the steep increase in airline travel, so the TSA is now rushing to get new screeners on the line."
+        }
+      ]
+    },
+    "2017-t1-07": {
+      "quiz_gloss": "质疑",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "strongly dispute",
+          "meaning": "强烈质疑",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Another factor may be that more people are trying to overpack their carry-on bags to avoid checked-baggage fees, though the airlines strongly dispute this."
+        }
+      ]
+    },
+    "2017-t1-08": {
+      "quiz_gloss": "符合条件的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "eligible to use",
+          "meaning": "有资格使用",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Passengers who pass a background check are eligible to use expedited screening lanes."
+        }
+      ]
+    },
+    "2017-t1-09": {
+      "quiz_gloss": "加快的；快速办理的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "expedited screening lanes",
+          "meaning": "快速安检通道",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Passengers who pass a background check are eligible to use expedited screening lanes."
+        }
+      ]
+    },
+    "2017-t1-10": {
+      "quiz_gloss": "致命缺陷",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "fatal flaw",
+          "meaning": "致命缺陷",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Since the beginning, this price tag has been PreCheck’s fatal flaw."
+        }
+      ]
+    },
+    "2017-t1-11": {
+      "quiz_gloss": "改革",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "Upcoming reforms",
+          "meaning": "即将进行的改革",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Upcoming reforms might bring the price to a more reasonable level."
+        }
+      ]
+    },
+    "2017-t1-12": {
+      "quiz_gloss": "使转向",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "diverting resources into",
+          "meaning": "将资源调配到……",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "The TSA cannot continue diverting resources into underused PreCheck lanes while most of the traveling public suffers in unnecessary lines."
+        }
+      ]
+    },
+    "2017-t1-13": {
+      "quiz_gloss": "升级",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "upgrading major U.S. airports",
+          "meaning": "升级美国主要机场",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "highlight the necessity of upgrading major U.S. airports"
+        }
+      ]
+    },
+    "2017-t1-14": {
+      "quiz_gloss": "减少",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "a dramatic reduction",
+          "meaning": "大幅缩减",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "a dramatic reduction of its scale"
+        }
+      ]
+    },
+    "2017-t1-15": {
+      "quiz_gloss": "规模",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "a large scale",
+          "meaning": "大规模",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2017-t1-16": {
+      "quiz_gloss": "不情愿",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "reluctance to do something",
+          "meaning": "不情愿做某事",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2017-t1-17": {
+      "quiz_gloss": "迟来的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "a Belated Solution",
+          "meaning": "姗姗来迟的解决办法",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "PreCheck—a Belated Solution"
+        }
+      ]
+    },
+    "2017-t1-18": {
+      "quiz_gloss": "被卡住的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "Getting Stuck in Security Lines",
+          "meaning": "困在安检队伍里",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Getting Stuck in Security Lines"
+        }
+      ]
+    },
+    "2017-t2-01": {
+      "quiz_gloss": "受尊敬的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "the most esteemed members",
+          "meaning": "最受尊敬的成员",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Star watchers were among the most esteemed members of Hawaiian society."
+        }
+      ]
+    },
+    "2017-t2-02": {
+      "quiz_gloss": "爆发",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "Protests have erupted",
+          "meaning": "抗议爆发了",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Protests have erupted over construction of the Thirty Meter Telescope (TMT), a giant observatory that promises to revolutionize humanity’s view of the cosmos."
+        }
+      ]
+    },
+    "2017-t2-03": {
+      "quiz_gloss": "望远镜",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "powerful telescopes",
+          "meaning": "功能强大的望远镜",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "But Mauna Kea is also home to some of the world’s most powerful telescopes."
+        }
+      ]
+    },
+    "2017-t2-04": {
+      "quiz_gloss": "大部分",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "the bulk of",
+          "meaning": "……的大部分",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Rested in the Pacific Ocean, Mauna Kea’s peak rises above the bulk of our planet’s dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity."
+        }
+      ]
+    },
+    "2017-t2-05": {
+      "quiz_gloss": "稠密的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "dense atmosphere",
+          "meaning": "稠密的大气",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Rested in the Pacific Ocean, Mauna Kea’s peak rises above the bulk of our planet’s dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity."
+        }
+      ]
+    },
+    "2017-t2-06": {
+      "quiz_gloss": "拥有主权的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "a sovereign nation",
+          "meaning": "主权国家",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "A small but vocal group of Hawaiians and environmentalists have long viewed their presence as disrespect for sacred land and a painful reminder of the occupation of what was once a sovereign nation."
+        }
+      ]
+    },
+    "2017-t2-07": {
+      "quiz_gloss": "优先考虑",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "prioritize the protection of",
+          "meaning": "优先考虑保护……",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "They did not always prioritize the protection of Mauna Kea’s fragile ecosystems or its holiness to the islands’ inhabitants."
+        }
+      ]
+    },
+    "2017-t2-08": {
+      "quiz_gloss": "遗物",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "a relic of the past",
+          "meaning": "过去的遗存",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Hawaiian culture is not a relic of the past; it is a living culture undergoing a renaissance today."
+        }
+      ]
+    },
+    "2017-t2-09": {
+      "quiz_gloss": "科学",
+      "pos": "n",
+      "collocations": []
+    },
+    "2017-t2-10": {
+      "quiz_gloss": "文化的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "a cultural history",
+          "meaning": "文化历史",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Yet science has a cultural history, too, with roots going back to the dawn of civilization."
+        }
+      ]
+    },
+    "2017-t2-11": {
+      "quiz_gloss": "布满星星的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "the starry skies",
+          "meaning": "繁星满天的天空",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Perhaps that is why we explore the starry skies, as if answering a primal calling to know ourselves and our true ancestral homes."
+        }
+      ]
+    },
+    "2017-t2-12": {
+      "quiz_gloss": "天文学",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "astronomy in Hawaii",
+          "meaning": "夏威夷的天文学",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Sadly, all is not well with astronomy in Hawaii today."
+        }
+      ]
+    },
+    "2017-t2-13": {
+      "quiz_gloss": "认为",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "deem something necessary",
+          "meaning": "认为某事有必要",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2017-t2-14": {
+      "quiz_gloss": "基础设施",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "existing infrastructure",
+          "meaning": "现有基础设施",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "its existing infrastructure"
+        }
+      ]
+    },
+    "2017-t2-15": {
+      "quiz_gloss": "智力的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "intellectual life",
+          "meaning": "思想生活",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "it may risk ruining their intellectual life"
+        }
+      ]
+    },
+    "2017-t2-16": {
+      "quiz_gloss": "缓和；减轻",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "soften hostility",
+          "meaning": "缓和敌意",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2017-t3-01": {
+      "quiz_gloss": "令人羡慕的对象",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "the envy of",
+          "meaning": "令……羡慕的对象",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "By most recent measures, the UK’s GDP has been the envy of the Western world, with record low unemployment and high growth figures."
+        }
+      ]
+    },
+    "2017-t3-02": {
+      "quiz_gloss": "转化；把增长变为福祉",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "convert growth into well-being",
+          "meaning": "将经济增长转化为福祉",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "A recent annual study of countries and their ability to convert growth into well-being sheds some light on that question."
+        }
+      ]
+    },
+    "2017-t3-03": {
+      "quiz_gloss": "阐明；使更易理解",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "shed light on something",
+          "meaning": "阐明某事",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2017-t3-04": {
+      "quiz_gloss": "标准",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "sets of criteria",
+          "meaning": "多组标准",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Rather than just focusing on GDP, over 40 different sets of criteria from health, education and civil society engagement have been measured to get a more rounded assessment of how countries are performing."
+        }
+      ]
+    },
+    "2017-t3-05": {
+      "quiz_gloss": "公民的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "civil society",
+          "meaning": "公民社会",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Rather than just focusing on GDP, over 40 different sets of criteria from health, education and civil society engagement have been measured to get a more rounded assessment of how countries are performing."
+        }
+      ]
+    },
+    "2017-t3-06": {
+      "quiz_gloss": "把……等同于……",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "identify A with B",
+          "meaning": "把A等同于B",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2017-t3-07": {
+      "quiz_gloss": "误解",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "misinterpreted the role of GDP",
+          "meaning": "误解国内生产总值的作用",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "misinterpreted the role of GDP"
+        }
+      ]
+    },
+    "2017-t3-08": {
+      "quiz_gloss": "不情愿的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "reluctant to remold",
+          "meaning": "不愿意重塑",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "the UK is reluctant to remold its economic pattern"
+        }
+      ]
+    },
+    "2017-t3-09": {
+      "quiz_gloss": "重塑",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "remold its economic pattern",
+          "meaning": "重塑其经济模式",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "the UK is reluctant to remold its economic pattern"
+        }
+      ]
+    },
+    "2017-t3-10": {
+      "quiz_gloss": "指标",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "as an indicator",
+          "meaning": "作为一项指标",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "It excludes GDP as an indicator."
+        }
+      ]
+    },
+    "2017-t3-11": {
+      "quiz_gloss": "有启发性的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "an enlightening experience",
+          "meaning": "有启发的经历",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2017-t4-01": {
+      "quiz_gloss": "定罪",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "overturned the corruption conviction",
+          "meaning": "推翻腐败定罪",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "In a rare unanimous ruling, the US Supreme Court has overturned the corruption conviction of a former Virginia governor, Robert McDonnell."
+        }
+      ]
+    },
+    "2017-t4-02": {
+      "quiz_gloss": "强忍反感",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "hold one's nose",
+          "meaning": "强忍反感做某事",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2017-t4-03": {
+      "quiz_gloss": "贿赂",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "prosecution for bribery",
+          "meaning": "因贿赂而被起诉",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Elected leaders must be allowed to help supporters deal with bureaucratic problems without fear of prosecution for bribery."
+        }
+      ]
+    },
+    "2017-t4-04": {
+      "quiz_gloss": "游说活动",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "rules on lobbying",
+          "meaning": "有关游说的规则",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "This type of integrity requires well-enforced laws in government transparency, such as records of official meetings, rules on lobbying, and information about each elected leader’s source of wealth."
+        }
+      ]
+    },
+    "2017-t4-05": {
+      "quiz_gloss": "轻蔑的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "contemptuous of",
+          "meaning": "鄙视……",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "was contemptuous of McDonnell’s conduct"
+        }
+      ]
+    },
+    "2017-t4-06": {
+      "quiz_gloss": "认为",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "deem something necessary",
+          "meaning": "认为某事有必要",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2017-t4-07": {
+      "quiz_gloss": "构成腐败的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "a corruptive influence",
+          "meaning": "使人腐化的影响",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "wb-u2-t1-01": {
+      "quiz_gloss": "食品杂货",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "bags of groceries",
+          "meaning": "几袋食品杂货",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "wb-u2-t1-02": {
+      "quiz_gloss": "卡车",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "a delivery lorry",
+          "meaning": "送货卡车",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "wb-u2-t1-03": {
+      "quiz_gloss": "在车、船或飞机上",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "on board",
+          "meaning": "在车、船或飞机上",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "This means having a “safety driver” on board ready to take over if there is a problem, which is hardly labour-saving."
+        }
+      ]
+    },
+    "wb-u2-t1-04": {
+      "quiz_gloss": "奇特或复杂的装置",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "larger contraptions",
+          "meaning": "较大的装置",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "For these larger contraptions regulators want to see safety systems thoroughly proved."
+        }
+      ]
+    },
+    "wb-u2-t1-05": {
+      "quiz_gloss": "法律",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "reviews legislation",
+          "meaning": "审查法律",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "In January Britain’s Law Commission, which reviews legislation, recommended that it should not be the person in the driver’s seat who faces prosecution if a vehicle in autonomous mode crashes, but the manufacturer or body that sought approval for its use."
+        }
+      ]
+    },
+    "wb-u2-t1-06": {
+      "quiz_gloss": "起诉",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "faces prosecution",
+          "meaning": "面临起诉",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "In January Britain’s Law Commission, which reviews legislation, recommended that it should not be the person in the driver’s seat who faces prosecution if a vehicle in autonomous mode crashes, but the manufacturer or body that sought approval for its use."
+        }
+      ]
+    },
+    "wb-u2-t1-07": {
+      "quiz_gloss": "寻求",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "sought approval",
+          "meaning": "寻求批准",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "In January Britain’s Law Commission, which reviews legislation, recommended that it should not be the person in the driver’s seat who faces prosecution if a vehicle in autonomous mode crashes, but the manufacturer or body that sought approval for its use."
+        }
+      ]
+    },
+    "wb-u2-t1-08": {
+      "quiz_gloss": "取回",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "goods to be retrieved",
+          "meaning": "待取出的货物",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Their progress can be monitored on a phone app, which also unlocks them for goods to be retrieved."
+        }
+      ]
+    },
+    "wb-u2-t1-09": {
+      "quiz_gloss": "隔间",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "heated compartments",
+          "meaning": "加热舱室",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "It has chilled and heated compartments for food and drinks."
+        }
+      ]
+    },
+    "wb-u2-t1-10": {
+      "quiz_gloss": "超过",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "technically surpass driverless vehicles",
+          "meaning": "在技术上超越无人驾驶车辆",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "technically surpass driverless vehicles"
+        }
+      ]
+    },
+    "wb-u2-t1-11": {
+      "quiz_gloss": "多种多样的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "more diverse",
+          "meaning": "更多样",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "They are more diverse."
+        }
+      ]
+    },
+    "wb-u2-t2-01": {
+      "quiz_gloss": "条款",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "terms and conditions",
+          "meaning": "条款与条件",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "wb-u2-t3-01": {
+      "quiz_gloss": "用电击枪电击",
+      "pos": "v",
+      "collocations": []
+    },
+    "wb-u2-t3-02": {
+      "quiz_gloss": "仅仅；短短（时间）",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "in a matter of months",
+          "meaning": "在短短几个月内",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "“It’s like tasering an elderly person who’s already on a pacemaker,” says a British newspaper boss of the newsprint market, where prices have risen by over 50% in a matter of months."
+        }
+      ]
+    },
+    "wb-u2-t3-03": {
+      "quiz_gloss": "犹豫",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "hesitance to act",
+          "meaning": "采取行动时的犹豫",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "wb-u2-t3-04": {
+      "quiz_gloss": "工厂",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "paper mills",
+          "meaning": "造纸厂",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "What do we learn about the paper mills?"
+        }
+      ]
+    },
+    "wb-u2-t3-05": {
+      "quiz_gloss": "撤除；削减（产能）",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "taking out newsprint capacity",
+          "meaning": "削减新闻纸产能",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "That hesitance has disappeared: mills are taking out newsprint capacity and diversifying."
+        }
+      ]
+    },
+    "wb-u2-t3-06": {
+      "quiz_gloss": "使多样化",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "diversify into other areas",
+          "meaning": "向其他领域拓展经营",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "wb-u2-t3-07": {
+      "quiz_gloss": "改造机器用途",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "converting machines to make packaging",
+          "meaning": "改造机器以生产包装材料",
+          "source": "原文搭配",
+          "kind": "原文用法",
+          "evidence": "Many mills are converting machines to make packaging for e-commerce."
+        }
+      ]
+    },
+    "wb-u2-t3-08": {
+      "quiz_gloss": "飙升",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "soaring energy prices",
+          "meaning": "飙升的能源价格",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "That, combined with much reduced capacity and coupled with soaring energy prices, has resulted in a price shock."
+        }
+      ]
+    },
+    "wb-u2-t3-09": {
+      "quiz_gloss": "认为",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "reckon that",
+          "meaning": "认为……",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "wb-u2-t3-10": {
+      "quiz_gloss": "使完全丧失；抹去",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "wipe out profits",
+          "meaning": "使利润化为乌有",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "For some publishers, prices will wipe out profits."
+        }
+      ]
+    },
+    "wb-u2-t3-11": {
+      "quiz_gloss": "裁员",
+      "pos": "n",
+      "collocations": []
+    },
+    "wb-u2-t3-12": {
+      "quiz_gloss": "平衡",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "towards equilibrium",
+          "meaning": "趋于均衡",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "That will lower demand and push the market back towards equilibrium."
+        }
+      ]
+    },
+    "wb-u2-t3-13": {
+      "quiz_gloss": "活力；刺激（比喻）",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "digital adrenaline",
+          "meaning": "数字化带来的活力",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "More digital adrenaline is one possible riposte to the paper mills’ tasers."
+        }
+      ]
+    },
+    "wb-u2-t3-14": {
+      "quiz_gloss": "反击；回应",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "a riposte to",
+          "meaning": "对……的反击",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "wb-u2-t3-15": {
+      "quiz_gloss": "关键的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "the critical period of transformation",
+          "meaning": "转型的关键时期",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "in the critical period of transformation"
+        }
+      ]
+    },
+    "wb-u2-t3-16": {
+      "quiz_gloss": "大幅度地",
+      "pos": "adv",
+      "collocations": [
+        {
+          "text": "drastically reduced production capacity",
+          "meaning": "大幅削减产能",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "They have drastically reduced production capacity."
+        }
+      ]
+    },
+    "wb-u2-t3-17": {
+      "quiz_gloss": "紧张的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "strained relations",
+          "meaning": "紧张的关系",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "wb-u2-t3-18": {
+      "quiz_gloss": "对话",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "dialogue with paper mills",
+          "meaning": "与造纸厂对话",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "newspapers need more dialogue with paper mills"
+        }
+      ]
+    },
+    "wb-u2-t3-19": {
+      "quiz_gloss": "起诉",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "prosecute paper mills",
+          "meaning": "起诉造纸厂",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "prosecute paper mills"
+        }
+      ]
+    },
+    "wb-u2-t3-20": {
+      "quiz_gloss": "支持的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "a supportive partnership",
+          "meaning": "相互支持的合作关系",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "When times were good, before ads shifted online, newspapers had a supportive partnership with paper mills."
+        }
+      ]
+    },
+    "wb-u2-t3-21": {
+      "quiz_gloss": "行业",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "the newspaper industry",
+          "meaning": "报纸行业",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "According to the British newspaper boss, the newspaper industry is ________."
+        }
+      ]
+    },
+    "wb-u2-t4-01": {
+      "quiz_gloss": "倡导者",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "proponents of a global energy transition",
+          "meaning": "全球能源转型的支持者",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Later this week, a solar array on Colorado’s southern High Plains will officially launch, and proponents of a global energy transition will have a new beacon for their cause."
+        }
+      ]
+    },
+    "wb-u2-t4-02": {
+      "quiz_gloss": "平原",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "High Plains",
+          "meaning": "美国高平原地区",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Later this week, a solar array on Colorado’s southern High Plains will officially launch, and proponents of a global energy transition will have a new beacon for their cause."
+        }
+      ]
+    },
+    "wb-u2-t4-03": {
+      "quiz_gloss": "设施",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "solar facilities",
+          "meaning": "太阳能设施",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "The $285m Bighorn Solar array, developed by Lightsource BP outside Pueblo, a city that made much of the railway that crosses America’s west, will be one of the largest solar facilities east of the Rockies."
+        }
+      ]
+    },
+    "wb-u2-t4-04": {
+      "quiz_gloss": "关于……的讨论或争论",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "debate about",
+          "meaning": "关于……的讨论",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Bighorn launches just as the global energy shortage sparks debate about how quickly the world should replace fossil fuels with renewables."
+        }
+      ]
+    },
+    "wb-u2-t4-05": {
+      "quiz_gloss": "太阳能电池板",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "solar panels",
+          "meaning": "太阳能电池板",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "wb-u2-t4-06": {
+      "quiz_gloss": "工厂",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "paper mills",
+          "meaning": "造纸厂",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "wb-u2-t4-07": {
+      "quiz_gloss": "隐约耸现；逼近",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "loomed over the city",
+          "meaning": "阴影笼罩城市",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "His father and grandfather worked at the mill, whose closure loomed over the city a few years ago."
+        }
+      ]
+    },
+    "wb-u2-t4-08": {
+      "quiz_gloss": "供应",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "supply electricity",
+          "meaning": "供应电力",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "wb-u2-t4-09": {
+      "quiz_gloss": "与……相符",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "tallies with",
+          "meaning": "与……相符",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "The project tallies with Xcel’s strategy to supply only emissions-free electricity by 2050."
+        }
+      ]
+    },
+    "wb-u2-t4-10": {
+      "quiz_gloss": "汽油",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "petrol stations",
+          "meaning": "加油站",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Better known in the US for its petrol stations, offshore drilling and the Deepwater Horizon oil spill, BP last year pledged to begin reducing crude output, cutting emissions, including flaring, and providing renewable electricity."
+        }
+      ]
+    },
+    "wb-u2-t4-11": {
+      "quiz_gloss": "钻探",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "offshore drilling",
+          "meaning": "海上钻探",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Better known in the US for its petrol stations, offshore drilling and the Deepwater Horizon oil spill, BP last year pledged to begin reducing crude output, cutting emissions, including flaring, and providing renewable electricity."
+        }
+      ]
+    },
+    "wb-u2-t4-12": {
+      "quiz_gloss": "承诺",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "pledge to do something",
+          "meaning": "承诺做某事",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        },
+        {
+          "text": "make a pledge",
+          "meaning": "作出承诺",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "wb-u2-t4-13": {
+      "quiz_gloss": "波动大的；易变的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "less volatile",
+          "meaning": "波动较小的",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "“For those who are wondering what BP is doing, we think this is the best example of the transition that we’re going through,” said Lawler, adding the project would generate the 8-10 per cent returns BP seeks; lower than oil and gas projects returns, but less volatile."
+        }
+      ]
+    },
+    "wb-u2-t4-14": {
+      "quiz_gloss": "引发",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "triggered discussion",
+          "meaning": "引发讨论",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "has triggered discussion on energy issues"
+        }
+      ]
+    },
+    "2021-ii-cloze-01": {
+      "quiz_gloss": "组成部分",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "multiple components",
+          "meaning": "多个组成部分",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Most work-related behaviors have multiple components."
+        }
+      ]
+    },
+    "2021-ii-cloze-02": {
+      "quiz_gloss": "扭曲",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "become distorted",
+          "meaning": "变得扭曲",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "__2__ one and the others become distorted."
+        }
+      ]
+    },
+    "2021-ii-cloze-03": {
+      "quiz_gloss": "检查",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "carefully inspected",
+          "meaning": "仔细检查",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Are they carefully inspected?"
+        }
+      ]
+    },
+    "2021-ii-cloze-04": {
+      "quiz_gloss": "公共汽车",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "bus lanes",
+          "meaning": "公交专用道",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-05": {
+      "quiz_gloss": "骑自行车的人",
+      "pos": "n",
+      "collocations": []
+    },
+    "2021-ii-cloze-06": {
+      "quiz_gloss": "惩罚",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "reward or punish",
+          "meaning": "奖励或惩罚",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-07": {
+      "quiz_gloss": "标准",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "sets of criteria",
+          "meaning": "多组标准",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-08": {
+      "quiz_gloss": "极其",
+      "pos": "adv",
+      "collocations": [
+        {
+          "text": "immensely inventive",
+          "meaning": "极其善于想办法",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "There is another __12__: people became immensely inventive in hitting targets."
+        }
+      ]
+    },
+    "2021-ii-cloze-09": {
+      "quiz_gloss": "有创造力的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "immensely inventive",
+          "meaning": "极其善于想办法",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "There is another __12__: people became immensely inventive in hitting targets."
+        }
+      ]
+    },
+    "2021-ii-cloze-10": {
+      "quiz_gloss": "航班",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "a one-hour flight",
+          "meaning": "一小时的航班",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-11": {
+      "quiz_gloss": "顺风",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "a strong tailwind",
+          "meaning": "强劲的顺风",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-12": {
+      "quiz_gloss": "多维的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "multidimensional jobs",
+          "meaning": "多维度的工作",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-13": {
+      "quiz_gloss": "未预见的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "unforeseen negative consequences",
+          "meaning": "未预料到的负面后果",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Setting targets can and does have unforeseen negative consequences."
+        }
+      ]
+    },
+    "2021-ii-cloze-14": {
+      "quiz_gloss": "维度",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "dimensions of the objective",
+          "meaning": "目标的各个维度",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "The trick is not only to __19__ just one or even two dimensions of the objective, but also to understand how to help people better __20__ the objective."
+        }
+      ]
+    },
+    "2021-ii-cloze-15": {
+      "quiz_gloss": "评估",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "assess the risk",
+          "meaning": "评估风险",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-16": {
+      "quiz_gloss": "强调",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "emphasize the importance of",
+          "meaning": "强调……的重要性",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-17": {
+      "quiz_gloss": "嘲笑",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "mock somebody",
+          "meaning": "嘲笑某人",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-18": {
+      "quiz_gloss": "责备",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "blame somebody for something",
+          "meaning": "因某事责备某人",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-19": {
+      "quiz_gloss": "热情好客",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "show hospitality to guests",
+          "meaning": "热情招待客人",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-20": {
+      "quiz_gloss": "准时",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "punctuality at work",
+          "meaning": "工作中的守时",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-21": {
+      "quiz_gloss": "创新",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "technological innovation",
+          "meaning": "技术创新",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-22": {
+      "quiz_gloss": "奖励",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "reward somebody for something",
+          "meaning": "因某事奖励某人",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-23": {
+      "quiz_gloss": "收入",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "generate revenue",
+          "meaning": "创造收入",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-24": {
+      "quiz_gloss": "勤奋的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "a diligent student",
+          "meaning": "勤奋的学生",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-25": {
+      "quiz_gloss": "批评",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "criticize somebody for something",
+          "meaning": "因某事批评某人",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-26": {
+      "quiz_gloss": "解释",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "interpret something as",
+          "meaning": "把某事理解为……",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-27": {
+      "quiz_gloss": "恢复",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "restore confidence",
+          "meaning": "恢复信心",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-28": {
+      "quiz_gloss": "明确说明",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "specify the requirements",
+          "meaning": "明确要求",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-cloze-29": {
+      "quiz_gloss": "修改",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "modify a plan",
+          "meaning": "修改计划",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t1-01": {
+      "quiz_gloss": "流行词",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "a buzzword",
+          "meaning": "一个流行术语",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "“Reskilling” is something that sounds like a buzzword but is actually a requirement if we plan to have a future in which a lot of would-be workers do not get left behind."
+        }
+      ]
+    },
+    "2021-ii-t1-02": {
+      "quiz_gloss": "棘手的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "a thorny question",
+          "meaning": "一个棘手的问题",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t1-03": {
+      "quiz_gloss": "诱惑",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "resist the temptation to",
+          "meaning": "抵制做某事的诱惑",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t1-04": {
+      "quiz_gloss": "巨大的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "a massive reskilling program",
+          "meaning": "大规模技能再培训计划",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "AT&T is often given as the gold standard of a company that decided to do a massive reskilling program rather than go with a fire-and-hire strategy."
+        }
+      ]
+    },
+    "2021-ii-t1-05": {
+      "quiz_gloss": "承诺",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "pledge to do something",
+          "meaning": "承诺做某事",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        },
+        {
+          "text": "make a pledge",
+          "meaning": "作出承诺",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t1-06": {
+      "quiz_gloss": "可以说",
+      "pos": "adv",
+      "collocations": [
+        {
+          "text": "arguably the best",
+          "meaning": "可以说是最好的",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t1-07": {
+      "quiz_gloss": "迟缓无力的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "languid at best",
+          "meaning": "至多也只是乏力",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Efforts in Canada and elsewhere have been arguably languid at best, and have given us a situation where we frequently hear of employers begging for workers, even at times and in regions where unemployment is high."
+        }
+      ]
+    },
+    "2021-ii-t1-08": {
+      "quiz_gloss": "短缺",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "worker shortages",
+          "meaning": "劳动力短缺",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "In February, at 3.5 percent and 5.5 percent respectively, unemployment rates in Canada and the United States were at generational lows and worker shortages were everywhere."
+        }
+      ]
+    },
+    "2021-ii-t1-09": {
+      "quiz_gloss": "急剧上升",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "spiked up to",
+          "meaning": "猛升至……",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "As of May, those rates had spiked up to 13.3 percent and 13.7 percent, and although many worker shortages had disappeared, not all had done so."
+        }
+      ]
+    },
+    "2021-ii-t1-10": {
+      "quiz_gloss": "人员",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "medical personnel",
+          "meaning": "医务人员",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "In the medical field, to take an obvious example, the pandemic meant that there were still clear shortages of doctors, nurses and other medical personnel."
+        }
+      ]
+    },
+    "2021-ii-t1-11": {
+      "quiz_gloss": "让员工暂时休假或停职",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "furlough staff",
+          "meaning": "让员工停职休假",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t1-12": {
+      "quiz_gloss": "客舱",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "cabin staff",
+          "meaning": "客舱乘务人员",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "That seems to be the case in Sweden: when forced to furlough 90 percent of their cabin staff, Scandinavian Airline decided to start up a short retraining program that reskilled the laid-off workers to support hospital staff."
+        }
+      ]
+    },
+    "2021-ii-t1-13": {
+      "quiz_gloss": "裁员",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "laid-off workers",
+          "meaning": "被裁撤岗位的员工",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "That seems to be the case in Sweden: when forced to furlough 90 percent of their cabin staff, Scandinavian Airline decided to start up a short retraining program that reskilled the laid-off workers to support hospital staff."
+        }
+      ]
+    },
+    "2021-ii-t1-14": {
+      "quiz_gloss": "争论",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "a controversy about",
+          "meaning": "关于……的争议",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "a controversy about the “core skills”"
+        }
+      ]
+    },
+    "2021-ii-t1-15": {
+      "quiz_gloss": "评价",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "staff appraisal standards",
+          "meaning": "员工评估标准",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "the importance of staff appraisal standards"
+        }
+      ]
+    },
+    "2021-ii-t1-16": {
+      "quiz_gloss": "不匹配",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "skills mismatch",
+          "meaning": "技能错配",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Efforts to resolve the skills mismatch in Canada ________."
+        }
+      ]
+    },
+    "2021-ii-t1-17": {
+      "quiz_gloss": "不一致的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "inconsistent with",
+          "meaning": "与……不一致",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t1-18": {
+      "quiz_gloss": "激烈的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "fierce opposition",
+          "meaning": "强烈反对",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "have met with fierce opposition"
+        }
+      ]
+    },
+    "2021-ii-t1-19": {
+      "quiz_gloss": "不足的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "insufficient resources",
+          "meaning": "资源不足",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t1-20": {
+      "quiz_gloss": "职位空缺",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "job vacancies",
+          "meaning": "职位空缺",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "create job vacancies for the unemployed"
+        }
+      ]
+    },
+    "2021-ii-t2-01": {
+      "quiz_gloss": "农业的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "agricultural production",
+          "meaning": "农业生产",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "With the global population predicted to hit close to 10 billion by 2050, and forecasts that agricultural production in some regions will need to nearly double to keep pace, food security is increasingly making headlines."
+        }
+      ]
+    },
+    "2021-ii-t2-02": {
+      "quiz_gloss": "跟上步伐",
+      "pos": "phrase",
+      "collocations": [
+        {
+          "text": "keep pace with",
+          "meaning": "跟上……",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t2-03": {
+      "quiz_gloss": "英国脱离欧盟",
+      "pos": "n",
+      "collocations": []
+    },
+    "2021-ii-t2-04": {
+      "quiz_gloss": "逆转",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "reverse a recent trend",
+          "meaning": "扭转近期趋势",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Brexit is seen by some as an opportunity to reverse a recent trend towards the UK importing food."
+        }
+      ]
+    },
+    "2021-ii-t2-05": {
+      "quiz_gloss": "主权",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "political sovereignty",
+          "meaning": "政治主权",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "A move back to self-sufficiency, the argument goes, would boost the farming industry, political sovereignty and even the nation’s health."
+        }
+      ]
+    },
+    "2021-ii-t2-06": {
+      "quiz_gloss": "可行的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "a feasible plan",
+          "meaning": "可行的计划",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t2-07": {
+      "quiz_gloss": "家畜",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "livestock farms",
+          "meaning": "畜牧场",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "That supplies 80 percent of what is consumed, so even covering the whole country in livestock farms wouldn’t allow us to cover all our meat and dairy needs."
+        }
+      ]
+    },
+    "2021-ii-t2-08": {
+      "quiz_gloss": "需要注意的限制条件",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "caveats to those figures",
+          "meaning": "解读这些数字的限制条件",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "There are many caveats to those figures, but they are still grave."
+        }
+      ]
+    },
+    "2021-ii-t2-09": {
+      "quiz_gloss": "严峻的；严重的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "grave consequences",
+          "meaning": "严重后果",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t2-10": {
+      "quiz_gloss": "大幅度地",
+      "pos": "adv",
+      "collocations": [
+        {
+          "text": "drastically reduced production capacity",
+          "meaning": "大幅削减产能",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t2-11": {
+      "quiz_gloss": "畜牧业",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "animal husbandry",
+          "meaning": "畜牧业",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "There is a good reason why the UK is dominated by animal husbandry: most of its terrain doesn’t have the right soil or climate to grow crops on a commercial basis."
+        }
+      ]
+    },
+    "2021-ii-t2-12": {
+      "quiz_gloss": "地形",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "rough terrain",
+          "meaning": "崎岖地形",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t2-13": {
+      "quiz_gloss": "商业的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "on a commercial basis",
+          "meaning": "以商业方式",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "There is a good reason why the UK is dominated by animal husbandry: most of its terrain doesn’t have the right soil or climate to grow crops on a commercial basis."
+        }
+      ]
+    },
+    "2021-ii-t2-14": {
+      "quiz_gloss": "适于耕种的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "arable fields",
+          "meaning": "耕地",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "Just 25 percent of the country’s land is suitable for crop-growing, most of which is already occupied by arable fields."
+        }
+      ]
+    },
+    "2021-ii-t2-15": {
+      "quiz_gloss": "改变土地用途",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "convert land to fields",
+          "meaning": "把土地改作田地",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t2-16": {
+      "quiz_gloss": "巨大的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "the vast bulk of",
+          "meaning": "……的绝大部分",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "That is before we look for the space to grow the grains, sugars, seeds and oils that provide us with the vast bulk of our current calorie intake."
+        }
+      ]
+    },
+    "2021-ii-t2-17": {
+      "quiz_gloss": "大部分",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "the bulk of",
+          "meaning": "……的大部分",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2021-ii-t2-18": {
+      "quiz_gloss": "卡路里",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "calorie intake",
+          "meaning": "热量摄入",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "That is before we look for the space to grow the grains, sugars, seeds and oils that provide us with the vast bulk of our current calorie intake."
+        }
+      ]
+    },
+    "2021-ii-t2-19": {
+      "quiz_gloss": "阻碍",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "hindered by",
+          "meaning": "受到……阻碍",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "be hindered by its population growth"
+        }
+      ]
+    },
+    "2021-ii-t2-20": {
+      "quiz_gloss": "优先事项",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "a priority of the government",
+          "meaning": "政府优先考虑的事项",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "become a priority of the government"
+        }
+      ]
+    },
+    "2021-ii-t2-21": {
+      "quiz_gloss": "幸福",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "the nation’s well-being",
+          "meaning": "国民福祉",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "contribute to the nation’s well-being"
+        }
+      ]
+    },
+    "2021-ii-t2-22": {
+      "quiz_gloss": "利用",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "inefficiently utilized",
+          "meaning": "利用效率不高",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "farmland has been inefficiently utilized"
+        }
+      ]
+    },
+    "2021-ii-t2-23": {
+      "quiz_gloss": "饮食的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "dietary tradition",
+          "meaning": "饮食传统",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "its dietary tradition"
+        }
+      ]
+    },
+    "2021-ii-t2-24": {
+      "quiz_gloss": "谷物",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "new varieties of grains",
+          "meaning": "谷物新品种",
+          "source": "原文搭配",
+          "kind": "常见搭配",
+          "evidence": "are trying to grow new varieties of grains"
+        }
+      ]
+    },
+    "2021-ii-t2-25": {
+      "quiz_gloss": "辩护的；维护的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "a defensive attitude",
+          "meaning": "防御性的态度",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2018-cloze-01": {
+      "quiz_gloss": "引发",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "trigger a reaction",
+          "meaning": "引起反应",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2018-cloze-02": {
+      "quiz_gloss": "成群行动；从众",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "herding instinct",
+          "meaning": "群聚本能；从众本能",
+          "source": "原文搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2018-cloze-03": {
+      "quiz_gloss": "接触；暴露",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "exposure to something",
+          "meaning": "接触某物；暴露于某物",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2018-cloze-04": {
+      "quiz_gloss": "喷洒；喷入",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "spray something into something",
+          "meaning": "把某物喷入某处",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2018-cloze-05": {
+      "quiz_gloss": "吸入",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "inhaled something else",
+          "meaning": "吸入其他物质",
+          "source": "原文搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2018-cloze-06": {
+      "quiz_gloss": "区分；辨别",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "differentiate between A and B",
+          "meaning": "区分A与B",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2018-cloze-07": {
+      "quiz_gloss": "表明；证明",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "demonstrating that",
+          "meaning": "表明……",
+          "source": "原文搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2018-cloze-08": {
+      "quiz_gloss": "对应的人或事物",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "a foreign counterpart",
+          "meaning": "外国的对等人物或机构",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2018-cloze-09": {
+      "quiz_gloss": "替代者；替代物",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "a substitute for something",
+          "meaning": "某物的替代品",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2018-t1-10": {
+      "quiz_gloss": "债务；欠款",
+      "pos": "n",
+      "collocations": [
+        {
+          "text": "going into debt",
+          "meaning": "陷入债务；负债",
+          "source": "原文搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2018-cloze-11": {
+      "quiz_gloss": "使高兴；使愉悦",
+      "pos": "v",
+      "collocations": [
+        {
+          "text": "delight somebody",
+          "meaning": "使某人高兴",
+          "source": "补充搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2018-new-type-12": {
+      "quiz_gloss": "希腊的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "Greek Revival",
+          "meaning": "希腊复兴式（建筑风格）",
+          "source": "原文搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    },
+    "2018-translation-13": {
+      "quiz_gloss": "宗教的",
+      "pos": "adj",
+      "collocations": [
+        {
+          "text": "religious drama",
+          "meaning": "宗教戏剧",
+          "source": "原文搭配",
+          "kind": "常见搭配"
+        }
+      ]
+    }
+  },
+  "confusable_groups": [
+    [
+      "convert",
+      "alter",
+      "modify",
+      "remold",
+      "restore",
+      "reform",
+      "upgrade",
+      "reverse"
+    ],
+    [
+      "deem",
+      "reckon",
+      "insist",
+      "identify"
+    ],
+    [
+      "diminish",
+      "undermine",
+      "hinder",
+      "impinge on"
+    ],
+    [
+      "massive",
+      "vast",
+      "immensely",
+      "excessive"
+    ],
+    [
+      "critical",
+      "grave",
+      "tragic",
+      "fatal flaw"
+    ],
+    [
+      "soften",
+      "ease"
+    ],
+    [
+      "prohibit",
+      "veto",
+      "prosecute"
+    ],
+    [
+      "legitimate",
+      "eligible"
+    ],
+    [
+      "majestic",
+      "esteemed"
+    ],
+    [
+      "inherent",
+      "material",
+      "intangible"
+    ],
+    [
+      "innovative",
+      "inventive",
+      "intellectual"
+    ],
+    [
+      "languid",
+      "reluctant"
+    ],
+    [
+      "strained",
+      "thorny"
+    ],
+    [
+      "scandal",
+      "conspiracy",
+      "misuse"
+    ],
+    [
+      "criterion",
+      "indicator",
+      "index"
+    ],
+    [
+      "residence",
+      "cabin",
+      "compartment"
+    ],
+    [
+      "component",
+      "dimension"
+    ],
+    [
+      "spike",
+      "soar"
+    ],
+    [
+      "reinforce",
+      "emphasize"
+    ],
+    [
+      "proponent",
+      "rival",
+      "arbiter"
+    ],
+    [
+      "lobby",
+      "bribery"
+    ],
+    [
+      "inspect",
+      "assess",
+      "appraisal"
+    ],
+    [
+      "prosecution",
+      "conviction"
+    ],
+    [
+      "layoff",
+      "lay off",
+      "furlough"
+    ],
+    [
+      "criticism",
+      "criticize",
+      "dispute",
+      "mock",
+      "blame"
+    ],
+    [
+      "controversy",
+      "debate about",
+      "dialogue"
+    ],
+    [
+      "pledge",
+      "insist"
+    ],
+    [
+      "retrieve",
+      "restore"
+    ],
+    [
+      "compete with",
+      "surpass"
+    ],
+    [
+      "prohibition",
+      "legislation"
+    ],
+    [
+      "coherence",
+      "integrity"
+    ],
+    [
+      "financial",
+      "commercial"
+    ],
+    [
+      "ship",
+      "lorry",
+      "bus"
+    ],
+    [
+      "take out",
+      "wipe out"
+    ],
+    [
+      "statistical",
+      "agricultural",
+      "cultural",
+      "dietary",
+      "Buddhist"
+    ],
+    [
+      "differentiate",
+      "distinguish"
+    ],
+    [
+      "demonstrate",
+      "show",
+      "indicate",
+      "reveal"
+    ],
+    [
+      "delight",
+      "please"
+    ],
+    [
+      "trigger",
+      "cause"
+    ]
+  ]
+}

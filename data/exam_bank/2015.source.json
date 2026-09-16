@@ -1,0 +1,19 @@
+{
+  "year": 2015,
+  "paper_id": "2015-english-one",
+  "title": "2015年考研英语（一）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2015-english-one/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2015-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802015%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:38.073187+00:00",
+  "html": {
+    "path": "images/exam_bank/2015.html",
+    "sha256": "459d6c75423d9ec3a5bc2968caa901b91f34bd8c2c9c2fb224cf0bea8febc70a",
+    "bytes": 228665
+  },
+  "pdf": {
+    "path": "images/exam_bank/2015.pdf",
+    "sha256": "0526bb8b82ef1706c65f807d80b97babde221551e8f5e226faa66505e3bd9567",
+    "bytes": 223616
+  }
+}

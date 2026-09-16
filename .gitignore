@@ -1,0 +1,9 @@
+.backups/
+backups/
+分享包/
+.staging/
+__pycache__/
+*.pyc
+.env
+.env.*
+生词学习进度_*.json

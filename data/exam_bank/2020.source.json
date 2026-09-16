@@ -1,0 +1,19 @@
+{
+  "year": 2020,
+  "paper_id": "2020-english-one",
+  "title": "2020年考研英语（一）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2020-english-one/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2020-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802020%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:38.907795+00:00",
+  "html": {
+    "path": "images/exam_bank/2020.html",
+    "sha256": "2622cbac94fabfcc10967e724e9f25d8672d71f09e7c946b6eb0f26e80c0f665",
+    "bytes": 226147
+  },
+  "pdf": {
+    "path": "images/exam_bank/2020.pdf",
+    "sha256": "5753a9e01936c016849ebe1e7a105b253e4a6b8d423a0bec572bfc0c46681e3b",
+    "bytes": 216616
+  }
+}

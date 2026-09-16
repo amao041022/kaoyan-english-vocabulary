@@ -1,0 +1,19 @@
+{
+  "year": 2012,
+  "paper_id": "2012-english-one",
+  "title": "2012年考研英语（一）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2012-english-one/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2012-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802012%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:37.517552+00:00",
+  "html": {
+    "path": "images/exam_bank/2012.html",
+    "sha256": "f3753b87d68654ab10ef697c27755a1a489bf97f2a89831d7c23be89bd78799d",
+    "bytes": 227363
+  },
+  "pdf": {
+    "path": "images/exam_bank/2012.pdf",
+    "sha256": "dc5446655bcb24da5aa1cac8231627d203a53c4f1143f5e1e50e37173d48a419",
+    "bytes": 220498
+  }
+}

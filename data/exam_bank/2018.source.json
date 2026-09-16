@@ -1,0 +1,19 @@
+{
+  "year": 2018,
+  "paper_id": "2018-english-one",
+  "title": "2018年考研英语（一）",
+  "provider": "LazyNote（第三方整理版）",
+  "page_url": "https://english-exam.lazynote.cn/kaoyan/paper/2018-english-one/",
+  "pdf_url": "https://downloads.lazynote.cn/kaoyan/2018-english-one/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%802018%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E6%95%B4%E5%8D%B7%EF%BC%89.pdf",
+  "downloaded_at": "2026-09-16T02:48:38.445945+00:00",
+  "html": {
+    "path": "images/exam_bank/2018.html",
+    "sha256": "ac070a0850d0915f60f8d4e9e7204c3f90a5ae4a62f8b748e342f1f45f34f6bf",
+    "bytes": 223048
+  },
+  "pdf": {
+    "path": "images/exam_bank/2018.pdf",
+    "sha256": "df67f85967c80c9563b4b675fd6f15f470ad2dca5f942ec3816811ee42118309",
+    "bytes": 193121
+  }
+}

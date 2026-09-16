@@ -1,0 +1,2265 @@
+{
+  "schema_version": 1,
+  "year": 2014,
+  "title": "2014年考研英语（一）",
+  "source_url": "https://english-exam.lazynote.cn/kaoyan/paper/2014-english-one/",
+  "pdf": "images/exam_bank/2014.pdf",
+  "pdf_page_count": 12,
+  "sections": {
+    "cloze": 85,
+    "text1": 30,
+    "text2": 31,
+    "text3": 30,
+    "text4": 31,
+    "new_type": 8,
+    "translation": 6,
+    "writing_a": 1,
+    "writing_b": 1
+  },
+  "records": [
+    {
+      "id": "2014:cloze:directions:directions-section1:1",
+      "section": "cloze",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section1",
+      "text": "Directions: Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2014:cloze:passage:p-section1-1:2",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section1-1",
+      "text": "As many people hit middle age, they often start to notice that their memory and mental clarity are not what they used to be. We suddenly can't remember __1__ we put the keys just a moment ago, or an old acquaintance's name, or the name of an old band we used to love. As the brain __2__ , we refer to these occurrences as \"senior moments.\" __3__ seemingly innocent, this loss of mental focus can potentially have a(n) __4__ impact on our professional, social, and personal __5__ .",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2014:cloze:passage:p-section1-2:3",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section1-2",
+      "text": "Neuroscientists, experts who study the nervous system, are increasingly showing that there's actually a lot that can be done. It __6__ out that the brain needs exercise in much the same way our muscles do, and the right mental __7__ can significantly improve our basic cognitive __8__ . Thinking is essentially a __9__ of making connections in the brain. To a certain extent, our ability to __10__ in making the connections that drive intelligence is inherited. __11__ , because these connections are made through effort and practice, scientists believe that intelligence can expand and fluctuate __12__ mental effort.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2014:cloze:passage:p-section1-3:4",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section1-3",
+      "text": "Now, a new Web-based company has taken it a step __13__ and developed the first \"brain training program\" designed to actually help people improve and regain their mental __14__ .",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:passage:p-section1-4:5",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section1-4",
+      "text": "The Web-based program __15__ you to systematically improve your memory and attention skills. The program keeps __16__ of your progress and provides detailed feedback __17__ your performance and improvement. Most importantly, it __18__ modifies and enhances the games you play to __19__ on the strengths you are developing – much like a(n) __20__ exercise routine requires you to increase resistance and vary your muscle use.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-1:6",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 A 选项",
+      "anchor": "qp-1",
+      "text": "that",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-1:7",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 B 选项",
+      "anchor": "qp-1",
+      "text": "when",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-1:8",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 C 选项",
+      "anchor": "qp-1",
+      "text": "why",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-1:9",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 D 选项",
+      "anchor": "qp-1",
+      "text": "where",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-2:10",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 A 选项",
+      "anchor": "qp-2",
+      "text": "fades",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-2:11",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 B 选项",
+      "anchor": "qp-2",
+      "text": "improves",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-2:12",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 C 选项",
+      "anchor": "qp-2",
+      "text": "collapses",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-2:13",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 D 选项",
+      "anchor": "qp-2",
+      "text": "recovers",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-3:14",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 A 选项",
+      "anchor": "qp-3",
+      "text": "Unless",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-3:15",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 B 选项",
+      "anchor": "qp-3",
+      "text": "While",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-3:16",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 C 选项",
+      "anchor": "qp-3",
+      "text": "Once",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-3:17",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 D 选项",
+      "anchor": "qp-3",
+      "text": "If",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-4:18",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 A 选项",
+      "anchor": "qp-4",
+      "text": "damaging",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-4:19",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 B 选项",
+      "anchor": "qp-4",
+      "text": "limited",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-4:20",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 C 选项",
+      "anchor": "qp-4",
+      "text": "uneven",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-4:21",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 D 选项",
+      "anchor": "qp-4",
+      "text": "obscure",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-5:22",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 A 选项",
+      "anchor": "qp-5",
+      "text": "relationship",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-5:23",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 B 选项",
+      "anchor": "qp-5",
+      "text": "environment",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-5:24",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 C 选项",
+      "anchor": "qp-5",
+      "text": "wellbeing",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-5:25",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 D 选项",
+      "anchor": "qp-5",
+      "text": "outlook",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-6:26",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 A 选项",
+      "anchor": "qp-6",
+      "text": "figures",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-6:27",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 B 选项",
+      "anchor": "qp-6",
+      "text": "finds",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-6:28",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 C 选项",
+      "anchor": "qp-6",
+      "text": "points",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-6:29",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 D 选项",
+      "anchor": "qp-6",
+      "text": "turns",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-7:30",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 A 选项",
+      "anchor": "qp-7",
+      "text": "responses",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-7:31",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 B 选项",
+      "anchor": "qp-7",
+      "text": "associations",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-7:32",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 C 选项",
+      "anchor": "qp-7",
+      "text": "workouts",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-7:33",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 D 选项",
+      "anchor": "qp-7",
+      "text": "roundabouts",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-8:34",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 A 选项",
+      "anchor": "qp-8",
+      "text": "genre",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-8:35",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 B 选项",
+      "anchor": "qp-8",
+      "text": "criterion",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-8:36",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 C 选项",
+      "anchor": "qp-8",
+      "text": "circumstances",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-8:37",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 D 选项",
+      "anchor": "qp-8",
+      "text": "functions",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-9:38",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 A 选项",
+      "anchor": "qp-9",
+      "text": "channel",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-9:39",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 B 选项",
+      "anchor": "qp-9",
+      "text": "process",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-9:40",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 C 选项",
+      "anchor": "qp-9",
+      "text": "condition",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-9:41",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 D 选项",
+      "anchor": "qp-9",
+      "text": "sequence",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-10:42",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 A 选项",
+      "anchor": "qp-10",
+      "text": "persist",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-10:43",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 B 选项",
+      "anchor": "qp-10",
+      "text": "feature",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-10:44",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 C 选项",
+      "anchor": "qp-10",
+      "text": "excel",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-10:45",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 D 选项",
+      "anchor": "qp-10",
+      "text": "believe",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-11:46",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 A 选项",
+      "anchor": "qp-11",
+      "text": "However",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-11:47",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 B 选项",
+      "anchor": "qp-11",
+      "text": "Moreover",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-11:48",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 C 选项",
+      "anchor": "qp-11",
+      "text": "Otherwise",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-11:49",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 D 选项",
+      "anchor": "qp-11",
+      "text": "Therefore",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-12:50",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 A 选项",
+      "anchor": "qp-12",
+      "text": "according to",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-12:51",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 B 选项",
+      "anchor": "qp-12",
+      "text": "regardless of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-12:52",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 C 选项",
+      "anchor": "qp-12",
+      "text": "apart from",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-12:53",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 D 选项",
+      "anchor": "qp-12",
+      "text": "instead of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-13:54",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 A 选项",
+      "anchor": "qp-13",
+      "text": "back",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-13:55",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 B 选项",
+      "anchor": "qp-13",
+      "text": "further",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-13:56",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 C 选项",
+      "anchor": "qp-13",
+      "text": "aside",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-13:57",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 D 选项",
+      "anchor": "qp-13",
+      "text": "around",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-14:58",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 A 选项",
+      "anchor": "qp-14",
+      "text": "framework",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-14:59",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 B 选项",
+      "anchor": "qp-14",
+      "text": "stability",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-14:60",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 C 选项",
+      "anchor": "qp-14",
+      "text": "flexibility",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-14:61",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 D 选项",
+      "anchor": "qp-14",
+      "text": "sharpness",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-15:62",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 A 选项",
+      "anchor": "qp-15",
+      "text": "hurries",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-15:63",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 B 选项",
+      "anchor": "qp-15",
+      "text": "reminds",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-15:64",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 C 选项",
+      "anchor": "qp-15",
+      "text": "allows",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-15:65",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 D 选项",
+      "anchor": "qp-15",
+      "text": "forces",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-16:66",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 A 选项",
+      "anchor": "qp-16",
+      "text": "order",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-16:67",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 B 选项",
+      "anchor": "qp-16",
+      "text": "track",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-16:68",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 C 选项",
+      "anchor": "qp-16",
+      "text": "pace",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-16:69",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 D 选项",
+      "anchor": "qp-16",
+      "text": "hold",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-17:70",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 A 选项",
+      "anchor": "qp-17",
+      "text": "on",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-17:71",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 B 选项",
+      "anchor": "qp-17",
+      "text": "to",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-17:72",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 C 选项",
+      "anchor": "qp-17",
+      "text": "for",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-17:73",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 D 选项",
+      "anchor": "qp-17",
+      "text": "with",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-18:74",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 A 选项",
+      "anchor": "qp-18",
+      "text": "habitually",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-18:75",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 B 选项",
+      "anchor": "qp-18",
+      "text": "constantly",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-18:76",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 C 选项",
+      "anchor": "qp-18",
+      "text": "irregularly",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-18:77",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 D 选项",
+      "anchor": "qp-18",
+      "text": "unusually",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-19:78",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 A 选项",
+      "anchor": "qp-19",
+      "text": "carry",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-19:79",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 B 选项",
+      "anchor": "qp-19",
+      "text": "put",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-19:80",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 C 选项",
+      "anchor": "qp-19",
+      "text": "build",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-19:81",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 D 选项",
+      "anchor": "qp-19",
+      "text": "take",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-20:82",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 A 选项",
+      "anchor": "qp-20",
+      "text": "idle",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-20:83",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 B 选项",
+      "anchor": "qp-20",
+      "text": "risky",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-20:84",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 C 选项",
+      "anchor": "qp-20",
+      "text": "familiar",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:cloze:option:qp-20:85",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 D 选项",
+      "anchor": "qp-20",
+      "text": "effective",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text1:directions:directions-section2-part-a-1:86",
+      "section": "text1",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-a-1",
+      "text": "Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "id": "2014:text1:passage:p-section2-part-a-1-1:87",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-1-1",
+      "text": "In order to \"change lives for the better\" and reduce \"dependency\", George Osborne, Chancellor of the Exchequer, introduced the \"upfront work search\" scheme. Only if the jobless arrive at the jobcentre with a CV, register for online job search, and start looking for work will they be eligible for benefit – and then they should report weekly rather than fortnightly. What could be more reasonable?",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:passage:p-section2-part-a-1-2:88",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-1-2",
+      "text": "More apparent reasonableness followed. There will now be a seven-day wait for the jobseeker's allowance. \"Those first few days should be spent looking for work, not looking to sign on,\" he claimed. \"We're doing these things because we know they help people stay off benefits and help those on benefits get into work faster.\" Help? Really? On first hearing, this was the socially concerned chancellor, trying to change lives for the better, complete with \"reforms\" to an obviously indulgent system that demands too little effort from the newly unemployed to find work, and subsidises laziness. What motivated him, we were to understand, was his zeal for \"fundamental fairness\" – protecting the taxpayer, controlling spending and ensuring that only the most deserving claimants received their benefits.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:passage:p-section2-part-a-1-3:89",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-1-3",
+      "text": "Losing a job is hurting: you don't skip down to the jobcentre with a song in your heart, delighted at the prospect of doubling your income from the generous state. It is financially terrifying, psychologically embarrassing and you know that support is minimal and extraordinarily hard to get. You are now not wanted; you are now excluded from the work environment that offers purpose and structure in your life. Worse, the crucial income to feed yourself and your family and pay the bills has disappeared. Ask anyone newly unemployed what they want and the answer is always: a job.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:passage:p-section2-part-a-1-4:90",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-1-4",
+      "text": "But in Osborneland, your first instinct is to fall into dependency – permanent dependency if you can get it – supported by a state only too ready to indulge your falsehood. It is as though 20 years of ever-tougher reforms of the job search and benefit administration system never happened. The principle of British welfare is no longer that you can insure yourself against the risk of unemployment and receive unconditional payments if the disaster happens. Even the very phrase \"jobseeker's allowance\" is about redefining the unemployed as a \"jobseeker\" who had no fundamental right to a benefit he or she has earned through making national insurance contributions. Instead, the claimant receives a time-limited \"allowance,\" conditional on actively seeking a job; no entitlement and no insurance, at £71.70 a week, one of the least generous in the EU.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:question:qp-21:91",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 21 题题干",
+      "anchor": "qp-21",
+      "text": "George Osborne's scheme was intended to____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-21:92",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 A 选项",
+      "anchor": "qp-21",
+      "text": "encourage jobseekers' active engagement in job seeking.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-21:93",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 B 选项",
+      "anchor": "qp-21",
+      "text": "provide the unemployed with easier access to benefits.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-21:94",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 C 选项",
+      "anchor": "qp-21",
+      "text": "guarantee jobseekers' legitimate right to benefits.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-21:95",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 D 选项",
+      "anchor": "qp-21",
+      "text": "motivate the unemployed to report voluntarily.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:question:qp-22:96",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 22 题题干",
+      "anchor": "qp-22",
+      "text": "The phrase \"to sign on\" (Line 3, Para. 2) most probably means____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-22:97",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 A 选项",
+      "anchor": "qp-22",
+      "text": "to check on the availability of jobs at the jobcentre.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-22:98",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 B 选项",
+      "anchor": "qp-22",
+      "text": "to accept the government's restrictions on the allowance.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-22:99",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 C 选项",
+      "anchor": "qp-22",
+      "text": "to register for an allowance from the government.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-22:100",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 D 选项",
+      "anchor": "qp-22",
+      "text": "to attend a governmental job-training program.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2014:text1:question:qp-23:101",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 23 题题干",
+      "anchor": "qp-23",
+      "text": "What prompted the chancellor to develop his scheme?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-23:102",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 A 选项",
+      "anchor": "qp-23",
+      "text": "A desire to secure a better life for all.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-23:103",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 B 选项",
+      "anchor": "qp-23",
+      "text": "An eagerness to protect the unemployed.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-23:104",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 C 选项",
+      "anchor": "qp-23",
+      "text": "An urge to be generous to the claimants.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-23:105",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 D 选项",
+      "anchor": "qp-23",
+      "text": "A passion to ensure fairness for taxpayers.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text1:question:qp-24:106",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 24 题题干",
+      "anchor": "qp-24",
+      "text": "According to Paragraph 3, being unemployed makes one feel____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-24:107",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 A 选项",
+      "anchor": "qp-24",
+      "text": "uneasy.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text1:option:qp-24:108",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 B 选项",
+      "anchor": "qp-24",
+      "text": "insulted.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text1:option:qp-24:109",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 C 选项",
+      "anchor": "qp-24",
+      "text": "enraged.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text1:option:qp-24:110",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 D 选项",
+      "anchor": "qp-24",
+      "text": "guilty.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text1:question:qp-25:111",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 25 题题干",
+      "anchor": "qp-25",
+      "text": "To which of the following would the author most probably agree?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-25:112",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 A 选项",
+      "anchor": "qp-25",
+      "text": "Unemployment benefits should not be made conditional.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-25:113",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 B 选项",
+      "anchor": "qp-25",
+      "text": "The British welfare system indulges jobseekers' laziness.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-25:114",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 C 选项",
+      "anchor": "qp-25",
+      "text": "The jobseekers' allowance has met their actual needs.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text1:option:qp-25:115",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 D 选项",
+      "anchor": "qp-25",
+      "text": "Osborne's reforms will reduce the risk of unemployment.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text2:passage:p-section2-part-a-2-1:116",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-2-1",
+      "text": "All around the world, lawyers generate more hostility than the members of any other profession – with the possible exception of journalism. But there are few places where clients have more grounds for complaint than America.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text2:passage:p-section2-part-a-2-2:117",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-2-2",
+      "text": "During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation. The best lawyers made skyscrapers-full of money, tempting ever more students to pile into law schools. But most law graduates never get a big-firm job. Many of them instead become the kind of nuisance-lawsuit filer that makes the tort system a costly nightmare.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text2:passage:p-section2-part-a-2-3:118",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-2-3",
+      "text": "There are many reasons for this. One is the excessive costs of a legal education. There is just one path for a lawyer in most American states: a four-year undergraduate degree in some unrelated subject, then a three-year law degree at one of 200 law schools authorized by the American Bar Association and an expensive preparation for the bar exam. This leaves today's average law-school graduate with $100,000 of debt on top of undergraduate debts. Law-school debt means that they have to work fearsomely hard.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text2:passage:p-section2-part-a-2-4:119",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-2-4",
+      "text": "Reforming the system would help both lawyers and their customers. Sensible ideas have been around for a long time, but the state-level bodies that govern the profession have been too conservative to implement them. One idea is to allow people to study law as an undergraduate degree. Another is to let students sit for the bar after only two years of law school. If the bar exam is truly a stern enough test for a would-be lawyer, those who can sit it earlier should be allowed to do so. Students who do not need the extra training could cut their debt mountain by a third.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text2:passage:p-section2-part-a-2-5:120",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-2-5",
+      "text": "The other reason why costs are so high is the restrictive guild-like ownership structure of the business. Except in the District of Columbia, non-lawyers may not own any share of a law firm. This keeps fees high and innovation slow. There is pressure for change from within the profession, but opponents of change among the regulators insist that keeping outsiders out of a law firm isolates lawyers from the pressure to make money rather than serve clients ethically.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2014:text2:passage:p-section2-part-a-2-6:121",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-2-6",
+      "text": "In fact, allowing non-lawyers to own shares in law firms would reduce costs and improve services to customers, by encouraging law firms to use technology and to employ professional managers to focus on improving firms' efficiency. After all, other countries, such as Australia and Britain, have started liberalizing their legal professions. America should follow.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:question:qp-26:122",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 26 题题干",
+      "anchor": "qp-26",
+      "text": "A lot of students take up law as their profession due to____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-26:123",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 A 选项",
+      "anchor": "qp-26",
+      "text": "the growing demand from clients.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text2:option:qp-26:124",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 B 选项",
+      "anchor": "qp-26",
+      "text": "the increasing pressure of inflation.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-26:125",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 C 选项",
+      "anchor": "qp-26",
+      "text": "the prospect of working in big firms.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text2:option:qp-26:126",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 D 选项",
+      "anchor": "qp-26",
+      "text": "the attraction of financial rewards.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text2:question:qp-27:127",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 27 题题干",
+      "anchor": "qp-27",
+      "text": "Which of the following adds to the costs of legal education in most American states?",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-27:128",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 A 选项",
+      "anchor": "qp-27",
+      "text": "Higher tuition fees for undergraduate studies.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-27:129",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 B 选项",
+      "anchor": "qp-27",
+      "text": "Receiving training by professional associations.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-27:130",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 C 选项",
+      "anchor": "qp-27",
+      "text": "Admissions approval from the bar association.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-27:131",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 D 选项",
+      "anchor": "qp-27",
+      "text": "Pursuing a bachelor's degree in another major.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:question:qp-28:132",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 28 题题干",
+      "anchor": "qp-28",
+      "text": "Hindrance to the reform of the legal system originates from____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-28:133",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 A 选项",
+      "anchor": "qp-28",
+      "text": "the rigid bodies governing the profession.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-28:134",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 B 选项",
+      "anchor": "qp-28",
+      "text": "lawyers' and clients' strong resistance.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-28:135",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 C 选项",
+      "anchor": "qp-28",
+      "text": "the stern exam for would-be lawyers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text2:option:qp-28:136",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 D 选项",
+      "anchor": "qp-28",
+      "text": "non-professionals' sharp criticism.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text2:question:qp-29:137",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 29 题题干",
+      "anchor": "qp-29",
+      "text": "The guild-like ownership structure is considered \"restrictive\" partly because it____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-29:138",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 A 选项",
+      "anchor": "qp-29",
+      "text": "prevents lawyers from gaining due profits.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-29:139",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 B 选项",
+      "anchor": "qp-29",
+      "text": "bans outsiders' involvement in the profession.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-29:140",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 C 选项",
+      "anchor": "qp-29",
+      "text": "aggravates the ethical situation in the trade.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-29:141",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 D 选项",
+      "anchor": "qp-29",
+      "text": "keeps lawyers from holding law-firm shares.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:question:qp-30:142",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 30 题题干",
+      "anchor": "qp-30",
+      "text": "In this text, the author mainly discusses____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-30:143",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 A 选项",
+      "anchor": "qp-30",
+      "text": "the factors that help make a successful lawyer in America.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-30:144",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 B 选项",
+      "anchor": "qp-30",
+      "text": "a problem in America's legal profession and solutions to it.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-30:145",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 C 选项",
+      "anchor": "qp-30",
+      "text": "the role of undergraduate studies in America's legal education.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text2:option:qp-30:146",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 D 选项",
+      "anchor": "qp-30",
+      "text": "flawed ownership of America's law firms and its causes.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text3:passage:p-section2-part-a-3-1:147",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-3-1",
+      "text": "The US $3-million Fundamental Physics Prize is indeed an interesting experiment, as Alexander Polyakov said when he accepted this year's award in March. And it is far from the only one of its type. As a News Feature article in Nature discusses, a string of lucrative awards for researchers have joined the Nobel Prizes in recent years. Many, like the Fundamental Physics Prize, are funded from the telephone-number-sized bank accounts of Internet entrepreneurs. These benefactors have succeeded in their chosen fields, they say, and they want to use their wealth to draw attention to those who have succeeded in science.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text3:passage:p-section2-part-a-3-2:148",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-3-2",
+      "text": "What's not to like? Quite a lot, according to a handful of scientists quoted in the News Feature. You cannot buy class, as the old saying goes, and these upstart entrepreneurs cannot buy their prizes the prestige of the Nobels. The new awards are an exercise in self-promotion for those behind them, say scientists. They could distort the achievement-based system of peer-review-led research. They could cement the status quo of peer-reviewed research. They do not fund peer-reviewed research. They perpetuate the myth of the lone genius.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2014:text3:passage:p-section2-part-a-3-3:149",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-3-3",
+      "text": "The goals of the prize-givers seem as scattered as the criticism. Some want to shock, others to draw people into science, or to better reward those who have made their careers in research.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:passage:p-section2-part-a-3-4:150",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-3-4",
+      "text": "As Nature has pointed out before, there are some legitimate concerns about how science prizes – both new and old – are distributed. The Breakthrough Prize in Life Sciences, launched this year, takes an unrepresentative view of what the life sciences include. But the Nobel Foundation's limit of three recipients per prize, each of whom must still be living, has long been outgrown by the collaborative nature of modern research – as will be demonstrated by the inevitable row over who is ignored when it comes to acknowledging the discovery of the Higgs boson. The Nobels were, of course, themselves set up by a very rich individual who had decided what he wanted to do with his own money. Time, rather than intention, has given them legitimacy.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:passage:p-section2-part-a-3-5:151",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-3-5",
+      "text": "As much as some scientists may complain about the new awards, two things seem clear. First, most researchers would accept such a prize if they were offered one. Second, it is surely a good thing that the money and attention come to science rather than go elsewhere. It is fair to criticize and question the mechanism – that is the culture of research, after all – but it is the prize-givers' money to do with as they please. It is wise to take such gifts with gratitude and grace.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:question:qp-31:152",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 31 题题干",
+      "anchor": "qp-31",
+      "text": "The Fundamental Physics Prize is seen as____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:option:qp-31:153",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 A 选项",
+      "anchor": "qp-31",
+      "text": "a symbol of the entrepreneurs' wealth.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text3:option:qp-31:154",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 B 选项",
+      "anchor": "qp-31",
+      "text": "a handsome reward for researchers.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text3:option:qp-31:155",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 C 选项",
+      "anchor": "qp-31",
+      "text": "a possible replacement of the Nobel Prizes.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:option:qp-31:156",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 D 选项",
+      "anchor": "qp-31",
+      "text": "an example of bankers' investments.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text3:question:qp-32:157",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 32 题题干",
+      "anchor": "qp-32",
+      "text": "The critics think that the new awards will most benefit____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:option:qp-32:158",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 A 选项",
+      "anchor": "qp-32",
+      "text": "the profit-oriented scientists.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text3:option:qp-32:159",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 B 选项",
+      "anchor": "qp-32",
+      "text": "the achievement-based system.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text3:option:qp-32:160",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 C 选项",
+      "anchor": "qp-32",
+      "text": "the founders of the new awards.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text3:option:qp-32:161",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 D 选项",
+      "anchor": "qp-32",
+      "text": "peer-review-led research.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text3:question:qp-33:162",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 33 题题干",
+      "anchor": "qp-33",
+      "text": "The discovery of the Higgs boson is a typical case which involves____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:option:qp-33:163",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 A 选项",
+      "anchor": "qp-33",
+      "text": "legitimate concerns over the new prizes.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:option:qp-33:164",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 B 选项",
+      "anchor": "qp-33",
+      "text": "controversies over the recipients' status.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:option:qp-33:165",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 C 选项",
+      "anchor": "qp-33",
+      "text": "the joint effort of modern researchers.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:option:qp-33:166",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 D 选项",
+      "anchor": "qp-33",
+      "text": "the demonstration of research findings.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:question:qp-34:167",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 34 题题干",
+      "anchor": "qp-34",
+      "text": "According to Paragraph 4, which of the following is true of the Nobels?",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:option:qp-34:168",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 A 选项",
+      "anchor": "qp-34",
+      "text": "History has never cast doubt on them.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text3:option:qp-34:169",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 B 选项",
+      "anchor": "qp-34",
+      "text": "Their endurance has done justice to them.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:option:qp-34:170",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 C 选项",
+      "anchor": "qp-34",
+      "text": "They are the most representative honor.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:option:qp-34:171",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 D 选项",
+      "anchor": "qp-34",
+      "text": "Their legitimacy has long been in dispute.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2014:text3:question:qp-35:172",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 35 题题干",
+      "anchor": "qp-35",
+      "text": "The author believes that the new awards are____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2014:text3:option:qp-35:173",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 A 选项",
+      "anchor": "qp-35",
+      "text": "unworthy of public attention.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text3:option:qp-35:174",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 B 选项",
+      "anchor": "qp-35",
+      "text": "subject to undesirable changes.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text3:option:qp-35:175",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 C 选项",
+      "anchor": "qp-35",
+      "text": "harmful to the culture of research.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text3:option:qp-35:176",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 D 选项",
+      "anchor": "qp-35",
+      "text": "acceptable despite the criticism.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text4:passage:p-section2-part-a-4-1:177",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-4-1",
+      "text": "\"The Heart of the Matter,\" the just-released report by the American Academy of Arts and Sciences (AAAS), deserves praise for affirming the importance of the humanities and social sciences to the prosperity and security of liberal democracy in America. Regrettably, however, the report's failure to address the true nature of the crisis facing liberal education may cause more harm than good.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2014:text4:passage:p-section2-part-a-4-2:178",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-4-2",
+      "text": "In 2010, leading congressional Democrats and Republicans sent letters to the AAAS asking that it identify actions that could be taken by \"federal, state and local governments, universities, foundations, educators, individual benefactors and others\" to \"maintain national excellence in humanities and social scientific scholarship and education.\" In response, the American Academy formed the Commission on the Humanities and Social Sciences. Among the commission's 51 members are top-tier-university presidents, scholars, lawyers, judges, and business executives, as well as prominent figures from diplomacy, filmmaking, music and journalism.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2014:text4:passage:p-section2-part-a-4-3:179",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-4-3",
+      "text": "The goals identified in the report are generally admirable. Because representative government presupposes an informed citizenry, the report supports full literacy; stresses the study of history and government, particularly American history and American government; and encourages the use of new digital technologies. To encourage innovation and competition, the report calls for increased investment in research, the crafting of coherent curricula that improve students' ability to solve problems and communicate effectively in the 21st century, increased funding for teachers and the encouragement of scholars to bring their learning to bear on the great challenges of the day. The report also advocates greater study of foreign languages, international affairs and the expansion of study abroad programs.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2014:text4:passage:p-section2-part-a-4-4:180",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-4-4",
+      "text": "Unfortunately, despite 2½ years in the making, \"The Heart of the Matter\" never gets to the heart of the matter: the illiberal nature of liberal education at our leading colleges and universities. The commission ignores that for several decades America's colleges and universities have produced graduates who don't know the content and character of liberal education and are thus deprived of its benefits. Sadly, the spirit of inquiry once at home on campus has been replaced by the use of the humanities and social sciences as vehicles for publicizing \"progressive,\" or left-liberal propaganda.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2014:text4:passage:p-section2-part-a-4-5:181",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-4-5",
+      "text": "Today, professors routinely treat the progressive interpretation of history and progressive public policy as the proper subject of study while portraying conservative or classical liberal ideas – such as free markets and self-reliance – as falling outside the boundaries of routine, and sometimes legitimate, intellectual investigation.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2014:text4:passage:p-section2-part-a-4-6:182",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-4-6",
+      "text": "The AAAS displays great enthusiasm for liberal education. Yet its report may well set back reform by obscuring the depth and breadth of the challenge that Congress asked it to illuminate.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2014:text4:question:qp-36:183",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 36 题题干",
+      "anchor": "qp-36",
+      "text": "According to Paragraph 1, what is the author's attitude toward the AAAS's report?",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-36:184",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 A 选项",
+      "anchor": "qp-36",
+      "text": "Critical.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text4:option:qp-36:185",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 B 选项",
+      "anchor": "qp-36",
+      "text": "Appreciative.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text4:option:qp-36:186",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 C 选项",
+      "anchor": "qp-36",
+      "text": "Contemptuous.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text4:option:qp-36:187",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 D 选项",
+      "anchor": "qp-36",
+      "text": "Tolerant.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text4:question:qp-37:188",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 37 题题干",
+      "anchor": "qp-37",
+      "text": "Influential figures in the Congress required that the AAAS report on how to____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-37:189",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 A 选项",
+      "anchor": "qp-37",
+      "text": "define the government's role in education.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-37:190",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 B 选项",
+      "anchor": "qp-37",
+      "text": "safeguard individuals' rights to education.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-37:191",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 C 选项",
+      "anchor": "qp-37",
+      "text": "retain people's interest in liberal education.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-37:192",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 D 选项",
+      "anchor": "qp-37",
+      "text": "keep a leading position in liberal education.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:question:qp-38:193",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 38 题题干",
+      "anchor": "qp-38",
+      "text": "According to Paragraph 3, the report suggests____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-38:194",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 A 选项",
+      "anchor": "qp-38",
+      "text": "an exclusive study of American history.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-38:195",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 B 选项",
+      "anchor": "qp-38",
+      "text": "a greater emphasis on theoretical subjects.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-38:196",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 C 选项",
+      "anchor": "qp-38",
+      "text": "the application of emerging technologies.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-38:197",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 D 选项",
+      "anchor": "qp-38",
+      "text": "funding for the study of foreign languages.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:question:qp-39:198",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 39 题题干",
+      "anchor": "qp-39",
+      "text": "The author implies in Paragraph 5 that professors are____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-39:199",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 A 选项",
+      "anchor": "qp-39",
+      "text": "supportive of free markets.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text4:option:qp-39:200",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 B 选项",
+      "anchor": "qp-39",
+      "text": "conservative about public policy.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text4:option:qp-39:201",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 C 选项",
+      "anchor": "qp-39",
+      "text": "biased against classical liberal ideas.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-39:202",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 D 选项",
+      "anchor": "qp-39",
+      "text": "cautious about intellectual investigation.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:question:qp-40:203",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 40 题题干",
+      "anchor": "qp-40",
+      "text": "Which of the following would be the best title for the text?",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-40:204",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 A 选项",
+      "anchor": "qp-40",
+      "text": "Ways to Grasp \"The Heart of the Matter\"",
+      "pdf_pages": []
+    },
+    {
+      "id": "2014:text4:option:qp-40:205",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 B 选项",
+      "anchor": "qp-40",
+      "text": "Illiberal Education and \"The Heart of the Matter\"",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-40:206",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 C 选项",
+      "anchor": "qp-40",
+      "text": "The AAAS's Contribution to Liberal Education",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:text4:option:qp-40:207",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 D 选项",
+      "anchor": "qp-40",
+      "text": "Progressive Policy vs. Liberal Education",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:new_type:directions:directions-section2-part-b:208",
+      "section": "new_type",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-b",
+      "text": "Directions: The following paragraphs are given in a wrong order. For questions 41 -45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A-G and filling them into the numbered boxes. Paragraphs A and E have been correctly placed. Mark your answers on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:new_type:paragraph_option:p-section2-part-b-1:209",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 A",
+      "anchor": "p-section2-part-b-1",
+      "text": "[ A ]Some archaeological sites have always been easily observable – for example, the Parthenon in Athens, Greece; the pyramids of Giza in Egypt; and the megaliths of Stonehenge in southern England. But these sites are exceptions to the norm. Most archaeological sites have been located by means of careful searching, while many others have been discovered by accident. Olduvai Gorge, an early hominid site in Tanzania, was found by a butterfly hunter who literally fell into its deep valley in 1911. Thousands of Aztec artifacts came to light during the digging of the Mexico City subway in the 1970s.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:new_type:paragraph_option:p-section2-part-b-2:210",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 B",
+      "anchor": "p-section2-part-b-2",
+      "text": "[ B ]In another case, American archaeologists René Million and George Cowgill spent years systematically mapping the entire city of Teotihuacán in the Valley of Mexico near what is now Mexico City. At its peak around AD 600, this city was one of the largest human settlements in the world. The researchers mapped not only the city's vast and ornate ceremonial areas, but also hundreds of simpler apartment complexes where common people lived.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:new_type:paragraph_option:p-section2-part-b-3:211",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 C",
+      "anchor": "p-section2-part-b-3",
+      "text": "[ C ]How do archaeologists know where to find what they are looking for when there is nothing visible on the surface of the ground? Typically, they survey and sample (make test excavations on) large areas of terrain to determine where excavation will yield useful information. Surveys and test samples have also become important for understanding the larger landscapes that contain archaeological sites.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2014:new_type:paragraph_option:p-section2-part-b-4:212",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 D",
+      "anchor": "p-section2-part-b-4",
+      "text": "[ D ]Surveys can cover a single large settlement or entire landscapes. In one case, many researchers working around the ancient Maya city of Copán, Honduras, have located hundreds of small rural villages and individual dwellings by using aerial photographs and by making surveys on foot. The resulting settlement maps show how the distribution and density of the rural population around the city changed dramatically between AD 500 and 850, when Copán collapsed.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2014:new_type:paragraph_option:p-section2-part-b-5:213",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 E",
+      "anchor": "p-section2-part-b-5",
+      "text": "[ E ]To find their sites, archaeologists today rely heavily on systematic survey methods and a variety of high-technology tools and techniques. Airborne technologies, such as different types of radar and photographic equipment carried by airplanes or spacecraft, allow archaeologists to learn about what lies beneath the ground without digging. Aerial surveys locate general areas of interest or larger buried features, such as ancient buildings or fields.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2014:new_type:paragraph_option:p-section2-part-b-6:214",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 F",
+      "anchor": "p-section2-part-b-6",
+      "text": "[ F ]Most archaeological sites, however, are discovered by archaeologists who have set out to look for them. Such searches can take years. British archaeologist Howard Carter knew that the tomb of the Egyptian pharaoh Tutankhamun existed from information found in other sites. Carter sifted through rubble in the Valley of the Kings for seven years before he located the tomb in 1922. In the late 1800s British archaeologist Sir Arthur Evans combed antique dealers' stores in Athens, Greece. He was searching for tiny engraved seals attributed to the ancient Mycenaean culture that dominated Greece from the 1400s to 1200s BC. Evans's interpretations of these engravings eventually led him to find the Minoan palace at Knossos (Knosós), on the island of Crete, in 1900.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2014:new_type:paragraph_option:p-section2-part-b-7:215",
+      "section": "new_type",
+      "kind": "paragraph_option",
+      "location": "段落 G",
+      "anchor": "p-section2-part-b-7",
+      "text": "[ G ]Ground surveys allow archaeologists to pinpoint the places where digs will be successful. Most ground surveys involve a lot of walking, looking for surface clues such as small fragments of pottery. They often include a certain amount of digging to test for buried materials at selected points across a landscape. Archaeologists also may locate buried remains by using such technologies as ground radar, magnetic-field recording, and metal detectors. Archaeologists commonly use computers to map sites and the landscapes around sites. Two- and three-dimensional maps are helpful tools in planning excavations, illustrating how sites look, and presenting the results of archaeological research.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2014:translation:directions:directions-section2-part-c:216",
+      "section": "translation",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-c",
+      "text": "Directions: Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. ( 10 points)",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2014:translation:passage:p-section2-part-c-1:217",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-c-1",
+      "text": "Music means different things to different people and sometimes even different things to the same person at different moments of his life. It might be poetic, philosophical, sensual, or mathematical, but in any case it must, in my view, have something to do with the soul of the human being. Hence it is metaphysical; but the means of expression is purely and exclusively physical: sound. I believe it is precisely this permanent coexistence of metaphysical message through physical means that is the strength of music. (46)It is also the reason why when we try to describe music with words, all we can do is articulate our reactions to it, and not grasp music itself.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2014:translation:passage:p-section2-part-c-2:218",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-c-2",
+      "text": "Beethoven's importance in music has been principally defined by the revolutionary nature of his compositions. He freed music from hitherto prevailing conventions of harmony and structure. Sometimes I feel in his late works a will to break all signs of continuity. The music is abrupt and seemingly disconnected, as in the last piano sonata. In musical expression, he did not feel restrained by the weight of convention. (47)By all accounts he was a freethinking person, and a courageous one, and I find courage an essential quality for the understanding, let alone the performance, of his works.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2014:translation:passage:p-section2-part-c-3:219",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-c-3",
+      "text": "This courageous attitude in fact becomes a requirement for the performers of Beethoven's music. His compositions demand the performer to show courage, for example in the use of dynamics. (48)Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2014:translation:passage:p-section2-part-c-4:220",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-c-4",
+      "text": "Beethoven was a deeply political man in the broadest sense of the word. He was not interested in daily politics, but concerned with questions of moral behavior and the larger questions of right and wrong affecting the entire society. (49)Especially significant was his view of freedom, which, for him, was associated with the rights and responsibilities of the individual: he advocated freedom of thought and of personal expression.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2014:translation:passage:p-section2-part-c-5:221",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-c-5",
+      "text": "Beethoven's music tends to move from chaos to order as if order were an imperative of human existence. For him, order does not result from forgetting or ignoring the disorders that plague our existence; order is a necessary development, an improvement that may lead to the Greek ideal of spiritual elevation. It is not by chance that the Funeral March is not the last movement of the Eroica Symphony, but the second, so that suffering does not have the last word. (50)One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2014:writing_a:writing:directions-section3-part-a:222",
+      "section": "writing_a",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-a",
+      "text": "51.Directions: Write a letter of about 100 words to the president of your university, suggesting how to improve students’ physical condition. You should include the details you think necessary. You should write neatly on the ANSWER SHEET. Do not sign your own name at the end of the letter, use “Li Ming ” instead. Do not write the address. (10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2014:writing_b:writing:directions-section3-part-b:223",
+      "section": "writing_b",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-b",
+      "text": "52.Directions: Write an essay of 160-200 words based on the following drawing. In your essay, you should 1)describe the drawing briefly, 2)interpret its intended meaning, and 3)give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "pdf_pages": [
+        11
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "section": "writing_b",
+      "url": "https://img-paper.lazynote.cn/2025/08/08/LuTgMYOf.jpg",
+      "source_description": "这是一幅标题为“相携”的漫画，分为左右两部分",
+      "description_is_exam_text": false,
+      "path": "images/exam_bank/2014-figure-1.jpg",
+      "sha256": "df5075d76c0a85525cbf99e2863494ea4c183325d9a09a7642332e80c9fb7fa4"
+    }
+  ],
+  "quality_note": "第三方整理版。已检查9个题型模块、完形20题选项、阅读20题题干选项及PDF可读性；未逐字人工校对。来源PDF缺作文配图，配图已单独保存并补入本地整卷页。新题型不重排、不填答案。原句自动切分，入生词库前结合原段核对。"
+}

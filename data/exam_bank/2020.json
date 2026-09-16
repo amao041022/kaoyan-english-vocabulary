@@ -1,0 +1,2399 @@
+{
+  "schema_version": 1,
+  "year": 2020,
+  "title": "2020年考研英语（一）",
+  "source_url": "https://english-exam.lazynote.cn/kaoyan/paper/2020-english-one/",
+  "pdf": "images/exam_bank/2020.pdf",
+  "pdf_page_count": 12,
+  "sections": {
+    "cloze": 85,
+    "text1": 30,
+    "text2": 31,
+    "text3": 35,
+    "text4": 31,
+    "new_type": 19,
+    "translation": 6,
+    "writing_a": 1,
+    "writing_b": 1
+  },
+  "records": [
+    {
+      "id": "2020:cloze:directions:directions-section1:1",
+      "section": "cloze",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section1",
+      "text": "Directions: Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2020:cloze:passage:p-section1-1:2",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section1-1",
+      "text": "Even if families don't sit down to eat together as frequently as before, millions of Britons will nonetheless have got a share this weekend of one of that nation's great traditions: the Sunday roast. __1__ a cold winter's day, few culinary pleasures can __2__ it. Yet as we report now, the food police are determined that this __3__ should be rendered yet another guilty pleasure __4__ to damage our health.",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "id": "2020:cloze:passage:p-section1-2:3",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section1-2",
+      "text": "The Food Standards Authority (FSA) has __5__ a public warning about the risks of a compound called acrylamide that forms in some foods cooked __6__ high temperatures. This means that people should __7__ crisping their roast potatoes, reject thin-crust pizzas and only __8__ toast their bread. But where is the evidence to support such alarmist advice? __9__ studies have shown that acrylamide can cause neurological damage in mice, there is no __10__ evidence that it causes cancer in humans.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:passage:p-section1-3:4",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section1-3",
+      "text": "Scientists say the compound is __11__ to cause cancer but have no hard scientific proof. __12__ the precautionary principle, it could be argued that it is __13__ to follow the FSA advice. __14__ , it was rumoured that smoking caused cancer for years before the evidence was found to prove a __15__ .",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:passage:p-section1-4:5",
+      "section": "cloze",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section1-4",
+      "text": "Doubtless a piece of boiled beef can always be __16__ up on Sunday alongside some steamed vegetables, without the Yorkshire pudding and no wine. But would life be worth living? __17__ , the FSA says it is not telling people to cut out roast foods __18__ , but to reduce their lifetime intake. However, their __19__ risks coming across as being pushy and overprotective. Constant health scares just __20__ with no one listening.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-1:6",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 A 选项",
+      "anchor": "qp-1",
+      "text": "In",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-1:7",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 B 选项",
+      "anchor": "qp-1",
+      "text": "On",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-1:8",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 C 选项",
+      "anchor": "qp-1",
+      "text": "Till",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-1:9",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 1 题 D 选项",
+      "anchor": "qp-1",
+      "text": "Towards",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-2:10",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 A 选项",
+      "anchor": "qp-2",
+      "text": "match",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-2:11",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 B 选项",
+      "anchor": "qp-2",
+      "text": "express",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-2:12",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 C 选项",
+      "anchor": "qp-2",
+      "text": "satisfy",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-2:13",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 2 题 D 选项",
+      "anchor": "qp-2",
+      "text": "influence",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-3:14",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 A 选项",
+      "anchor": "qp-3",
+      "text": "patience",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-3:15",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 B 选项",
+      "anchor": "qp-3",
+      "text": "concern",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-3:16",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 C 选项",
+      "anchor": "qp-3",
+      "text": "surprise",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-3:17",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 3 题 D 选项",
+      "anchor": "qp-3",
+      "text": "enjoyment",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-4:18",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 A 选项",
+      "anchor": "qp-4",
+      "text": "intensified",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-4:19",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 B 选项",
+      "anchor": "qp-4",
+      "text": "guaranteed",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-4:20",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 C 选项",
+      "anchor": "qp-4",
+      "text": "compelled",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-4:21",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 4 题 D 选项",
+      "anchor": "qp-4",
+      "text": "privileged",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-5:22",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 A 选项",
+      "anchor": "qp-5",
+      "text": "ignored",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-5:23",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 B 选项",
+      "anchor": "qp-5",
+      "text": "received",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-5:24",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 C 选项",
+      "anchor": "qp-5",
+      "text": "issued",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-5:25",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 5 题 D 选项",
+      "anchor": "qp-5",
+      "text": "cancelled",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-6:26",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 A 选项",
+      "anchor": "qp-6",
+      "text": "under",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-6:27",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 B 选项",
+      "anchor": "qp-6",
+      "text": "by",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-6:28",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 C 选项",
+      "anchor": "qp-6",
+      "text": "for",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-6:29",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 6 题 D 选项",
+      "anchor": "qp-6",
+      "text": "at",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-7:30",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 A 选项",
+      "anchor": "qp-7",
+      "text": "forget",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-7:31",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 B 选项",
+      "anchor": "qp-7",
+      "text": "avoid",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-7:32",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 C 选项",
+      "anchor": "qp-7",
+      "text": "finish",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-7:33",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 7 题 D 选项",
+      "anchor": "qp-7",
+      "text": "regret",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-8:34",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 A 选项",
+      "anchor": "qp-8",
+      "text": "easily",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-8:35",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 B 选项",
+      "anchor": "qp-8",
+      "text": "regularly",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-8:36",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 C 选项",
+      "anchor": "qp-8",
+      "text": "partially",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-8:37",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 8 题 D 选项",
+      "anchor": "qp-8",
+      "text": "initially",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-9:38",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 A 选项",
+      "anchor": "qp-9",
+      "text": "If",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-9:39",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 B 选项",
+      "anchor": "qp-9",
+      "text": "Since",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-9:40",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 C 选项",
+      "anchor": "qp-9",
+      "text": "While",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-9:41",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 9 题 D 选项",
+      "anchor": "qp-9",
+      "text": "Unless",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-10:42",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 A 选项",
+      "anchor": "qp-10",
+      "text": "conclusive",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-10:43",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 B 选项",
+      "anchor": "qp-10",
+      "text": "external",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-10:44",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 C 选项",
+      "anchor": "qp-10",
+      "text": "secondary",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-10:45",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 10 题 D 选项",
+      "anchor": "qp-10",
+      "text": "negative",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-11:46",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 A 选项",
+      "anchor": "qp-11",
+      "text": "likely",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-11:47",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 B 选项",
+      "anchor": "qp-11",
+      "text": "bound",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-11:48",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 C 选项",
+      "anchor": "qp-11",
+      "text": "insufficient",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-11:49",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 11 题 D 选项",
+      "anchor": "qp-11",
+      "text": "slow",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-12:50",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 A 选项",
+      "anchor": "qp-12",
+      "text": "In addition to",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-12:51",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 B 选项",
+      "anchor": "qp-12",
+      "text": "At the cost of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-12:52",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 C 选项",
+      "anchor": "qp-12",
+      "text": "On the basis of",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-12:53",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 12 题 D 选项",
+      "anchor": "qp-12",
+      "text": "In contrast to",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-13:54",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 A 选项",
+      "anchor": "qp-13",
+      "text": "interesting",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-13:55",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 B 选项",
+      "anchor": "qp-13",
+      "text": "fortunate",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-13:56",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 C 选项",
+      "anchor": "qp-13",
+      "text": "urgent",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-13:57",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 13 题 D 选项",
+      "anchor": "qp-13",
+      "text": "advisable",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-14:58",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 A 选项",
+      "anchor": "qp-14",
+      "text": "As usual",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-14:59",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 B 选项",
+      "anchor": "qp-14",
+      "text": "After all",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-14:60",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 C 选项",
+      "anchor": "qp-14",
+      "text": "By definition",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-14:61",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 14 题 D 选项",
+      "anchor": "qp-14",
+      "text": "In particular",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-15:62",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 A 选项",
+      "anchor": "qp-15",
+      "text": "connection",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-15:63",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 B 选项",
+      "anchor": "qp-15",
+      "text": "combination",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-15:64",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 C 选项",
+      "anchor": "qp-15",
+      "text": "resemblance",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-15:65",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 15 题 D 选项",
+      "anchor": "qp-15",
+      "text": "pattern",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-16:66",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 A 选项",
+      "anchor": "qp-16",
+      "text": "made",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-16:67",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 B 选项",
+      "anchor": "qp-16",
+      "text": "used",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-16:68",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 C 选项",
+      "anchor": "qp-16",
+      "text": "saved",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-16:69",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 16 题 D 选项",
+      "anchor": "qp-16",
+      "text": "served",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-17:70",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 A 选项",
+      "anchor": "qp-17",
+      "text": "To be brief",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-17:71",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 B 选项",
+      "anchor": "qp-17",
+      "text": "For instance",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-17:72",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 C 选项",
+      "anchor": "qp-17",
+      "text": "To be fair",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-17:73",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 17 题 D 选项",
+      "anchor": "qp-17",
+      "text": "In general",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-18:74",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 A 选项",
+      "anchor": "qp-18",
+      "text": "entirely",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-18:75",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 B 选项",
+      "anchor": "qp-18",
+      "text": "gradually",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-18:76",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 C 选项",
+      "anchor": "qp-18",
+      "text": "reluctantly",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-18:77",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 18 题 D 选项",
+      "anchor": "qp-18",
+      "text": "carefully",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-19:78",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 A 选项",
+      "anchor": "qp-19",
+      "text": "promise",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-19:79",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 B 选项",
+      "anchor": "qp-19",
+      "text": "competition",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-19:80",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 C 选项",
+      "anchor": "qp-19",
+      "text": "experience",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-19:81",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 19 题 D 选项",
+      "anchor": "qp-19",
+      "text": "campaign",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-20:82",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 A 选项",
+      "anchor": "qp-20",
+      "text": "follow up",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-20:83",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 B 选项",
+      "anchor": "qp-20",
+      "text": "end up",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-20:84",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 C 选项",
+      "anchor": "qp-20",
+      "text": "open up",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:cloze:option:qp-20:85",
+      "section": "cloze",
+      "kind": "option",
+      "location": "第 20 题 D 选项",
+      "anchor": "qp-20",
+      "text": "pick up",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:directions:directions-section2-part-a-1:86",
+      "section": "text1",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-a-1",
+      "text": "Directions: Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "id": "2020:text1:passage:p-section2-part-a-1-1:87",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-1-1",
+      "text": "A group of Labour MPs, among them Yvette Cooper, are bringing in the new year with a call to institute a UK \"town of culture\" award. The proposal is that it should sit alongside the existing city of culture title, which was held by Hull in 2017, and has been awarded to Coventry for 2021. Cooper and her colleagues argue that the success of the crown for Hull, where it brought in £220m of investment and an avalanche of arts, ought not to be confined to cities. Britain's towns, it is true, are not prevented from applying, but they generally lack the resources to put together a bid to beat their bigger competitors. A town of culture award could, it is argued, become an annual event, attracting funding and creating jobs.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2020:text1:passage:p-section2-part-a-1-2:88",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-1-2",
+      "text": "Some might see the proposal as a booby prize for the fact that Britain is no longer able to apply for the much more prestigious title of European capital of culture, a sought-after award bagged by Glasgow in 1990 and Liverpool in 2008. A cynic might speculate that the UK is on the verge of disappearing into an endless fever of self-celebration in its desperation to reinvent itself for the post-Brexit world: after town of culture, who knows what will follow—village of culture? Suburb of culture? Hamlet of culture?",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2020:text1:passage:p-section2-part-a-1-3:89",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-1-3",
+      "text": "It is also wise to recall that such titles are not a cure-all. A badly run \"year of culture\" washes in and washes out of a place like the tide, bringing prominence for a spell but leaving no lasting benefits to the community. The really successful holders of such titles are those that do a great deal more than fill hotel bedrooms and bring in high-profile arts events and good press for a year. They transform the aspirations of the people who live there; they nudge the self-image of the city into a bolder and more optimistic light. It is hard to get right, and requires a remarkable degree of vision, as well as cooperation between city authorities, the private sector, community groups and cultural organisations. But it can be done: Glasgow's year as European capital of culture can certainly be seen as one of a complex series of factors that have turned the city into the powerhouse of art, music and theatre that it remains today.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2020:text1:passage:p-section2-part-a-1-4:90",
+      "section": "text1",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-1-4",
+      "text": "A \"town of culture\" could be not just about the arts but about honouring a town's peculiarities—helping sustain its high street, supporting local facilities and above all celebrating its people. Jeremy Wright, the culture secretary, should welcome this positive, hope-filled proposal, and turn it into action.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2020:text1:question:qp-21:91",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 21 题题干",
+      "anchor": "qp-21",
+      "text": "Cooper and her colleagues argue that a \"town of culture\" award could____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2020:text1:option:qp-21:92",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 A 选项",
+      "anchor": "qp-21",
+      "text": "consolidate the town-city ties in Britain.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2020:text1:option:qp-21:93",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 B 选项",
+      "anchor": "qp-21",
+      "text": "promote cooperation among Britain's towns.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2020:text1:option:qp-21:94",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 C 选项",
+      "anchor": "qp-21",
+      "text": "increase the economic strength of Britain's towns.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2020:text1:option:qp-21:95",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 21 题 D 选项",
+      "anchor": "qp-21",
+      "text": "focus Britain's limited resources on cultural events.",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2020:text1:question:qp-22:96",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 22 题题干",
+      "anchor": "qp-22",
+      "text": "According to Paragraph 2, the proposal might be regarded by some as____",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "id": "2020:text1:option:qp-22:97",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 A 选项",
+      "anchor": "qp-22",
+      "text": "a sensible compromise.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:option:qp-22:98",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 B 选项",
+      "anchor": "qp-22",
+      "text": "a self-deceiving attempt.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:option:qp-22:99",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 C 选项",
+      "anchor": "qp-22",
+      "text": "an eye-catching bonus.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:option:qp-22:100",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 22 题 D 选项",
+      "anchor": "qp-22",
+      "text": "an inaccessible target.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:question:qp-23:101",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 23 题题干",
+      "anchor": "qp-23",
+      "text": "The author suggests that a title holder is successful only if it____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2020:text1:option:qp-23:102",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 A 选项",
+      "anchor": "qp-23",
+      "text": "endeavours to maintain its image.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:option:qp-23:103",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 B 选项",
+      "anchor": "qp-23",
+      "text": "meets the aspiration of its people.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:option:qp-23:104",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 C 选项",
+      "anchor": "qp-23",
+      "text": "brings its local arts to prominence.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:option:qp-23:105",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 23 题 D 选项",
+      "anchor": "qp-23",
+      "text": "commits to its long-term growth.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:question:qp-24:106",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 24 题题干",
+      "anchor": "qp-24",
+      "text": "Glasgow is mentioned in Paragraph 3 to present____",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2020:text1:option:qp-24:107",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 A 选项",
+      "anchor": "qp-24",
+      "text": "a contrasting case.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:option:qp-24:108",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 B 选项",
+      "anchor": "qp-24",
+      "text": "a supporting example.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:option:qp-24:109",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 C 选项",
+      "anchor": "qp-24",
+      "text": "a background story.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:option:qp-24:110",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 24 题 D 选项",
+      "anchor": "qp-24",
+      "text": "a related topic.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:question:qp-25:111",
+      "section": "text1",
+      "kind": "question",
+      "location": "第 25 题题干",
+      "anchor": "qp-25",
+      "text": "What is the author's attitude towards the proposal?",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2020:text1:option:qp-25:112",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 A 选项",
+      "anchor": "qp-25",
+      "text": "Skeptical.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:option:qp-25:113",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 B 选项",
+      "anchor": "qp-25",
+      "text": "Objective.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:option:qp-25:114",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 C 选项",
+      "anchor": "qp-25",
+      "text": "Favourable.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text1:option:qp-25:115",
+      "section": "text1",
+      "kind": "option",
+      "location": "第 25 题 D 选项",
+      "anchor": "qp-25",
+      "text": "Critical.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text2:passage:p-section2-part-a-2-1:116",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-2-1",
+      "text": "Scientific publishing has long been a licence to print money. Scientists need journals in which to publish their research, so they will supply the articles without monetary reward. Other scientists perform the specialised work of peer review also for free, because it is a central element in the acquisition of status and the production of scientific knowledge.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2020:text2:passage:p-section2-part-a-2-2:117",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-2-2",
+      "text": "With the content of papers secured for free, the publisher needs only find a market for its journal. Until this century, university libraries were not very price sensitive. Scientific publishers routinely report profit margins approaching 40% on their operations at a time when the rest of the publishing industry is in an existential crisis.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2020:text2:passage:p-section2-part-a-2-3:118",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-2-3",
+      "text": "The Dutch giant Elsevier, which claims to publish 25% of the scientific papers produced in the world, made profits of more than £900m last year, while UK universities alone spent more than £210m in 2016 to enable researchers to access their own publicly funded research; both figures seem to rise unstoppably despite increasingly desperate efforts to change them.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2020:text2:passage:p-section2-part-a-2-4:119",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-2-4",
+      "text": "The most drastic, and thoroughly illegal, reaction has been the emergence of Sci-Hub, a kind of global photocopier for scientific papers, set up in 2012, which now claims to offer access to every paywalled article published since 2015. The success of Sci-Hub, which relies on researchers passing on copies they have themselves legally accessed, shows the legal ecosystem has lost legitimacy among its users and must be transformed so that it works for all participants.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2020:text2:passage:p-section2-part-a-2-5:120",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-2-5",
+      "text": "In Britain the move towards open access publishing has been driven by funding bodies. In some ways it has been very successful. More than half of all British scientific research is now published under open access terms: either freely available from the moment of publication, or paywalled for a year or more so that the publishers can make a profit before being placed on general release.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2020:text2:passage:p-section2-part-a-2-6:121",
+      "section": "text2",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-2-6",
+      "text": "Yet the new system has not yet worked out any cheaper for the universities. Publishers have responded to the demand that they make their product free to readers by charging their writers fees to cover the costs of preparing an article. These range from around £500 to £5,000, and apparently the work gets more expensive the more that publishers do it. A report last year pointed out that the costs both of subscriptions and of these \"article preparation costs\" had been steadily rising at a rate above inflation. In some ways the scientific publishing model resembles the economy of the social internet: labour is provided free in exchange for the hope of status, while huge profits are made by a few big firms who run the market places. In both cases, we need a rebalancing of power.",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "id": "2020:text2:question:qp-26:122",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 26 题题干",
+      "anchor": "qp-26",
+      "text": "Scientific publishing is seen as \"a licence to print money\" partly because____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:option:qp-26:123",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 A 选项",
+      "anchor": "qp-26",
+      "text": "its funding has enjoyed a steady increase.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:option:qp-26:124",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 B 选项",
+      "anchor": "qp-26",
+      "text": "its marketing strategy has been successful.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:option:qp-26:125",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 C 选项",
+      "anchor": "qp-26",
+      "text": "its payment for peer review is reduced.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:option:qp-26:126",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 26 题 D 选项",
+      "anchor": "qp-26",
+      "text": "its content acquisition costs nothing.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:question:qp-27:127",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 27 题题干",
+      "anchor": "qp-27",
+      "text": "According to Paragraphs 2 and 3, scientific publishers Elsevier have____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:option:qp-27:128",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 A 选项",
+      "anchor": "qp-27",
+      "text": "thrived mainly on university libraries.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:option:qp-27:129",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 B 选项",
+      "anchor": "qp-27",
+      "text": "gone through an existential crisis.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text2:option:qp-27:130",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 C 选项",
+      "anchor": "qp-27",
+      "text": "revived the publishing industry.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text2:option:qp-27:131",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 27 题 D 选项",
+      "anchor": "qp-27",
+      "text": "financed researchers generously.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text2:question:qp-28:132",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 28 题题干",
+      "anchor": "qp-28",
+      "text": "How does the author feel about the success of Sci-Hub?",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:option:qp-28:133",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 A 选项",
+      "anchor": "qp-28",
+      "text": "Relieved.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text2:option:qp-28:134",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 B 选项",
+      "anchor": "qp-28",
+      "text": "Puzzled.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text2:option:qp-28:135",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 C 选项",
+      "anchor": "qp-28",
+      "text": "Concerned.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text2:option:qp-28:136",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 28 题 D 选项",
+      "anchor": "qp-28",
+      "text": "Encouraged.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text2:question:qp-29:137",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 29 题题干",
+      "anchor": "qp-29",
+      "text": "It can be learned from Paragraphs 5 and 6 that open access terms____",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:option:qp-29:138",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 A 选项",
+      "anchor": "qp-29",
+      "text": "allow publishers some room to make money.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:option:qp-29:139",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 B 选项",
+      "anchor": "qp-29",
+      "text": "render publishing much easier for scientists.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:option:qp-29:140",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 C 选项",
+      "anchor": "qp-29",
+      "text": "reduce the cost of publication substantially.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:option:qp-29:141",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 29 题 D 选项",
+      "anchor": "qp-29",
+      "text": "free universities from financial burdens.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:question:qp-30:142",
+      "section": "text2",
+      "kind": "question",
+      "location": "第 30 题题干",
+      "anchor": "qp-30",
+      "text": "Which of the following characterizes the scientific publishing model?",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text2:option:qp-30:143",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 A 选项",
+      "anchor": "qp-30",
+      "text": "Trial subscription is offered.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text2:option:qp-30:144",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 B 选项",
+      "anchor": "qp-30",
+      "text": "Labour triumphs over status.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text2:option:qp-30:145",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 C 选项",
+      "anchor": "qp-30",
+      "text": "Costs are well controlled.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text2:option:qp-30:146",
+      "section": "text2",
+      "kind": "option",
+      "location": "第 30 题 D 选项",
+      "anchor": "qp-30",
+      "text": "The few feed on the many.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text3:passage:p-section2-part-a-3-1:147",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-3-1",
+      "text": "Progressives often support diversity mandates as a path to equality and a way to level the playing field. But all too often such policies are an insincere form of virtue-signaling that benefits only the most privileged and does little to help average people.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text3:passage:p-section2-part-a-3-2:148",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-3-2",
+      "text": "A pair of bills sponsored by Massachusetts state Senator Jason Lewis and House Speaker Pro Tempore Patricia Haddad, to ensure \"gender parity\" on boards and commissions, provides a case in point.",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "id": "2020:text3:passage:p-section2-part-a-3-3:149",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-3-3",
+      "text": "Haddad and Lewis are concerned that more than half the state-government boards are less than 40 percent female. In order to ensure that elite women have more such opportunities, they have proposed imposing government quotas. If the bills become law, state boards and commissions will be required to set aside 50 percent of board seats for women by 2022.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2020:text3:passage:p-section2-part-a-3-4:150",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-3-4",
+      "text": "The bills are similar to a measure recently adopted in California, which last year became the first state to require gender quotas for private companies. In signing the measure, California Governor Jerry Brown admitted that the law, which expressly classifies people on the basis of sex, is probably unconstitutional.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2020:text3:passage:p-section2-part-a-3-5:151",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-3-5",
+      "text": "The US Supreme Court frowns on sex-based classifications unless they are designed to address an \"important\" policy interest. Because the California law applies to all boards, even where there is no history of prior discrimination, courts are likely to rule that the law violates the constitutional guarantee of \"equal protection\".",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2020:text3:passage:p-section2-part-a-3-6:152",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-3-6",
+      "text": "But are such government mandates even necessary? Female participation on corporate boards may not currently mirror the percentage of women in the general population, but so what?",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2020:text3:passage:p-section2-part-a-3-7:153",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-a-3-7",
+      "text": "The number of women on corporate boards has been steadily increasing without government interference. According to a study by Catalyst, between 2010 and 2015 the share of women on the boards of global corporations increased by 54 percent.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2020:text3:passage:p-section2-part-a-3-8:154",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 8 段",
+      "anchor": "p-section2-part-a-3-8",
+      "text": "Requiring companies to make gender the primary qualification for board membership will inevitably lead to less experienced private sector boards. That is exactly what happened when Norway adopted a nationwide corporate gender quota.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2020:text3:passage:p-section2-part-a-3-9:155",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 9 段",
+      "anchor": "p-section2-part-a-3-9",
+      "text": "Writing in The New Republic, Alice Lee notes that increasing the number of opportunities for board membership without increasing the pool of qualified women to serve on such boards has led to a \"golden skirt\" phenomenon, where the same elite women scoop up multiple seats on a variety of boards.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2020:text3:passage:p-section2-part-a-3-10:156",
+      "section": "text3",
+      "kind": "passage",
+      "location": "第 10 段",
+      "anchor": "p-section2-part-a-3-10",
+      "text": "Next time somebody pushes corporate quotas as a way to promote gender equity, remember that such policies are largely self-serving measures that make their sponsors feel good but do little to help average women.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2020:text3:question:qp-31:157",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 31 题题干",
+      "anchor": "qp-31",
+      "text": "The author believes that the bills sponsored by Lewis and Haddad will____",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-31:158",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 A 选项",
+      "anchor": "qp-31",
+      "text": "help little to reduce gender bias.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text3:option:qp-31:159",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 B 选项",
+      "anchor": "qp-31",
+      "text": "pose a threat to the state government.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text3:option:qp-31:160",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 C 选项",
+      "anchor": "qp-31",
+      "text": "raise women's position in politics.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text3:option:qp-31:161",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 31 题 D 选项",
+      "anchor": "qp-31",
+      "text": "greatly broaden career options.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text3:question:qp-32:162",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 32 题题干",
+      "anchor": "qp-32",
+      "text": "Which of the following is true of the California measure?",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-32:163",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 A 选项",
+      "anchor": "qp-32",
+      "text": "It has irritated private business owners.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-32:164",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 B 选项",
+      "anchor": "qp-32",
+      "text": "It is welcomed by the Supreme Court.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text3:option:qp-32:165",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 C 选项",
+      "anchor": "qp-32",
+      "text": "It may go against the Constitution.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text3:option:qp-32:166",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 32 题 D 选项",
+      "anchor": "qp-32",
+      "text": "It will settle the prior controversies.",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "id": "2020:text3:question:qp-33:167",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 33 题题干",
+      "anchor": "qp-33",
+      "text": "The author mentions the study by Catalyst to illustrate____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-33:168",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 A 选项",
+      "anchor": "qp-33",
+      "text": "the harm from arbitrary board decision.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-33:169",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 B 选项",
+      "anchor": "qp-33",
+      "text": "the importance of constitutional guarantees.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-33:170",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 C 选项",
+      "anchor": "qp-33",
+      "text": "the pressure on women in global corporations.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-33:171",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 33 题 D 选项",
+      "anchor": "qp-33",
+      "text": "the needlessness of government interventions.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:question:qp-34:172",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 34 题题干",
+      "anchor": "qp-34",
+      "text": "Norway's adoption of a nationwide corporate gender quota has led to____",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-34:173",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 A 选项",
+      "anchor": "qp-34",
+      "text": "the underestimation of elite women's role.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-34:174",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 B 选项",
+      "anchor": "qp-34",
+      "text": "the objection to female participation on boards.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-34:175",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 C 选项",
+      "anchor": "qp-34",
+      "text": "the entry of unqualified candidates into the board.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-34:176",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 34 题 D 选项",
+      "anchor": "qp-34",
+      "text": "the growing tension between labor and management.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:question:qp-35:177",
+      "section": "text3",
+      "kind": "question",
+      "location": "第 35 题题干",
+      "anchor": "qp-35",
+      "text": "Which of the following can be inferred from the text?",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-35:178",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 A 选项",
+      "anchor": "qp-35",
+      "text": "Women's need in employment should be considered.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-35:179",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 B 选项",
+      "anchor": "qp-35",
+      "text": "Feasibility should be a prime concern in policymaking.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-35:180",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 C 选项",
+      "anchor": "qp-35",
+      "text": "Everyone should try hard to promote social justice.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text3:option:qp-35:181",
+      "section": "text3",
+      "kind": "option",
+      "location": "第 35 题 D 选项",
+      "anchor": "qp-35",
+      "text": "Major social issues should be the focus of legislation.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text4:passage:p-section2-part-a-4-1:182",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-a-4-1",
+      "text": "Last Thursday, the French Senate passed a digital services tax, which would impose an entirely new tax on large multinationals that provide digital services to consumers or users in France. Digital services include everything from providing a platform for selling goods and services online to targeting advertising based on user data, and the tax applies to gross revenue from such services. Many French politicians and media outlets have referred to this as a \"GAFA tax,\" meaning that it is designed to apply primarily to companies such as Google, Apple, Facebook and Amazon—in other words, multinational tech companies based in the United States.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text4:passage:p-section2-part-a-4-2:183",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-a-4-2",
+      "text": "The digital services tax now awaits the signature of President Emmanuel Macron, who has expressed support for the measure, and it could go into effect within the next few weeks. But it has already sparked significant controversy, with the United States trade representative opening an investigation into whether the tax discriminates against American companies, which in turn could lead to trade sanctions against France.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text4:passage:p-section2-part-a-4-3:184",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-a-4-3",
+      "text": "The French tax is not just a unilateral move by one country in need of revenue. Instead, the digital services tax is part of a much larger trend, with countries over the past few years proposing or putting in place an alphabet soup of new international tax provisions. They have included Britain's DPT. (diverted profits tax), Australia's MAAL (multinational anti-avoidance law), and India's SEP (significant economic presence) test, to name but a few. At the same time, the European Union, Spain, Britain and several other countries have all seriously contemplated digital services taxes.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text4:passage:p-section2-part-a-4-4:185",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-a-4-4",
+      "text": "These unilateral developments differ in their specifics, but they are all designed to tax multinationals on income and revenue that countries believe they should have a right to tax, even if international tax rules do not grant them that right. In other words, they all share a view that the international tax system has failed to keep up with the current economy.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text4:passage:p-section2-part-a-4-5:186",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-a-4-5",
+      "text": "In response to these many unilateral measures, the Organization for Economic Cooperation and Development (OECD) is currently working with 131 countries to reach a consensus by the end of 2020 on an international solution. Both France and the United States are involved in the organization's work, but France's digital services tax and the American response raise questions about what the future holds for the international tax system.",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "id": "2020:text4:passage:p-section2-part-a-4-6:187",
+      "section": "text4",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-a-4-6",
+      "text": "France's planned tax is a clear warning: Unless a broad consensus can be reached on reforming the international tax system, other nations are likely to follow suit, and American companies will face a cascade of different taxes from dozens of nations that will prove burdensome and costly.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:question:qp-36:188",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 36 题题干",
+      "anchor": "qp-36",
+      "text": "The French Senate has passed a bill to____",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text4:option:qp-36:189",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 A 选项",
+      "anchor": "qp-36",
+      "text": "regulate digital services platforms.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-36:190",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 B 选项",
+      "anchor": "qp-36",
+      "text": "protect French companies' interests.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text4:option:qp-36:191",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 C 选项",
+      "anchor": "qp-36",
+      "text": "impose a levy on tech multinationals.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text4:option:qp-36:192",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 36 题 D 选项",
+      "anchor": "qp-36",
+      "text": "curb the influence of advertising.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text4:question:qp-37:193",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 37 题题干",
+      "anchor": "qp-37",
+      "text": "It can be learned from Paragraph 2 that the digital services tax____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-37:194",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 A 选项",
+      "anchor": "qp-37",
+      "text": "may trigger countermeasures against France.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-37:195",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 B 选项",
+      "anchor": "qp-37",
+      "text": "is apt to arouse criticism at home and abroad.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-37:196",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 C 选项",
+      "anchor": "qp-37",
+      "text": "aims to ease international trade tensions.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-37:197",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 37 题 D 选项",
+      "anchor": "qp-37",
+      "text": "will prompt the tech giants to quit France.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:question:qp-38:198",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 38 题题干",
+      "anchor": "qp-38",
+      "text": "The countries adopting the unilateral measures share the opinion that____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-38:199",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 A 选项",
+      "anchor": "qp-38",
+      "text": "redistribution of tech giants' revenue must be ensured.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-38:200",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 B 选项",
+      "anchor": "qp-38",
+      "text": "the current international tax system needs upgrading.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-38:201",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 C 选项",
+      "anchor": "qp-38",
+      "text": "tech multinationals' monopoly should be prevented.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-38:202",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 38 题 D 选项",
+      "anchor": "qp-38",
+      "text": "all countries ought to enjoy equal taxing rights.",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:question:qp-39:203",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 39 题题干",
+      "anchor": "qp-39",
+      "text": "It can be learned from Paragraph 5 that the OECD's current work____",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-39:204",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 A 选项",
+      "anchor": "qp-39",
+      "text": "is being resisted by US companies.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text4:option:qp-39:205",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 B 选项",
+      "anchor": "qp-39",
+      "text": "needs to be readjusted immediately.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text4:option:qp-39:206",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 C 选项",
+      "anchor": "qp-39",
+      "text": "is faced with uncertain prospects.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text4:option:qp-39:207",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 39 题 D 选项",
+      "anchor": "qp-39",
+      "text": "needs to involve more countries.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:text4:question:qp-40:208",
+      "section": "text4",
+      "kind": "question",
+      "location": "第 40 题题干",
+      "anchor": "qp-40",
+      "text": "Which of the following might be the best title for this text?",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-40:209",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 A 选项",
+      "anchor": "qp-40",
+      "text": "France Is Confronted with Trade Sanctions",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-40:210",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 B 选项",
+      "anchor": "qp-40",
+      "text": "France leads the charge on Digital Tax",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-40:211",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 C 选项",
+      "anchor": "qp-40",
+      "text": "France Says \"NO\" to Tech Multinationals",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:text4:option:qp-40:212",
+      "section": "text4",
+      "kind": "option",
+      "location": "第 40 题 D 选项",
+      "anchor": "qp-40",
+      "text": "France Demands a Role in the Digital Economy",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:new_type:directions:directions-section2-part-b:213",
+      "section": "new_type",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-b",
+      "text": "Directions: Read the following text and answer the questions by choosing the most suitable subheading from the list A-G for each of the numbered paragraphs (41-45). There are two extra subheadings. Mark your answers on the ANSWER SHEET. (10 points)",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:new_type:passage:p-section2-part-b-1:214",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-b-1",
+      "text": "In a social situation, eye contact with another person can show that you are paying attention in a friendly way. But it can also be antagonistic, such as when a political candidate turns toward their competitor during a debate and makes eye contact that signals hostility. Here's what hard science reveals about eye contact:",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "2020:new_type:passage:p-section2-part-b-2:215",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-b-2",
+      "text": "(41) ______",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:new_type:passage:p-section2-part-b-3:216",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-b-3",
+      "text": "We know that a typical infant will instinctively gaze into its mother's eyes, and she will look back. This mutual gaze is a major part of the attachment between mother and child. In adulthood, looking someone else in a pleasant way can be a complimentary sign of paying attention. It can catch someone's attention in a crowded room, \"Eye contact and smile\" can signal availability and confidence, a common-sense notion supported in studies by psychologist Monica Moore.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2020:new_type:passage:p-section2-part-b-4:217",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-b-4",
+      "text": "(42) ______",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:new_type:passage:p-section2-part-b-5:218",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-b-5",
+      "text": "Neuroscientist Bonnie Auyeung found that the hormone oxytocin increased the amount of eye contact from men toward the interviewer during a brief interview when the direction of their gaze was recorded. This was also found in high-functioning men with some autistic spectrum symptoms, who may tend to avoid eye contact. Specific brain regions that respond during direct gaze are being explored by other researchers, using advanced methods of brain scanning.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2020:new_type:passage:p-section2-part-b-6:219",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 6 段",
+      "anchor": "p-section2-part-b-6",
+      "text": "(43) ______",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:new_type:passage:p-section2-part-b-7:220",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 7 段",
+      "anchor": "p-section2-part-b-7",
+      "text": "With the use of eye-tracking technology, Julia Minson of the Harvard Kennedy School of Government concluded that eye contact can signal very different kinds of messages, depending on the situation. While eye contact may be a sign of connection or trust in friendly situations, it's more likely to be associated with dominance or intimidation in adversarial situations. \"Whether you're a politician or a parent, it might be helpful to keep in mind that trying to maintain eye contact may backfire if you're trying to convince someone who has a different set of beliefs than you,\" said Minson.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2020:new_type:passage:p-section2-part-b-8:221",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 8 段",
+      "anchor": "p-section2-part-b-8",
+      "text": "(44) ______",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:new_type:passage:p-section2-part-b-9:222",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 9 段",
+      "anchor": "p-section2-part-b-9",
+      "text": "When we look at a face or a picture, our eyes pause on one spot at a time, often on the eyes or mouth. These pauses typically occur at about three per second, and the eyes then jump to another spot, until several important points in the image are registered like a series of snapshots. How the whole image is then assembled and perceived is still a mystery although it is the subject of current research.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2020:new_type:passage:p-section2-part-b-10:223",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 10 段",
+      "anchor": "p-section2-part-b-10",
+      "text": "(45) ______",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:new_type:passage:p-section2-part-b-11:224",
+      "section": "new_type",
+      "kind": "passage",
+      "location": "第 11 段",
+      "anchor": "p-section2-part-b-11",
+      "text": "In people who score high in a test of neuroticism, a personality dimension associated with self-consciousness and anxiety, eye contact triggered more activity associated with avoidance, according to the Finnish researcher Jari Hietanen and colleagues. \"Our findings indicate that people do not only feel different when they are the centre of attention but that their brain reactions also differ.\" A more direct finding is that people who scored highly for negative emotions like anxiety looked at others for shorter periods of time and reported more comfortable feelings when others did not look directly at them.",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2020:new_type:option:mod-section2-part-b:225",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 A 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Eye fixations are brief",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:new_type:option:mod-section2-part-b:226",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 B 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Too much eye contact is instinctively felt to be rude",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2020:new_type:option:mod-section2-part-b:227",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 C 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Eye contact can be a friendly social signal",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2020:new_type:option:mod-section2-part-b:228",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 D 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Personality can affect how a person reacts to eye contact",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2020:new_type:option:mod-section2-part-b:229",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 E 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Biological factors behind eye contact are being investigated",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2020:new_type:option:mod-section2-part-b:230",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 F 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Most people are not comfortable holding eye contact with strangers",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "2020:new_type:option:mod-section2-part-b:231",
+      "section": "new_type",
+      "kind": "option",
+      "location": "新题型 G 选项",
+      "anchor": "mod-section2-part-b",
+      "text": "Eye contact can be aggressive.",
+      "pdf_pages": []
+    },
+    {
+      "id": "2020:translation:directions:directions-section2-part-c:232",
+      "section": "translation",
+      "kind": "directions",
+      "location": "题目说明",
+      "anchor": "directions-section2-part-c",
+      "text": "Directions: Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. ( 10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2020:translation:passage:p-section2-part-c-1:233",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 1 段",
+      "anchor": "p-section2-part-c-1",
+      "text": "Following the explosion of creativity in Florence during the 14th century known as the Renaissance, the modern world saw a departure from what it had once known. It turned from God and the authority of the Roman Catholic Church and instead favoured a more humanistic approach to being. Renaissance ideas had spread throughout Europe well into the 17th century, with the arts and sciences flourishing extraordinarily among those with a more logical disposition. (46)with the Church's teachings and ways of thinking eclipsed by the Renaissance, the gap between the Medieval and modern periods had been bridged leading to new and unexplored intellectual territories.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2020:translation:passage:p-section2-part-c-2:234",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 2 段",
+      "anchor": "p-section2-part-c-2",
+      "text": "During the Renaissance, the great minds of Nicolaus Copernicus, Johannes Kepler and Galileo Galilei demonstrated the power of scientific study and discovery. (47)Before each of their revelations, many thinkers at the time had sustained more ancient ways of thinking, including the geocentric view that the Earth was at the centre of our universe. Copernicus theorized in 1543 that all of the planets that we knew of revolved not around the Earth, but the Sun, a system that was later upheld by Galileo at his own expense. Offering up such a theory during a time of high tension between scientific and religious minds was branded as heresy and any such heretics that continued to spread these lies were to be punished by imprisonment or even death.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2020:translation:passage:p-section2-part-c-3:235",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 3 段",
+      "anchor": "p-section2-part-c-3",
+      "text": "(48)Despite attempts by the Church to suppress this new generation of logicians and rationalists, more explanations for how the universe functioned were being made at a rate that the people could no longer ignore. It was with these great revelations that a new kind of philosophy founded in reason was born.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2020:translation:passage:p-section2-part-c-4:236",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 4 段",
+      "anchor": "p-section2-part-c-4",
+      "text": "The Church's long-standing dogma was losing the great battle for truth to rationalists and scientists. This very fact embodied the new ways of thinking that swept through Europe during most of the 17th century. (49)As many took on the duty of trying to integrate reasoning and scientific philosophies into the world, the Renaissance was over and it was time for a new era—the Age of Reason.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2020:translation:passage:p-section2-part-c-5:237",
+      "section": "translation",
+      "kind": "passage",
+      "location": "第 5 段",
+      "anchor": "p-section2-part-c-5",
+      "text": "The 17th and 18th centuries were times of radical change and curiosity. Scientific method, reductionism and the questioning of Church ideals was to be encouraged, as were ideas of liberty, tolerance and progress. (50)Such actions to seek knowledge and to understand what information we already knew were captured by the Latin phrase 'sapere aude' or 'dare to know', after Immanuel Kant used it in his essay \"An Answer to the Question: What is Enlightenment?\" It was the purpose and responsibility of great minds to go forth and seek out the truth, which they believed to be founded in knowledge.",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2020:writing_a:writing:directions-section3-part-a:238",
+      "section": "writing_a",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-a",
+      "text": "51.Directions: The Students Union of your university has assigned you to inform the international students about an upcoming singing contest. White a notice in about 100 words. Write your answer on the ANSWER SHEET. Do not use your own name in the notice. (10 points)",
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "id": "2020:writing_b:writing:directions-section3-part-b:239",
+      "section": "writing_b",
+      "kind": "writing",
+      "location": "题目说明",
+      "anchor": "directions-section3-part-b",
+      "text": "52.Directions: Write an essay of 160-200 words based on the picture below. In your essay, you should 1)describe the picture briefly, 2)interpret the implied meaning, and 3)give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "pdf_pages": [
+        12
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "section": "writing_b",
+      "url": "https://img-paper.lazynote.cn/2025/08/08/NuTgLIrx.jpg",
+      "source_description": "这是一幅标题为“习惯”的漫画，由左右两个部分组成",
+      "description_is_exam_text": false,
+      "path": "images/exam_bank/2020-figure-1.jpg",
+      "sha256": "b8258279a4341ccb6194eb399477af8222b6a9e0f49477af39ce07b27ed4033d"
+    }
+  ],
+  "quality_note": "第三方整理版。已检查9个题型模块、完形20题选项、阅读20题题干选项及PDF可读性；未逐字人工校对。来源PDF缺作文配图，配图已单独保存并补入本地整卷页。新题型不重排、不填答案。原句自动切分，入生词库前结合原段核对。"
+}
