@@ -16,7 +16,30 @@ from exam_bank import build_browser_data
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data" / "vocabulary.json"
+ADDITIONS = ROOT / "data" / "vocabulary_additions.json"
 OUT = ROOT / "output"
+
+
+def load_vocabulary() -> dict:
+    """主词库保持只读；本机应用工作台新增的词在 vocabulary_additions.json，这里合并。
+
+    这样历史条目、学习进度和原有校验都不会被工作台改写，
+    删除 additions 文件即可回到原状。
+    """
+    data = json.loads(DATA.read_text(encoding="utf-8"))
+    if not ADDITIONS.exists():
+        return data
+    additions = json.loads(ADDITIONS.read_text(encoding="utf-8"))
+    existing = {entry["id"] for entry in data["entries"]}
+    merged = [entry for entry in additions.get("entries", []) if entry.get("id") not in existing]
+    if not merged:
+        return data
+    photos = {image["filename"] for image in data["source_images"]}
+    data["entries"] = [*data["entries"], *merged]
+    data["source_images"] = [*data["source_images"],
+                             *[image for image in additions.get("source_images", [])
+                               if image.get("filename") not in photos]]
+    return data
 
 
 def escape(value: object) -> str:
@@ -57,8 +80,10 @@ def build_index(data: dict) -> tuple[dict, dict]:
 def validate(data: dict) -> None:
     ids: set[str] = set()
     images = {source["filename"] for source in data["source_images"]}
-    required = ("id", "section_id", "section_title", "photo", "lemma", "form",
-                "ipa", "common", "meaning", "short_meaning", "location", "example", "translation", "forms")
+    # 只有页面渲染必须用到的字段是硬性要求；photo 与释义/翻译允许留空，
+    # 本机应用工作台新增的词可以先入库、之后再补（页面对空字段跳过不显示）。
+    required = ("id", "section_id", "section_title", "lemma", "form",
+                "ipa", "short_meaning", "location", "example", "forms")
     for entry in data["entries"]:
         if any(not entry.get(key) for key in required):
             raise ValueError(f"词条字段缺失：{entry.get('id')}")
@@ -67,7 +92,7 @@ def validate(data: dict) -> None:
         if entry.get("year") is None and not entry.get("source_group"):
             raise ValueError(f"年份未知时须填写来源分组：{entry['id']}")
         ids.add(entry["id"])
-        if entry["photo"] not in images:
+        if entry.get("photo") and entry["photo"] not in images:
             raise ValueError(f"来源照片未登记：{entry['id']}")
         if not pattern(entry["forms"]).search(entry["example"]):
             raise ValueError(f"例句不含对应词形：{entry['id']}")
@@ -173,6 +198,8 @@ AUDIO_CONTROLS = """<div class="audio-toolbar" aria-label="美音朗读设置">
 CSS = """
 *{box-sizing:border-box}body{margin:0;background:#fff;color:#243341;font:14px/1.5 'Microsoft YaHei','Segoe UI',sans-serif}main{max-width:1460px;margin:auto;padding:18px 24px}h1{font-size:22px;margin:0}header{border-bottom:2px solid #216458;padding-bottom:10px;display:flex;flex-wrap:wrap;align-items:center;gap:12px 24px}nav{display:flex;flex-wrap:wrap;gap:16px}a{color:#216458;text-underline-offset:3px}.intro,.note{color:#63736d;font-size:12px}.toolbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;padding:8px 0;background:white}.toolbar input[type=search]{min-width:220px;flex:1}.toolbar input,.toolbar select{font:inherit;padding:6px 8px;border:1px solid #c5d4ca;border-radius:5px}h2{font-size:16px;background:#f0f5f1;border-left:3px solid #216458;padding:6px 9px;margin:16px 0 0;color:#215b4e}.entry{padding:7px 8px;border-bottom:1px solid #e4e9e5;break-inside:avoid}.definition{display:flex;flex-wrap:wrap;gap:4px 12px;align-items:baseline}.word{font-size:15px}.num{color:#89978d;font-size:11px;min-width:22px}.ipa{font-family:'Segoe UI',Arial,sans-serif;color:#60706a;font-size:13px}.meaning{color:#215b4e}.repeat{font-size:11px;background:#fff1cb;color:#80540b;padding:1px 6px;border-radius:4px;text-decoration:none}.sentence{font:13px/1.5 'Segoe UI',Arial,sans-serif;overflow-wrap:anywhere}.entry details{margin:3px 0 0 34px}summary{cursor:pointer;list-style:none}summary::-webkit-details-marker{display:none}summary:hover{color:#216458}summary:focus-visible{outline:2px solid #216458}summary .kind{font-size:10px;color:#7d8e82;margin-left:12px}summary .kind:after{content:' ＋'}details[open] .kind:after{content:' −'}mark{background:#e8f2e8;color:#154f3f;font-weight:700;padding:0 2px}.full{margin:8px 0 4px;padding:9px 13px;border-left:2px solid #b8d1bf;background:#f6f8f5;font-size:13px}.full p{margin:5px 0;overflow-wrap:anywhere}.full .sentence{font-size:15px}.detail-view .entry{padding:16px;margin:12px 0;border:1px solid #dce6dc;border-radius:8px}.detail-view .full{margin-left:0}.hit{margin:8px 0;padding:8px 12px;border-left:2px solid #d4dfd4;background:#f7f9f6}.hit p{margin:5px 0;overflow-wrap:anywhere}.hit .where{font-size:12px;color:#63736d}footer{margin-top:24px;font-size:12px;color:#718076}#empty{padding:25px;color:#64756a}[hidden]{display:none!important}.jump-list{line-height:2.2;display:flex;flex-wrap:wrap;gap:2px 14px}
 .speak{font-family:inherit;line-height:1.4;font-size:11px;cursor:pointer;border:1px solid #c4d8cd;color:#216458;background:#f5faf6;border-radius:4px;padding:1px 5px;margin:0 5px;white-space:nowrap;vertical-align:baseline}.speak:hover,.speak.playing{background:#d8eddd}.speak:focus-visible{outline:2px solid #216458}.audio-toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;padding:7px 9px;margin:8px 0;border:1px solid #dce6dc;border-radius:5px;font-size:12px}.audio-toolbar select,.audio-toolbar button{font:inherit;padding:3px 6px}.audio-toolbar #audio-status{color:#53695d}.audio-toolbar #audio-status.error{color:#a43228}.audio-toolbar button{cursor:pointer}.entry summary .speak{float:right}
+.source-link{font-size:11px;background:#eef4f7;color:#2a5aa8;padding:1px 6px;border-radius:4px;text-decoration:none;border:1px solid #d3e0ea}
+.source-link:hover{background:#e2edf5}
 @media(max-width:640px){main{padding:12px 10px}h1{font-size:18px}.definition{gap:3px 9px}.meaning{width:100%;padding-left:31px}.entry{padding:7px 3px}.entry details{margin-left:31px}.toolbar{gap:7px}.toolbar select{max-width:100%}.repeat{margin-left:31px}.full .meaning{padding-left:0}}
 @media print{@page{margin:10mm}main{padding:0}nav,.toolbar,.intro,footer,.audio-toolbar,.speak{display:none}header{padding-bottom:5px}h1{font-size:16px}h2{font-size:13px;break-after:avoid}.entry{padding:5px 3px}.word{font-size:12px}.ipa,.meaning,.sentence{font-size:10px}.repeat{border:1px solid #d2b86d}.full{font-size:10px}.full .sentence{font-size:11px}}
 """
@@ -192,9 +219,10 @@ if(query){[query,year,repeat].forEach(control=>control.addEventListener('input',
 def document(title: str, body: str, index: dict, detailed: bool = False) -> str:
     cross = sum(info["passages"] > 1 for info in index.values())
     bank_link = '<a href="真题检索.html">真题检索</a>' if (ROOT / 'data' / 'exam_bank' / 'manifest.json').exists() else ''
+    app_link = '<a href="../webapp/app.html" title="上传试卷、识别圈画生词、摘录外刊">上传整理</a>' if (ROOT / 'webapp' / 'app.html').exists() else ''
     return f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{escape(title)}</title><style>{CSS}</style><link rel="stylesheet" href="study.css"></head>
-<body><div id="save-warning" role="alert" hidden></div><main class="{'detail-view' if detailed else 'compact-view'}"><header><h1>{escape(title)}</h1><nav><a href="index.html">简短总复习</a><a href="全部生词_完整版.html">完整版</a><a href="复现词汇.html">复现词汇</a><a href="背词练习.html">背词练习</a>{bank_link}<a href="查词与收词.html">查词与收词</a><a href="2017英语一_阅读生词本_简短版.html">2017原版</a></nav></header>
-<p class="intro">原始词库 {len(index)} 个词／搭配（个人收词另列于下方） · {cross} 个跨篇复现词。复现范围为已保存并核对的语境，不是试卷全文词频；不同语境均保留。原有音标保留原标注；个人查词音标以词典来源为准。</p>{AUDIO_CONTROLS}{body}<footer>原图与词库保存在项目内。复现按原形与明确词形变化匹配，派生词不自动合并。历史2017页面保持原样。</footer></main><script src="study-data.js"></script><script src="personal-core.js"></script><script src="study-core.js"></script><script src="progress.js"></script><script src="personal-library.js"></script><script src="speech.js"></script><script src="study-ui.js"></script><script src="personal-review.js"></script><script src="review-pages.js"></script><script src="practice.js"></script></body></html>'''
+<body><div id="save-warning" role="alert" hidden></div><main class="{'detail-view' if detailed else 'compact-view'}"><header><h1>{escape(title)}</h1><nav><a href="index.html">简短总复习</a><a href="全部生词_完整版.html">完整版</a><a href="复现词汇.html">复现词汇</a><a href="背词练习.html">背词练习</a>{bank_link}{app_link}<a href="查词与收词.html">查词与收词</a><a href="2017英语一_阅读生词本_简短版.html">2017原版</a></nav></header>
+<p class="intro">原始词库 {len(index)} 个词／搭配（个人收词另列于下方） · {cross} 个跨篇复现词。复现范围为已保存并核对的语境，不是试卷全文词频；不同语境均保留。原有音标保留原标注；个人查词音标以词典来源为准。</p>{AUDIO_CONTROLS}{body}<footer>原图与词库保存在项目内。复现按原形与明确词形变化匹配，派生词不自动合并。历史2017页面保持原样。</footer></main><script src="study-data.js"></script><script src="personal-cards.js"></script><script src="personal-core.js"></script><script src="study-core.js"></script><script src="progress.js"></script><script src="personal-library.js"></script><script src="speech.js"></script><script src="study-ui.js"></script><script src="personal-review.js"></script><script src="review-pages.js"></script><script src="practice.js"></script></body></html>'''
 
 
 def source_link(context: dict) -> str:
@@ -226,8 +254,26 @@ def render_entries(data: dict, index: dict, detailed: bool) -> str:
             repeated = "yes" if len(info["hits"]) > 1 else "no"
             body.append(f'<article class="entry" id="{escape(entry["id"])}" data-year="{escape(source_group(entry))}" data-study-id="{escape(STUDY["entryUnits"].get(entry["id"],""))}" data-section="{escape(sid)}" data-repeated="{repeated}" data-search="{escape(search)}">')
             display = entry.get("display", entry["lemma"])
-            body.append(f'<div class="definition"><span class="num">{number:03}</span><strong class="word" title="原文词形：{escape(entry["form"])}">{escape(display)}</strong>{mastery_tag(STUDY["entryUnits"].get(entry["id"],""))}{audio_button(entry.get("speech_word", display), "单词")}<span class="ipa">{escape(entry["ipa"])}</span><span class="meaning">{escape(entry["short_meaning"])}</span>{badge(lemma,info)}</div>')
-            full = f'<div class="full"><p class="note">{escape(entry["location"])} · 原文词形：{escape(entry["form"])} · {source_link(entry)}</p><p>常见词义：{escape(entry["common"])}</p><p>此处含义：{escape(entry["meaning"])}</p><p class="sentence" lang="en">{highlighted(entry["example"],matcher)}{audio_button(entry["example"], "例句")}</p><p>{escape(entry["translation"])}</p>'
+            link = entry.get("link") or ""
+            link_html = (f'<a class="source-link" href="{escape(link)}" target="_blank" rel="noopener">回原文</a>'
+                         if link else "")
+            body.append(f'<div class="definition"><span class="num">{number:03}</span><strong class="word" title="原文词形：{escape(entry["form"])}">{escape(display)}</strong>{mastery_tag(STUDY["entryUnits"].get(entry["id"],""))}{audio_button(entry.get("speech_word", display), "单词")}<span class="ipa">{escape(entry["ipa"])}</span><span class="meaning">{escape(entry["short_meaning"])}</span>{link_html}{badge(lemma,info)}</div>')
+            origin = entry.get("source_name") or ""
+            link = entry.get("link") or ""
+            link_html = (f'<a class="source-link" href="{escape(link)}" target="_blank" rel="noopener">回原文</a>'
+                         if link else "")
+            full = (f'<div class="full"><p class="note">{escape(entry["location"])}'
+                    f'{" · 来源：" + escape(origin) if origin else ""}'
+                    f' · 原文词形：{escape(entry["form"])} · {source_link(entry)}'
+                    f'{" · " + link_html if link_html else ""}</p>')
+            if entry.get("common"):
+                full += f'<p>常见词义：{escape(entry["common"])}</p>'
+            if entry.get("meaning"):
+                full += f'<p>此处含义：{escape(entry["meaning"])}</p>'
+            full += (f'<p class="sentence" lang="en">{highlighted(entry["example"],matcher)}'
+                     f'{audio_button(entry["example"], "例句")}</p>')
+            if entry.get("translation"):
+                full += f'<p>{escape(entry["translation"])}</p>'
             if entry.get("note"):
                 full += f'<p class="note">{escape(entry["note"])}</p>'
             full += "</div>"
@@ -260,9 +306,14 @@ def render_repeats(index: dict) -> str:
 
 def main() -> None:
     global STUDY
+    if sys.version_info < (3, 10):
+        raise SystemExit("生成页面需要 Python 3.10 或更高版本；当前为 "
+                         f"{sys.version_info.major}.{sys.version_info.minor}。"
+                         "macOS 上请用 Homebrew 的 python3（例如 /opt/homebrew/bin/python3）。")
     AUDIO_TEXTS.clear()
-    data = json.loads(DATA.read_text(encoding="utf-8"))
+    data = load_vocabulary()
     validate(data)
+    additions = json.loads(ADDITIONS.read_text(encoding="utf-8")) if ADDITIONS.exists() else {}
     index, contexts = build_index(data)
     config = json.loads((ROOT / "data" / "study_config.json").read_text(encoding="utf-8"))
     STUDY = build_study(data, config, audio_url)
@@ -272,6 +323,11 @@ def main() -> None:
     (OUT / "复现词汇.html").write_text(document("考研英语 · 复现词汇",render_repeats(index),index),encoding="utf-8")
     (OUT / "背词练习.html").write_text(document("考研英语 · 背词练习", PRACTICE_BODY, index), encoding="utf-8")
     (OUT / "study-data.js").write_text("window.VOCAB_STUDY = " + json.dumps(STUDY, ensure_ascii=False) + ";\n", encoding="utf-8")
+    # 工作台收集的词同时以个人词库卡片的形式发布，页面启动时并入个人词库
+    cards = additions.get("personal_cards", [])
+    (OUT / "personal-cards.js").write_text(
+        "window.VOCAB_PERSONAL_CARDS = " + json.dumps(cards, ensure_ascii=False).replace("</", "<\\/") + ";\n",
+        encoding="utf-8")
     summary = {"records":len(data["entries"]),"unique_lemmas":len(index),"study_units":len(STUDY["units"]),"saved_contexts":len(contexts),
                "cross_passage_words":{word:info["passages"] for word,info in index.items() if info["passages"]>1},
                "same_passage_repeats":{word:len(info["hits"]) for word,info in index.items() if info["passages"]==1 and len(info["hits"])>1},

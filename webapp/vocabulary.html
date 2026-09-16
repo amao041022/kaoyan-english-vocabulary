@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#17594a">
+<title>生词本 · 考研英语</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="topbar"></header>
+
+<main class="page">
+  <div class="page-head">
+    <p class="eyebrow">全部记录</p>
+    <h1>我的生词本</h1>
+    <p>每条记录都保留原文语境与来源；掌握程度由背词练习累积，同词不同义分别记录。</p>
+  </div>
+
+  <section class="card">
+    <div class="row">
+      <input type="search" id="query" placeholder="搜索单词、词义或来源" style="flex:1;min-width:200px">
+      <select id="group"><option value="">全部材料</option></select>
+      <select id="category">
+        <option value="">全部来源</option>
+        <option value="exam">真题试卷</option>
+        <option value="news">外刊文章</option>
+        <option value="book">书籍</option>
+        <option value="other">其他材料</option>
+      </select>
+      <select id="mastery">
+        <option value="">全部掌握程度</option>
+        <option value="new">未学</option>
+        <option value="unknown">不认识</option>
+        <option value="fuzzy">模糊</option>
+        <option value="familiar">熟悉</option>
+      </select>
+      <label class="inline"><input type="checkbox" id="hide-meaning"> 隐藏词义自测</label>
+      <span class="small muted" id="count"></span>
+    </div>
+    <p class="small muted" style="margin:10px 0 0">
+      自测模式下点击词义区域揭示答案。掌握程度点击可查看记录或向下调整。
+    </p>
+  </section>
+
+  <div class="word-list" id="list" style="margin-top:16px"></div>
+</main>
+
+<nav class="tabbar" aria-label="主导航"></nav>
+<div id="toast"></div>
+<script src="../output/study-data.js"></script>
+<script src="../output/study-core.js"></script>
+<script src="../output/progress.js"></script>
+<script src="../output/study-ui.js"></script>
+<script src="common.js"></script>
+<script src="vocabulary.js"></script>
+</body>
+</html>

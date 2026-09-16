@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "title": "工作台新增生词",
+  "notes": [
+    "由 vocabulary_app 工作台写入；main.py 会把它合并进生词库生成页面。",
+    "每条记录保留来源、原句与位置；词形变化必须在原文中出现过。",
+    "personal_cards 是同一批词的个人词库卡片，页面启动时并入个人词库。"
+  ],
+  "entries": [],
+  "source_images": [],
+  "personal_cards": []
+}

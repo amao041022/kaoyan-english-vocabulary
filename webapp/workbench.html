@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#17594a">
+<title>发词工作台 · 考研英语生词本</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="topbar"></header>
+
+<main class="page">
+  <div class="page-head">
+    <p class="eyebrow">核对与归类</p>
+    <h1 id="title">发词工作台</h1>
+    <p id="subtitle">识别结果需要你确认：只有勾选的词才会写进生词本。</p>
+  </div>
+
+  <div id="messages"></div>
+
+  <section class="card" id="summary-card" hidden>
+    <div class="card-head">
+      <h2>识别概况</h2>
+      <span class="spacer"></span>
+      <span class="chip" id="stat-candidates"></span>
+      <span class="chip ok" id="stat-known"></span>
+      <span class="chip gold" id="stat-new"></span>
+    </div>
+    <div class="row tight" style="margin-bottom:12px">
+      <label class="field"><span>来源类型</span><select id="source-category">
+        <option value="exam">真题试卷</option>
+        <option value="news">外刊文章</option>
+        <option value="book">书籍</option>
+        <option value="other">其他材料</option>
+      </select></label>
+      <label class="field" style="flex:1;min-width:170px"><span>来源名称</span>
+        <input type="text" id="source-name" placeholder="纽约时报 / Sapiens / 练习册 Unit 3"></label>
+      <label class="field" style="flex:1.4;min-width:190px"><span>原文链接</span>
+        <input type="url" id="source-link" placeholder="https://..."></label>
+      <label class="field"><span>位置说明</span>
+        <input type="text" id="source-location" placeholder="第 3 段 / 第 42 页"></label>
+      <button class="tiny" type="button" id="reanalyze">按来源重新整理</button>
+    </div>
+    <p class="small muted" id="source-hint" style="margin:-4px 0 12px"></p>
+    <div class="grid cols-2">
+      <div>
+        <div class="row tight" style="margin-bottom:10px">
+          <label class="field"><span>年份</span><select id="year"></select></label>
+          <label class="field"><span>题型</span><select id="section">
+            <option value="">未指定</option>
+            <option value="cloze">完形填空</option>
+            <option value="text1">阅读 Text 1</option>
+            <option value="text2">阅读 Text 2</option>
+            <option value="text3">阅读 Text 3</option>
+            <option value="text4">阅读 Text 4</option>
+            <option value="new_type">新题型</option>
+            <option value="translation">翻译</option>
+            <option value="writing_a">小作文</option>
+            <option value="writing_b">大作文</option>
+          </select></label>
+        </div>
+        <p class="small muted" id="resolution-note"></p>
+        <div class="row tight">
+          <label class="inline"><input type="checkbox" id="only-marked" checked> 只看有圈画证据的词</label>
+          <label class="inline"><input type="checkbox" id="hide-known" checked> 隐藏已在生词本的词</label>
+        </div>
+        <div class="row tight" style="margin-top:12px">
+          <button class="tiny" id="select-all">全选可加入的词</button>
+          <button class="tiny" id="select-none">全不选</button>
+          <button class="tiny" id="select-recommended">只选推荐词</button>
+        </div>
+      </div>
+      <div>
+        <div class="reader-scroll" id="preview" style="border:1px solid var(--line)"></div>
+        <p class="small muted" style="margin-top:7px">黄框是识别出的圈画位置，点击可跳到对应词条。</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="candidate-area">
+    <div class="row" style="margin:18px 0 10px">
+      <h2 id="list-title">候选生词</h2>
+      <span class="spacer"></span>
+      <span class="small muted" id="selected-count">已选 0 个</span>
+    </div>
+    <div class="word-list" id="candidates"></div>
+  </section>
+
+  <div class="card" id="paste-card" hidden>
+    <div class="card-head"><h2>粘贴材料整理</h2></div>
+    <textarea id="paste-text" rows="10" placeholder="粘贴真题段落、练习册句子或自己的生词表…"></textarea>
+    <div class="row" style="margin-top:12px">
+      <label class="field"><span>材料名称</span><input type="text" id="paste-name" placeholder="如：练习册 Unit 3"></label>
+      <button class="primary" id="paste-analyze">分析这段文字</button>
+    </div>
+  </div>
+
+  <div class="sticky-actions" id="save-bar" hidden>
+    <div class="row">
+      <button class="primary" id="save">保存所选词到生词本</button>
+      <button id="rebuild">生成复习页面</button>
+      <span class="spacer"></span>
+      <span class="small muted" id="save-hint">保存后可在生词本与背词练习中看到这些词。</span>
+    </div>
+  </div>
+</main>
+
+<nav class="tabbar" aria-label="主导航"></nav>
+<div id="toast"></div>
+<script src="common.js"></script>
+<script src="workbench.js"></script>
+</body>
+</html>

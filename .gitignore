@@ -1,3 +1,4 @@
+# 备份与临时目录
 .backups/
 backups/
 分享包/
@@ -7,3 +8,18 @@ __pycache__/
 .env
 .env.*
 生词学习进度_*.json
+
+# 本机应用：上传材料与识别中间图（属于个人资料，体积大）
+data/uploads/inbox/*
+data/uploads/*/
+data/uploads/*.json
+!data/uploads/inbox/.gitkeep
+
+# 离线词典查询库：由 data/dictionary 分片生成（vocabulary_app/build_dict.py）
+data/dict/
+
+# 识别引擎编译产物：swiftc -O vocabulary_app/engine/VisionEngine.swift
+# 说明：仓库里保留了预编译的 vision_engine（macOS 免装 Xcode）；如需自行编译：
+# swiftc -O vocabulary_app/engine/VisionEngine.swift -o vocabulary_app/engine/vision_engine
+
+.DS_Store

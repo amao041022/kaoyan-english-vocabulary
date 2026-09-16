@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#17594a">
+<title>原文定位 · 考研英语生词本</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="topbar"></header>
+
+<main class="page">
+  <div class="page-head">
+    <p class="eyebrow">查词与定位</p>
+    <h1>原文定位</h1>
+    <p>在本地 20 套真题里查一个词，看它出现在哪一句、哪一段。
+      <b>只有已经录入你生词本的词才显示释义</b>；其他词一律只给原文位置，避免把试卷里的普通词当成生词。</p>
+  </div>
+
+  <section class="card">
+    <form id="form" class="row">
+      <label class="field" style="flex:1;min-width:200px"><span>单词或短语</span>
+        <input type="search" id="word" placeholder="如 eligible / take off" autocomplete="off" required maxlength="60"></label>
+      <label class="field"><span>年份</span><select id="year"><option value="">全部年份</option></select></label>
+      <label class="field"><span>题型</span><select id="section">
+        <option value="">全部题型</option>
+        <option value="cloze">完形填空</option>
+        <option value="text1">阅读 Text 1</option>
+        <option value="text2">阅读 Text 2</option>
+        <option value="text3">阅读 Text 3</option>
+        <option value="text4">阅读 Text 4</option>
+        <option value="new_type">新题型</option>
+        <option value="translation">翻译</option>
+        <option value="writing_a">小作文</option>
+        <option value="writing_b">大作文</option>
+      </select></label>
+      <button class="primary" type="submit">查原文</button>
+    </form>
+    <p class="small muted" style="margin:10px 0 0" id="tip">
+      提示：点击结果里的任意英文单词也可以继续查；未录入生词本时只会显示位置。
+    </p>
+  </section>
+
+  <section id="result" style="margin-top:16px"></section>
+</main>
+
+<nav class="tabbar" aria-label="主导航"></nav>
+<div id="toast"></div>
+<script src="common.js"></script>
+<script src="reader.js"></script>
+</body>
+</html>

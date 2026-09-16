@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#17594a">
+<title>考研英语生词本</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="topbar"></header>
+
+<main class="page">
+  <div class="page-head">
+    <p class="eyebrow">本机应用 · 离线识别与查词</p>
+    <h1>试卷、外刊、书本，摘录即成生词本</h1>
+    <p>试题卷会自动识别被圈、被划线的词并回到真题库定位原句；
+       读外刊或看书时，上传截图或粘贴段落，同样能带着原文、出处与链接收进生词本。</p>
+  </div>
+
+  <section class="grid cols-2">
+    <div class="card">
+      <div class="card-head"><h2>① 上传真题试卷</h2><span class="chip" id="engine-chip">检测中…</span></div>
+      <label class="drop" id="drop">
+        <strong>拍照或选择文件</strong>
+        <p>支持 JPG / PNG / HEIC / PDF；手机可直接调用相机拍摄</p>
+        <input type="file" id="file" accept="image/*,application/pdf,.heic,.txt">
+      </label>
+      <div id="upload-preview" class="row tight" style="margin-top:12px"></div>
+      <div class="row" style="margin-top:14px">
+        <label class="field"><span>年份（可自动识别）</span>
+          <select id="year"><option value="">自动判断</option></select></label>
+        <label class="field"><span>题型</span>
+          <select id="section">
+            <option value="">自动判断</option>
+            <option value="cloze">完形填空</option>
+            <option value="text1">阅读 Text 1</option>
+            <option value="text2">阅读 Text 2</option>
+            <option value="text3">阅读 Text 3</option>
+            <option value="text4">阅读 Text 4</option>
+            <option value="new_type">新题型</option>
+            <option value="translation">翻译</option>
+            <option value="writing_a">小作文</option>
+            <option value="writing_b">大作文</option>
+          </select></label>
+        <button class="primary" id="start" disabled>开始识别</button>
+      </div>
+      <div id="task" hidden style="margin-top:14px">
+        <div class="progress"><span style="width:5%"></span></div>
+        <p class="small muted" id="task-message" style="margin:7px 0 0">准备中…</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-head"><h2>② 阅读材料（外刊 / 书 / 练习册）</h2></div>
+      <p class="small muted">纽约时报、经济学人、原版书、练习册都走这里：
+        截图上传或直接粘贴段落，填上来源与链接，词条就会带着原文和出处进生词本。</p>
+      <div class="row tight" id="scene-chips">
+        <span class="small muted">常用来源：</span>
+        <button class="tiny" type="button" data-scene="news|纽约时报">纽约时报</button>
+        <button class="tiny" type="button" data-scene="news|经济学人">经济学人</button>
+        <button class="tiny" type="button" data-scene="news|The Guardian">The Guardian</button>
+        <button class="tiny" type="button" data-scene="book|">书籍</button>
+        <button class="tiny" type="button" data-scene="other|练习册">练习册</button>
+      </div>
+      <textarea id="paste" rows="8" placeholder="把要记的段落粘进来，例如：
+The report paints a stark picture of a labour market that has become increasingly polarised, with well-paid jobs at one end and precarious work at the other."></textarea>
+      <div class="row" style="margin-top:12px">
+        <label class="field"><span>来源类型</span>
+          <select id="paste-category">
+            <option value="other">其他材料</option>
+            <option value="news">外刊文章</option>
+            <option value="book">书籍</option>
+            <option value="exam">真题试卷</option>
+          </select></label>
+        <label class="field" style="flex:1;min-width:150px"><span>来源名称</span>
+          <input type="text" id="paste-name" placeholder="如：纽约时报 / Sapiens / 练习册 Unit 3"></label>
+        <label class="field" style="flex:1;min-width:150px"><span>原文链接（可留空）</span>
+          <input type="url" id="paste-link" placeholder="https://www.nytimes.com/..."></label>
+      </div>
+      <div class="row" style="margin-top:12px">
+        <label class="field"><span>位置说明（可留空）</span>
+          <input type="text" id="paste-location" placeholder="如：第 3 段 / 第 42 页"></label>
+        <button class="primary" id="paste-go">整理这段文字</button>
+      </div>
+      <details style="margin-top:14px">
+        <summary class="small">用浏览器小书签一键摘录（推荐给经常读外刊的人）</summary>
+        <p class="small muted" style="margin:8px 0">把下面这个按钮拖到浏览器书签栏。
+          以后在文章里选中要记的句子，点它就会把选中文字和当前网址送到本应用，自动进入整理流程。</p>
+        <p><a class="button" id="bookmarklet" href="#" draggable="true">📎 摘录到生词本</a></p>
+        <p class="small muted">Chrome 首次会询问剪贴板权限，选择“允许”即可；也可以手动粘贴。</p>
+      </details>
+    </div>
+  </section>
+
+  <section class="card" style="margin-top:16px">
+    <div class="card-head">
+      <h2>最近的材料</h2>
+      <span class="spacer"></span>
+      <a class="button tiny" href="workbench.html">打开发词工作台</a>
+    </div>
+    <div id="recent" class="word-list"></div>
+  </section>
+
+  <section class="grid cols-3" style="margin-top:16px">
+    <div class="card">
+      <h3>生词本</h3>
+      <p class="small muted" id="lib-summary">统计中…</p>
+      <a class="button tiny" href="vocabulary.html">查看全部生词</a>
+    </div>
+    <div class="card">
+      <h3>原文定位</h3>
+      <p class="small muted">在本地 20 套真题里按词定位原句，只有已录入生词才显示释义。</p>
+      <a class="button tiny" href="reader.html">去查原文</a>
+    </div>
+    <div class="card">
+      <h3>背词练习</h3>
+      <p class="small muted">中英双向选择题、原句提示与复习间隔管理。</p>
+      <a class="button tiny" href="practice.html">开始复习</a>
+    </div>
+  </section>
+
+  <p class="small muted" style="margin-top:18px">
+    识别与查词都在本机完成，材料不会上传到任何服务器。离线词典
+    <span id="dict-state">检测中…</span>。
+  </p>
+</main>
+
+<nav class="tabbar" aria-label="主导航"></nav>
+<div id="toast"></div>
+<script src="common.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
